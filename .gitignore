@@ -1,0 +1,25 @@
+# Internal working docs — not for public release
+devnotes.md
+todo.md
+lessons_learned.md
+ai_readme.md
+docs/session_logs/
+docs/work_log/
+research/funding_landscape_2026-08-31.md
+research/translation_models/
+
+# Local tooling / IDE
+.claude/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <language>ger</language>
+  <scanningcenter>durham</scanningcenter>
+  <sponsor>Duke University Libraries</sponsor>
+  <contributor>Duke University Libraries</contributor>
+  <date>1787</date>
+  <subject>Weishaupt, Adam, 1747-1830</subject>
+  <subject>Illuminatenorden</subject>
+  <subject>Illuminati</subject>
+  <title>Nachtrag von weiteren Originalschriften, welche die Illuminatensekte überhaupt, sonderbar aber den Stifter derselben Adam Weishaupt ... betreffen, und bey der auf dem Baron Bassusischen Schloss zu Sandersdorf, einem bekannten Illuminaten-Neste, vorgenommenen Visitation entdeckt, sofort auf Churfürstlich höchsten Befehl gedruckt ... zwo Abtheilungen</title>
+  <creator>Duke University. Library. Jantz Collection. Baroque literature</creator>
+  <collection>duljantz</collection>
+  <collection>duke_libraries</collection>
+  <collection>americana</collection>
+  <shiptracking>ST002697</shiptracking>
+  <call_number>Jantz #1263</call_number>
+  <volume>T.1+2 c.1</volume>
+  <barcode>D99051326Z</barcode>
+  <publisher>München : Zu haben bey Joseph Lentner</publisher>
+  <description>Continuation of: Einige Originalschriften des Illuminatenordens ... 1787</description>
+  <mediatype>texts</mediatype>
+  <repub_state>4</repub_state>
+  <page-progression>lr</page-progression>
+  <publicdate>2014-11-07 18:48:57</publicdate>
+  <updatedate>2014-11-07 19:52:28</updatedate>
+  <updater>associate-atlas-mclamb@archive.org</updater>
+  <identifier>nachtragvonweite121duke_0</identifier>
+  <uploader>associate-atlas-mclamb@archive.org</uploader>
+  <addeddate>2014-11-07 19:52:31.049856</addeddate>
+  <scanner>scribe1.durham.archive.org</scanner>
+  <notes>No copyright page found. No table-of-contents pages found.</notes>
+  <foldout_seconds>1730</foldout_seconds>
+  <ppi>500</ppi>
+  <camera>Canon EOS 5D Mark II</camera>
+  <operator>associate-atlas-mclamb@archive.org</operator>
+  <scandate>20150123154735</scandate>
+  <foldout-operator>associate-atlas-mclamb@archive.org</foldout-operator>
+  <republisher>associate-atlas-mclamb@archive.org</republisher>
+  <imagecount>438</imagecount>
+  <foldoutcount>1</foldoutcount>
+  <identifier-access>http://archive.org/details/nachtragvonweite121duke_0</identifier-access>
+  <identifier-ark>ark:/13960/t2k67t769</identifier-ark>
+  <bookplateleaf>0008</bookplateleaf>
+  <scanfee>100</scanfee>
+  <invoice>41</invoice>
+  <sponsordate>20150331</sponsordate>
+  <backup_location>ia905906_15</backup_location>
+  <external-identifier>urn:oclc:record:1049879785</external-identifier>
+  <openlibrary_edition>OL33193552M</openlibrary_edition>
+  <openlibrary_work>OL24969977W</openlibrary_work>
+  <oclc-id>25268617</oclc-id>
+  <associated-names>Duke University. Library. Jantz Collection. Baroque literature</associated-names>
+  <republisher_operator>associate-atlas-mclamb@archive.org</republisher_operator>
+  <republisher_date>20150123183712</republisher_date>
+  <ocr>tesseract 5.3.0-6-g76ae</ocr>
+  <ocr_parameters>-l deu+Fraktur</ocr_parameters>
+  <ocr_module_version>0.0.21</ocr_module_version>
+  <ocr_detected_script>Fraktur</ocr_detected_script>
+  <ocr_detected_script_conf>0.9753</ocr_detected_script_conf>
+  <ocr_detected_lang>de</ocr_detected_lang>
+  <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+  <page_number_confidence>91</page_number_confidence>
+  <page_number_module_version>1.0.3</page_number_module_version>
+  <pdf_module_version>0.0.23</pdf_module_version>
+</metadata>

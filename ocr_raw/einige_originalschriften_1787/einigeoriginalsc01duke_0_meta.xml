@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <language>ger</language>
+  <scanningcenter>durham</scanningcenter>
+  <sponsor>Duke University Libraries</sponsor>
+  <contributor>Duke University Libraries</contributor>
+  <date>1787</date>
+  <subject>Illuminatenorden</subject>
+  <title>Einige Originalschriften des Illuminatenordens, welche bey dem gewesenen Regierungsrath Zwack durch vorgenommene Hausvisitation zu Landshut den 11. und 12. Oktob. &amp;C. 1786 vorgefunden worden : auf höchsten Befehl Seiner Churfürstlichen Durchleucht zum druck befördert</title>
+  <creator>Duke University. Library. Jantz Collection. German Baroque Literature</creator>
+  <collection>duljantz</collection>
+  <collection>duke_libraries</collection>
+  <collection>americana</collection>
+  <shiptracking>ST002697</shiptracking>
+  <call_number>Jantz #1258</call_number>
+  <volume>c.1</volume>
+  <barcode>D99051319.</barcode>
+  <publisher>München : Gedruckt bey Anton Franz, Churfl. Hofbuchdrucker, und zu haben in den drey Buchhandlungen</publisher>
+  <description>Date from preface</description>
+  <description>Signatures: pi⁴(-pi4) A-2B⁸ 2C⁴</description>
+  <mediatype>texts</mediatype>
+  <repub_state>4</repub_state>
+  <page-progression>lr</page-progression>
+  <publicdate>2014-11-07 18:48:52</publicdate>
+  <updatedate>2014-11-07 19:52:07</updatedate>
+  <updater>associate-atlas-mclamb@archive.org</updater>
+  <identifier>einigeoriginalsc01duke_0</identifier>
+  <uploader>associate-atlas-mclamb@archive.org</uploader>
+  <addeddate>2014-11-07 19:52:09.971961</addeddate>
+  <scanner>scribe1.durham.archive.org</scanner>
+  <notes>No copyright page found.</notes>
+  <foldout_seconds>505</foldout_seconds>
+  <ppi>500</ppi>
+  <camera>Canon EOS 5D Mark II</camera>
+  <operator>associate-atlas-mclamb@archive.org</operator>
+  <scandate>20150122173501</scandate>
+  <foldout-operator>associate-atlas-mclamb@archive.org</foldout-operator>
+  <republisher>associate-atlas-mclamb@archive.org</republisher>
+  <imagecount>430</imagecount>
+  <foldoutcount>3</foldoutcount>
+  <identifier-access>http://archive.org/details/einigeoriginalsc01duke_0</identifier-access>
+  <identifier-ark>ark:/13960/t1qg21w7m</identifier-ark>
+  <bookplateleaf>0010</bookplateleaf>
+  <scanfee>100</scanfee>
+  <invoice>41</invoice>
+  <sponsordate>20150331</sponsordate>
+  <backup_location>ia905906_15</backup_location>
+  <external-identifier>urn:oclc:record:1044587497</external-identifier>
+  <openlibrary_work>OL24945854W</openlibrary_work>
+  <openlibrary_edition>OL33159786M</openlibrary_edition>
+  <oclc-id>25268580</oclc-id>
+  <associated-names>Duke University. Library. Jantz Collection. German Baroque Literature</associated-names>
+  <republisher_operator>associate-atlas-mclamb@archive.org</republisher_operator>
+  <republisher_date>20150122194007</republisher_date>
+  <ocr>tesseract 5.3.0-3-g9920</ocr>
+  <ocr_parameters>-l deu+Fraktur</ocr_parameters>
+  <ocr_module_version>0.0.21</ocr_module_version>
+  <ocr_detected_script>Fraktur</ocr_detected_script>
+  <ocr_detected_script_conf>0.9290</ocr_detected_script_conf>
+  <ocr_detected_lang>de</ocr_detected_lang>
+  <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+  <page_number_confidence>90</page_number_confidence>
+  <page_number_module_version>1.0.3</page_number_module_version>
+  <pdf_module_version>0.0.23</pdf_module_version>
+</metadata>
