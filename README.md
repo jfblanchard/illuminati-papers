@@ -2,6 +2,13 @@
 
 ### A verified, fully traceable English translation of the documents seized from the Bavarian Illuminati and published in 1787
 
+<p align="center">
+  <img src="images/anhang_title.jpg" width="200" alt="Title page of the Anhang (1787)">
+  <img src="images/nachtrag_degree_structure.jpg" width="200" alt="Nachtrag, p. 17: the order's degree structure">
+  <img src="images/nachtrag_pyramid.jpg" width="200" alt="Nachtrag, p. 40: the recruitment pyramid">
+  <img src="images/anhang_signature.jpg" width="200" alt="Anhang, p. 35: Zwack's signature">
+</p>
+
 In 1785, the Electorate of Bavaria outlawed the Illuminati — the secret order
 founded by Adam Weishaupt in 1776 — and raided the homes of its leaders. Two
 years later, the government published what it had found: letters, internal
