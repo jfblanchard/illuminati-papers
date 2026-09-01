@@ -21,10 +21,16 @@ volumes:
 
 These three publications are the primary source record of the order that became
 a legend — the raw material for two centuries of scholarship, speculation, and
-conspiracy theory. Until now, no complete scholarly English translation of any
-of them existed. The *Anhang* has no known English translation — this is the
-first. (Surveyed August 2026: library catalogs, WorldCat, archive.org, German
-national catalogs, and the Source Library collection.)
+conspiracy theory. Partial English excerpts have appeared before — in hostile
+18th-century polemics (Robison 1798, Barruel 1799) and in an independent
+researcher's translation of the main volume's first ~60 pages (Terry Melanson,
+2008-2020, from a French intermediary) — but no complete scholarly English
+translation of any of the three documents has ever existed. The *Anhang* has no
+known English translation, complete or partial — this is the first. (Surveyed
+August 2026: library catalogs, archive.org, German national catalogs, the
+Source Library collection, and other web-search-indexed records; WorldCat and
+HathiTrust were checked via indexed search results, not their own catalog
+interfaces.)
 
 This repository publishes the first complete, verified, fully traceable English
 translation of all three documents — built from the original scans, not from
@@ -48,9 +54,10 @@ another translation.
   reading, every historical term points to the scan page it came from.
 - **Cross-checked against other translations.** Where other English
   translations exist (e.g., the AI-assisted versions published by Source
-  Library in July 2026), this project checks against them — and cites them.
-  They are a baseline for comparison, never a source to copy. The Anhang has no
-  such baseline: this translation is the first.
+  Library in July 2026, or older partial translations by Robison, Barruel, and
+  Melanson), this project checks against them — and cites them. They are a
+  baseline for comparison, never a source to copy. The Anhang has no such
+  baseline: this translation is the first.
 - **Honest about its method.** This is an AI-assisted, human-verified project:
   every correction and translation pass is logged, reviewable, and reproducible
   from the public artifacts in this repository. Nothing is hidden behind a

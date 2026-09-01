@@ -21,7 +21,10 @@ claim below is traceable to a URL or catalog record; nothing asserted from memor
   assembled from manuscripts + published sources, not a translation of the three
   1787 publications as such.
 - **Partial/selective English translations** have existed since 1797-98 (Robison,
-  Barruel) — excerpts embedded in hostile polemics, not full translations.
+  Barruel) — excerpts embedded in hostile polemics, not full translations — and
+  intermittently since, including an independent researcher's partial translation
+  of the main volume's first ~60 pages (Terry Melanson, conspiracyarchive.com,
+  2008-2020, from a French intermediary). None are complete or scholarly-verified.
 - **Complete French translations of the main volume + Nachtrag** exist from
   1794-95 (Freiburg UB manuscript Hs. 992) — contemporaneous, never printed.
 
@@ -31,9 +34,10 @@ claim below is traceable to a URL or catalog record; nothing asserted from memor
 
 | Item | Type | Notes |
 |---|---|---|
-| *Original Writings of the Order of the Illuminati* — Source Library, July 2026 | Full, AI-assisted | sourcelibrary.org/book/original-writings-of-the-order-of-the-illuminati-zwack. TOC fully translated (items I-XLIX, ~98% coverage per their metadata). DOI'd (Zenodo). No human verification, no German source text, no annotations. |
+| *Original Writings of the Order of the Illuminati* — Source Library, July 2026 | Full, AI-assisted | sourcelibrary.org/book/original-writings-of-the-order-of-the-illuminati-zwack. TOC lists items I-XLIX. DOI'd (Zenodo). No human verification, no German source text, no annotations. **The "~98% coverage" figure and the exact relationship to a second, separately-titled collection entry ("Einige Originalschriften des Illuminatenordens" — labeled "First Complete Translation") are unresolved — see Cross-check plan item 4.** |
 | John Robison, *Proofs of a Conspiracy* (Edinburgh, 1797) | Partial, selective | Extensive translated excerpts from the seized documents embedded in a hostile polemic. Not a full translation; tendentious framing. |
-| Abbé Barruel, *Memoirs Illustrating the History of Jacobinism* (1797-98) | Partial, selective | Same character as Robison. |
+| Abbé Barruel, *Memoirs Illustrating the History of Jacobinism* (1797-98, English trans. Robert Clifford, 1799) | Partial, selective | Same character as Robison. Full text not directly read in either survey pass (sacred-texts.com 403-blocked both times) — coverage confirmed only via secondary summaries. |
+| Terry Melanson, conspiracyarchive.com (2008-2020) | Partial, human, ~15% of main volume | Independent researcher (author, *Perfectibilists*, TrineDay 2009) translated the title page through p. 60 of ~400+ in four installments, **from a French intermediary, not the original German**. No continuation past p. 60 found. Missed by the original survey; found in the 2026-08-31 adversarial re-verification pass. Does not cover the Nachtrag or Anhang. |
 | Freiburg UB Hs. 992 (1794-95) | Full, French | "Ecrits originaux de l'ordre des illuminés trouvés chez Zwack" — contemporaneous French translation, manuscript, never printed. Not English. |
 
 ### 2. Nachtrag von weitern Originalschriften (supplement, 1787)
@@ -48,8 +52,13 @@ claim below is traceable to a URL or catalog record; nothing asserted from memor
 ### 3. Anhang zu den Original-Schriften (appendix, 1787 — Zwack's defense letter)
 
 - **No English translation found.** Not on Source Library (their Illuminati
-  collection has ~15 titles; the Anhang is not among them), not in the 2015 book,
-  not as a standalone work anywhere searched. This project's Anhang translation
+  collection has 19 titles, confirmed by direct fetch 2026-08-31; the Anhang is
+  not among them), not in the 2015 book, not in Melanson's partial translation
+  (checked directly — no mention of "Anhang," "Wetzlar," or Zwack's defense
+  letter), not as a standalone work anywhere searched. Barruel's actual English
+  text was not directly read (403-blocked) — its Anhang coverage rests on
+  secondary summaries, not a page-by-page check; this is the one open gap in an
+  otherwise thorough negative search. This project's Anhang translation
   (literal + scholarly + narrative, complete 2026-08-08) remains the only one
   known to exist.
 
@@ -121,6 +130,16 @@ claim below is traceable to a URL or catalog record; nothing asserted from memor
    field is moving; re-run a survey before any public release (Phase 6) and
    before investing in translating the main volume, in case a scholarly
    translation appears.
+4. **Resolve the apparent duplicate Source Library listing**: the collection page
+   shows both "Original Writings of the Order of the Illuminati" and "Einige
+   Originalschriften des Illuminatenordens" as separate entries (one labeled
+   "First Translation," the other "First Complete Translation"). Confirm whether
+   these are the same underlying translation under two title pages, or two
+   distinct attempts, before citing their coverage figures precisely.
+5. **Read Barruel's actual English text** (Robert Clifford trans., 1799 — try an
+   alternate mirror since sacred-texts.com 403-blocks direct fetches) to confirm,
+   page-by-page rather than via secondary summary, whether it reproduces any
+   Anhang material.
 
 ## What this means for the project
 
@@ -170,5 +189,32 @@ WorldCat, archive.org, and Markner scholarship. Results — all claims hold:
 scholarly English translation of any of them existed"; "The *Anhang* has no
 known English translation — this is the first." The qualifiers "complete",
 "scholarly", and "known" are load-bearing — partial translations (Robison,
-Barruel, ritual portions in 2015) exist, and absolute negative claims are
-impossible. Re-run the survey before any public release.
+Barruel, Melanson, ritual portions in 2015) exist, and absolute negative claims
+are impossible. Re-run the survey before any public release.
+
+## Adversarial re-verification pass (2026-08-31, independent researcher)
+
+A separate, independent research pass was run specifically to try to disprove
+the five claims above (26+ queries; direct fetches of Source Library, FactGrid,
+archive.org, conspiracyarchive.com, Freiburg UB, Wikipedia/Goodreads bibliographic
+records — not just search-snippet reading). Full write-up:
+`/tmp/.../scratchpad/adversarial_verification_2026-08-31.md` (session-local
+scratchpad, not part of this repo). Result: **all five claims held up**, with one
+real finding this survey had missed (Terry Melanson's partial translation, now
+folded in above) and three methodological caveats now reflected in this document:
+
+1. Source Library's collection has 19 titles, not ~15 as originally counted.
+2. The "~98% coverage" figure for their main-volume TOC could not be re-sourced
+   on either of the two apparently-duplicate collection entries — treat as
+   unverified until resolved (cross-check task 4).
+3. Neither survey pass ever queried WorldCat through its own catalog interface —
+   only via search-engine-indexed snippets of WorldCat pages. "No WorldCat
+   record" should be read as "no record surfaced via web search," not as a
+   completed direct catalog query.
+4. Barruel's actual English text was never read page-by-page in either pass
+   (sacred-texts.com 403-blocked both times) — its Anhang-coverage status rests
+   on secondary summaries only (cross-check task 5).
+
+None of these caveats overturn a verdict; they narrow the confidence on Claims
+C and E from "high" to "medium-high" / "high but incomplete as worded,"
+respectively, and are the reason cross-check tasks 4-5 above were added.
