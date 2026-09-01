@@ -134,3 +134,41 @@ claim below is traceable to a URL or catalog record; nothing asserted from memor
   ignore: same documents, opposite methodology. Their existence validates the
   demand; their gaps (no Anhang, no verification, no source text) define the
   project's remaining uniqueness.
+
+## Re-verification pass (2026-08-31, evening — before public claims)
+
+User asked to re-verify the "only translation / only scholarly one" claims
+before making them publicly. Fresh searches run (6 queries): the Anhang's
+German title, Zwack's defense letter, *Secret School of Wisdom* contents,
+WorldCat, archive.org, and Markner scholarship. Results — all claims hold:
+
+- **Anhang**: only German editions surface anywhere (MDZ digitization
+  `urn:nbn:de:bvb:12-bsb10381760-5`, Deutsche Digitale Bibliothek, GDA Bayern
+  findmittel, FactGrid Q11350, a Czech antiquarian listing of the 1787
+  original). No English translation in any catalog, archive, or collection
+  searched. **Claim stands: no known English translation.**
+- **Main volume + Nachtrag**: the only complete English translations are Source
+  Library's AI-assisted editions (July 2026). No scholarly English translation
+  exists. Partial/selective excerpts exist since 1797-98 (Robison, Barruel —
+  hostile polemics) and ritual portions in *Secret School of Wisdom* (2015).
+- ***Secret School of Wisdom* (2015, Wäges/Markner/Singh-Anand, Lewis Masonic)**:
+  re-checked — it is a degree-by-degree ritual compilation re-assembled from
+  manuscripts and published sources ("the first time that a comprehensive
+  ritual book for the society has been re-assembled"), with an appendix
+  including "Statutes of the Illuminati" (p.390) and "General Explanation of
+  the Society of the Illuminati" (p.412). It is NOT a translation of the three
+  1787 publications as documents. Its existence does not weaken the "no
+  complete scholarly English translation of these documents" claim.
+- **van Dülmen, *Die Illuminaten* (1975, De Gruyter)**: German-language
+  scholarly edition with selections ("Auswahl") — not English.
+- **Freiburg UB Hs. 992 (1794-95)**: French manuscript translation of main
+  volume + Nachtrag — not English, never printed.
+- **Markner**: no English translation of the Anhang found in his published
+  work via search.
+
+**Defensible public phrasing** (adopted in README 2026-08-31): "no complete
+scholarly English translation of any of them existed"; "The *Anhang* has no
+known English translation — this is the first." The qualifiers "complete",
+"scholarly", and "known" are load-bearing — partial translations (Robison,
+Barruel, ritual portions in 2015) exist, and absolute negative claims are
+impossible. Re-run the survey before any public release.

@@ -22,7 +22,9 @@ volumes:
 These three publications are the primary source record of the order that became
 a legend — the raw material for two centuries of scholarship, speculation, and
 conspiracy theory. Until now, no complete scholarly English translation of any
-of them existed. The *Anhang* has no English translation anywhere.
+of them existed. The *Anhang* has no known English translation — this is the
+first. (Surveyed August 2026: library catalogs, WorldCat, archive.org, German
+national catalogs, and the Source Library collection.)
 
 This repository publishes the first complete, verified, fully traceable English
 translation of all three documents — built from the original scans, not from
