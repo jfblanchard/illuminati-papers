@@ -114,19 +114,6 @@ The source documents (1787) and the scans are public domain. The corrected
 transcriptions, translations, and annotations in this repository are original
 works published under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-## Support this work
-
-This is an independent, unfunded project. If you value verified primary-source
-scholarship over speculation, you can support the work:
-
-- **[Sponsor on GitHub](https://github.com/sponsors/)** — one-time or recurring
-- **[Patreon](https://patreon.com/)** — early access to translation pages
-- **[Kickstarter](https://www.kickstarter.com/)** — the upcoming corpus
-  completion campaign
-
-Every sponsor's name will be recorded in the acknowledgments of the final
-release.
-
 ---
 
 *This project is historical scholarship. It translates and publishes the
