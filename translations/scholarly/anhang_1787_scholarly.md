@@ -107,11 +107,11 @@ clear that the society's cohesion had completely collapsed.
 
 These would have settled the matter before any judge — but they, of all
 things, were not printed. Fortunately, if it comes to that, I can still
-produce nearly all of them for outside scrutiny, either as originals or in
+present nearly all of them to the outside world, either as originals or in
 authenticated copies.
 
 Now let me turn to the individual items — the ones the publication says, on
-page 5, were found at the Zwack house-search.
+page 5, were found before the Zwack house-search.
 
 I won't claim certainty here, but as best I recall, I personally handed over
 the documents printed from page 5 through page 105 to the secret commission
@@ -217,7 +217,7 @@ that some Jesuits had abused their power, that on the introduction of the
 Knights of Malta they wanted to reclaim the schools and the education of youth
 as their own monopoly, and that all those foundations could be put to far
 better use through the spiritual council and the curatorship. Nothing was
-embezzled here. Reasons were given openly; the whole matter went through the
+obtained by stealth here. Reasons were given openly; the whole matter went through the
 proper bodies and was approved at the highest level, with full access to the
 records. It shouldn't matter to the government whether Illuminati or other
 councillors raised these points — which, for the most part, is exactly what
@@ -228,12 +228,12 @@ professorships, stipends, salaries, or other favors — that's no crime,
 
 --- page 14 ---
 
-> \* Perhaps they'd have gotten these positions without any recommendation at
-> all, given their own merits, their parents' merits, and whatever other
-> support they had. To call this wrongdoing, you'd first have to prove the
-> favor was secured through false pretenses, for men who didn't deserve or
-> couldn't handle it, at the expense of a third party with a stronger claim to
-> the same position.
+Perhaps they'd have gotten these positions without any recommendation at
+all, given their own merits, their parents' merits, and whatever other
+support they had. To call this wrongdoing, you'd first have to prove the
+favor was secured through false pretenses, for men who didn't deserve or
+couldn't handle it, at the expense of a third party with a stronger claim to
+the same position.
 
 I don't know of a single such case. My accuser must produce one; only then
 can a judge investigate.
@@ -277,7 +277,7 @@ funds at its
 disposal — and so we used those funds to fix the finances of our — — —
 and — —, freeing them from moneylenders, and we've since helped several
 other brothers the same way. I can't blame anyone who finds this troubling,
-or who worries it shows dangerous influence over money meant for sacred
+or who worries it shows dangerous influence over a fund meant for profane
 use — money that, properly understood, should go only to religious
 purposes, charitable foundations, or the genuinely needy poor. But had
 anyone asked me about this beforehand, I — as the one making this claim —
@@ -316,11 +316,11 @@ ever received church funds.
 
 I'll skip over the Order documents printed on pages 12 through 105 — they
 concern the Order's internal structure and how these documents were visibly
-altered, and I've already explained enough of that to
+altered, and you, my friend, have already explained enough of that.
 
 --- page 19 ---
 
-you, my friend. So now to my third point — page 106, which reads:
+So now to my third point — page 106, which reads:
 
 *Four small notes, as follows:*
 
@@ -352,9 +352,9 @@ this
 
 --- page 21 ---
 
-scheme was never carried out — because, as anyone in the Order can confirm,
-we had no ambassador and nobody from any embassy's staff among us in Bavaria
-at all; and because, plainly, no one would write a genuine Order proposal on
+scheme was never carried out — because the government knows from the Order's
+own personnel that we had no ambassador and nobody from any embassy's staff
+among us in Bavaria at all; and because, plainly, no one would write a genuine Order proposal on
 a scrap of paper like this.
 
 Besides, a fraud against the crown's own customs revenue on this scale would
@@ -396,7 +396,7 @@ they're from Kircher's works * and the *Theatrum Chemicum*.
 > \* In the famous Jesuit's own *Mundus Subterraneus* there's a substantial
 > chapter on the various kinds of poison and how to prepare them. If that
 > Jesuit was allowed to publish this openly, I genuinely don't see how an
-> innocent private collection could be treated as anywhere near the same
+> unintentional private collection could be treated as anywhere near the same
 > crime.
 
 --- page 24 ---
@@ -442,6 +442,10 @@ murder.
 The seal-stamping method is just the well-known lead or gold amalgam — the
 gold version leaves less soot
 
+> \* Now I'm not surprised these recipes, on the pretext of feared misuse,
+> aren't properly shown to anyone who asks to see them at the Electoral
+> archive.
+
 --- page 27 ---
 
 than the lead one does. Hundreds of people know this technique — does that
@@ -450,10 +454,6 @@ real, independent proof; I'll rest on the established legal standards for
 evidence, and wait calmly for that proof — not just in this world, but before
 God, who searches every heart.
 
-> \* Now I'm not surprised these recipes, on the pretext of feared misuse,
-> aren't properly shown to anyone who asks to see them at the Electoral
-> archive.
-
 A seal collection was also found in my possession, labeled: *Heraldry
 Collection of Philipp Zwackhius.* What good could this discovery possibly do
 the Illuminati's enemies? It belongs to my brother, a student — and even if
@@ -461,7 +461,7 @@ it were mine, since when is heraldry a forbidden science? *
 
 If
 
-> \* And besides — what about licensing seal engravers, while we're at it?
+> \* And besides — what about admitting seal engravers, while we're at it?
 > Does no one remember that in the Illuminati Order, every lodge, every
 > prefecture, and every province had its own seal?
 
@@ -536,7 +536,7 @@ remotely questionable to me, sitting there in its place with the rest of the
 relevant, now-suppressed papers. With no disrespect meant to the government,
 it simply never crossed my mind that anyone would break into my rooms and
 cabinets, in my absence, without witnesses, without letting me have a
-lawyer — by an unqualified judge, no less, and my own enemies to boot — and
+lawyer — by a judge without jurisdiction, no less, and my own enemies to boot — and
 help themselves to my papers. Frankly, even without whatever they found, the
 persecution would never have ended,
 
@@ -545,11 +545,11 @@ persecution would never have ended,
 since it was already vicious enough before that. So what actually justified
 searching my house in the first place? What justified arresting Court
 Chamber Councillor Massenhausen and Canon Hertel, sequestering Baron von
-Bassus's estates, stripping his tenants of their obligations, breaking into
-and searching his chests, cabinets, archive, and files, and secretly hounding
-you and me — when our own superiors know perfectly well that on any credible
-report of wrongdoing, we'd have handed ourselves straight over to the
-ordinary courts, by our own offer?
+Bassus's estates, releasing his subjects from their oath of fealty, breaking
+into and searching his chests, cabinets, archive, and files, and secretly
+hounding you and me — where our authorities know perfectly well that on any
+credible report of wrongdoing, they'd hand us straight over to the ordinary
+courts, by our own offer?
 
 Whatever was found can't be the excuse, either: the government had already
 had it in hand for six months, and a commission had long since sorted it
@@ -557,7 +557,7 @@ all — which means
 
 --- page 34 ---
 
-they surely wouldn't have given the people in Munich six months' notice, when
+they surely wouldn't have left the people in Munich six months' time, when
 it was no secret at all what had been found, if those people had really had
 that much chance to flee.
 
@@ -607,7 +607,7 @@ minor, was ever raised against him by any party. Done at Munich, the *)
 
 **B.**
 
-> \* And barely two weeks earlier, on the 14th of October that same year,
+> \* And shortly before, on the 14th of October that same year,
 > the very man who received these glowing references from an entire panel
 > of judges had already been forced to flee his own country and abandon his
 > post, just to escape arrest and his enemies' persecution.

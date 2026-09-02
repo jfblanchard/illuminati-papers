@@ -252,7 +252,7 @@ introduction of the Knights of Malta they wished again to appropriate to
 themselves, as their monopoly, the schools and the education of youth, and
 because all the aforesaid foundations could be applied to a far better use
 through the spiritual council and the curatorship. Nothing has been
-embezzled here; one has laid out one's grounds; the whole matter was handled
+obtained by stealth here; one has laid out one's grounds; the whole matter was handled
 by the competent Collegia, and, with full insight into the records, approved
 by the highest authority. It must be a matter of indifference to the
 government whether these grounds were put forward by the Illuminati or by
@@ -265,7 +265,7 @@ other favors, is no crime,
 
 --- page 14 ---
 
-*) Perhaps they would have obtained these even without these
+Perhaps they would have obtained these even without these
 recommendations, since they can show their own merits and the merits of
 their parents, and have had other support besides. To conclude a wrongdoing
 from this, it would first have to be proven that this favor was brought
@@ -362,7 +362,7 @@ spiritual council, and to those persons who received church funds.
 
 I pass over the Order-writings printed from p. 12 to 105, because these
 properly concern the Order's arrangement and the visible alteration of
-these essays, and have already been sufficiently explained to
+these essays, and have already been sufficiently explained by
 
 --- page 19 ---
 
@@ -505,6 +505,10 @@ The method of stamping seals consists in the well-known lead- or
 gold-amalgam, whereby the latter does not soot [i.e., blacken/tarnish] so
 much as the former
 
+*) Now I no longer wonder that these recipes, under the pretext of a
+feared misuse, are not shown, in the proper manner, to anyone applying for
+them at the Electoral archive.
+
 --- page 27 ---
 
 does. So many hundreds know this method — is one, on that account, to
@@ -513,10 +517,6 @@ Such acts must be proven by entirely different, preceding [evidence]; I
 appeal to the matters concerning [legal] evidence (de Indiciis) treated by
 the criminalists, and calmly await the proof, not only in this world, but
 before God, who searches the hearts of men.
-
-*) Now I no longer wonder that these recipes, under the pretext of a
-feared misuse, are not shown, in the proper manner, to anyone applying for
-them at the Electoral archive.
 
 A collection of seals has also been found in my possession, with the
 inscription: Heraldry-collection of Philipp Zwackhius. To what purpose
