@@ -469,8 +469,8 @@ in Ingolstadt at great expense — because I already had a larger collection
 than Massenhausen, and he supplied me with these contributions to it —
 because at the beginning of the Order we both believed that such various
 pieces might one day, in the Society, be examined by experts, the healing
-medicines applied and improved, and, against the harmful poisons,
-precautionary measures ordained. From time to time I also afterward
+medicines applied and improved, and, against the harmful [poisons],
+antidotes and precautionary measures ordained. From time to time I also afterward
 enlarged this collection, wherever I could find material for it, and I
 appeal to the House-Search Commission, and, should this not be admitted, to
 a multitude of witnesses — NB, not Illuminati — that I had an entire volume

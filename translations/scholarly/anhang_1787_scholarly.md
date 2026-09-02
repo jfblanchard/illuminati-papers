@@ -408,7 +408,8 @@ conjuring tricks in Ingolstadt, as everyone knows. I already had a bigger
 collection than Massenhausen's, and he contributed to mine. Early in the
 Order, we both believed such material might one day be examined by real
 experts within the Society — the useful remedies applied and refined, and
-precautions developed against the harmful poisons. I kept adding to the
+antidotes and precautions developed against the harmful poisons. I kept
+adding to the
 collection over the years, whenever I found something for it, and I can call
 on the House-Search Commission — or, failing that, plenty of witnesses who
 aren't Illuminati — to confirm that I had an entire volume
