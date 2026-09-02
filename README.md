@@ -33,8 +33,8 @@ HathiTrust were checked via indexed search results, not their own catalog
 interfaces.)
 
 This repository publishes the first complete, verified, fully traceable English
-translation of all three documents — built from the original scans, not from
-another translation.
+translation of the *Anhang* — built from the original scans, not from another
+translation — with the Nachtrag and the main volume in progress (see Status).
 
 ## Why this is different
 
@@ -43,9 +43,10 @@ another translation.
   umlauts. Every page here has been corrected by direct visual inspection of
   the page images, and **every single correction is logged** with its reason
   (`page — raw OCR → corrected — why`). You can audit the text word by word.
-- **Two independent looks at every page.** Each page passes through a
-  correction pass and a separate evaluation pass, with before/after records —
-  not a single unverifiable pass.
+- **Verification you can repeat.** A pilot sample (7 pages across the three
+  documents) received a separate evaluation pass with before/after records that
+  validated the method; full correction then proceeded page by page with every
+  change logged, so any page can be independently checked against the scan.
 - **Three translation layers.** A structure-preserving *literal* translation, a
   polished *scholarly* translation, and a plain-language *narrative* companion
   that tells each document's story for the general reader — all three cite back
@@ -58,10 +59,11 @@ another translation.
   Melanson), this project checks against them — and cites them. They are a
   baseline for comparison, never a source to copy. The Anhang has no such
   baseline: this translation is the first.
-- **Honest about its method.** This is an AI-assisted, human-verified project:
-  every correction and translation pass is logged, reviewable, and reproducible
-  from the public artifacts in this repository. Nothing is hidden behind a
-  black box.
+- **Honest about its method.** This is an AI-assisted project: every
+  correction and translation pass is logged, reviewable, and reproducible from
+  the public artifacts in this repository, and nothing is hidden behind a black
+  box. Human review is the final gate before each document is declared
+  finished.
 
 ## The method: every word traceable
 
@@ -107,6 +109,25 @@ annotations, all page-cited.
 | `metadata/document_index.csv` | Master index of the documents |
 | `research/source_documents/` | Surveys of related publications and existing translations |
 | `src/` | Pipeline tooling (e.g., `normalize_ocr.py`) |
+
+## Related resources
+
+The partial English translations and modern scholarship referenced above:
+
+- **John Robison, *Proofs of a Conspiracy* (1798)** — full text at [Project
+  Gutenberg](https://www.gutenberg.org/files/47605/47605-h/47605-h.htm);
+  [1798 edition at the Internet Archive](https://archive.org/details/bim_eighteenth-century_proofs-of-a-conspiracy-a_robison-john_1798_0)
+- **Augustin Barruel, *Memoirs Illustrating the History of Jacobinism* (1799,
+  trans. Robert Clifford)** — [Internet Archive, vol. 1](https://archive.org/details/memoirsillustrat01barr),
+  [vol. 2](https://archive.org/details/memoirsillustrat02barr),
+  [vol. 3](https://archive.org/details/memoirsillustrat03barr),
+  [vol. 4](https://archive.org/details/memoirsillustrat04barr)
+- **Terry Melanson's partial translation** of the main volume (title page–p. 60,
+  from a French intermediary): [conspiracyarchive.com](https://conspiracyarchive.com)
+- **Source Library's AI-assisted English translations** of the main volume and
+  Nachtrag (July 2026): [sourcelibrary.org](https://sourcelibrary.org)
+- **Josef Wäges & Reinhard Markner (eds.), *The Secret School of Wisdom* (Lewis
+  Masonic, 2015)** — scholarly ritual compilation: [publisher page](https://www.lewismasonic.co.uk/esoteric/the-secret-school-of-wisdom-paperback-the-authentic-rituals-and-doctrines-of-the.htm)
 
 ## License
 
