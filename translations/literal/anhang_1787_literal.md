@@ -305,6 +305,11 @@ Through the recommendation of the brothers, it is said further, under nos.
 34 and 5, in these Order-advances, Pylades became ecclesiastical
 Council-Fiscal, and through this the Order had the church funds at [its]
 
+*) This assertion is, moreover, false. I, at least, to my knowledge, know not
+a single one, and appeal, to this end, to the list of our members, which is in
+everyone's hands in Bavaria. I do not know what may have moved the author to
+record so many alleged advances which were never made.
+
 --- page 16 ---
 
 disposal, and so we have thereby now well restored the poor housekeeping of
@@ -538,7 +543,7 @@ possessor of these machine-drawings [and] of these recipes, must and will
 justify myself before every judge.
 
 5thly. Pages 111 to 118 are meant to show that I once wished to be a
-suicide. I do not recall — [and pass over the fact] that the passage on
+suicide. I will not mention here that the passage on
 suicide is copied from *The Sorrows of Young Werther*, that it has been
 attributed to me, and accompanied with a spiteful note which insults an
 entire
@@ -614,7 +619,8 @@ the persecution would have had no end,
 for it was, even before this, violent enough. What occasion did one then
 have for my house-search? What grounds, that one now takes the Court
 Chamber Councillor Massenhausen and Canon Hertel into custody, that one
-sequesters the estates of the Baron von Bassus, expropriates his subjects,
+sequesters the estates of the Baron von Bassus, releases his subjects from
+their oath of fealty,
 breaks open and searches through his chests, cabinets, archive, and
 registry, that one secretly persecutes you and me — where one knows that
 our authorities, upon well-founded reports of crimes, according to our own
@@ -712,8 +718,8 @@ diligence on my part.
 
 Should you, however, wish to go further from here, you would make me very
 displeased; I do not at all mean to assert hereby that you should die as
-Government Councillor — for once, your knowledge, effort, and diligence
-would always be too little for this position. But consider your years,
+Government Councillor — for once, this position would always be too small
+for your knowledge, effort, and diligence. But consider your years,
 and the age of your Chancellor, and you have a prospect that can scarcely
 fail; I know very well what a Vicedom and a Chancellor ought to be — so if
 I must speak before God and the world, then you are, in our present

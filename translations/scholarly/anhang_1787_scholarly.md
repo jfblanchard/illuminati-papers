@@ -85,7 +85,7 @@ kept the following Order documents in reserve:
 
 **b)** Two 1784 letters from Count Costanza to Counts St— and C—, as the
 Order's National officers, about dissolving the Order in Bavaria and complying
-with the Electoral bans.
+with the Electoral mandates.
 
 **c)** The circular letter sent to every lodge, in Bavaria and beyond, on the
 same subject.
@@ -131,8 +131,7 @@ would have singled out and held back precisely the pieces printed on pages 5
 through 12 — which I'll examine more closely in a moment — while handing over
 the rest. At the time, with a Commission already convened, I expected nothing
 less than to be questioned about all of it, along with everyone else — and
-defending these particular pieces would have been easy for me. In fact, here
-is my defense, point by point:
+defending these particular pieces would have been easy for me.
 
 --- page 9 ---
 
@@ -263,6 +262,11 @@ less instructive, for having been Illuminati? Had they given even the
 slightest cause for suspicion, imagine how our enemies would have crowed —
 and imagine what would have become of these men.
 
+> \* This assertion is, moreover, false. I, at least, to my knowledge, know
+> not a single one, and appeal on this point to the list of our members —
+> which is in everyone's hands in Bavaria. I don't know what moved the
+> author to record so many alleged advances that were never made at all.
+
 The publication goes on to claim (under items 34 and 5, in this same list of
 "Order advances") that on the brothers' recommendation, Pylades became the
 spiritual council's legal officer, and that through him the Order had church
@@ -270,38 +274,38 @@ funds at its
 
 --- page 16 ---
 
-> disposal — and so we used those funds to fix the finances of our — — —
-> and — —, freeing them from moneylenders, and we've since helped several
-> other brothers the same way. I can't blame anyone who finds this troubling,
-> or who worries it shows dangerous influence over money meant for sacred
-> use — money that, properly understood, should go only to religious
-> purposes, charitable foundations, or the genuinely needy poor. But had
-> anyone asked me about this beforehand, I — as the one making this claim —
-> would have explained what those terms actually meant, and shown that
-> church funds have always mostly been lent out to the nobility; that any
-> subject, noble or not, could fairly and safely borrow against them once
-> security for principal and interest was arranged; that Pylades, as legal
-> officer, only had to present such matters to the spiritual council, where
-> of twelve councillors only Pylades and the Vice-President were
+disposal — and so we used those funds to fix the finances of our — — —
+and — —, freeing them from moneylenders, and we've since helped several
+other brothers the same way. I can't blame anyone who finds this troubling,
+or who worries it shows dangerous influence over money meant for sacred
+use — money that, properly understood, should go only to religious
+purposes, charitable foundations, or the genuinely needy poor. But had
+anyone asked me about this beforehand, I — as the one making this claim —
+would have explained what those terms actually meant, and shown that
+church funds have always mostly been lent out to the nobility; that any
+subject, noble or not, could fairly and safely borrow against them once
+security for principal and interest was arranged; that Pylades, as legal
+officer, only had to present such matters to the spiritual council, where
+of twelve councillors only Pylades and the Vice-President were
 
 --- page 17 ---
 
-> Illuminati; that no loan proposal to the highest authority could even be
-> discussed, let alone approved, without the full council's consent; that
-> Pylades himself was extremely conscientious about this — so unwavering in
-> his insistence on proper mortgage security, with every legal safeguard in
-> place, before agreeing to any loan, that he made himself plenty of
-> enemies; that the records fully bear this out; and that the Illuminati's
-> influence over church funds through Pylades was, in short, entirely
-> harmless to the churches. All it really amounted to was this: someone
-> recommended to him three brothers ruined by moneylenders; he investigated
-> their finances and the security available to the lending churches;
+Illuminati; that without the full council's consent no opinion on a loan
+could be submitted to the highest authority, and without its approval no
+advance could be made; that Pylades himself was extremely conscientious about
+this — so unwavering in his insistence on proper mortgage security, with every
+legal safeguard in place, before agreeing to any loan, that he made himself
+plenty of enemies; that the records fully bear this out; and that the
+Illuminati's influence over church funds through Pylades was, in short,
+entirely harmless to the churches. All it really amounted to was this: someone
+recommended to him three brothers ruined by moneylenders; he investigated
+their finances and the security available to the lending churches;
 
 --- page 18 ---
 
-> and once satisfied, reported his findings, secured a unanimous favorable
-> report from the council for the Elector's conference, and carried out the
-> approval that followed.
+and once satisfied, reported his findings, secured a unanimous favorable
+report from the council for the Elector's conference, and carried out the
+approval that followed.
 
 So where, exactly, is the crime here? Not in the recommendation, not in how
 the recommended person or matter was handled, and certainly not in the
