@@ -80,7 +80,7 @@ command,
 
 --- page 5 ---
 
-arouse the most attention among the printed Illuminati writings — which
+arouse considerable attention among the printed Illuminati writings — which
 properly concern me alone, and so can first be explained to you by me.
 
 To speak of these writings in general, I refer to all those grounds which you
@@ -225,7 +225,7 @@ Order-clergy.
 
 --- page 12 ---
 
-neither on my part nor on the printer's a transgression; I wrote this list
+a mistake of mine or of the printer's; I wrote this list
 for myself, as the result of the years 1780 to [17]84. Even without being a
 member of the Order, I would, in this manner, wherever I had had
 opportunity, have acted just so — because I held what was thereby achieved,
@@ -302,7 +302,7 @@ made themselves in the least suspicious, what rejoicing there would be for
 our enemies, and how would it have gone for these men?
 
 Through the recommendation of the brothers, it is said further, under nos.
-34 and 5, in these Order-advances, Pylades became ecclesiastical
+34 and 5 [sic], in these Order-advances, Pylades became ecclesiastical
 Council-Fiscal, and through this the Order had the church funds at [its]
 
 *) This assertion is, moreover, false. I, at least, to my knowledge, know not
@@ -313,7 +313,7 @@ record so many alleged advances which were never made.
 --- page 16 ---
 
 disposal, and so we have thereby now well restored the poor housekeeping of
-our — — — and — —, and freed them from the usurers. We thereby support,
+our — — — and — —, and freed them from the usurers. Let us thereby support,
 moreover, several other brothers as well. I cannot hold it against those to
 whom this matter appears extremely questionable, and who conclude from it a
 dangerous influence upon a fund [meant] for profane use — which, however,
@@ -378,7 +378,7 @@ Let one seek to bring someone from the retinue of a foreign ambassador into
 the Order; this person must supply goods to another Order-brother who is a
 merchant, and since the former, under the protection of his patron, [is]
 free of duty, great business (negotium) can thereby be carried on, and the
-profit turned to the Order's treasury.
+savings turned to the Order's treasury.
 
 The remaining three notes are truly so insignificant that I cannot guess
 why one had them printed, and so I will tell you only briefly the occasion

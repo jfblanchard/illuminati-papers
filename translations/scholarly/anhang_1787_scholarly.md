@@ -59,7 +59,7 @@ writings printed by highest command,
 
 --- page 5 ---
 
-have attracted the most attention. These concern me alone, and so only I can
+have attracted considerable attention. These concern me alone, and so only I can
 properly explain them to you.
 
 Speaking of these writings in general: I stand by everything you already noted
@@ -194,7 +194,7 @@ item is either
 
 --- page 12 ---
 
-no fault of mine or the printer's. I wrote this list for my own use, as a
+a mistake of mine or the printer's. I wrote this list for my own use, as a
 record of the years 1780 to '84. Even if I hadn't been an Order member, I
 would have acted exactly the same way whenever the chance arose — because I
 believed, in good conscience, that what came of it was good; because I broke
@@ -275,8 +275,8 @@ funds at its
 --- page 16 ---
 
 disposal — and so we used those funds to fix the finances of our — — —
-and — —, freeing them from moneylenders, and we've since helped several
-other brothers the same way. I can't blame anyone who finds this troubling,
+and — —, freeing them from moneylenders — and let us thereby support still
+more brothers. I can't blame anyone who finds this troubling,
 or who worries it shows dangerous influence over a fund meant for profane
 use — money that, properly understood, should go only to religious
 purposes, charitable foundations, or the genuinely needy poor. But had
@@ -298,7 +298,7 @@ legal safeguard in place, before agreeing to any loan, that he made himself
 plenty of enemies; that the records fully bear this out; and that the
 Illuminati's influence over church funds through Pylades was, in short,
 entirely harmless to the churches. All it really amounted to was this: someone
-recommended to him three brothers ruined by moneylenders; he investigated
+recommended to him three brothers oppressed by moneylenders; he investigated
 their finances and the security available to the lending churches;
 
 --- page 18 ---
@@ -329,7 +329,7 @@ So now to my third point — page 106, which reads:
 *Try to bring someone from a foreign ambassador's retinue into the Order; this
 person must supply goods to a merchant brother; and since the first man, under
 his patron's protection, pays no duty, a large trade can be run this way, with
-the profit going to the Order's treasury.*
+the savings going to the Order's treasury.*
 
 The other three notes are so trivial I can't imagine why anyone bothered
 printing them, so I'll just briefly tell you the story behind the one above.
@@ -396,7 +396,7 @@ they're from Kircher's works * and the *Theatrum Chemicum*.
 > \* In the famous Jesuit's own *Mundus Subterraneus* there's a substantial
 > chapter on the various kinds of poison and how to prepare them. If that
 > Jesuit was allowed to publish this openly, I genuinely don't see how an
-> unintentional private collection could be treated as anywhere near the same
+> private collection kept without any wrongful intent could be treated as anywhere near the same
 > crime.
 
 --- page 24 ---
@@ -608,7 +608,7 @@ minor, was ever raised against him by any party. Done at Munich, the *)
 **B.**
 
 > \* And shortly before, on the 14th of October that same year,
-> the very man who received these glowing references from an entire panel
+> the very man who received such praiseworthy testimonials from an entire panel
 > of judges had already been forced to flee his own country and abandon his
 > post, just to escape arrest and his enemies' persecution.
 
