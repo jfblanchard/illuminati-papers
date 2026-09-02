@@ -112,7 +112,7 @@ annotations, all page-cited.
 
 The source documents (1787) and the scans are public domain. The corrected
 transcriptions, translations, and annotations in this repository are original
-works published under [CC BY-SA 4.0] — *license decision pending, placeholder*.
+works published under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Support this work
 
