@@ -36,6 +36,25 @@ This repository publishes the first complete, verified, fully traceable English
 translation of the *Anhang* — built from the original scans, not from another
 translation — with the Nachtrag and the main volume in progress (see Status).
 
+## The three documents
+
+Three volumes, three different kinds of thing:
+
+- **The main volume** — *Einige Originalschriften des Illuminatenordens*
+  (~430 pages): the papers seized at Zwack's house search in Landshut
+  (October 1786). The Order's cipher, member register, statutes, rituals,
+  and the internal correspondence between code-named members (Spartacus,
+  Philo, Cato, Ajax). The government's principal evidence.
+- **The supplement** — *Nachtrag von weitern Originalschriften* (~436
+  pages): documents from the Bassus castle search and later seizures,
+  centered on the Order's founder Adam Weishaupt — his "Spartacus" letter
+  series, recruiting and leadership tactics, organizational correspondence.
+- **The appendix** — *Anhang zu den Originalschriften* (40 pages): Xaver
+  von Zwack's point-by-point defense letter, written from Wetzlar in May
+  1787 against the accusations built from the other two volumes. The only
+  one of the three with no English translation anywhere — and the one this
+  repository publishes in full.
+
 ## What differentiates this from previous translations
 
 - **Corrected German source text.** The raw OCR of 18th-century Fraktur is
@@ -69,9 +88,10 @@ translation — with the Nachtrag and the main volume in progress (see Status).
   the public artifacts in this repository. Human review is the final gate
   before each document is declared finished.
 
-## The method: every word traceable
+## The method
 
-Each document moves through the same pipeline, and every stage is published:
+The purpose of this method is that every word is traceable. Each document
+moves through the same pipeline, and every stage is published:
 
 1. **Acquire** — original scans from the Internet Archive (Duke University
    copy) and the Bavarian State Library (MDZ), with provenance recorded.
@@ -88,8 +108,7 @@ Each document moves through the same pipeline, and every stage is published:
 
 ## Model choices
 
-The tooling behind this project was researched, not assumed. Two surveys
-guided the choices:
+Two surveys guided the tooling choices:
 
 - **OCR.** We evaluated the realistic options for printed 18th-century
   Fraktur — Tesseract's Fraktur models, Kraken with published historical-
