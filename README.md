@@ -36,7 +36,7 @@ This repository publishes the first complete, verified, fully traceable English
 translation of the *Anhang* — built from the original scans, not from another
 translation — with the Nachtrag and the main volume in progress (see Status).
 
-## Why this is different
+## What differentiates this from previous translations
 
 - **Corrected German source text.** The raw OCR of 18th-century Fraktur is
   unreliable — misread letters, dropped words, garbled passages, lost long-s and
@@ -64,11 +64,10 @@ translation — with the Nachtrag and the main volume in progress (see Status).
   Melanson), this project checks against them — and cites them. They are a
   baseline for comparison, never a source to copy. The Anhang has no such
   baseline: this translation is the first.
-- **Honest about its method.** This is an AI-assisted project: every
+- **Fully transparent method.** This is an AI-assisted project: every
   correction and translation pass is logged, reviewable, and reproducible from
-  the public artifacts in this repository, and nothing is hidden behind a black
-  box. Human review is the final gate before each document is declared
-  finished.
+  the public artifacts in this repository. Human review is the final gate
+  before each document is declared finished.
 
 ## The method: every word traceable
 
@@ -86,6 +85,29 @@ Each document moves through the same pipeline, and every stage is published:
 5. **Annotate** — people, institutions, historical terminology, and uncertain
    readings, each cited to scan pages.
 6. **Publish** — everything released here, in a reusable format.
+
+## Model choices
+
+The tooling behind this project was researched, not assumed. Two surveys
+guided the choices:
+
+- **OCR.** We evaluated the realistic options for printed 18th-century
+  Fraktur — Tesseract's Fraktur models, Kraken with published historical-
+  print models (e.g. CATMuS-Print), Calamari-OCR (trained on GT4HistOCR, a
+  public ground-truth corpus of German Fraktur), Transkribus, and vision
+  language models. Conclusion: the existing raw OCR from the Internet
+  Archive and the Bavarian State Library, corrected page by page against the
+  scans, was the right starting point — training a custom model had no
+  ground truth to train on until the correction itself existed. The decision
+  is revisited if correction ever reveals a high error rate.
+- **Translation.** We surveyed translation models and general LLMs for
+  archaic German specifically — including the Transnormer normalization
+  models for 18th-19th-century German, OPUS-MT and QuickMT baselines, and
+  current general-purpose models. General LLMs with a historical-context
+  prompt won for the literal pass; DeepL was rejected as built for modern
+  text. Verification uses multiple independent models chosen for
+  complementary strengths (German competence, long-context handling,
+  logic-level reasoning), so no single model's blind spots go unexamined.
 
 ## Status
 
