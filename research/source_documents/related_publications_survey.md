@@ -1,6 +1,7 @@
 # Related Publications Survey (Phase 1 open item)
 
-Resolves the "survey 1786-1794 related/adjacent publications" item from `todo.md`.
+Resolves the "survey 1786-1794 related/adjacent publications" item from the
+project's working checklist.
 Covers the three original candidates plus a much larger list found via a scholarly
 aggregator. Written 2026-08-07.
 
@@ -92,6 +93,6 @@ Practical consequence: `metadata/document_index.csv` should eventually carry a r
 for every title on the FactGrid list (and whatever else turns up), each independently
 verified (existence, digitized source, primary-vs-commentary classification —
 don't trust FactGrid's own tagging, per the Bemerkungen discrepancy above) before
-acquisition. This is real, large future work, tracked in `todo.md` as an explicit
+acquisition. This is real, large future work, tracked as an explicit
 later phase rather than folded into or blocking the current Phase 2-6 work on the
 core 3.

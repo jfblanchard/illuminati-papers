@@ -4,8 +4,8 @@ Scholarly notes on names, institutions, ambiguous phrases, and interpretive
 inferences, per document page. Every claim here is graded by confidence and
 sourced to where it came from — inferences are labeled as such, not stated as
 fact. Nothing here should be treated as settled without independent scholarly
-verification before publication; see `research/translation_models/notes.md` and
-this project's general practice of flagging AI-derived claims for human review.
+verification before publication; this project's general practice is to flag
+AI-derived claims for human review.
 
 ## Pages 35-36: letter-writer's identity CONFIRMED — Franz Xaver von Zwack
 
@@ -135,7 +135,7 @@ pass, not guessed at here.
 
 "an den Grafen St— und C—" uses dashes to stand in for names, mirroring the
 pattern already found in the main volume (`einige_originalschriften_1787`):
-"unſem — —, —, und —" (see `lessons_learned.md`). This appears to be a genuine
+"unſem — —, —, und —". This appears to be a genuine
 period editorial/printing convention for protecting identities in these
 publications, not an OCR artifact — worth watching for throughout the corpus and
 worth a dedicated glossary entry (see `annotations/glossary_people_and_terms.md`).
@@ -282,7 +282,7 @@ framing, not an independently verified fact** — noted as such.
 
 This is significant, sensitive primary-source content and is recorded here
 factually, without embellishment, consistent with this project's commitment to
-traceable primary-source scholarship (see `ai_readme.md`).
+traceable primary-source scholarship.
 
 **What the text says**: the government's original publication (quoted/described
 within this letter) presented, from pages 107-110, material attributed to "die

@@ -11,7 +11,7 @@ modern dot-umlauts — kept as-is below rather than "normalized" to ü/ä/ö, si
 would misrepresent what this OCR engine (correctly) preserved from the original type.
 
 Source PDF: `scans/nachtrag_1787/nachtragvonweite121duke_0.pdf`. This document's OCR
-has no page markers (see `todo.md` Phase 2/3), so page numbers below are the PDF's
+has no printed page markers, so page numbers below are the PDF's
 own physical page numbers, cross-referenced by locating matching text with
 `pdftotext`, not a marker in the transcription itself.
 
@@ -106,7 +106,7 @@ II. Abth. S. 137.
 |---|---|---|
 | `überlegt` (plain u) | `uͤberlegt` | Inconsistent with this document's own combining-e convention elsewhere on the same page — corrected for consistency |
 | `fchlechteſten` | `ſchlechteſten` | "f"/"ſ" confusion — a common Fraktur OCR error (long-s and lowercase f are visually similar) |
-| `Grundſaͤ⸗ tzen` (unjoined) | `Grundſaͤtzen` | **This was a Phase 2 script bug, not an OCR error** — found here, then fixed in `src/normalize_ocr.py` and re-run for all documents (see `lessons_learned.md`) |
+| `Grundſaͤ⸗ tzen` (unjoined) | `Grundſaͤtzen` | **This was a Phase 2 script bug, not an OCR error** — found here, then fixed in `src/normalize_ocr.py` and re-run for all documents |
 | `fie` (x2) | `ſie` | f/ſ confusion, as above |
 | `Enthufiafmus` | `Enthuſiaſmus` | f/ſ confusion (x2 in one word) |
 | `Interefle` | `Intereſſe` | Misread |
@@ -191,7 +191,7 @@ number, and the real sentence continues "...Sache mehr, als wenn die Worte..."]*
 | `Aber ich glaube` region: `Körper. verſchaffen` | `Körper verſchaffen` | Spurious mid-word/mid-phrase period — **this is the third time this exact failure mode has shown up** (also `immer . hin`, `Das lez . tere` in the Anhang sample), i.e. the OCR inserts a period mid-phrase for no visible reason on the page. Worth watching for throughout Phase 3. |
 | `fo werden fie die ans genehmſten` | `ſo werden ſie die angenehmſten` | f/ſ confusion + "ans" should be part of "angenehmſten" (most agreeable) |
 | `ende die Güte` | `empfiehlt die Guͤte` | Misread — "empfiehlt" (recommends), not "ende" (ends) |
-| `2 mehr, / . / 4` | *(page-footer noise: signature "A 2" + catchword "mehr," + next page's number "4")* | Page-transition artifact — see `todo.md` Phase 2/3 notes |
+| `2 mehr, / . / 4` | *(page-footer noise: signature "A 2" + catchword "mehr," + next page's number "4")* | Page-transition artifact |
 
 **Uncertain / flagged:**
 - `Sache` vs `Sachen` in "die Güte der Sache[n]": the line wraps right at this word

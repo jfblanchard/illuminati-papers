@@ -5,8 +5,8 @@ Full-document Phase 3 correction, page by page. Lighter-weight companion to
 not repeated here). One line per correction: page — raw OCR → corrected — reason.
 The actual corrected German text is in `nachtrag_1787_corrected.txt`; this file is
 the citable change record for it. Page numbers below are the PDF's own physical
-page numbers (this document's OCR has no printed page markers — see `todo.md`
-Phase 2/3 notes), not the book's own printed page numbers.
+page numbers (this document's OCR has no printed page markers), not the
+book's own printed page numbers.
 
 ## Methodology & status
 Same as `nachtrag_1787_eval_sample.md`: corrections made by Claude (Sonnet 5) by
@@ -16,9 +16,9 @@ final scholarly correction — pending human review. Spelling preserved as print
 (long ſ, combining-e uͤ/aͤ/oͤ convention, etc.); the extremely common f/ſ
 confusion is fixed throughout but not itemized per instance below to keep this
 log readable — only content-level fixes (misreads, dropped/garbled words, spurious
-noise, page-transition artifacts) are itemized in full. Per the pacing decision in
-`todo.md` (2026-08-08), annotation/narration depth is lighter here than the
-Anhang's — only genuinely notable findings are called out.
+noise, page-transition artifacts) are itemized in full. Per the project's pacing
+decision (2026-08-08), annotation/narration depth is lighter here than the
+Anhang's: only genuinely notable findings are called out.
 
 ## PDF pages 1-4 (front matter, before the printed text begins)
 Not part of `nachtrag_1787_transcription.txt` — no OCR exists for these pages, so
@@ -45,7 +45,7 @@ and "München, 1787." line reconstructed.
 ## PDF page 6 (epigraph)
 Already fully corrected in `nachtrag_1787_eval_sample.md` — carried forward
 unchanged. Headline items: several f/ſ fixes, a Phase 2 dehyphenation bug found
-and fixed here (`Grundſaͤ⸗ tzen`→`Grundſaͤtzen`, see `lessons_learned.md`),
+and fixed here (`Grundſaͤ⸗ tzen`→`Grundſaͤtzen`),
 trailing page-number noise removed. Epigraph is signed "Philo" — Knigge's
 Illuminati code-name, not Weishaupt's (his was "Spartacus") — flagged for Phase 5,
 unverified beyond general knowledge.
@@ -79,8 +79,8 @@ other pages.
 - `Donners ag` → `Donnerſtag` — gap where "t" belongs
 - `daß fie ſich` → `daß ſie ſich` — f/ſ
 - `alles in Orb: nung` → `alles in Ordnung` — misread + spurious mid-word colon,
-  the same "stray mid-word punctuation" OCR failure mode already catalogued in
-  `lessons_learned.md` (this is at least the fourth instance across the corpus)
+  the same "stray mid-word punctuation" OCR failure mode seen throughout this
+  corpus (this is at least the fourth instance)
 - `gegen den ( hat` → `gegen den ☉ hat` — this document's "order" symbol (a
   circle, likely meant as ☉/an alchemical-style glyph standing in for "der Orden")
   is consistently misread by the OCR as a bare `(` or `(O`; recurs often later in
@@ -147,8 +147,7 @@ Clean page, only minor fixes:
 ## PDF page 14 (printed page "6")
 - `meinen Nager zu verbergen` → `meinen Namen zu verbergen` — misread, "Nager"
   isn't a real word in context
-- `has. ben` → `haben` — spurious mid-word period + split (recurring OCR bug,
-  see `lessons_learned.md`)
+- `has. ben` → `haben` — spurious mid-word period + split (recurring OCR bug)
 - `Caefar` → `Cæſar` — æ ligature + missing long-s
 - `wuͤnſche, a alle` → `wuͤnſche, daß alle` — misread ("a" for "daß")
 - `mit 20000 fl,` → `mit 20000 fl.` — comma should be period (abbreviation mark)
@@ -279,7 +278,7 @@ Clean page, only minor fixes:
   trailing `2` / `Ir` fragments after this are page-transition noise
   (signature mark), not decoded further here — held for the next page's
   correction since letter-numbering for what follows needs to be confirmed
-  against the image directly, not inferred from OCR alone (see `todo.md`
+  against the image directly, not inferred from OCR alone (per the project's
   pacing note on going carefully through the sensitive material starting
   around PDF p.22).
 
@@ -734,8 +733,8 @@ list, and the first appearance of "Muſæus"
   `im ☉.` (another Order-symbol misread, this time as "Z"); `Nuancen` →
   `Nüancen` (umlaut per the image); `dieſes 1 gewußt` → `dieſes beſſer
   gewußt` (whole-word misread as the digit "1" — same failure pattern
-  as the main volume's dropped "des" and Anhang's dropped "Dero",
-  see `lessons_learned.md`); `Jefuiten` → `Jeſuiten`; trailing `O.` →
+  as the main volume's dropped "des" and Anhang's dropped "Dero");
+  `Jefuiten` → `Jeſuiten`; trailing `O.` →
   `☉.` ("der Jeſuiten ☉" — the Order symbol used to mean "the Jesuits'
   order," not just this Order, a usage worth noting).
 - PDF p.70/71 boundary: raw OCR shows a stray `glau⁃` fragment plus a
@@ -788,8 +787,7 @@ list, and the first appearance of "Muſæus"
 
 ---
 
-*(Continuing from PDF page 74 in a future session — see `todo.md` for
-status. Mid-sentence: "Wenn's ſo fort geht, und noch aͤrger" — a
+*(Continuing from PDF page 74 in a future session. Mid-sentence: "Wenn's ſo fort geht, und noch aͤrger" — a
 catchword-fragment "an=" was visible at the bottom of PDF p.73, likely
 previewing something like "anwaͤchſt"; not yet confirmed against the
 PDF p.74 image.)*

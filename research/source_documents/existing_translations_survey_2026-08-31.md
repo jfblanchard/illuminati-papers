@@ -9,8 +9,8 @@ claim below is traceable to a URL or catalog record; nothing asserted from memor
 - **Complete English translations of 2 of the 3 core documents now exist** — both
   AI-assisted, published by **Source Library (sourcelibrary.org) in July 2026**.
   These did not exist when this project started (2026-08-03) and are the reason the
-  earlier "no ready-made English translation" assumption in `ai_readme.md` is now
-  outdated (fixed there same day).
+  earlier "no ready-made English translation" assumption is now outdated (fixed
+  the same day).
 - **No complete scholarly English translation of any of the three documents
   exists.** Source Library's are AI-assisted with no human verification, no
   corrected German source, no annotations, no page-level citations.
@@ -113,7 +113,7 @@ claim below is traceable to a URL or catalog record; nothing asserted from memor
 | Narrative companion | Per-document plain-language piece | None |
 | Coverage | All 3 core documents (Anhang complete; Nachtrag in progress; main volume not started) | Main volume + Nachtrag only; **no Anhang** |
 | Scholarly status | Research-grade, traceable, publishable corpus (the only one) | Convenience translations, DOI'd but unverified |
-| Ritual core | Not yet extracted as a synthesis (idea logged in `todo.md`) | Not covered as such |
+| Ritual core | Not yet extracted as a synthesis (idea logged in the project checklist) | Not covered as such |
 
 ## Cross-check plan (open tasks)
 

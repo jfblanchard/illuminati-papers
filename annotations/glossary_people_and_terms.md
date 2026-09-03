@@ -11,7 +11,7 @@ context.
 | Code name | Real identity | Source in this corpus | Confidence |
 |---|---|---|---|
 | Spartacus | Adam Weishaupt (order's founder) | Main volume, p.5 epigraph "Spartacus in Ep. ad Caton."; editorial gloss "Spartacus (Weishaupt...)" found in the second (Joseph Lentner) printing of the main volume — see `research/source_documents/related_publications_survey.md`. **Now also explicit in the Nachtrag itself**, PDF p.9: "Weitere Original-Briefe vom Spartacus (Weishaupt.)" heading the letter series that opens the document. | High — corroborated by an in-corpus editorial gloss in two independent places now (main volume's second printing and the Nachtrag's own section heading), not just general historical knowledge; still independently verify before publication |
-| Philo | Adolph Freiherr von Knigge | Nachtrag, p.6 epigraph "Philo im Circulari an die Logen." | Medium-high — corrected after an initial mix-up with Spartacus/Weishaupt (see `lessons_learned.md`); rests on the corrector's general historical knowledge, not an in-corpus confirmation. Independently verify before publication. |
+| Philo | Adolph Freiherr von Knigge | Nachtrag, p.6 epigraph "Philo im Circulari an die Logen." | Medium-high — corrected after an initial mix-up with Spartacus/Weishaupt; rests on the corrector's general historical knowledge, not an in-corpus confirmation. Independently verify before publication. |
 | Muſæus | Not yet identified | Nachtrag, PDF p.73: "Muſæus den Ill. Major" (proposed for the Illuminatus Major grade), grouped with Brutus, Diomedes, and other named Capitulars. | Low — first appearance, name only, no further identifying detail yet. Watch for recurrences. |
 
 ## Recurring conventions
@@ -96,7 +96,7 @@ now high.
 This era's printing repeats the next page's first word ("catchword") and a
 gathering/signature mark (e.g. "A 2", "A 3") at the bottom of each page — both
 show up as noise in the raw OCR since there's no page-break marker to signal them.
-See `lessons_learned.md` and each document's correction log for examples. Not
+See each document's correction log for examples. Not
 unique to this corpus — a standard 18th-century typesetting convention — but worth
 documenting here since it's the single most common source of OCR noise found so
 far.

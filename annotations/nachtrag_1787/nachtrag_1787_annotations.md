@@ -1,11 +1,10 @@
 # Nachtrag — Annotations
 
 Scholarly notes on names, institutions, ambiguous phrases, and interpretive
-inferences, per document page. Per the pacing decision in `todo.md`
-(2026-08-08), this is kept lighter than the Anhang's annotation file — only
-genuinely notable findings are recorded here, not every historical
-cross-reference. Nothing here should be treated as settled without independent
-scholarly verification; see `research/translation_models/notes.md`.
+inferences, per document page. Per the project's pacing decision (2026-08-08),
+this is kept lighter than the Anhang's annotation file: only genuinely notable
+findings are recorded here, not every historical cross-reference. Nothing here
+should be treated as settled without independent scholarly verification.
 
 ## PDF page 3: physical-copy provenance (predates and is separate from the 1787
 printed content)
@@ -165,4 +164,4 @@ unsuitable members, instead overload them with work until they resign
 voluntarily; lead by personal example rather than command). Useful primary
 material for understanding how the Order actually recruited and managed
 members, in Weishaupt's own words — distinct in register from the Anhang's
-personal defense letter, as expected going in (see `todo.md`).
+personal defense letter, as expected going in.

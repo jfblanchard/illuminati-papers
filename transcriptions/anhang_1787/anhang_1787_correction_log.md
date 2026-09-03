@@ -65,15 +65,15 @@ page). No changes to repeat here.
 - `aufbe . wahite ba` → `aufbewahrte.` — badly garbled, plus stray noise "ba"
 - `Areopagiten . Verträge` → `Areopagiten-Verträge` — period should be a hyphen
 - `St- und C -` → `St— und C—` — these are **redacted names** (dash standing in
-  for a name, same convention as the main volume's "unſem — —, —, und —" — see
-  `lessons_learned.md`), not just a formatting fix
+  for a name, same convention as the main volume's "unſem — —, —, und —"),
+  not just a formatting fix
 - `Mandate.dn . お` → `Mandate.` — trailing garbage includes a stray Japanese
   hiragana character (お) — pure OCR noise, about as clear an example as this
   corpus has of "the OCR engine produced something with zero relationship to the
   source"
 - `Ci culare` → `Circulare` — misread, dropped "r"
 - **List-numbering errors** (second instance of this error class in the project,
-  after the main volume's rule 8/9 — see `todo.md` Phase 3): raw OCR's `a) Zwey
+  after the main volume's rule 8/9): raw OCR's `a) Zwey
   Reden...` should be `d) Zwey Reden...`, and raw OCR's `c) Alle` (trailing, page
   end) should be `e) Alle` — confirmed against the actual list structure (items
   a-g) visible on the page image. If uncorrected, a reader citing "item a" or
@@ -420,7 +420,7 @@ too since it affects how every footnote from p.11 on should be read.
 
 ## Page 35 — the letter is signed
 - `Dero` — **entirely missing from raw OCR**, restored from the image (another
-  whole-word omission, like the main volume's "des" — see `todo.md` Phase 2)
+  whole-word omission, like the main volume's "des")
 - `3 wackh` → `Zwackh` — **the letter's signature**
 - `( 23 )` → `(L. S.)` — badly garbled; "L.S." = *Locus Sigilli* (Latin, "place
   of the seal"), a standard notarial mark
