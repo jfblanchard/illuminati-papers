@@ -2,6 +2,8 @@
 
 ### A verified, fully traceable English translation of the documents seized from the Bavarian Illuminati and published in 1787
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22285781.svg)](https://doi.org/10.5281/zenodo.22285781)
+
 <p align="center">
   <img src="images/anhang_title.jpg" width="200" alt="Title page of the Anhang (1787)">
   <img src="images/nachtrag_degree_structure.jpg" width="200" alt="Nachtrag, p. 17: the order's degree structure">
