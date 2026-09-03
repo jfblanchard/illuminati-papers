@@ -626,11 +626,11 @@ travel license — though the final approval still hasn't come through, so
 I'd ask you to please follow up on it and bring it back with you. If there's
 a fee involved, I'll reimburse you immediately.
 
-I wish you every success. Your salary — which you certainly deserve —
+I wish you every success. You certainly deserve your salary — you can
+manage the Lottery from here, after all — and whatever small influence I
 
 --- page 38 ---
 
-you could still manage the Lottery from here, and whatever small influence I
 have, I'll gladly put toward making sure nothing is lacking on my end.
 
 But if you're thinking of moving on from here altogether, you'll upset me

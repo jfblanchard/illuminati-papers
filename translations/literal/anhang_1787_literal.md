@@ -101,7 +101,7 @@ above],
 
 but also during the persecution that broke out in August 1785 had I once
 again most thoroughly searched all cabinets, without coming upon this packet
-of letters; but this much I know, that against the case — always requested by
+of letters; but this much I know, that for the case — always requested by
 me and expected from the Elector's justice — of a formal judicial
 investigation, I kept in reserve the following Order-writings:
 
@@ -131,7 +131,7 @@ g) Several letters of the Baron von Bassus to the same purpose.
 
 These would have discussed the above before the judge, but these precisely
 have not been printed; fortunately, should further need arise, I can still
-present the foreign country with nearly all the same [documents], either in
+present to the foreign country nearly all the same [documents], either in
 the originals or at least in authenticated copies.
 
 And now I proceed to the individual pieces, where it says on page 5, which
@@ -707,12 +707,13 @@ likewise beg that you also be so good as to obtain it, and to bring it to
 me upon your return; should you have to pay any fee for it, I shall
 reimburse this at once.
 
-I wish you all good things; your salary, which you surely deserve, then —
+I wish you all good things; your salary, which you surely deserve, since
+you can administer the Lottery from here as well, and my modest powers
+could contribu-
 
 --- page 38 ---
 
-you can administer the Lottery from here as well, and my modest powers
-could contribute somewhat, so that it should never be lacking in
+te somewhat, so that it should never be lacking in
 diligence on my part.
 
 Should you, however, wish to go further from here, you would make me very
