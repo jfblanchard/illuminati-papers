@@ -170,7 +170,7 @@ The partial English translations and modern scholarship referenced above:
   [vol. 3](https://archive.org/details/memoirsillustrat03barr),
   [vol. 4](https://archive.org/details/memoirsillustrat04barr)
 - **Terry Melanson's partial translation** of the main volume (title page–p. 60,
-  from a French intermediary): [conspiracyarchive.com](https://conspiracyarchive.com)
+  from a French intermediary): [archived at the Wayback Machine](https://web.archive.org/web/2020/https://www.conspiracyarchive.com/2020/01/01/some-original-writings-of-the-order-of-the-illuminati-title-p-12/)
 - **Source Library's AI-assisted English translations** of the main volume and
   Nachtrag (July 2026): [sourcelibrary.org](https://sourcelibrary.org)
 - **Josef Wäges & Reinhard Markner (eds.), *The Secret School of Wisdom* (Lewis
