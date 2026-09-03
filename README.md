@@ -80,9 +80,9 @@ Three volumes, three different kinds of thing:
 - **Cross-checked against other translations.** Where other English
   translations exist (e.g., the AI-assisted versions published by Source
   Library in July 2026, or older partial translations by Robison, Barruel, and
-  Melanson), this project checks against them — and cites them. They are a
-  baseline for comparison, never a source to copy. The Anhang has no such
-  baseline: this translation is the first.
+  Melanson), they are checked against and cited — a baseline for comparison,
+  never a source to copy. The Anhang has no such baseline: this translation
+  is the first.
 - **Fully transparent method.** This is an AI-assisted project: every
   correction and translation pass is logged, reviewable, and reproducible from
   the public artifacts in this repository. Human review is the final gate
@@ -110,8 +110,8 @@ moves through the same pipeline, and every stage is published:
 
 Two surveys guided the tooling choices:
 
-- **OCR.** We evaluated the realistic options for printed 18th-century
-  Fraktur — Tesseract's Fraktur models, Kraken with published historical-
+- **OCR.** The realistic options for printed 18th-century Fraktur were
+  evaluated — Tesseract's Fraktur models, Kraken with published historical-
   print models (e.g. CATMuS-Print), Calamari-OCR (trained on GT4HistOCR, a
   public ground-truth corpus of German Fraktur), Transkribus, and vision
   language models. Conclusion: the existing raw OCR from the Internet
@@ -119,12 +119,12 @@ Two surveys guided the tooling choices:
   scans, was the right starting point — training a custom model had no
   ground truth to train on until the correction itself existed. The decision
   is revisited if correction ever reveals a high error rate.
-- **Translation.** We surveyed translation models and general LLMs for
+- **Translation.** Translation models and general LLMs were surveyed for
   archaic German specifically — including the Transnormer normalization
   models for 18th-19th-century German, OPUS-MT and QuickMT baselines, and
   current general-purpose models. General LLMs with a historical-context
   prompt won for the literal pass; DeepL was rejected as built for modern
-  text. Verification uses multiple independent models chosen for
+  text. Verification is done with multiple independent models chosen for
   complementary strengths (German competence, long-context handling,
   logic-level reasoning), so no single model's blind spots go unexamined.
 
