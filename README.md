@@ -129,8 +129,7 @@ Two surveys guided the tooling choices:
   (literal, scholarly, narrative) were produced by Claude (Sonnet 5). The
   result was then verified adversarially by four independent models: Grok
   4.6, GPT-5.5 (High Thinking), and Gemini 3.7 Flash on the full document,
-  and Kimi K3 on a nine-page sample; a DeepSeek R1 confirmatory run was
-  planned as the final check. The roster is chosen per document for
+  and Kimi K3 on a nine-page sample. The roster is chosen per document for
   complementary strengths (German competence, long-context handling,
   logic-level reasoning), so no single model's blind spots go unexamined;
   later documents may use a different set.
