@@ -75,12 +75,11 @@ in my possession and printed by highest command as my own advocates; and that
 I have been confirmed in this judgment by various respectable men, even by
 exalted Imperial Estates. Only to you, best of men, will I, for the further
 use of your announced Apology, set forth the necessary explanations
-concerning those points which, among the said [writings] printed by highest
-command,
+concerning those points which, among the printed Illuminati writings,
 
 --- page 5 ---
 
-arouse considerable attention among the printed Illuminati writings — which
+arouse considerable attention — which
 properly concern me alone, and so can first be explained to you by me.
 
 To speak of these writings in general, I refer to all those grounds which you
@@ -167,8 +166,8 @@ as concerns, firstly, the proposal for the establishment of a Women's Order,
 I can here declare before God that, judging by the title, by the style of
 writing, by the entirely disconnected essay recorded on separate leaves, this
 is nothing more than a notion abstracted and partly borrowed from the
-Mopsorden, which I wrote down many years ago in an idle hour, which I
-rejected in what followed, and of which you, my friend, all former
+Mopsorden, which I wrote down many years ago in an idle hour and rejected
+in the following [hour], and of which you, my friend, all former
 Areopagites, and all brothers know best that I never brought it forward, that
 it consequently in no way belongs to the Order's System, or was ever adopted
 therein. The whole public can doubt the truth of this declaration of mine all
@@ -212,7 +211,7 @@ I do not at all contradict that everything that occurs here was, in my
 opinion, brought about mediately or immediately through members of the
 Order; but it is impossible that all this should have happened in one year —
 rather it must be understood as [happening] over several years; the one
-thing is therefore either
+[reading] is therefore either
 
 *) The author of this letter here undertakes proof of his innocence
 concerning various matters which do not even count as a burden against us
@@ -316,7 +315,7 @@ disposal, and so we have thereby now well restored the poor housekeeping of
 our — — — and — —, and freed them from the usurers. Let us thereby support,
 moreover, several other brothers as well. I cannot hold it against those to
 whom this matter appears extremely questionable, and who conclude from it a
-dangerous influence upon a fund [meant] for profane use — which, however,
+dangerous influence upon a fund for profane use — which, however,
 according to the sense of the expression "church funds," should be used
 only for spiritual matters, pious foundations, or individual needy, true
 poor persons: but had one asked me beforehand about this advance of the
@@ -634,8 +633,8 @@ surely
 --- page 34 ---
 
 not have allowed those in Munich six months' time, when it was no secret
-to them at all which writings had been found, [if these authorities] had
-often enough had the opportunity to flee.
+to them at all which writings had been found, they could often enough
+have fled.
 
 Everything else, which I have not touched upon here in this letter —
 already long enough — and which nevertheless, in the printed Original

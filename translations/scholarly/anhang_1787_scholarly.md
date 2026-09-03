@@ -180,8 +180,8 @@ to:
 
 I don't at all dispute that everything described here happened, in my view,
 directly or indirectly through Order members. But it's simply impossible that
-all of it happened in one year — it must have unfolded over several. So each
-item is either
+all of it happened in one year — it must have unfolded over several. So the
+"one year" is a slip either
 
 > \* *[Footnote — likely the sympathetic co-editor, not Zwack himself]* The
 > author of this letter takes the trouble here to prove his innocence of
@@ -277,7 +277,7 @@ funds at its
 disposal — and so we used those funds to fix the finances of our — — —
 and — —, freeing them from moneylenders — and let us thereby support still
 more brothers. I can't blame anyone who finds this troubling,
-or who worries it shows dangerous influence over a fund meant for profane
+or who worries it shows dangerous influence over a fund put to profane
 use — money that, properly understood, should go only to religious
 purposes, charitable foundations, or the genuinely needy poor. But had
 anyone asked me about this beforehand, I — as the one making this claim —
@@ -395,7 +395,7 @@ they're from Kircher's works * and the *Theatrum Chemicum*.
 
 > \* In the famous Jesuit's own *Mundus Subterraneus* there's a substantial
 > chapter on the various kinds of poison and how to prepare them. If that
-> Jesuit was allowed to publish this openly, I genuinely don't see how an
+> Jesuit was allowed to publish this openly, I genuinely don't see how a
 > private collection kept without any wrongful intent could be treated as anywhere near the same
 > crime.
 
@@ -547,9 +547,9 @@ searching my house in the first place? What justified arresting Court
 Chamber Councillor Massenhausen and Canon Hertel, sequestering Baron von
 Bassus's estates, releasing his subjects from their oath of fealty, breaking
 into and searching his chests, cabinets, archive, and files, and secretly
-hounding you and me — where our authorities know perfectly well that on any
-credible report of wrongdoing, they'd hand us straight over to the ordinary
-courts, by our own offer?
+hounding you and me — where one knows our authorities, who on any credible
+report of wrongdoing, and by our own offer, would hand us straight over to
+the ordinary courts?
 
 Whatever was found can't be the excuse, either: the government had already
 had it in hand for six months, and a commission had long since sorted it
