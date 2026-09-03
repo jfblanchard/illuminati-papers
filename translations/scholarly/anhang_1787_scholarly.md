@@ -120,18 +120,19 @@ set up in August 1785 to examine Count Savioli, Costanza, and
 --- page 8 ---
 
 Canon Hertel — at the same time the Order's lesser seal was demanded of me. My
-reasons for thinking so: I'd rather believe this than any other way they could
-have gotten these papers before the house-search, since I handed over exactly
-such a bundle at the time; I know for certain these documents lay together in
-one drawer, the same drawer I took the handed-over papers from; and I'm sure
-that drawer held the Illuminati Statutes found here, their revisions, the
-*Instructiones insinuatorum*, the *Profession de foi*, the two Admission
-Protocols, and the two tables appended at the end. I can think of no reason I
-would have singled out and held back precisely the pieces printed on pages 5
-through 12 — which I'll examine more closely in a moment — while handing over
-the rest. At the time, with a Commission already convened, I expected nothing
-less than to be questioned about all of it, along with everyone else — and
-defending these particular pieces would have been easy for me.
+reasons for thinking so: I'd rather believe this of the government than any
+other way they could have gotten these papers before the house-search, since
+I handed over exactly such a bundle at the time; I know for certain these
+documents lay together in one drawer, the same drawer I took the handed-over
+papers from; and I'm sure that drawer held the Illuminati Statutes found here,
+their revisions, the *Instructiones insinuatorum*, the *Profession de foi*,
+the two Admission Protocols, and the two tables appended at the end. I can
+think of no reason I would have singled out and held back precisely the pieces
+printed on pages 5 through 12 — which I'll examine more closely in a moment —
+while handing over the rest. At the time, with a Commission already convened,
+I expected nothing less than to be questioned about all of it, along with
+everyone else — and defending these particular pieces would have been easy for
+me.
 
 --- page 9 ---
 
@@ -159,11 +160,11 @@ des Demoiselles à Mannheim.*
 
 Go look at the original of these leaves in the secret archive in Munich, and
 you'll find it's simply a lampoon that circulated in Mannheim in 1783 or 1784
-— given to me by a third party, and left in my house in a cabinet belonging to
-my wife, among her own papers. Isn't this exactly what it looks like:
-deliberately, forcibly, shoving something into a category it doesn't belong to,
-just to mislead? And what should we make of the editors of these writings in
-general, when — in a piece where they could safely assume I'd remember the
+— given to me by a third party, and left in my house in a cabinet belonging
+to my wife, among her own papers. Isn't this exactly what it looks like:
+deliberately, forcibly, shoving something into a category it doesn't belong
+to, just to mislead? And what should we make of the editors of these writings
+in general, when — in a piece where they could safely assume I'd remember the
 context precisely — they still dared to use one thing as "proof" of another,
 when the two, at first glance, plainly
 
@@ -200,7 +201,7 @@ would have acted exactly the same way whenever the chance arose — because I
 believed, in good conscience, that what came of it was good; because I broke
 no law and violated no obligation, perfect or otherwise; and because I saw it
 as my duty to serve my country, my prince, and my fellow man, to the best of
-my ability, in any good plan worth carrying out. Others acted the same way,
+my ability, in carrying out any good plan. Others acted the same way,
 too, not as Order members but simply as upright citizens. So where, in any of
 these "advances of the Order," is there a single step taken unlawfully, toward
 a harmful end?
@@ -217,19 +218,19 @@ that some Jesuits had abused their power, that on the introduction of the
 Knights of Malta they wanted to reclaim the schools and the education of youth
 as their own monopoly, and that all those foundations could be put to far
 better use through the spiritual council and the curatorship. Nothing was
-obtained by stealth here. Reasons were given openly; the whole matter went through the
-proper bodies and was approved at the highest level, with full access to the
-records. It shouldn't matter to the government whether Illuminati or other
-councillors raised these points — which, for the most part, is exactly what
-happened — so long as the points were true and mattered.
+obtained by stealth here. Reasons were given openly; the whole matter went
+through the proper bodies and was approved at the highest level, with full
+access to the records. It shouldn't matter to the government whether Illuminati
+or other councillors raised these points — which, for the most part, is exactly
+what happened — so long as the points were true and mattered.
 
 That some young men, recommended by Illuminati, received church benefices,
-professorships, stipends, salaries, or other favors — that's no crime,
+professorships, stipends, salaries, or other favors — that's no
 
 --- page 14 ---
 
-Perhaps they'd have gotten these positions without any recommendation at
-all, given their own merits, their parents' merits, and whatever other
+crime. *) Perhaps they'd have gotten these positions without any recommendation
+at all, given their own merits, their parents' merits, and whatever other
 support they had. To call this wrongdoing, you'd first have to prove the
 favor was secured through false pretenses, for men who didn't deserve or
 couldn't handle it, at the expense of a third party with a stronger claim to
@@ -338,14 +339,13 @@ trade, and though he wasn't himself
 
 --- page 20 ---
 
-a merchant, but worked at the Electoral Lottery, he was always scheming up
-ways to fund the Order, and, as his superior, gave me various proposals — this
-one among them. Following the Order's earliest practice, he wrote his notes in
-Order cipher, and since I'd just returned from university to Munich with
-little to occupy me, I took the trouble of transcribing them into plain
-writing to make them legible. The ones I thought good and important I sent on
-to you; this one, which I already judged unworkable at the time, I kept back.
-You won't even remember hearing of it.
+a merchant, but worked at the Electoral Lottery, and as his superior, I
+received from him various proposals — each wilder than the last. Following the
+Order's earliest practice, he wrote his notes in Order cipher, and since I'd
+just returned from university to Munich with little to occupy me, I took the
+trouble of transcribing them into plain writing to make them legible. The ones
+I thought good and important I sent on to you; this one, which I already judged
+unworkable at the time, I kept back. You won't even remember hearing of it.
 
 The Bavarian government and the public need only convince themselves that
 this
@@ -354,17 +354,14 @@ this
 
 scheme was never carried out — because the government knows from the Order's
 own personnel that we had no ambassador and nobody from any embassy's staff
-among us in Bavaria at all; and because, plainly, no one would write a genuine Order proposal on
-a scrap of paper like this.
-
-Besides, a fraud against the crown's own customs revenue on this scale would
-be a crime that neither my conduct otherwise, nor that of so many other
-upright men, gives any reason to suspect — and there's no evidence for it
-either.
-
-The scheme itself, lacking the people needed to carry it out, was never even
-possible — and given how thoroughly Bavaria's customs system guards against
-smuggling, it could never have stayed hidden for long anyway.
+among us in Bavaria at all; and because, plainly, no one would write a genuine
+Order proposal on a scrap of paper like this. Besides, a fraud against the
+crown's own customs revenue would be a crime that neither my conduct
+otherwise, nor that of so many other upright men, gives any reason to
+suspect — and there's no evidence for it either. The scheme itself, lacking
+the people needed to carry it out, was never even possible — and given how
+thoroughly Bavaria's customs system guards against smuggling, it could never
+have stayed hidden for long anyway.
 
 --- page 22 ---
 
@@ -396,8 +393,8 @@ they're from Kircher's works * and the *Theatrum Chemicum*.
 > \* In the famous Jesuit's own *Mundus Subterraneus* there's a substantial
 > chapter on the various kinds of poison and how to prepare them. If that
 > Jesuit was allowed to publish this openly, I genuinely don't see how a
-> private collection kept without any wrongful intent could be treated as anywhere near the same
-> crime.
+> private collection kept without any wrongful intent could be treated as
+> anywhere near the same crime.
 
 --- page 24 ---
 
@@ -506,13 +503,13 @@ purely to tarnish my character. That's how it repays ten years of loyal
 service to the state and the prince.
 
 And then there's the table printed as item 2, on page 163 — written by one
-friend for another, describing my appearance, my moral character, my
-abilities and temperament, even my parents — which I'll admit was, as far as
+friend for friends, describing my appearance, my moral character, my
+abilities and passions, even my parents — which I'll admit, as far as
 my own portrayal goes,
 
 --- page 31 ---
 
-fairly accurate for its time, and true enough to my usual candor. I forgive
+I declare, with my usual candor, was fairly accurate for its time. I forgive
 my enemies this publication too, and hope only that it lessens whatever
 trouble my own carelessness has caused some former Order brothers in
 Bavaria. Since I'm already on the subject of my carelessness — let me say one
@@ -527,18 +524,18 @@ certainly
 
 --- page 32 ---
 
-didn't hold onto them on purpose. The same goes for the letters printed from
-page 388 to the end — probably just buried among my other papers. But if I'd
-known the exact date of the house search — and I actually was told, eight
-days in advance — I would no more have hidden these than the ones from pages
-1 through 164. I trusted my cause and myself enough that none of it seemed
-remotely questionable to me, sitting there in its place with the rest of the
-relevant, now-suppressed papers. With no disrespect meant to the government,
-it simply never crossed my mind that anyone would break into my rooms and
-cabinets, in my absence, without witnesses, without letting me have a
-lawyer — by a judge without jurisdiction, no less, and my own enemies to boot — and
-help themselves to my papers. Frankly, even without whatever they found, the
-persecution would never have ended,
+didn't hold onto them on purpose. The letters printed from page 388 to the
+end were probably just buried among my other papers. But if the exact date
+of the house search had been fixed for me — as I had in fact been assured it
+would be, eight days beforehand — I would no more have hidden these than the
+ones from pages 1 through 164. I trusted my cause and myself enough that
+none of it seemed remotely questionable to me, sitting there in its place
+with the rest of the relevant, now-suppressed papers. With no disrespect
+meant to the government, it simply never crossed my mind that anyone would
+break into my rooms and cabinets, in my absence, without witnesses, without
+letting me have a lawyer — by a judge without jurisdiction, no less, and my
+own enemies to boot — and help themselves to my papers. Frankly, even
+without whatever they found, the persecution would never have ended,
 
 --- page 33 ---
 
@@ -557,9 +554,9 @@ all — which means
 
 --- page 34 ---
 
-they surely wouldn't have left the people in Munich six months' time, when
-it was no secret at all what had been found, if those people had really had
-that much chance to flee.
+they surely wouldn't have left the people in Munich six months' time, during
+which — since it was no secret to them at all what had been found — they
+could easily have fled.
 
 Everything else I haven't covered in this already-long letter, but which
 still, in the printed Original Writings, concerns only me — like the civil

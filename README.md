@@ -47,6 +47,11 @@ translation — with the Nachtrag and the main volume in progress (see Status).
   documents) received a separate evaluation pass with before/after records that
   validated the method; full correction then proceeded page by page with every
   change logged, so any page can be independently checked against the scan.
+- **Independently verified translation.** The *Anhang* translation has been
+  through five independent adversarial verification passes (September 2026):
+  each pass produced a fresh translation from the corrected German and compared
+  it against the literal and scholarly passes published here. Every confirmed
+  discrepancy was fixed in the files as published.
 - **Three translation layers.** A structure-preserving *literal* translation, a
   polished *scholarly* translation, and a plain-language *narrative* companion
   that tells each document's story for the general reader — all three cite back

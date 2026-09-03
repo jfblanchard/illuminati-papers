@@ -131,7 +131,7 @@ g) Several letters of the Baron von Bassus to the same purpose.
 
 These would have discussed the above before the judge, but these precisely
 have not been printed; fortunately, should further need arise, I can still
-present to the foreign country nearly all the same [documents], either in
+present nearly all the same [documents] abroad, either in
 the originals or at least in authenticated copies.
 
 And now I proceed to the individual pieces, where it says on page 5, which
@@ -146,19 +146,19 @@ examination of Count Savioli, Costanza, and
 
 Canon Hertel, on the occasion when the Order's lesser seal was demanded of
 me. The reasons for this conjecture are: because I would rather believe this
-manner, than any other, by which they obtained these writings before the
-house-search — because I handed over just such a packet of papers at that
-time; because I know with confidence that these lay together in one drawer,
-from which I took the writings I handed over; because I am certain that among
-these were contained the Statutes of the Illuminati found here, the Reforms
-of the same, the Instructiones insinuatorum, the Profession de foi, the two
-Admission-Protocols, and the two tables appended at the end — and I can
-imagine no reason why I should have separated out and withheld precisely
-these pieces printed from page 5 to 12, which I shall examine more closely
-presently, from among those — since at that time, because a Commission had
-been established, I could expect nothing other than that I and others would
-be questioned about it, whereupon the defense of precisely these pieces would
-have been very easy for me — and indeed so far
+of the government than any other manner by which they obtained these writings
+before the house-search — because I handed over just such a packet of papers
+at that time; because I know with confidence that these lay together in one
+drawer, from which I took the writings I handed over; because I am certain
+that among these were contained the Statutes of the Illuminati found here,
+the Reforms of the same, the Instructiones insinuatorum, the Profession de
+foi, the two Admission-Protocols, and the two tables appended at the end —
+and I can imagine no reason why I should have separated out and withheld
+precisely these pieces printed from page 5 to 12, which I shall examine more
+closely presently, from among those — since at that time, because a Commission
+had been established, I could expect nothing other than that I and others
+would be questioned about it, whereupon the defense of precisely these pieces
+would have been very easy for me — and indeed so far
 
 --- page 9 ---
 
@@ -240,7 +240,7 @@ impermissible manner, to a harmful end?
 That I worked against the Jesuits and their power, that I lent counsel and
 action to remove them from professorships, [and] to obtain for the spiritual
 council and the school-curatorship the administration of the golden
-alms-fund, of the exercise-house, and of the Convert-fund,
+alms-fund, of the exercise-house [i.e., spiritual-exercises house], and of the Convert-fund,
 
 --- page 13 ---
 
@@ -260,11 +260,11 @@ as the grounds were true and important.
 
 That some young people, through the recommendation of the Illuminati,
 obtained ecclesiastical benefices, professorships, stipends, salaries, or
-other favors, is no crime,
+other favors, is no
 
 --- page 14 ---
 
-Perhaps they would have obtained these even without these
+crime. *) Perhaps they would have obtained these even without these
 recommendations, since they can show their own merits and the merits of
 their parents, and have had other support besides. To conclude a wrongdoing
 from this, it would first have to be proven that this favor was brought
@@ -272,8 +272,8 @@ about, through false representations, in favor of unworthy and incapable
 men, and to the prejudice of a third party who would have had
 better-founded claims to the same favor.
 
-Not a single one of these cases is known to me; the opposite must be
-established by [my] opponent, and the judge must then investigate it.
+Not a single one of these cases is known to me; the opposing party must
+produce such [cases], and the judge must then investigate.
 
 The
 
@@ -497,8 +497,8 @@ its fat. *) Long ago, experts in medicine ridiculed this generally-cited
 preparation of Aqua Toffana, found in several books, because the pig would
 surely die first, and such distilled fat would have so highly unpleasant an
 odor that anyone would notice it. Archenholz and several others have given
-more probable ingredients for it, without anyone of sound understanding
-having yet agreed to accuse these men of an intention to murder.
+more probable ingredients for it, without it having yet occurred to anyone
+of sound understanding to accuse these men of an intention to murder.
 
 The method of stamping seals consists in the well-known lead- or
 gold-amalgam, whereby the latter does not soot [i.e., blacken/tarnish] so
@@ -575,15 +575,14 @@ character, and thus rewards the services I have faithfully rendered to the
 state and to the prince for 10 years!
 
 Yet even this, and the table printed under no. 2, ad pag. 163, which was
-written only by one friend for a friend, and which contains my outward
+written only by one friend for friends, and which contains my outward
 bodily form, my moral character, my abilities and passions, and also those
-of my parents, and which I, so far as it concerns my portrayal, [found
-accurate] for
+of my parents, and which I, so far as it concerns my portrayal, declare for
 
 --- page 31 ---
 
-that time, as, on the whole, quite fitting to my accustomed frankness —
-this publication too I forgive to my enemies, and I only wish that thereby
+that time, with my accustomed frankness, to be quite accurate — this
+publication too I forgive to my enemies, and I only wish that thereby
 the suffering brought, through my carelessness, upon some former
 Order-brothers in Bavaria might be lessened. Since I am just now on the
 subject of my carelessness, allow me, best friend, to say a word to you
@@ -599,17 +598,17 @@ deliberately re-
 
 --- page 32 ---
 
-tain [them]. Nor did I retain the letters printed from p. 388 to the end —
-these may well have been stuck among the mass of my other papers; but I
-would, had the day of the house-search been precisely fixed for me — as I
-was in fact assured of it 8 days beforehand — as little have concealed
-these as those from p. 1 to p. 164, because they, from my confidence in the
-goodness of my and our cause, seemed to me not in the least questionable,
-in the order in which they lay, together with the other relevant suppressed
-writings — because, without wishing any offense to the government, I could
-never even entertain the thought that one would, in my absence, without
-witnesses, without appointing an advocate for me, break open my rooms and
-cabinets by an incompetent judge and by my very enemies, and remove my
+tain [them]. Those following from p. 388 to the end may well have been
+stuck among the mass of my other papers; but I would, had the day of the
+house-search been precisely fixed for me — as I was in fact assured of this
+8 days beforehand — as little have concealed these as those from p. 1 to p.
+164, because they, from my confidence in the goodness of my and our cause,
+seemed to me not in the least questionable, in the order in which they lay,
+together with the other relevant suppressed writings — because, without
+wishing any offense to the government, I could never even entertain the
+thought that one would, in my absence, without witnesses, without appointing
+an advocate for me, have my rooms and cabinets broken open by a judge
+lacking jurisdiction [incompetent], and by my very enemies, and remove my
 writings at pleasure. Moreover, even without these writings found [there],
 the persecution would have had no end,
 
@@ -632,9 +631,9 @@ surely
 
 --- page 34 ---
 
-not have allowed those in Munich six months' time, when it was no secret
-to them at all which writings had been found, they could often enough
-have fled.
+not have allowed those in Munich six months' time, during which, since it
+was no secret to them at all which writings had been found, they could
+often enough have fled.
 
 Everything else, which I have not touched upon here in this letter —
 already long enough — and which nevertheless, in the printed Original
@@ -708,12 +707,12 @@ me upon your return; should you have to pay any fee for it, I shall
 reimburse this at once.
 
 I wish you all good things; your salary, which you surely deserve, since
-you can administer the Lottery from here as well, and my modest powers
+you can administer the Lottery from here as well, and if my modest powers
 could contribu-
 
 --- page 38 ---
 
-te somewhat, so that it should never be lacking in
+te somewhat, then it should never be lacking in
 diligence on my part.
 
 Should you, however, wish to go further from here, you would make me very
