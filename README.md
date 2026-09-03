@@ -68,8 +68,8 @@ Three volumes, three different kinds of thing:
   validated the method; full correction then proceeded page by page with every
   change logged, so any page can be independently checked against the scan.
 - **Independently verified translation.** The *Anhang* translation has been
-  through multiple independent adversarial verification passes (September
-  2026): each pass produced a fresh translation from the corrected German and
+  through five independent adversarial verification passes (September 2026):
+  each pass produced a fresh translation from the corrected German and
   compared it against the literal and scholarly passes published here. Every
   confirmed discrepancy was fixed in the files as published.
 - **Three translation layers.** A structure-preserving *literal* translation, a
@@ -127,9 +127,10 @@ Two surveys guided the tooling choices:
   prompt won for the literal pass; DeepL was rejected as built for modern
   text. For the Anhang, the correction and all three translation passes
   (literal, scholarly, narrative) were produced by Claude (Sonnet 5). The
-  result was then verified adversarially by four independent models: Grok
-  4.6, GPT-5.5 (High Thinking), and Gemini 3.7 Flash on the full document,
-  and Kimi K3 on a nine-page sample. The roster is chosen per document for
+  result was then verified adversarially by five independent models: Grok
+  4.6, GPT-5.5 (High Thinking), Gemini 3.7 Flash, and DeepSeek v4.0 Flash
+  (0731) on the full document, and Kimi K3 on a nine-page sample. The roster
+  is chosen per document for
   complementary strengths (German competence, long-context handling,
   logic-level reasoning), so no single model's blind spots go unexamined;
   later documents may use a different set.
