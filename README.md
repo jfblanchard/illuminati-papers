@@ -27,10 +27,10 @@ researcher's translation of the main volume's first ~60 pages (Terry Melanson,
 2008-2020, from a French intermediary), but no complete scholarly English
 translation of any of the three documents has ever existed. The *Anhang* has no
 known English translation, complete or partial; this is the first. (Surveyed
-August 2026: library catalogs, archive.org, German national catalogs, the
-Source Library collection, and other web-search-indexed records; WorldCat and
-HathiTrust were checked via indexed search results, not their own catalog
-interfaces.)
+August 2026 and re-checked September 2026: the Library of Congress, archive.org,
+German national catalogs, the Source Library collection, and other
+web-search-indexed records; WorldCat and HathiTrust were checked via indexed
+search results, not their own catalog interfaces.)
 
 This repository publishes the first complete, verified, fully traceable English
 translation of the *Anhang*, built from the original scans rather than from
