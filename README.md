@@ -142,5 +142,5 @@ works published under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/
 
 ---
 
-*This project is historical scholarship. It translates and publishes the
-primary sources — it does not speculate about secret societies.*
+*This project is historical scholarship: it translates and publishes the
+primary sources.*
