@@ -32,10 +32,10 @@ German national catalogs, the Source Library collection, and other
 web-search-indexed records; WorldCat and HathiTrust were checked via indexed
 search results, not their own catalog interfaces.)
 
-This repository publishes the first complete, verified, fully traceable English
-translation of the *Anhang*, built from the original scans rather than from
-another translation, with the Nachtrag and the main volume in progress (see
-Status).
+This repository publishes the **first complete, verified, fully traceable
+English translation** of the *Anhang*, built from the original scans rather
+than from another translation, with the Nachtrag and the main volume in
+progress (see Status).
 
 ## The three documents
 
