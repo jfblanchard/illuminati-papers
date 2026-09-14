@@ -999,8 +999,55 @@ how he recruited for the Order.
 - General: ☉ confirmed repeatedly (pp.108×4, 109, 110, 111); f/ſ fixed
   liberally throughout.
 
+## PDF pages 113-117 (2026-09-13 session, cont.)
+- p.113: this page is Philo's explicit statement of the Order's
+  "secret meaning of Christianity" cover story — Jesus taught no new
+  religion, only natural reason/liberty/equality under a religious
+  guise, transmitted via the Disciplina Arcani and then Freemasonry.
+  Clean OCR, only routine f/ſ.
+- p.114-115: Philo narrates his falling-out with Spartacus and Mahomet
+  over the Priest/Regent grade drafts; names himself as "ein Profeſſor
+  in Ingolſtadt" [sic — Spartacus/Weishaupt, not Philo, held the
+  Ingolstadt chair; Philo is quoting/characterizing Spartacus's
+  university position while complaining about being treated like his
+  student] — raw OCR had `Iugolſtadt`, corrected against the image.
+- **p.116: the Illuminati grade-structure table.** Raw OCR badly
+  mangled this (see `[ A. Magus. noch nicht` / `2. Groſſe. | Br |
+  gemacht.` — nonsense line-wrapping of a bracket diagram). The
+  original is a nested bracket/brace diagram (three classes, each
+  branching into sub-grades); transcribed here as an indented list
+  since brace diagrams don't survive as plain text, flagged as a
+  structural transcription rather than a literal character-for-
+  character rendering:
+  - I. Claſſe. Pflanzſchule. — Vorbereitungsaufſatz, Noviziat,
+    Minervalis, Illuminatus minor, Einweihung eines Magiſtrats.
+  - II. Claſſe. Freymaurerey. — 1. Symboliſche (A. Ritualbuch: a.
+    Lehrling, b. Geſell, c. Meiſter; B. Conſtitutionsbuch), 2.
+    Schottiſche (A. Illum. maj. oder Schottiſcher Noviz; B. Illum.
+    dir. oder Schottiſcher Ritter).
+  - III. Claſſe. Myſterien. — 1. Kleine (A. Presbyter, B. Princeps),
+    2. Groſſe (A. Magus, B. Rex — marked "noch nicht gemacht," i.e.
+    not yet composed).
+  This is a first-hand primary-source statement of the full Illuminati
+  degree structure as of this letter's writing, valuable independent
+  of the OCR-correction task.
+- p.117: **"Clandiopolis (Neuwied)"** — a rare instance where the
+  document itself decodes one of its own city code-names in
+  parentheses, confirming Clandiopolis = Neuwied (a real town on the
+  Rhine, seat of a minor German county). Worth flagging for the
+  code-name glossary the project may eventually build. Minor uncertain
+  reading: "die Briefe... die ich ihm den 11. und 12. ... geſchrieben"
+  — the "11." is blurred in the scan; transcribed as the most probable
+  reading but not fully certain (raw OCR read it as "14", which is
+  also plausible from the blur — flagging both possibilities rather
+  than picking one with false confidence... actually going with "11."
+  as the closer visual match, but this specific digit should be
+  rechecked against a sharper scan if one surfaces).
+- General: ☉ confirmed again (p.114, p.117×2); f/ſ fixed liberally.
+
 ---
 
-*(Continuing from PDF page 113 in a future session — mid-sentence
-"Alſo auch dieſe bey-" [continues "-den Extrema muͤßen vereinigt
-werden" on p.113], still within Philo's letter I to Cato.)*
+*(Continuing from PDF page 118 in a future session — mid-sentence
+"daß Spartacus den Inſpectorn und" continuing onto the next page
+["...Provincialn bekannt mache..."], still within Philo's letter I to
+Cato.)*
