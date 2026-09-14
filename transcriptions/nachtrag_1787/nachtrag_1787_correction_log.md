@@ -1231,13 +1231,61 @@ usual "Epheſus"/"Athen" code-city convention).
   `felicirte` corrected from raw OCR's `kelicirte` (f/k misread, not a
   long-s issue).
 
+## PDF pages 143-147 (2026-09-13 session, cont.)
+- **p.143-144: "M.x.x." pattern confirmed against the image, with a
+  new observation.** The number of "x"s varies by context — "M.x.x.x."
+  (a lodge of ~50 brothers), "M.x.x." (individual members), "400 M.x."
+  (a headcount) — which rules out a fixed abbreviation and instead
+  suggests **OCR is rendering a real Masonic typographic convention**:
+  French/German Masonic writing traditionally marks abbreviations with
+  raised triple-dots (e.g. "F∴M∴" for "Franc-Maçon"), and those raised
+  dots plausibly render as "x" under this OCR. Flagged as a working
+  theory, not confirmed — transcribed literally as printed ("M.x.x.",
+  etc.) rather than normalized, so the pattern stays auditable. This
+  is the same notation seen once before on PDF p.82 ("M.x.x. in
+  Oeſterreich"), now with much more context.
+  Also confirms real places: **Tyrol, Tridentiniſchen (Trentino)**,
+  and that the Vienna/Tyrol lodges' "Conſtitution von Berlin" tie to
+  the real historical Zinnendorf system (cf. p.124's "zinnendorfiſche
+  Syſtem").
+- p.144: several new redacted names in a numbered-code format
+  distinct from the "===" convention — "6. (G=) 17. (T=)", "15.
+  (Profeſſor S==)... kuͤnftiger Schwager des Spartacus" (a real family
+  connection: Spartacus/Weishaupt's future brother-in-law), "18.
+  (Sch=) Hauptmann P===", "18. (Pilati)" — a numbered-cipher-plus-
+  redacted-initial scheme, apparently specific to this letter/writer
+  (Hannibal). Corrected raw OCR's ungrammatical "hieſige Leute en
+  alle lieber" to "hieſige Leute wuͤrden alle lieber" (image confirms
+  "wuͤrden").
+- p.145: letter 1 (Hannibal, addressed "Liebſte Areopagiten!") closes
+  with **"Samos den 14. Dimeh 1182. Jezdedgerd."** — the first time
+  this document names the calendar era itself: "Jezdedgerd" is the
+  real historical Yazdegerd era (a Zoroastrian/Persian calendar
+  reckoning), confirming the source of the Illuminati's exotic month
+  names (Benmeh, Dimeh, Pharavardin, etc.) used throughout this
+  document. A brief marginal note "von der Handſchrift des Cato"
+  (in Cato's own hand) follows, then letter 2 opens.
+- p.146: letter 2 opens ("Liebſte Areopagiten!" again — same salutation
+  as letter 1). Confirms real Masonic-history detail: the Samos lodge
+  received its constitution "von Berlin aus durch Zinnendorf" but only
+  the first three (Craft) degrees, with promised higher degrees never
+  sent — consistent with real disputes in the historical Zinnendorf
+  Rite/Grand Lodge system.
+- p.147: **real, undisguised Italian cities** — Meiland (Milan),
+  Cremona, Pavia — as Hannibal's recruiting itinerary, plus a "Graf
+  von 21. (W==)" described as a leading government minister. Notes
+  no lodge exists yet in Milan or Cremona, contrasted with Pavia's
+  university. Ends "NB." as a catchword for a footnote continuing on
+  the next page.
+- General: ☉ confirmed again (p.146); f/ſ fixed liberally throughout.
+
 ---
 
-*(Continuing from PDF page 143 in a future session — mid-sentence
-"Hier in Samos iſt wirk-" continuing onto the next page
-["...lich eine ▢ von beylaͤufig..."], within Hannibal's letter I,
-Section IV. Note: the raw OCR here contains "M. X. x. X." /
-"M. x. x." repeatedly — the SAME redaction pattern as PDF p.82's
-"M.x.x." — confirm carefully against the image whether this is a
-lodge/masonic-degree notation distinct from ▢/☉, and transcribe
-consistently once confirmed.)*
+*(Continuing from PDF page 148 in a future session — the "NB."
+footnote about Graf T== at Samos, continuing "Dem Grafen T== zu Samos
+habe ich im Falle meines Todes..." Raw OCR shows a NEW letter/section
+starting partway down this page — "V. Ein Brief von Marius an
+Hannibal" with header "C. M. H. S. p. d." — confirm against the image
+whether Section IV (Hannibal, "Zween Briefe") truly ends after just
+these two letters and Section V begins, or whether the raw OCR's "V."
+is itself a misread.)*
