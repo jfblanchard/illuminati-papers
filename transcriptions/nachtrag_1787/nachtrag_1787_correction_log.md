@@ -787,7 +787,138 @@ list, and the first appearance of "Muſæus"
 
 ---
 
-*(Continuing from PDF page 74 in a future session. Mid-sentence: "Wenn's ſo fort geht, und noch aͤrger" — a
-catchword-fragment "an=" was visible at the bottom of PDF p.73, likely
-previewing something like "anwaͤchſt"; not yet confirmed against the
-PDF p.74 image.)*
+## PDF pages 74-87 (2026-09-13 session)
+- **p.73→74 catchword resolved**: the "an=" fragment previews
+  "anwachſet" (not "anwaͤchſt" as guessed) — "Wenn's ſo fort geht, und
+  noch aͤrger anwachſet, ſo brauche ich Secretarios an meiner Seite."
+  Confirmed against the p.74 image.
+- p.74: `Epicet` (raw OCR, inconsistent) → `Epictet`, matching the
+  spelling used consistently on later pages (78, 79, 81, 87) and the
+  image's clear "Epi-ctet" hyphenation — standardized throughout this
+  batch. Uncertain reading flagged: "Laſſen ſie mit Ertheilung des
+  Rittergrads noch auf eine kurze Zeit **Innſtand** halten" — raw OCR
+  and my own first image read both show a doubled-n form; grammatically
+  "Anſtand halten" ("to hold off/delay") fits the sentence far better
+  than any reading with "Innſtand" or "in Stand," and Fraktur's ornate
+  capital A can render like "In" at low contrast. Transcribed as
+  **"Anſtand"** but flagging this as a judgment call, not a certain
+  read — worth rechecking against a sharper scan if one becomes
+  available.
+- p.76 (letter 15 opens): raw OCR's `Subftituiere` (wrongly capitalized
+  mid-sentence, f/ſ confusion) → `ſubſtituiere`. This page contains
+  Weishaupt's explicit claim that Freemasonry is "verborgenes
+  Chriſtenthum" (disguised/hidden Christianity) and that his hieroglyph
+  explanation will show this — noted as a substantively important
+  passage, not just an OCR fix.
+- p.77: raw OCR's stray `ö` character after "Munterkeit auf viele
+  Zeit." dropped as print noise (ink artifact, not text); OCR's `k.`
+  (misread numeral) → `1.` in the enumerated "1. ... 2. ..." list about
+  Philo's 500 recruits.
+- p.79: `III. Major` → `Ill. Major` (same recurring Illuminatus-grade
+  misread pattern, now also confirmed lowercase "major" on p.83 — see
+  below). New unresolved abbreviation: letter 16's recipient code is
+  still "C." (Celsus, per p.64), but letter 17 introduces **"Cat."**
+  as a distinct code ("Sp. Cat. S. d.") — not yet resolved to a named
+  figure; flagged, not guessed.
+- p.80: raw OCR badly garbled the sentence end — `Philo hat 1 ſchon
+  erſtaunlich gefehlt: und wenn ich F ai gewinne` — corrected against
+  the image to `Philo hat hierinn ſchon erſtaunlich gefehlt: und wenn
+  ich F== nicht gewinne`. Two new redacted-name instances this batch:
+  `A==` (p.80, "Mahomet, und A== ziehen nun gelindere Seiten auf") and
+  `F==` (p.80-81, referenced twice) — per house convention, not
+  guessed.
+- p.82: new redaction-punctuation variant **"M.x.x."** (using lowercase
+  x's rather than the usual "===" dashes) for a redacted
+  organization/entity name ("wie es mit der M.x.x. in Oeſterreich
+  ſteht") — likely the same convention family as the "M===" seen
+  elsewhere in this document, transcribed as printed. Also new redacted
+  name `G===` ("der von Chryſippus vorgeſchlagene G==="). Letter 17
+  opens here with a new recipient code, "Cat." (see above).
+- p.83: raw OCR's `Cullus` ("Hier folgt das Soli von Cullus") is a
+  misread — the image clearly shows **`Lullus`**, a name not otherwise
+  seen yet in this document; corrected against the image. `III. major`
+  → `Ill. major` (lowercase "major," consistent with p.79's usage).
+- p.84-85: **editorial footnote by the Nachtrag's own compiler**,
+  breaking from Spartacus/Weishaupt's letter to name him directly:
+  "Welch eine Freude hier **Weishaupt** bezeigt, daß es ihm gelungen,
+  ſo viele Katholiken, Proteſtanten und Reformierte durch ſeine fein
+  angelegten Betruͤgereyen zu hintergehen. Er ruͤhmt ſich
+  wiederholtermalen, daß er die chriſtliche Religion uͤberhaupt zu
+  untergraben ſuche, und ſchmeichelt ſich ein neuer Glaubensſtifter zu
+  werden." — followed by a Latin quotation (Matthew 7:15 /
+  1 Timothy-style pastiche): "Attendite a falſis Prophetis, qui veniunt
+  ad vos in veſtimentis ovium, intrinſecus autem ſunt lupi rapaces...
+  Sunt impii — ſcelerati — contaminati — homicidæ — fornicarii —
+  maſculorum concubitores — plagiarii — mendaces — et perjuri..." Raw
+  OCR mangled this passage heavily (`intrifecus`, `e gnoſcetis 808`,
+  `(celeruti`, `homicide`, `pligiarii`, `fans dofrinz adverfztür`); all
+  corrected against the image. **Flagged as not independently verified
+  against a critical edition** (same standard as the Machiavelli/Raynal
+  French quotations, pp.59/65-66) — transcribed as legible from the
+  scan. This is a rare and notable case of the volume's editor directly
+  interjecting to identify Weishaupt by name mid-letter.
+- p.87: letter 19 references **"Cronwell"** (not the more familiar
+  "Cromwell" spelling) as a codename — confirmed against the image, not
+  an OCR artifact; this appears to be the print's own spelling.
+  Flagged as an oddity worth a second look but transcribed as printed.
+- General across this batch: f/ſ long-s confusion fixed liberally
+  without itemizing (per standing practice); "Prieſter-Grad,"
+  "Prieſtergrades" hyphenation/spacing normalized to match the image
+  where OCR varied; ☉ symbol confirmed 4 more times (pp.74, 76, 81, 84,
+  86, 87 — both standalone and as "☉s" in compounds like "☉s Sachen,"
+  "☉s Verdruß").
+
+## PDF pages 88-97 (2026-09-13 session, cont.)
+- p.88: raw OCR's `des s erfodert` → `des ☉s erfodert` (dropped-symbol
+  pattern, image confirms). Enumerated list `1) ... 2) ... 3) ... 4)`
+  reproduced as printed.
+- p.90-91 (letter 21): `A - -` redaction confirmed by image (space-dash
+  convention, distinct from the `==`-style redactions used for other
+  names in this document) — raw OCR misread one instance of it as the
+  digit `4` ("4 ſchrieb mir einen furioſen Brief"), corrected against
+  the image to `A-- ſchrieb mir...`.
+- **p.92-96 (letter 22): the "▢▢ = Loge" hypothesis is now effectively
+  confirmed, not just high-confidence.** This letter is explicitly about
+  forming a Masonic lodge-confederation ("ein Syſtem confœderirter ▢▢
+  herzuſtellen") to get ahead of and destroy the real historical
+  "ſtrikte Obſervanz" (Strict Observance) Masonic system, coordinated
+  through Warsaw ("Confœderation," a Polish-politics term Weishaupt
+  reapplies to lodges). Clinching detail on p.94: **"Winkel▢▢"** —
+  "Winkelloge" is a genuine period German Masonic term for an
+  irregular/clandestine lodge, and it only parses correctly with
+  ▢▢ = Logen. Given this, later single/double ▢ instances are
+  transcribed with confidence but the symbol notation is kept (rather
+  than silently normalizing to "Loge"/"Logen") so a future pass can
+  still audit each instance against the image.
+- p.94: letter 21 ends with a full date for the first time in this
+  batch — **"Epheſus den 11. Jan. 1783."** (Ephesus is Weishaupt's code
+  name for a real city, but the day/month/year is given plainly) —
+  useful chronological anchor. `Cronwell` (not "Cromwell") recurs here
+  a second time in identical spelling to p.87, reinforcing that this is
+  the print's actual spelling rather than a one-off misread.
+- p.95: **letter 23 opens "Theuerſter Cato!" — resolves the "Cat."
+  recipient-code abbreviation** first seen in letters 17-18's headers
+  ("Sp. Cat. S. d.") as addressed to Cato.
+- p.96: new redacted name `W---` ("mit W--- in Correſpondenz ſteht");
+  also names the real historical figure/context obliquely — Philo's
+  candidate for Inspector of Niedersachſen is mocked as "einen
+  Erzroſenkreutzer, einen myſtiſchen Narrn" (an arch-Rosicrucian, a
+  mystical fool) — Rosicrucians are the Illuminati's real rival secret
+  society, consistent with other passages in this document.
+- p.97: **second editorial footnote naming Weishaupt directly**
+  ("Sehr oft ſchon hat Weishaupten ſein Gewiſſen ſelbſt das
+  Geſtaͤndniß abgenoͤthigt, daß er... der Regierung in die Haͤnde
+  fallen, und den Kopf verlieren duͤrfte") — the editor commenting that
+  Weishaupt's own conscience has repeatedly forced him to admit he
+  deserves to be caught and beheaded for his schemes against religion
+  and the state. Raw OCR had `Weishaupten fein Gewiffen` (f/ſ
+  confusion) and other minor garbling, corrected against the image.
+- General across this batch: ☉ confirmed repeatedly (pp.88, 90×2, 92,
+  94, 95×3, 96); f/ſ fixed liberally throughout, not itemized.
+
+---
+
+*(Continuing from PDF page 98 in a future session — mid-letter 23 (to
+Cato), main body ends on p.97 mid-sentence "vor vernuͤnftigen Men-"
+[continues "-ſchen" on p.98], with the Weishaupt-naming footnote
+running alongside at the bottom of the page.)*
