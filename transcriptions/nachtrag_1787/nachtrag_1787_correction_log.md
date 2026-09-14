@@ -1079,9 +1079,51 @@ how he recruited for the Order.
 - General: ☉ confirmed again (p.118 mid-word "☉s", p.120, p.121); f/ſ
   fixed liberally throughout.
 
+## PDF pages 123-127 (2026-09-13 session, cont.)
+- p.123: real historical names appear in Philo's own account — the
+  Order's best people in **Neuwied, Goͤttingen, Mainz, Hannover,
+  Braunſchweig, Pfalz** are named as former members of the real
+  historical Strict Observance Masonic system whom Philo personally
+  recruited across. Also names **"Boulanger"** (Nicolas-Antoine
+  Boulanger, real French anti-clerical writer) as an author whose
+  works Spartacus recommended to unsettle their best people in
+  Goͤttingen. Both details corroborate against real 18th-century
+  history rather than being document-internal code names.
+- p.124: **"das zinnendorfiſche Syſtem"** — a real reference to Johann
+  Wilhelm von Zinnendorf's rival Masonic rite/system, in Philo's list
+  of four things he could deliver "if given a free hand": (1)
+  important intelligence to the Order, (2) power over or destruction
+  of the Strict Observance, (3) major influence over the Zinnendorf
+  system, (4) worldly power and wealth. Clean OCR here beyond routine
+  f/ſ.
+- **p.125: second confirmed instance of the 500-count** (raw OCR again
+  read "300 armen Leuten" — image clearly shows **"500 armen
+  Leuten"**, matching the 500 figure confirmed twice already on
+  pp.109/111 in letter I). This is now three independent, mutually
+  consistent instances of "500" that raw OCR corrupted differently
+  each time (800, 300, and correctly matching only by coincidence
+  elsewhere) — strong grounds to trust the image over the OCR whenever
+  they conflict on a number in this document. Letter "2" (Philo to
+  Cato) closes "Ihres ewig treuen Philo."
+- **p.126: letter 3 opens with a real, undisguised place and date —
+  "Caſſel den 25. Febr. 1783. bis zum 26. Maͤrz — 31."** (Kassel, a
+  real German city, spelled out plainly rather than under a code
+  name — notably breaking the pattern of "Epheſus"/"Athen"/codenamed
+  cities used elsewhere). The letter also switches to formal "Sie"
+  address (rather than the "ſie"/informal used in earlier letters),
+  consistent with the cold, formal tone of the opening ("Leſen Sie ihn
+  ohne Leidenſchaft... kalt und unpartheyiſch").
+- p.127: letter 3 uses a distinctive **rhetorical back-and-forth
+  structure** — short one-word paragraph headers "Sie" / "Ich" used as
+  a kind of internal sub-heading before each side's case is laid out
+  (transcribed exactly as this formatting appears in the image, since
+  it's a real structural/rhetorical device, not noise).
+- General: ☉ confirmed repeatedly (pp.123×2, 124×3, 125×2, 127); f/ſ
+  fixed liberally throughout.
+
 ---
 
-*(Continuing from PDF page 123 in a future session — mid-sentence
-"...wenn man mir nicht Genugthuung ver-" [continues "-ſchafft" or
-similar on p.123], still within Philo's letter 2 to Cato, right after
-the blackmail-threat list.)*
+*(Continuing from PDF page 128 in a future session — mid-sentence
+"Ich bin mir bewußt, nach beßtem Gewiſſen und nach feſten Plane"
+continuing onto the next page, still within Philo's letter 3, the
+formal "Sie"/"Ich" point-counterpoint section.)*
