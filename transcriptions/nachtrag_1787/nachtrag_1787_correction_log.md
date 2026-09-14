@@ -1163,12 +1163,48 @@ usual "Epheſus"/"Athen" code-city convention).
 - General: ☉ confirmed repeatedly (pp.128, 129×2, 130×2, 131, 132);
   f/ſ fixed liberally throughout.
 
+## PDF pages 133-137 (2026-09-13 session, cont.)
+- p.133: confirmed — **letter 4 opens here** ("Beßter Cato!"), a
+  reconciliation letter after letter 3's threats, dated "Nentershauſen
+  den 26." (continuing the undisguised-place-name pattern from letters
+  3-4).
+- p.134: a notable character-assessment passage — Philo runs down
+  each Areopagite by name with a one-line evaluation (Campanella,
+  Averroes, Minos, Cleanthes, Roscius, Epictet, Epimenides), giving a
+  rare candid internal HR-style review of the Order's own leadership,
+  presumably useful for cross-referencing against known Illuminati
+  membership identifications in secondary literature (not attempted
+  this session).
+- p.135: **"Schloͤzer"** — a real, undisguised historical name (August
+  Ludwig von Schloͤzer, the prominent Goͤttingen historian/publicist)
+  — Philo says he sent an essay to Schloͤzer for publication but
+  doubts he'll print it unaltered "da er voll Perſoͤnlichkeiten iſt"
+  (since he's full of personal animus/opinions). Also real places
+  "Pohlen" (Poland), "Curland" (Courland), "Wien" (Vienna, undisguised
+  — cf. "Athen" used elsewhere as a code name, showing the code-name
+  convention is inconsistently applied).
+- p.136: new redacted name `A==` in a list of Areopagites whose
+  silhouettes Philo has collected ("Spartacus, A==, Mahomet,
+  Alcibiades habe ich"). Philo's tone escalates sharply after
+  receiving a "Verhaltungs-Befehl" (conduct order) from Spartacus,
+  raising the possibility Spartacus himself might be a disguised
+  Jesuit.
+- p.137: letter III (numbered "4" internally, second reconciliation
+  attempt) closes with Philo threatening to destroy the whole system
+  if not satisfied within 4 weeks. **Major structural break: Section
+  III opens — "Zween Briefe von Epictet"** ("Two letters from
+  Epictet"), restarting letter numbering at "1." with a Latin
+  salutation **"Spartaco S. d. p. Epictetus."** (Epictetus sends
+  Spartacus greetings). This is the third named correspondent-section
+  in the Nachtrag so far (Spartacus's own letters, then Philo's,
+  now Epictet's) — consistent with the document being organized as a
+  set of "case files" per historical figure whose seized letters were
+  published.
+- General: ☉ confirmed again (pp.133, 136×2); f/ſ fixed liberally.
+
 ---
 
-*(Continuing from PDF page 133 in a future session — mid-sentence
-"Trauen / Sie" continuing onto the next page ["Sie nicht auf mein
-weiches Herz..."], still within Philo's letter 3/4 — note the raw OCR
-shows a new letter number "4." heading around this point
-("4. Nentershausen den 26;") that has NOT yet been confirmed against
-the image; check carefully whether p.133 opens a new numbered letter
-or continues letter 3.)*
+*(Continuing from PDF page 138 in a future session — mid-sentence
+"ſo ſitzt eigentlich dort die Brut, welche alles Boͤſe" continuing
+onto the next page ["...ausheckt..."], within Epictet's letter 1 to
+Spartacus, Section III.)*
