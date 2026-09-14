@@ -1121,9 +1121,54 @@ how he recruited for the Order.
 - General: ☉ confirmed repeatedly (pp.123×2, 124×3, 125×2, 127); f/ſ
   fixed liberally throughout.
 
+## PDF pages 128-132 (2026-09-13 session, cont.)
+Letter 3 (Philo) continues — this turns out to be a single letter
+written across several sittings/locations over five weeks, each
+dated and headed with a real place name (a notable departure from the
+usual "Epheſus"/"Athen" code-city convention).
+- p.128: `nach feſten Plane` corrected to `nach feſtem Plane` (case
+  agreement — image confirms the dative ending, raw OCR's line-noise
+  obscured it).
+- p.129: lettered list (a) through (g) of what Philo's secret
+  conferences have put him in a position to do — includes b) "Dem ☉
+  Natur-Geheimniſſe mittheilen zu laſſen" and e) "Einen freyen Handel
+  und Privilegien in Daͤnnemarkt, Holſtein ꝛc." (real polities:
+  Denmark, Holstein). New redacted name `P== E= von H==`.
+- p.130: unresolved abbreviation **"R†"** ("die deutſche R†, die uns
+  taͤglich gefaͤhrlicher werden") — same dagger-footnote pattern as
+  "R.†" on p.118, again with no footnote text visible; strengthens the
+  guess that "R" = Roſenkreutzer (Rosicrucians), the recurring rival
+  society, but still unresolved/flagged, not asserted. New dateline:
+  **"Braunſchweig den 10. Maͤrz"** — a real city, undisguised, like
+  "Caſſel" on p.126. New redacted name `H== F=== von B==`.
+- p.131: another real, undisguised dateline, **"Nentershauſen den 26.
+  Maͤrz"** (a real small town in Hesse). Mentions **Accacius** wanting
+  addresses in Italy for "den Herrn M====" to research "in den
+  italieniſchen Kloͤſtern" (in Italian monasteries) — sonderbare
+  Nachrichten (strange reports) said to lie there. Line signed with an
+  uncertain redacted initial, transcribed as **"K==."** — raw OCR read
+  this as "B", my own image read leans "K" but the glyph is
+  ambiguous/blurred; flagged as genuinely uncertain rather than
+  resolved either way.
+- **p.132: two real historical names appear plainly, not redacted —
+  "Wolter, Leveling &c."** — named as people Spartacus/the Order
+  treated with "unverzeihlichen Unbilligkeiten" (unforgivable
+  injustices), in the context of Philo threatening to expose the
+  Order's founding history and Weishaupt's own edited/"moderirt"
+  principle-drafts. Worth flagging as a lead for the project's
+  eventual index of real names in the document — these were not
+  spot-checked against secondary Illuminati-affair literature this
+  session. New redacted name `F==` (a different, shorter redaction
+  than the `F===` on p.130 — kept distinct per the image).
+- General: ☉ confirmed repeatedly (pp.128, 129×2, 130×2, 131, 132);
+  f/ſ fixed liberally throughout.
+
 ---
 
-*(Continuing from PDF page 128 in a future session — mid-sentence
-"Ich bin mir bewußt, nach beßtem Gewiſſen und nach feſten Plane"
-continuing onto the next page, still within Philo's letter 3, the
-formal "Sie"/"Ich" point-counterpoint section.)*
+*(Continuing from PDF page 133 in a future session — mid-sentence
+"Trauen / Sie" continuing onto the next page ["Sie nicht auf mein
+weiches Herz..."], still within Philo's letter 3/4 — note the raw OCR
+shows a new letter number "4." heading around this point
+("4. Nentershausen den 26;") that has NOT yet been confirmed against
+the image; check carefully whether p.133 opens a new numbered letter
+or continues letter 3.)*
