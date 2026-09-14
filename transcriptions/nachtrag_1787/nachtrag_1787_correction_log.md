@@ -963,8 +963,44 @@ list, and the first appearance of "Muſæus"
   Illuminatus-grade abbreviation family alongside "Ill." and "III."
   (misread).
 
+## PDF pages 108-112 (2026-09-13 session, cont.)
+Philo's letter I to Cato continues — his own first-person account of
+how he recruited for the Order.
+- **p.109: two significant number corrections against raw OCR, both
+  verified carefully against the image (numbers are exactly the kind
+  of error worth double-checking).** Raw OCR read "800. Menſchen" for
+  how many people Philo ended up handling — the image clearly shows
+  **"500."** (a 5, not an 8). Raw OCR also read "6. Stunden taͤglich"
+  for how long Philo worked on the Order each day — the image clearly
+  shows **"16. Stunden"** (sixteen hours, not six) — "arbeitete...16.
+  Stunden taͤglich fuͤr den ☉." Both corrected against the image, both
+  re-checked a second time given the stakes of getting a number wrong.
+- p.109: `ſtri&te` (raw OCR ampersand-corruption) → `ſtricte`
+  ("untergrub die ſtricte Obſervanz" — undermining the real historical
+  Strict Observance Masonic system, consistent with letter 22's
+  confederation scheme).
+- p.110: `UI` (raw OCR) → `▢▢` ("legte ich Verſammlungen und ▢▢ an" —
+  another confirming instance of the now-resolved ▢=Loge reading).
+- p.111: raw OCR read "unter 300. treuen Untergebenen" — image clearly
+  shows **"unter 500. treuen Untergebenen"** (500, matching the count
+  on p.109 — internally consistent once corrected, whereas the raw
+  OCR's mismatched 800/300 were not). Also `A=` → `A--` (redaction
+  convention, consistent with other A-- instances in this document).
+- p.112: this page contains Philo's own detailed first-person account
+  of *fabricating* the "secret meaning of Christianity" cover story for
+  the Priest and Regent grades — essentially the origin story, in his
+  own words, for the same claim Spartacus made independently back on
+  p.76 (letter 15). Notable historically as it reads as a cold,
+  deliberate construction of a religious narrative for recruitment
+  purposes ("man muͤſſe eine Erklaͤrung der chriſtlichen Religion
+  erfinden, die den Schwaͤrmer zur Vernunft braͤchte, und den
+  Freygeiſt bewoͤge... dieß zum Geheimniß der Freymaurerey machen").
+  No OCR issues of note on this page beyond routine f/ſ.
+- General: ☉ confirmed repeatedly (pp.108×4, 109, 110, 111); f/ſ fixed
+  liberally throughout.
+
 ---
 
-*(Continuing from PDF page 108 in a future session — early in Philo's
-letter I to Cato, mid-sentence "...die ihm ſo weſentliche" continuing
-onto the next page.)*
+*(Continuing from PDF page 113 in a future session — mid-sentence
+"Alſo auch dieſe bey-" [continues "-den Extrema muͤßen vereinigt
+werden" on p.113], still within Philo's letter I to Cato.)*
