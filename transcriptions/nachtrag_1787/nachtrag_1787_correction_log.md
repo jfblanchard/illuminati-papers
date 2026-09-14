@@ -1279,13 +1279,59 @@ usual "Epheſus"/"Athen" code-city convention).
   the next page.
 - General: ☉ confirmed again (p.146); f/ſ fixed liberally throughout.
 
+## PDF pages 148-152 (2026-09-13 session, cont.)
+- p.148: confirmed — Section IV (Hannibal's two letters) ends after
+  the "NB." footnote (Graf T=, an emergency-contact arrangement).
+  **Section V opens: "Ein Brief von Marius an Hannibal"** (a single
+  letter this time, not "Zween Briefe"), header "C. M. H. S. p. d."
+  Real detail: Diomedes described as "der nunmehrige P. Provinzial"
+  (the now-current Provincial), living with Marius — a concrete
+  organizational-chart fact.
+  Also real: a librarian/library-borrowing anecdote (Ulrich von
+  Hutten's promotion "zum Gr. Illum." mentioned almost as an
+  afterthought amid mundane errands) — an interesting glimpse of how
+  routine and administrative Illuminati business could read.
+- **p.149: Section VI opens — "DIARIUM fuͤr den Meharmeh und Abenmeh
+  Ao. 1152. Jezded. Von der Hand- und Unterſchrift des R. Lullus."**
+  A major format shift: not letters at all, but a dated **diary/
+  meeting-log** (cf. "Soli von Lullus" mentioned back on p.83 — "R.
+  Lullus" is now given with a full first initial). Entries are
+  terse, dated lodge-meeting minutes ("Den 10ten Meharmeh. Wurde
+  allgemeine Minerval-Verſammlung... gehalten."). This format
+  continues through the rest of this batch.
+- pp.150-152: dense terse diary entries recording Illuminati/Minerval/
+  Masonic lodge meetings, admissions, and grade-conferrals under code
+  names (Pericles, Celſus, Brutus, Numenius, Ulyſſes, Menelaus,
+  Learcus, Diomedes, Architas, Dioſcorides, Pilades, Oreſtes). Real
+  place name **"Maynz"** (Mainz) again. New redacted names: `K— —`
+  (a Canonicus), `St===` (a Kammerherr/chamberlain — a Domherr,
+  cathedral canon, who per his own account had to swear at his
+  cathedral chapter installation never to become a Freemason, yet was
+  admitted here anyway), `K———` (a "fremder Br.," 3-dash variant).
+  "Ferd. Pizaro" — a code name using a real historical figure
+  (Francisco/Ferdinand Pizarro) — consistent with this document's
+  pattern of classical/historical pseudonyms.
+- **p.152: "R.x. Kreuzer" — this resolves the earlier "R." / "R†"
+  flags from pp.118 and 130.** The same diary explicitly names
+  "Roſenkreutzer" in full a few lines later ("einige der hieſigen
+  ſchwaͤrmeriſchen Roſenkreutzer ihre Zeit und ihr Geld anfangen zu
+  bereuen"), and this entry attacks "die hieſigen R.x. Kreuzer" in
+  the same breath — confirming **R = Roſenkreutzer (Rosicrucians)**
+  with very high confidence, and reinforcing the working theory (from
+  p.143-144's "M.x.x.") that "x." here represents a Masonic-style
+  raised-dot abbreviation mark (∴) that OCR/this rendering shows as
+  "x", not a literal letter. Retroactively, "R.†" (p.118) and "R†"
+  (p.130) almost certainly also mean Roſenkreutzer. Recommend noting
+  this resolution prominently if/when the earlier two flagged
+  instances are revisited in an annotations pass.
+- General: ☉ confirmed again (p.152×2); Ill./Illum. abbreviation
+  pattern continues; f/ſ fixed liberally throughout; the diary's
+  terse telegraphic style (sentence fragments, dates as headers) is
+  preserved as printed rather than smoothed into full prose.
+
 ---
 
-*(Continuing from PDF page 148 in a future session — the "NB."
-footnote about Graf T== at Samos, continuing "Dem Grafen T== zu Samos
-habe ich im Falle meines Todes..." Raw OCR shows a NEW letter/section
-starting partway down this page — "V. Ein Brief von Marius an
-Hannibal" with header "C. M. H. S. p. d." — confirm against the image
-whether Section IV (Hannibal, "Zween Briefe") truly ends after just
-these two letters and Section V begins, or whether the raw OCR's "V."
-is itself a misread.)*
+*(Continuing from PDF page 153 in a future session — mid-sentence
+"...daß hier kein Stand und Anſe-" continuing onto the next page
+["-hen gelte..."], within Section VI's "Nochmalige kurze Ueberſicht
+Athens" (Athens overview) passage, R. Lullus's diary.)*
