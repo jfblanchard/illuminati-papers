@@ -916,9 +916,55 @@ list, and the first appearance of "Muſæus"
 - General across this batch: ☉ confirmed repeatedly (pp.88, 90×2, 92,
   94, 95×3, 96); f/ſ fixed liberally throughout, not itemized.
 
+## PDF pages 98-107 (2026-09-13 session, cont.)
+- pp.98-102: letter 23 (to Cato) concludes, dated **"Epheſus den 28.
+  Jan. 1783."** Several new redacted names: `W====`, `G==`, `F==`
+  (three distinct redactions in one sentence about a "Geſandte" /
+  envoy and a payment routed through Regensburg/Munich), `D--`
+  (repeated twice), `W--` (a professor in Stuttgart — a *different*
+  redaction than the `W====` above, both on the same page; kept
+  distinct per the image, not merged).
+- p.102: letter 24 opens, header **"Sp. C."** only (no ".S.d." suffix
+  this time — first letter header in this batch without it). Content
+  is Weishaupt's detailed critique of the priest-grade vestments
+  (a small red cross worn on the left side, or a short white scapular/
+  chest-cloth bearing the red cross) and ceremony, mocking Philo's
+  design choices as "Narrheiten" (follies).
+- p.103: `III.` → `Illum.` (this document's Illuminatus-grade
+  abbreviation pattern, previously also seen as "Ill.") — "Auf den
+  Illum. major folgt der elende Schottiſche Rittergrad."
+- p.105: `▢ Hauſe` ("ihr geheimes Archiv im ▢ Hauſe") and p.106
+  `▢▢ Aſſociation` — two more instances consistent with the now-
+  confirmed ▢=Loge reading.
+- p.106: **third editorial footnote naming Weishaupt directly** —
+  "Wie weit doch Weishaupt in ſeiner Vermeſſenheit noch gekommen
+  waͤre!" — speculating how far Weishaupt's presumption would have
+  gone (soliciting the Elector's protection as a front for his
+  "verdeckte Raͤnke," concealed schemes). New redacted name `B===`
+  and its shorter variant `B---` (both on this page — "der B==
+  eclectiſchen ▢▢" and "B--- koͤnnte den Churfuͤrſten ſondiren, und
+  Celſus den B---").
+- **p.106-107: major structural break.** Letter 24 (dated 7 February
+  1783) is the last of Spartacus's (Weishaupt's) letters in this run.
+  The document then opens a new numbered section, **"II. Briefe von
+  der Hand- und Unterſchrift des Philo"** ("Letters in the hand and
+  signature of Philo") — i.e. the compilation now switches from
+  Weishaupt's correspondence to his rival co-founder Philo's (Adolph
+  Freiherr von Knigge's historical pseudonym). This section restarts
+  its own letter numbering at "I.", opening with a Latin salutation
+  **"Catoni amantiſſimo S. p. d. Philo."** ("Philo sends greetings to
+  his most beloved Cato"). Noted prominently since it changes both the
+  letter-numbering scheme and the voice of the primary source from
+  this point forward — earlier letters (1-24) were implicitly "Section
+  I," Spartacus's letters, though no explicit "I." section header was
+  ever printed for them (confirmed by re-checking — none was missed).
+- General across this batch: f/ſ fixed liberally; ☉ confirmed again
+  (p.104); "Illum. major" adds a third spelling variant to the
+  Illuminatus-grade abbreviation family alongside "Ill." and "III."
+  (misread).
+
 ---
 
-*(Continuing from PDF page 98 in a future session — mid-letter 23 (to
-Cato), main body ends on p.97 mid-sentence "vor vernuͤnftigen Men-"
-[continues "-ſchen" on p.98], with the Weishaupt-naming footnote
-running alongside at the bottom of the page.)*
+*(Continuing from PDF page 108 in a future session — early in Philo's
+letter I to Cato, mid-sentence "...die ihm ſo weſentliche" continuing
+onto the next page.)*
