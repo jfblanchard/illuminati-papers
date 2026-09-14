@@ -1202,9 +1202,42 @@ usual "Epheſus"/"Athen" code-city convention).
   published.
 - General: ☉ confirmed again (pp.133, 136×2); f/ſ fixed liberally.
 
+## PDF pages 138-142 (2026-09-13 session, cont.)
+- p.138: Epictet describes fending off a "Special-Inquiſition"
+  (formal government inquiry) into himself, and declares he's ready to
+  testify "ad Protocollum" if forced. Clean OCR, routine f/ſ only.
+- p.139: letter 1 (Epictet to Spartacus) closes, dated **"Utica den
+  13. Aſphandar 1151"** — another instance of the Illuminati's
+  Persian-derived calendar (cf. "Benmeh" p.82, "Dimeh" p.119). Letter
+  "2." opens, dated plainly "Den 1. Jan. 83," addressed to **Philo**
+  this time, not Cato — the first letter in this section addressed to
+  a different named recipient than the section's implied primary
+  correspondent.
+- p.140-142: this letter names several real, undisguised places —
+  **Coͤlln (Cologne), Wien (Vienna), Zweybruͤcker Hofe (the court of
+  Zweibruͤcken), Tuͤrkheim** — alongside code names (Tacitus, Raphael,
+  Diodor, Plinius, Asmodæus). New redacted names: `F=` (a Regierungsrat
+  he confronted over a public slander), `C==`, `W==`, `L==` (a
+  Tuͤrkheim Regierungsrat), `M==`, `A==`. Letter 2/Section III closes
+  "Ihr ergebenſter Epictet."
+- **p.142: Section III ends, Section IV opens — "Zween Briefe von
+  Hannibal"** ("Two letters from Hannibal"), continuing the
+  document's per-correspondent case-file structure (Spartacus → Philo
+  → Epictet → now Hannibal). Letter I opens "Liebſte Areopagiten!"
+  (addressed to the whole Areopagus, not one person) and is set in
+  **Samos** (another code city). This session's batch ends right as
+  Hannibal starts describing a Masonic lodge there.
+- General: ☉ confirmed again (p.138, p.139×2); f/ſ fixed liberally.
+  `felicirte` corrected from raw OCR's `kelicirte` (f/k misread, not a
+  long-s issue).
+
 ---
 
-*(Continuing from PDF page 138 in a future session — mid-sentence
-"ſo ſitzt eigentlich dort die Brut, welche alles Boͤſe" continuing
-onto the next page ["...ausheckt..."], within Epictet's letter 1 to
-Spartacus, Section III.)*
+*(Continuing from PDF page 143 in a future session — mid-sentence
+"Hier in Samos iſt wirk-" continuing onto the next page
+["...lich eine ▢ von beylaͤufig..."], within Hannibal's letter I,
+Section IV. Note: the raw OCR here contains "M. X. x. X." /
+"M. x. x." repeatedly — the SAME redaction pattern as PDF p.82's
+"M.x.x." — confirm carefully against the image whether this is a
+lodge/masonic-degree notation distinct from ▢/☉, and transcribe
+consistently once confirmed.)*
