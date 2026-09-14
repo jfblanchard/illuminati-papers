@@ -1045,9 +1045,43 @@ how he recruited for the Order.
   rechecked against a sharper scan if one surfaces).
 - General: ☉ confirmed again (p.114, p.117×2); f/ſ fixed liberally.
 
+## PDF pages 118-122 (2026-09-13 session, cont.)
+- p.118: unresolved abbreviation **"R.†"** ("Es ſteckt da voll von
+  R.†" — regarding Freemasons in Rome) — a dagger-footnote marker with
+  no corresponding footnote visible on this page (possibly cut off, or
+  the footnote symbol prints without one in this instance). "R."
+  plausibly abbreviates "Roſenkreutzer" given the document's running
+  anti-Rosicrucian theme, but this is a guess — flagged, not resolved.
+  `▢▢` confirmed again ("Circulare an die ▢▢... geſchickt").
+- p.119: letter I (Philo to Cato) closes, dated **"Den 20. Dimeh."**
+  — another Illuminati-calendar month name (cf. "Benmeh" on p.82).
+  Letter "2." opens, "Mein geliebteſter Bruder!"
+- **p.120-122: Philo's numbered list of 13 things he could do to
+  expose/damage the Order if Spartacus doesn't make amends — an
+  explicit blackmail threat, itemized.** Highlights: threatening to
+  tip off Jesuits and Rosicrucians as to who has been persecuting them
+  (item 1), to reveal how recently founded and how shakily grounded
+  the whole enterprise is (item 8), to alert "die ▢▢" to an
+  association the Illuminati are secretly behind (item 9 — another
+  confirming ▢=Loge instance), and to set off alarm in Rome via
+  princes, Numenius, and the Rosicrucians (item 13). Philo pulls back
+  at the end: "Ich erſchrecke vor dem Gedanken. So weit wird mich nie
+  Rache treiben, aber ſo viel als noͤthig iſt, meinen eigenen Ruf
+  zuſichern..." (I recoil from the thought — revenge will never drive
+  me that far, but only as much as is needed to secure my own
+  reputation). Raw OCR was reasonably clean on this stretch (mostly
+  routine f/ſ and a few numeral-formatting drops, e.g. "III" → "▢▢" on
+  p.122, `Kxzeſuiten` → `Exjeſuiten`, `Keligibſitaͤt` → `Religioſitaͤt`).
+  Flagged as one of the most historically consequential passages
+  found so far — Philo (Adolph Knigge's pseudonym, per the Section II
+  header) explicitly weighing blackmail against his former
+  co-conspirators.
+- General: ☉ confirmed again (p.118 mid-word "☉s", p.120, p.121); f/ſ
+  fixed liberally throughout.
+
 ---
 
-*(Continuing from PDF page 118 in a future session — mid-sentence
-"daß Spartacus den Inſpectorn und" continuing onto the next page
-["...Provincialn bekannt mache..."], still within Philo's letter I to
-Cato.)*
+*(Continuing from PDF page 123 in a future session — mid-sentence
+"...wenn man mir nicht Genugthuung ver-" [continues "-ſchafft" or
+similar on p.123], still within Philo's letter 2 to Cato, right after
+the blackmail-threat list.)*
