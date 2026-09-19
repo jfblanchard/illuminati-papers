@@ -193,3 +193,18 @@ works published under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/
 
 *This project is historical scholarship: it translates and publishes the
 primary sources.*
+---
+
+## Session-naming note (added 2026-09-19)
+
+This project is sometimes run in a tmux session with a shorthand name. For the
+record, the session name is arbitrary and does NOT merge projects:
+
+- This repo = the **Illuminati translation project** (research corpus, 1787 sources).
+- `MIL-HDBK-141` is a **separate** project (1962 optical handbook) in a different repo.
+- The tmux session `illum141` ran ONLY this Illuminati project; the "141" in that
+  name was a naming habit from the OTHER project, not a data merge. Don't panic if
+  you see a session name that looks like it spans two projects — it doesn't.
+- Recommended names going forward: `illum` / `illum1787` for THIS project;
+  keep `mil141` for MIL-HDBK-141. Always confirm `pane_current_path` / the repo
+  root before trusting a session name.
