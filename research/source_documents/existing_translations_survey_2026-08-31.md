@@ -218,3 +218,40 @@ folded in above) and three methodological caveats now reflected in this document
 None of these caveats overturn a verdict; they narrow the confidence on Claims
 C and E from "high" to "medium-high" / "high but incomplete as worded,"
 respectively, and are the reason cross-check tasks 4-5 above were added.
+
+## Deep catalog pass (2026-09-03 — LoC direct API, HathiTrust, WorldCat, Google Books)
+
+User requested one more adversarial pass after flagging that the Library of
+Congress had never been queried directly. This pass closes that gap and the
+WorldCat-direct gap from the prior pass. Method: LoC catalog JSON API queried
+directly (not search snippets); HathiTrust, WorldCat, and Google Books via
+search-engine queries. Results:
+
+- **LoC catalog, subject "Illuminati": exactly 4 records total**, none a
+  translation of any of the three documents:
+  1. Payson, *Proofs of the Real Existence and Dangerous Tendency of
+     Illuminism* (Charlestown MA, 1802) — English, digitized. An abstract of
+     Robison and Barruel's polemics, not a translation of the seized
+     documents; consistent with the existing partial/selective category.
+  2. Stauffer, *New England and the Bavarian Illuminati* (1918) — English,
+     digitized. Secondary scholarship (dissertation on the Illuminati scare
+     in New England).
+  3. Webster, *World Revolution* (1921) — English, digitized. Secondary
+     conspiracy history.
+  4. Donnert (2010, Peter Lang) — German. Secondary scholarship.
+- **LoC catalog title queries**: "Anhang zu den Originalschriften" → 0
+  records; "Nachtrag von weitern Originalschriften" → 0 records;
+  "Einige Originalschriften" → 1 record (the Stauffer book, which cites the
+  German title in its bibliography only). The LoC does not hold the German
+  originals of any of the three documents.
+- **HathiTrust**: no records for any of the three titles (only unrelated
+  German esoterica surfaced).
+- **WorldCat**: only secondary literature (Engel 1906 German, Melanson 2009,
+  Schings 1996, Coleman 2008, Harding 2005).
+- **Google Books**: only the German original (Strobl 1787, digitized from the
+  Austrian National Library).
+
+**Verdict: all claims hold.** No English translation of any of the three
+documents exists in any catalog searched. The qualifiers "complete,"
+"scholarly," and "known" remain load-bearing. The Payson 1802 item is the
+closest-looking threat and is not a translation of the documents.
