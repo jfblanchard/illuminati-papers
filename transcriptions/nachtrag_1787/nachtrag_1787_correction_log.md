@@ -1373,7 +1373,67 @@ pages was good; corrections are small.
 
 ---
 
-*(Continuing from PDF page 159 in a future session: mid-sentence at the
-end of p.158, "...und ſein Stolz iſt ſehr" continuing onto "gedemuͤthiget."
-within Section VII, Brutus's Quibus licet, paragraph 3 (Pythagoras'
-suspension). Paragraphs 4 and 5 follow.)*
+## PDF pages 159-168 (2026-09-20 session, cont.)
+
+Continues Section VII (Brutus's "Quibus licet", Adarmeh 1152) through its
+paragraphs 3-9, the "Diarium", and a postscript; then Section VIII (a Zwack
+quarto sheet on the chain of reporting) and the start of Section IX
+(Provincial-Berichte). The scan is low resolution (about 540 px wide), so
+n/u/a/i and dotted letters often degrade; the raw OCR errors below are
+mostly of that kind. Fixes verified against 300 dpi crops.
+
+- p.159: OCR "Il. Pericles" is printed "Il." in the scan (damaged "Br.");
+  transcribed **"Br." (flag: glyph is a damaged abbreviation)**.
+  "Redar" is "Reden" (n degraded); "frequentert" kept as printed (line-end
+  "frequen-/tert"). Printed folio 151 not transcribed. Paragraph 5 begins.
+- p.160: paragraph 5 continues. OCR "Berufsſchaͤften" reads as
+  "Berufsge-/ſchaͤften" (scan shows "ſchiften", degraded ä). **Flag**:
+  "Piſiſtratus" is printed "Piſ-/ſtratus" at the line break (one i appears
+  lost); normalized to the page's other three occurrences "Piſiſtratus".
+  "Quæſtor" (æ, as at line 914 of the corrected text). The ☉ in "im ☉ vorgeſchlagen" is
+  inked heavier than the second ☉ ("ins ☉ Syſtem"); read as the same
+  symbol. Second "vorgeſchlagen" prints as "vorgeſchligen" in the scan
+  (degraded a), normalized. Raw OCR "Dionylius", "werde"→"weide" etc.
+  are scan artifacts. "D = =" is a redacted name (Fraktur D).
+- p.161: "Maur. . . als Religions-Syſtem" (three dots printed after
+  "Maur."). "avertierte" per scan. ▢ = square symbol (the lodge at Lyon).
+- p.162: Paragraph 6 ends "wuͤr-/de mich ſehr ſchmerzen" (word split across
+  the page; p.162 opens with "de"). Confirmed by crop: "Schluͤßel" and
+  "wuͤſte" are printed with ß / single ſ respectively, kept. "B. E -" is a
+  redacted name. Paragraph 8 ends mid-word "bereu-".
+- p.163: "en werden" opens the page. Raw OCR "Teben" kept (Fraktur "Teben",
+  probably Theben). "Diarium vom 23. Meharm. bis letzten Abenmeh." (letterspaced
+  heading). Diary entries begin.
+- p.164: **Flag**: "das entfernet ihm zu ſchaden" is printed with a round
+  final s ("das"), though "daß" is what the grammar wants; kept as printed.
+  OCR "Den 3. Exped." is "Den 5." per scan. ▢▢ = two square symbols.
+  "Prieſter F = =" redacted name (Fraktur F). Page ends "Den 9. Min. Verſ.
+  fuͤr die Maurer." (catchword "Den" dropped).
+- p.165: Diary continues (Den 15-30). OCR "Nach-" catchword at the foot is
+  not part of the text. "▢, wo Learcus aufgenommen wurde" (square symbol,
+  probably a lodge).
+- p.166: Heading "Nachtrag." (letterspaced display type) is a postscript
+  to Brutus's letter, signed "Ill. Brutus mppr." (OCR "III."). **New
+  Section VIII**: "Auf einem Quartblatt ſteht von Zwackiſcher Handſchrift:",
+  a description of the reporting chain (Minervales, Magiſtrat, Illum.
+  majores, Illuminati dirigentes, Provincial, National, General). "Præfect"
+  (æ). Page ends "...berichtet an den" with catchword "Na-" not transcribed.
+- p.167: **New Section IX "Provincial-Berichte"**, item "I. Mahomets
+  Provincial-Berichte von Pannonien 1152", sub-heading "I. Morea".
+  "R. Z. (Reprochen-Zettel)": the Fraktur Z is printed like a 3 in OCR ("R. 3.");
+  crop shows Fraktur Z, matching "Zettel". "Austretten" (printed with a
+  round s). **Flag**: "Fhr v. 17. (R = = =)": "Fhr" is abbreviated
+  (unresolved), and the redacted initial in the parenthesis is ambiguous
+  between R and N; kept "R".
+- p.168: "Societæt" (æ; OCR "Societzt"). "W = = =" redacted name. Page ends
+  with the paragraph 5 of item A) Olimpia; the catchword "II" for the next
+  page (Latium) is not transcribed.
+
+---
+
+*(Continuing from PDF page 169 in a future session: item II. Latium
+of Mahomet's Provincial-Berichte for Pannonien 1152, "A.) Damiata. 1.)
+Phirro iſt noch immer der thaͤtige herrliche Mann...". Sections seen so far:
+I Spartacus letters, II Philo, III Epictet, IV Hannibal, V Marius, VI R.
+Lullus diary (pp.149-157), VII Brutus Quibus licet (pp.157-166), VIII
+Zwack quarto sheet (p.166-167), IX Provincial-Berichte (p.167- ).)*
