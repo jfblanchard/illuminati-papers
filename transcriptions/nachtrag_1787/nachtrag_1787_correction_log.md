@@ -1331,7 +1331,49 @@ usual "Epheſus"/"Athen" code-city convention).
 
 ---
 
-*(Continuing from PDF page 153 in a future session — mid-sentence
-"...daß hier kein Stand und Anſe-" continuing onto the next page
-["-hen gelte..."], within Section VI's "Nochmalige kurze Ueberſicht
-Athens" (Athens overview) passage, R. Lullus's diary.)*
+## PDF pages 153-158 (2026-09-20 session)
+
+Rendered at 300 dpi and read against the raw OCR. Raw OCR quality on these
+pages was good; corrections are small.
+
+- **Catchword fix on p.152 (earlier entry)**: the corrected text had ended
+  "...kein Stand und Anſe-". The scan shows the line ends at "Stand und";
+  "Anſe=" is the printed catchword (bottom right) for p.153's first word
+  "Anſehn". Trailing "Anſe-" removed from p.152 and p.153 now begins
+  "Anſehn gelte;". Same pattern applies to every page break here: catchwords
+  (geta=, ge=, ligen, den, hal=, gede=) and signature marks ("K", "K 2") are
+  omitted; only a genuine line-end hyphen is kept (p.155 "vorma-" / p.156
+  "ligen"; p.157 "Zuruͤck-" / p.158 "haltung").
+- p.153: OCR "Syfteme/fie/gufmerkſamer/Zweck" style long-s slips fixed;
+  "ſeitdem ſelbſt einige der hieſigen ſchwaͤrmeriſchen Roſenkreutzer" is
+  legible (the Rosicrucian reference again, see p.152 note). ▢ (lodge) x2,
+  ☉ in "erl. ☉s" (genitive, "des erlauchten Ordens"). OCR "fest" → "ſetzt".
+- p.154: OCR "Politie" → "Politic" (printed in roman type in the scan);
+  OCR dropped the ☉ after "Geiſt des" and printed "O".
+- p.155: ☉ appears twice ("vortrefflichſten ☉s Obern", "☉ Bruders").
+  OCR "Flag: te" → "klagte"; "Mißoverſtand" → "Mißverſtand".
+- p.156: list a)-h) transcribed one item per line. OCR "R)" → "f)".
+  **Printed "Erkennnen" (three n's)** in item d): confirmed by crop of the
+  scan; kept as printed, probably a compositor's error for "Erkennen".
+  Heading "Anfrage" (letterspaced display type).
+- p.157: OCR "11522" → "1152" (the date is Adarmeh 1152, as in the
+  diary heading). **New section VII: "Ein Quibus licet von der Hand- und
+  Unterſchrift des Brutus"**, dated Athen den 2. Adarmeh 1152, opening "Q. L."
+  (Quibus licet = a letter to the superiors, signed by the writer). OCR
+  "Zten Grad" → "3ten Grad" (Fraktur 3 read as z/Z). Numbered paragraphs
+  1., 2., 3. begin here and continue.
+- p.158: OCR "Fericles" → "Pericles"; "geaͤndert" and "zugehdoͤre" →
+  "zugehoͤre". **Flag**: "des K = = vom Reichs-Vicariat" (redacted title,
+  ambiguous Fraktur K/R glyph; K reads more naturally, Kurfuͤrſt is
+  plausible since the Reichsvicariat was an electoral office, but not
+  confirmed). "S = =" is another redacted name; "Br. = =" a redacted
+  brother. "Alphred" is printed with ph ("Al-/phred"), kept.
+- Diary (Section VI) ended at p.156 with the "Anfrage" and p.157 signature
+  "R. Lullus mppr." Athen, 3. Adarmeh 1152. (Section VI = pp.149-157.)
+
+---
+
+*(Continuing from PDF page 159 in a future session: mid-sentence at the
+end of p.158, "...und ſein Stolz iſt ſehr" continuing onto "gedemuͤthiget."
+within Section VII, Brutus's Quibus licet, paragraph 3 (Pythagoras'
+suspension). Paragraphs 4 and 5 follow.)*
