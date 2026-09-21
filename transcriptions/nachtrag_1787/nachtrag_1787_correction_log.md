@@ -1437,3 +1437,127 @@ Phirro iſt noch immer der thaͤtige herrliche Mann...". Sections seen so far:
 I Spartacus letters, II Philo, III Epictet, IV Hannibal, V Marius, VI R.
 Lullus diary (pp.149-157), VII Brutus Quibus licet (pp.157-166), VIII
 Zwack quarto sheet (p.166-167), IX Provincial-Berichte (p.167- ).)*
+
+---
+
+## 2026-09-20 burn-batch: PDF pages 169-238 (Section IX end, Section X begins)
+
+Method as before: 300 dpi render, page read directly, compared with raw OCR
+(which carries no page markers; printed page = PDF page minus 8), catchwords
+and signature marks dropped. Long-s, umlaut-e and ligature repair is not
+itemized. Redacted names keep the printed dash/equals style ("= = =", "- - -").
+
+Section map for this stretch: IX Provincial-Berichte of Mahomet (Latium,
+Istria; Imendingen letter) to p.173; "2. Minos" Provincial report, Dacia
+(pp.174-180); "3. Epictets Provincial-Bericht ueber Albanien" (pp.180-188);
+"4. Bericht mit der Unterschrift des Agis" (pp.189-193); "5. Fragment eines
+Berichtes ohne Anfang und Unterschrift", Picinum/Pinna/Praefectur Servia
+(pp.194-200); "6. Philos Berichte vom Monat Thirmeh 1152" (pp.200-207);
+"Bericht vom Monat Merdedmeh 1152" (pp.207-216); "Philos Bericht ueber
+Jonien, Monat Dimeh 1152" (pp.217-229, the Wilhelmsbad convent and the
+Amelius dialogue). **New Section X "Beschluss der Briefe des Spartacus"
+opens on p.229** (letters 25, 26, 27, then a "Noch ein Brief vom Weishaupt",
+Regensburg 9 Aug 1785, pp.229-238). Numbering resumes the Spartacus series
+(1-24 were pp.1-107).
+
+**Document-structure discovery.** The letters in Section X are printed with
+Weishaupt's own name (footnotes name "Weishaupt"; signed "A. Weishaupt" on
+p.238, "A. Wsb." on p.234). The footnotes on pp.233, 235, 236 are the
+publisher's editorial commentary (Bavarian Court counter-Illuminati
+apparatus), not Weishaupt's; they are transcribed in place with `*)`.
+Footnote on p.235 cites "I. Band der Original-Schriften, Seite 330"; the one
+on p.177 cites "Original-Schriften Seite 5 und 6" (women's order).
+
+Real corrections (image differs from OCR):
+- p.169 (printed 161): Latium heading; "Sougouverneur" kept as printed.
+  "Th. B." in the redacted Prinz name is printed "Th. = = = B. = =" (OCR
+  dropped the dashes).
+- p.170: printed "Iſtria" heading was missing in OCR; "3. III." added.
+  OCR "wie mir es Critolaus" -> comma inserted per print.
+- p.171: OCR "5. July" for "3. July"; image reads "5. July" (digit 5).
+  "Ptolomæeus" -> "Ptolomæus". OCR "donatbericht" -> "Monatbericht".
+- p.172: "nie ſchreiben lernen laſſen" (OCR had "nie ſchreiben laſſen lernen"
+  after my first draft, corrected against the crop). "Neodemia" -> "Nicodemia"
+  (image: "Nicodemia" in the printed line; OCR "Meodemia").
+- p.173: paragraph 9 (Areopagiten-Hand) and 10 verified. "Aflur" -> "Aſſur".
+- p.175 (printed 167): "ſub Nro 1." (OCR "Nro 2."). "2ten und 3ten" (OCR
+  "Zten"). "▢" = Loge in "unſerer ▢ den erſten bezahlt".
+- p.176: "K - - -" redacted name confirmed by crop (OCR dropped initial).
+  "Teſſin &c." kept. "unter dem ☉ Namen Antigonus Conator".
+- p.177-178: "4. Stieftoͤchter" (OCR "Stieftochter"); "ſehr ſchoͤn zeichnet"
+  (OCR "ſchon"); "Ordnung" (OCR "OrdFnung").
+- p.179: "4. bis 5. Graden" (OCR "43. bis"). "Dames Maçonerie" (OCR "Magonerie",
+  c-cedilla).
+- p.180: "3. Epictets Provincial-Bericht" (heading OCR "3. EB / Provincial-
+  Bericht"); "I. Utica" added (OCR "ies. N"). "Diſſertation".
+- p.181-183: "Eraſtus" (OCR "Eraftus"), "Seneca" (OCR "Leneca"), "Theſſalonica"
+  (OCR "Theffalonicä"), "Oxenſtirn", "Themiſius", "Crito ... Theſſ.".
+  ☉ substitutions for OCR "(D", "O", "(O", "(O)".
+- p.184-186: "Auffuͤhrung" (OCR "Au uͤhrung", a lost ligature). "Nieuwentydt"
+  (OCR "Nieuwentyat"). "Poſidonius" (OCR "Foſidonius"). "Iſſus" (OCR
+  "Ius", "Iffus"). "Mantinea".
+- p.187-188: "Hallifax", "Muͤhlhauſen", "Pædagogik", "Maximus Tyrius", "Sextus
+  Pompeius" (OCR "Pompetus"), "Xenocrates" (OCR "Kenocrates").
+- p.189: **Header block recovered**: "4. Bericht mit der Unterſchrift Des
+  Agis." (OCR ran the two together). First item is "W = =" (OCR "F.) B").
+- p.190: "M = =" (OCR "M ="), "Zinnendorfiſche" kept. "▢ Iris" = Loge "Iris"
+  (square before the name). "Br. v. T - -" redacted.
+- p.191: "Phraſeologie", "Papiere" (OCR "Parsiere"), "Buͤcher".
+- p.192: "Fama potentiæ". "Pr = F = = v. B." redacted. "Den Wunder thun" kept
+  as printed (capital D).
+- p.193: "Ffurther" kept (Frankfurther, printed Ffurther). "Agis." signature.
+- p.194: "Picinum" (heading printed letterspaced). "Spoͤttniß".
+- p.195-196: "Averroes" (OCR "Aberroes"). "Pinna (Hachenburg)". "J — H — H".
+- p.197: "Præfectur Servia", "Gaza", "Sotion" (OCR "Sotion" ok).
+- p.198-200: names "Amphyction", "Thraſeas Pætus", "Helvidius Perſeus" (OCR
+  "Helidius"), "Godofredus a Valle", "1745" (OCR "1245"), "Beaumont in
+  Arragonne", "Bellarminus".
+- p.201-202: "In 10. Tagen"; "operiren" (OCR "cperiven").
+- p.203: "Holland" heading; date "18. Auguſt 1756". "A - -".
+- p.204: "Stagyra ... N — S = =" redacted.
+- p.205: "Præfectur Picinum", "Servia" (OCR "Servi").
+- p.206: "Ueber Aeolis". "Palæſtina" (OCR "Fulæſtina").
+- p.207-208: **"Merdedmeh" report header** is a separate heading "Bericht
+  vom Monat Merdedmeh 1152. J. / Media." (OCR merged it into Philo's
+  closing). "Oeſterreich" (the Fraktur "Oe"). "Graf v. K = = =".
+- p.210-212: "Piſaurum" (OCR "Fifaurum"), "Druſus" (OCR "Dru/us"),
+  "Piſidia" (OCR "Pifidia"). "Kanzeley-Director", "1200. fl.", "25. Sept."
+- p.213-214: Greek-letter subpoints α β γ δ (OCR "x)", "8)").
+- p.215-216: quoted letter, every line opens with a low double quote (" ,,")
+  in the print, transcribed as one outer quote pair. "Prometheus".
+- p.217: "Avaris" (OCR "Zvaris"), "Dimeh 1152" (OCR "1132").
+- p.219-221: "Cheffs" kept. "Amelius" (OCR "Ameliss", "Amelins"). p.221 has a
+  smeared patch (Gerechtigkeit/wiederfahren/inclus.); the letters are
+  partly obscured in the scan. Restored as "Gerechtigkeit wiederfahren
+  laſſen" and "incluſ." from context; flagged, not certain glyph by glyph.
+- p.222-224: dialogue letters "A." = Amelius, "J." = Ich (Philo).
+  "Jeſuitiſmum" italic. "kaͤnnte" (p.223) printed with ä, kept.
+- p.226: "Ich" ... "Ja!" (OCR "Ja As.").
+- p.228: "Uniformes", "ſchroͤpferiſche Magie". "Cimon".
+- p.229: "Sinope. Hier iſt E = = Minerval geworden".
+- p.230: **OCR "30. fl." is "50. fl." in the print** (letter 26, Weishaupt
+  owes 50 fl.). Other sums confirmed: 250, 150, 170. "Epheſus den 1. Octob.
+  1784." "Lindkirchen".
+- p.231: "meine zwey Grade" (OCR "zween"); "Gruͤßen fuͤr die uͤbrige" printed
+  as read (probably "Gruͤßen ſie"; not changed).
+- p.232: "Cronwell" printed "Cronwell" (probably Cromwell as a cover name); kept.
+- p.234: **Date corrected: "J. den 2. Febr. 1785."** (OCR "1783" / spaced
+  "17 8 3"). Signature "A. Wſb." "M x. x." = Masonic dotted abbreviation.
+  "Joseph T = =".
+- p.235: OCR "Verdeuß" -> "Verdruß". Footnote OCR "Ewiſſarjen" -> "Emiſſarien".
+- p.236: headed by an asterisk ornament; Latin (Seneca, de Providentia)
+  kept in long-s, "illæſa", "reſpiciat". Footnote cites "Sandersdorf": the
+  letter was not among the papers found at Sandersdorf.
+- p.237-238: "Drexl" (OCR "Drexl"), "Bruͤn". Signature "ganz eigener /
+  A. Weishaupt." Trailing "Wenn ſie ihr Geld brauchen..." is the postscript
+  of the Regensburg letter. The trailing "XI." at the foot of p.238 is a
+  catchword; the section heading follows on p.239.
+
+Confidence: pp.169-238 read against the images; no page was copied from
+OCR unread. Only the p.221 smear and p.231/232 printed oddities are open.
+
+*(Continuing from PDF page 239 in a future session: Section XI
+"Ein Original-Revers" (Iſocrates, Ingolſtadt 5 Aug 1784), then a "Rechnungen"
+section of accounting tables: Minerval-Kirche zu Megara accounts, and
+Lycurgus's account for 1784. Tables have heavily damaged OCR: read the
+figures from the image, not the OCR.)*
