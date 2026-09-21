@@ -1548,7 +1548,7 @@ Real corrections (image differs from OCR):
 - p.230: **OCR "30. fl." is "50. fl." in the print** (letter 26, Weishaupt
   owes 50 fl.). Other sums confirmed: 250, 150, 170. "Epheſus den 1. Octob.
   1784." "Lindkirchen".
-- p.231: "meine zwey Grade" (OCR "zween"); "Gruͤßen fuͤr die uͤbrige" printed
+- p.231: "meine zween Grade" (printed "zween", OCR correct; an earlier draft wrongly modernized it); "Gruͤßen fuͤr die uͤbrige" printed
   as read (probably "Gruͤßen ſie"; not changed).
 - p.232: "Cronwell" printed "Cronwell" (probably Cromwell as a cover name); kept.
 - p.234: **Date corrected: "J. den 2. Febr. 1785."** (OCR "1783" / spaced
@@ -1571,3 +1571,17 @@ OCR unread. Only the p.221 smear and p.231/232 printed oddities are open.
 section of accounting tables: Minerval-Kirche zu Megara accounts, and
 Lycurgus's account for 1784. Tables have heavily damaged OCR: read the
 figures from the image, not the OCR.)*
+
+**Re-verification status (2026-09-20, second pass).** Every page 169-238 was
+re-read image by image against `nachtrag_1787_corrected.txt` after the viewer
+came back. Fixes made in that pass: (1) p.195/196 boundary: the word-split
+"No-/vit." had been duplicated across the page break; now "ins No-" ends p.195
+and "vit. getretten den 2. Octob. 1782." opens p.196. (2) Two catchwords that had
+been kept in the text were removed (p.216 "L = =", p.219 "(ich"). (3) p.231
+"meine zween Grade" restored (an earlier draft had modernized it to "zwey").
+(4) p.221 "wieder fahren" (two words, as printed; smeared). (5) p.170
+"Cæremonien" (ae ligature). The per-page notes above for pp.169-233 were
+written before this pass; where they conflict with the fixes listed here, this
+paragraph wins. Remaining unresolved: p.221 smear (three letters obscured in the
+scan), p.231 "Gruͤßen fuͤr die uͤbrige" (printed so; probably an error in the
+original), p.232 "Cronwell" (printed so).
