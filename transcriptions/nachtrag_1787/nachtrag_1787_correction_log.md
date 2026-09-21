@@ -1445,11 +1445,12 @@ Zwack quarto sheet (p.166-167), IX Provincial-Berichte (p.167- ).)*
 > **RELIABILITY WARNING (added same day).** During this batch the image viewer
 > returned "[media removed]" for most pages in the range 169-211 and 213, so
 > those pages were NOT read against the scan when first written. They were
-> produced from the raw OCR plus inference. Any "confirmed by crop" / specific
-> glyph claim below for those pages is unverified until a re-verification pass
-> (status recorded at the end of this section) says otherwise. Pages 212,
-> 214-238 were read from the rendered image. Treat the per-page notes for
-> 169-211 and 213 as hypotheses, not findings. (Section IX end, Section X begins)
+> produced from the raw OCR plus inference. CORRECTION (same day): the viewer
+> failed for pp.169-233 (not only 169-211/213); only pp.234-238 were read from
+> the image in the first pass. Any "confirmed by crop" / specific glyph claim
+> below for pp.169-233 is unverified until the re-verification status at the
+> end of this section says otherwise. A second pass (viewer restored) is
+> re-reading pp.169-233 image by image; see the status line at the end. (Section IX end, Section X begins)
 
 Method as before: 300 dpi render, page read directly, compared with raw OCR
 (which carries no page markers; printed page = PDF page minus 8), catchwords
