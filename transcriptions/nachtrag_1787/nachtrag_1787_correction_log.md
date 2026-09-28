@@ -1585,3 +1585,61 @@ written before this pass; where they conflict with the fixes listed here, this
 paragraph wins. Remaining unresolved: p.221 smear (three letters obscured in the
 scan), p.231 "Gruͤßen fuͤr die uͤbrige" (printed so; probably an error in the
 original), p.232 "Cronwell" (printed so).
+
+## 2026-09-27 burn-batch: PDF pages 310-340
+
+**Resume-point correction.** Commit `4dfb83b` is titled "pp. 300-315" but its
+diff, and the corrected file, stop at `--- PDF page 309 ---`. p.309 was checked
+against the image (complete, ends "...noch unaufgeloͤßte Aufgabe." + catchword
+"Un-"), and this batch starts at p.310. No pages were skipped. Separately, the
+correction log has no per-page notes for pp.239-309.
+
+**Content.** All of pp.310-340 are inside "IV. Anrede an die neu
+aufzunehmenden Ill. dir." (printed pp.46-76). Spartacus's address moves from the
+difficulties of governing a secret society (pp.310-314, "Regierungskunſt") to a
+philosophical history of mankind: Wildheit and the family (pp.318-320), the
+first states and voluntary submission (pp.321-324), "Die Freyheit hat den
+Despotiſmus zur Welt gebracht" (p.325), the Fall/Eden and Theocratie (p.326),
+Nationalismus, Patriotiſmus, Localiſmus, Egoiſmus (pp.327-331), conquest, the
+Lehenſyſtem, Sklaverey (pp.332-334), hereditary kings and Patrimonial-Reiche
+(pp.335-337), northern "wilde Voͤlker" renewing the south (p.338), and
+Repræſentanten corrupted by kings (p.340).
+
+**Corrections of note** (OCR vs image; routine long-s, umlaut and hyphen
+repairs not listed):
+- p.312: OCR "unterſtuͤGen" -> "unterſtuͤtzen"; OCR "e und auf dieſe Art" ->
+  "erhalten, und auf dieſe Art" (line start lost in OCR); "Wittwen und Kinder
+  mittelloſer Mitglieder".
+- p.314: OCR "entfügen" -> "entſagen". "in G. Z. Regierungskunſt" kept as
+  printed (abbreviation not resolved).
+- p.315: "Und endlich" opens a new paragraph (OCR merged it with "Si").
+- p.317/318: **the catchword "ſich" at the foot of p.317 is not repeated at the
+  head of p.318**, which begins "Kultur, ...". Read together: "denn nach dieſen
+  richten [ſich] Kultur, Verfeinerung der Sitten...". Following the rule, the
+  catchword is dropped and the text is left as printed; a translator should
+  supply "sich".
+- p.322: OCR "ſich ſelbſt e wenn" -> "ſich ſelbſt vorſtehen: wenn"; OCR
+  "voll ſährig" -> "volljaͤhrig".
+- p.324: "einzuſchraͤnken" (OCR "einzw ſchraͤnken").
+- p.326: OCR "eingeführte |" -> "eingefuͤhrt."; "Meuſchen" -> "Menſchen".
+- p.327: OCR "nad) zuſtehen" -> "nachzuſtehen".
+- p.328: **"Egoimus" printed so** (missing s; misprint for Egoiſmus). Kept.
+- p.330: "iedes Land" printed lower-case i; kept. "uſurpirt".
+- p.332: "100000 Menſchen" confirmed on a crop (1 + five zeros).
+- p.333: **"die meht hatten" printed so** (crop checked; misprint for "mehr").
+  Kept. OCR "Defpotilmus" -> "Deſpotiſmus"; "National⸗Freyheit",
+  "Henkers⸗Dienſte".
+- p.336: "Statt des Geſatzes" printed so (for Geſetzes); kept.
+- p.339: OCR "tie: ſelnden" -> "rieſelnden"; OCR "gefunden Theile" ->
+  "geſunden Theile".
+- p.340: "Militz" (tz ligature, crop checked; p.332 has "Miliz" with plain z).
+  "Repræſentanten" with æ; "abſolut", "Corruption" in Antiqua.
+
+Antiqua words (Despotiſmus/Despotismus, Moral, Politik, Graduationen, Contraſt,
+Niſus, Nationalismus, Patriotiſmus, Egoismus, Impunitaͤt, Codex, Theocratie,
+Intoleranz, Phantaſie) are transcribed with the s-forms visible in the print;
+the typeface switch is not marked.
+
+Confidence: pp.310-340 read against the 300 dpi images; no page was copied
+from OCR unread. Printed oddities kept: p.328 "Egoimus", p.333 "meht", p.336
+"Geſatzes", p.317/318 missing "ſich".
