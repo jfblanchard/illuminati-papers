@@ -15,9 +15,13 @@ pass, not a final scholarly translation — pending human review. Page markers
 `translations/nachtrag_1787_translation_context.md` for citation purposes. The
 corrected text (and this translation) begins at PDF page 5 — pages 1-4 are not
 part of the digitized text (title/cover matter not captured in the scan/OCR
-pipeline; see the transcription's own provenance notes) — and runs through PDF
-page 152, where the corrected German itself currently breaks off mid-sentence
-("...daß hier kein Stand und Anſe-"); this translation stops at the same point.
+pipeline; see the transcription's own provenance notes). Pages 5-152 were
+translated on 2026-09-20. **Append 2026-10-02**: pages 153-340 translated by
+Devin from the corrected German, continuing the same conventions (including the
+two appendix documents of the "Zweyte Abtheilung" and the National-Directions
+table on pp. 263; the corrected German itself breaks off mid-sentence at PDF
+page 340 ("...und nicht im eigenen, ſondern"), and this translation stops at the
+same point.
 
 ## Translator's notes on recurring terms
 See `translations/nachtrag_1787_translation_context.md` for the full glossary
@@ -3535,3 +3539,4219 @@ Repeated brief overview of Athens.
 Since the great weeding-out, and in part suspension, that has taken place in
 Athens, which must necessarily have taught the people, that the ☉ has need of
 them, not they of necessity of the ☉, and that here there is no rank or standing[?]-
+
+--- page 153 ---
+
+count; since our lodge [▢] has openly broken with Berlin, and the brothers now
+see, under the wings of the most worthy Order [erl. ☉], quite other order and
+works; since the local lodge [▢] of the Strict Observance almost as good as no
+longer exists at all, and some members of the same have been formally admitted
+among us; since even some of the local enthusiastic Rosicrucians begin to regret
+their time and their money; since this time everything with us also gains a new
+life, and new spring-force. The brothers begin to comprehend that those systems
+are wind, and that only here truth and light are to be presumed: they are now
+more attached, more attentive to the duties of their human and Masonic
+determination, more active and more obedient.
+
+One of the greatest driving-brothers of this fresh enlivening is, without doubt,
+Diomedes, a man who sets everything in motion, is everywhere equally busy, tires
+over no difficulty or work, is everywhere present, sees through everything with
+his own eyes, encourages, admonishes, leads everyone, and teaches mostly through
+his own good example. — He would be irreproachable, if his sudden heat, his here
+and there too military treatment, some stubbornness, and at times refractoriness
+were not sometimes, with some right, censured by brothers, especially by
+Brutus,
+
+--- page 154 ---
+
+which I, although the high esteem for this so worthy brother has made me almost
+partial to his advantage, nevertheless do not dare entirely to contradict.
+
+The higher superiors in Athens, whom I know besides Diomedes, are people on whom
+the spirit of the Order [☉] wholly rests. They are: Celsus, (o might he, whom I
+love so much, only be somewhat more moderate, and spare his weak health) Marius,
+Cato, and let one also permit me to add Spartacus, whom I have had opportunity,
+from so many amiable sides, especially the great moderation at table, only
+recently to learn to know properly. — Even Scipio shows himself again somewhat
+more active. But Marius and Cato hold in most pieces truly the wise middle,
+which the noise-loving, and somewhat stormy joys loving Celsus, and the too
+metaphysical, in favor and hate often too hasty Spartacus, do not always seem to
+hit. What I once censured most strongly in Cato, I now see in quite another
+light, and am partly ashamed of my all-too-exaggerated aversion, which I
+formerly cherished against everything that smacked of politics. Diomedes's at
+times all-too-sad, in the highest degree melancholy being, I could wish on this
+glorious man
+
+--- page 155 ---
+
+softened. — Among the most excellent superiors of the ☉s [the Order's]
+belongs, however, incontestably, the local visitor of the past year, Bro. Philo,
+who indeed now certainly is not to be counted here, but from whom I on each
+occasion abstract the ideal of a highly enlightened, most philanthropic, morally
+most formed ☉ brother [brother of the Order].
+
+Harmony and concord, about which I once, and especially in the last general
+overview, which I handed over to Philo, complained very much, now reigns again
+completely among our superiors. May be that perhaps Spartacus, as I heard,
+contributed something to the disunion. But his last meeting with Celsus lifted
+all the errors, which presumably may have arisen only from misunderstanding.
+These brothers love one another more than ever (although this love was actually
+never interrupted after all) and now everything works with united powers,
+without faction-spirit, toward the common purpose.
+
+So much of the superiors. Now to the subordinates.
+
+Although the whole has, as it were, received a new turn, and thereby each
+individual fresh strength, as I recalled at the beginning; so is that yet not so
+entirely general, that some remnants of the former-
+
+--- page 156 ---
+
+ly variously faulty behavior should not still be found. — Defects of the sort,
+still showing themselves now and then, are in my opinion:
+
+a) Talkativeness.
+
+b) Coldness and lovelessness here and there.
+
+c) Party-spirit.
+
+d) Again freshly reviving too strong recruiting-lust, and therewith much
+hastiness in recognizing, and giving a foretaste.
+
+e) Quarrelsomeness and discord between some brothers.
+
+f) Slander-lust, or credulousness.
+
+g) Too strong making-common.
+
+h) Suspicion of Jesuitism.
+
+NB. This last point concerns only 4 brothers, and with these it is not even yet
+grounded enough.
+
+Inquiry.
+
+At the beginning of the Meharmeh, namely in the last Soli, I have made the
+submissive request, to permit that I, besides
+
+--- page 157 ---
+
+the lodge [▢] speeches, might also promote to the press some other essays for
+the Order [☉], under the strictest censorship of the local superiors, and
+without all betrayal. Since I have received no resolution on this as yet, I
+therefore ask repeatedly most obediently for it.
+
+Athens, the 3rd of Adarmeh 1152.
+
+R. Lullus mppr. [mannu propria — by his own hand]
+
+VII.
+
+A Quibus licet
+
+in the hand and signature
+
+of Brutus.
+
+Athens, the 2nd of Adarmeh 1152.
+
+Q. L.
+
+1. May the most worthy Order [E. ☉] receive the warmest thanks for the 3rd
+grade conferred on me. Beautiful, glorious, quite as I wished it, and mostly as
+I thought it upon reading the second. I shall certainly seek to show myself
+worthy of its [the Order's] goodness and its trust: and if I have hitherto shown
+attachment and trust, I now belong entirely to You. You can build on me, deem me
+worthy of Your trust without reser-
+
+--- page 158 ---
+
+vation; for nothing in the world can lead me back anymore, and nothing will
+tear me from Your direction.
+
+2. You once wrote to me, I should seek nothing more at court, for I had nothing
+to expect. I have done it until now, but since I was recommended by the
+provincial government, my stocks seem to be somewhat changed. When recently,
+through the severe illness of the K = = of the Imperial Vicariate, the question
+was [raised], one fell on the thought of employing me and Pericles as councilors
+therein, and now I have the greatest hope of becoming privy councilor. S = =
+takes himself especially to heart about me, and this I have to thank to the Bro.
+= = friendship of Celsus and Alphred. Should I one day come up, then the most
+worthy Order [E. ☉] will see what my heart is: how I belong entirely to the
+same; until then I can only wish, and the will comes to take up the work [?].
+
+3. Is there no grace for the penitent? Pythagoras was with me, confessed that he
+had erred, and his suspension goes so to his heart that tears stood in his eyes.
+I beg for him, for although he has faults, he is nevertheless in the ground a
+good and capable man, and his pride is very
+
+--- page 159 ---
+
+humbled. He can be essentially useful to the most worthy Order [E. ☉], and I
+notice that he seeks to improve himself so, that he even loses the roughness of
+his way of life.
+
+4. Of the Bros. Pericles, Menelaus, and Demonax entrusted to me for supervision,
+I can report no change on the side of the former; Menelaus becomes more
+diligent, frequents the assemblies more often, reads notations with his own
+remarks, and has in the short course of 4 weeks held two pretty speeches; the
+one in the Min. assembly and the other in the lodge [▢], which one held on
+account of the arrival of Numenius. Demonax, who is untiring in diligence, also
+begins to restrict his expenditures, and it was necessary, otherwise I do not
+know how he would have gotten along in the long run.
+
+5. I thank [you] for the supervision over Megara entrusted to me, and for the
+taking off of the secretariat, which was really burdensome to me amid the many
+professional af-
+
+--- page 160 ---
+
+fairs; yet I would have kept it longer on request. The Bros. = = of Megara are
+mostly glorious people, and of an attachment that has no boundaries. When I came
+there in the month of Meharmeh, and wanted to initiate Peisistratus, this one
+was 9, Dionysius 7, and Hermes also 7 hours' distance from the place; Lysander
+took his horse, rode to all, led them all back at once, and when I was at
+Penzing, an hour from Megara, they visited me daily with Democedes. — They beg
+urgently that one should open a Minerval church there, and I find no scruple
+about it. Should the opinion be approved by our assembly, I would think one
+could appoint Hermes as Superior, Peisistratus as Censor, Democedes as Quaestor,
+and Dionysius as Secretary. Should Peisistratus and Dionysius sometimes not be
+able to appear, then Democedes were to be substituted for the former, Eugenius
+for Democedes, and Lysander for Dionysius. I have proposed them according to
+age in the Order [☉], and proposed only Peisistratus, who is the youngest, for
+the censorate, because he is more man than the rest, has thought himself most
+into the Order's system in his penSum and answered questions, and, besides an
+untiring industriousness, has a special capability for characterizing. — What I
+have accomplished with D = = until now, the sent-in letters prove. We certainly
+get him, but it demands time, and then the conquest is glorious. I shall
+gradually deliver characterizations of the Bros. = = subordinate to me, and have
+already begun with Lysander.
+
+--- page 161 ---
+
+6. Of Numenius, addressed to me by Illum. Philo, I can report that I found him
+the first day as the same depicted him to me, that is: very attached to the
+system of the lodge [▢] at Lyon, which goes out on theosophy, and besides
+wholly subjected to religion. He complained among other things about D = =, that
+he had spoken too freely on this subject at the congress. But when he had been
+here some days, he either became changed, or he expressed his opinion more
+sincerely; for he doubted the immortality of the soul, and showed for our M.
+system a special attachment. — Be it now as it will, my natural rational
+conclusion is not the most advantageous for him. Why affect concepts of religion
+toward people which he does not have, since they did not ask him about it? and
+in the case of a quick change in both the Masonic . . . and religion-system, is
+it the work of the man who should act only according to conviction? does it not
+testify of a fickle spirit? — Yesterday my servant brought me word, that he was
+a Rosicrucian, and wanted to confer a degree on someone: I apprised Celsus, but
+learned that the question was of a theosophical degree, which he himself
+received. I leave the use of my remarks to the most worthy superiors, and
+express them only out of zeal for the Order [☉]; it would pain me very much
+
+--- page 162 ---
+
+if it received a blow through this man, or suffered adversities.
+
+7. The last rescript sent to me admonishes me to preserve the Order's [☉]
+papers more cautiously. I shall do it: but cannot imagine how my wife should
+have gotten such writings to read, and how a piece of an essay of a rescript
+should have come into a strange house. I would only have had to forget the key,
+or the piece must have fallen out of my pocket, otherwise I would know nothing.
+Yet be it as it will, I thank [you] for the admonition, and shall in future be
+more cautious.
+
+8. It rejoices me, that the indicated Bros. = = of the Reforme earn the approval
+of the most worthy Order [E. ☉], and still more, that B. E - is entirely
+changed upon my urging. He wanted to see only the essential, and since he is in
+the Min. class, his zeal is unbounded. He is entirely taken with the value of
+the thing, has answered the questions given him so beautifully, that one read
+them in the public assembly, and he is already working on his penSum. I am
+convinced, that when the most worthy Order [E. ☉] shall come to know this man,
+who is 36 years old, better, they will certainly not regret his admission. He is
+
+--- page 163 ---
+
+unboundedly honest, one of the most skilled councilors, and very industrious. He
+would long since have swung himself up, if the bad concepts, which one has of
+his elder brother, and his natural timidity had not thrown (him) back. I believe
+I do not assert too much, when I say, that of the Min. who are in Athens,
+Thebes, Megara, and Corinth, he, Peisistratus, and Lysander are the most
+suitable for the most worthy Order [E. ☉].
+
+9. I have a complaint against no one, am now more than satisfied with the
+conduct of Diomedes, and also had no expenditure.
+
+Diarium [diary]
+
+from the 23rd of Meharm. to the last of Abenmeh.
+
+On the 23rd I arrived at Penzing, where I wrote a letter to Lysander, so that he
+would call the remaining brothers to Megara. Departure of the same with this
+intention.
+
+On the 25th I came to Megara, spoke with D = =, who seemed to be carried away by
+that which I presented to him in questions from the general statutes: he
+promised to issue the undertaking [Revers] the next day.
+
+On the 26th he sent over the first letter, which I answered laconically, that
+one ne-
+
+--- page 164 ---
+
+ver forces anyone. If he had doubts, I would resolve them: could I not, then I
+had superiors: and had he no desire or trust, then I would declare him free, and
+demand only Masonic secrecy.
+
+On the 27th his second letter followed, which I answered briefly with [the
+declaration] that, far from harming him, my report to the most worthy Order [E.
+☉] would consist of the mere transmission of his letters.
+
+On the 28th I charged Hermes to have the priest F = = observed through
+Theopompus.
+
+On the 29th, Initiatio Pisistrati & Lysandri [initiation of Peisistratus and
+Lysander].
+
+On the 30th I provisionally charged Hermes with the supervision over all the
+Bros. = =
+
+On the 4th of Abenmeh I reported to Diomedes on my commission.
+
+On the 5th, exped[ition] of the protocol of the 19th of Meharmeh.
+
+On the 6th I answered the questions belonging to the 3rd grade.
+
+On the 7th I composed the letters to the lodges [▢▢] connected with us, and to
+Erzerum,
+
+On the 8th, higher Illum. assembly.
+
+On the 9th, Min. assembly for the Masons.
+
+--- page 165 ---
+
+On the 15th, by command of the most worthy Order [E. ☉], I gave Xenophon the
+2nd Masonic degree.
+
+On the 16th, lesser, then higher Illum. assembly, where the changes were
+published.
+
+On the 17th I composed an instruction for the Bros. at Megara, which Diomedes
+also adopted for Ephesus.
+
+On the 18th I gave Archilogus the 2nd and 3rd, and Architas, then Telephus, the
+3rd M. degree, by command of the most worthy superiors.
+
+On the 19th I expedited 2 rescripts: one to Cortez, the other to the Bros. in
+Ephesus, by command of the Illum. Diomedes.
+
+On the 20th I composed my own characterization.
+
+On the 21st, higher Illum. assembly, then I received the higher Illum. grade.
+
+On the 25th I received a letter from Philo together with a prescription, how I
+should treat Numenius.
+
+On the 28th, Min. assembly on account of Numenius.
+
+On the 29th, lesser Illum. assembly, where I read the portrayal of Lysander.
+
+On the 30th, higher Illum. assembly, then lodge [▢], where Learcus was admitted.
+
+--- page 166 ---
+
+Supplement.
+
+The most worthy Order [E. ☉] will have seen from the letter of Remus the state
+of the Min. church at Rome. I have the commission to answer; yet I cannot do it
+fittingly until I have the letter back, I thus request the same with dispatch.
+
+Ill. Brutus mppr.
+
+VIII.
+
+On a quarto leaf
+
+stands,
+
+in Zwack's handwriting:
+
+Minervals report to the Magistrate. This one to the Illum. majores. There sits
+the Superior Magistratus: is also called Scottish lodge [▢]. This reports to
+the Illuminatos dirigentes, or Scottish chapter. Of this chapter the local
+superior dirigens is [head], is called Prefect of the Cap[ter]. He reports to
+the Provincial, under the name Provincial lodge [▢]. This reports to the
+
+--- page 167 ---
+
+National, under the name National lodge [▢]. This reports to the General.
+
+Post [after] Illum. dirigentem one becomes Priest. Those who below it work
+merely in Scientificis remain simple Priests. Those capable for the direction
+become then Consultores Provincialis, Provincial, and consequently Regent. What
+the Provincial receives in Scientificis, he gives to his proper class: what
+otherwise occurs in Directione, he disposes of.
+
+IX.
+
+Provincial reports.
+
+I.
+
+Mahomet's provincial reports from Pannonia, 1152.
+
+I. Morea.
+
+A.) Olympia. 1.) Last month I have let R. Z. (Reprochen-Zettel) [reproach-slips?
+— term uncertain, kept as printed] go out to Crantor and Diagoras, and summoned
+them to diligence, or to stepping out, and in their this-monthly Q. L. they
+promise everything good. The latter has also proposed a Fhr. [Freiherr — Baron]
+v. 17. (R = = =), consequently I now have ho-
+
+--- page 168 ---
+
+pe, that the Order [☉] shall also soon go forward in Damascus.
+
+2.) Also in Olympia Zenon, Crantor, and Speusippus now hold regular sessions,
+and have again 5 students in view, who are to be received next month.
+
+3.) Yet they are too timid to engage the people under the name of Freemasons,
+but will do it under the cover of a learned society, which I also gladly
+permitted.
+
+4.) Zeno asks again for elucidation, whether the institute at Neuwied exists;
+for he wished to enter into a widows' fund, to provide for his wife at his
+death. I hold not much by this Neuwied project, but perhaps the Order [☉] could
+nevertheless help Zeno, that he be enrolled somewhere in an already firmly
+founded widows' fund. In the meantime, however, I know nothing better, than to
+refer him to W = = =, I thus ask for his Order-name [☉ Name] and address.
+
+5.) The plan of this society follows sub No. 1, and Zeno's Q. L. sub No. 2.
+
+--- page 169 ---
+
+II. Latium.
+
+A.) Damiata. 1.) Phirro is still the active, glorious man, whom I cannot praise
+enough. His Q. L. lies sub No. 3.
+
+2.) The Academy becomes, through his intercession, entirely a nursery
+[Pflanzschule] for us. Pythagoras is superior of an assembly of the noblest
+youths, but an unknown superior, for even one of these youths leads and forms
+them. They issue neither an undertaking [Revers] nor anything else, but are
+nourished merely with the hope, that at their departure, if they are obedient,
+they shall come into a union of the best men.
+
+3.) Epimenides has recruited the sub-governor of the youngest Prince v. — —
+Th. = = = B. = =. I have meanwhile named Mömpelgard Surentum, which is a spare
+name of my province, and I believe this place, since it belongs to Württemberg,
+will be drawn to Latium; yet I request further orders of conduct on that.
+
+B.) Tybur. With Archelaus I am not satisfied. Phirro is indeed more indulgent
+toward him, and believes, that he can do nothing for the Order [☉] in his
+situation. But me it seems, that he does not seriously want [to]. With Bion in
+Sichem, Phirro now corresponds himself.
+
+--- page 170 ---
+
+III. Istria.
+
+A.) Nicomedia. 1.) Critolaus was with me, and I have promoted him to Illum. M.
+His joy was indescribable, and if only the little wheel did not sometimes run
+off for the man [i.e. fly off the handle], he would be the first in my
+province, even before Phirro.
+
+2.) Sinerius, the novice of last month, has this month already engaged a
+book-keeper B = = =, and done it quite well, as Critolaus laid it before me.
+
+B.) Hispalis. Claudius is still the inactive sluggard; but Cyrus has delivered a
+very beautiful treatise, perhaps it will catch on here. May I remind [you] of
+the Syndic A - -.
+
+N. Sch. [postscript] Since I do not trust our post-secretary, I must ask you to
+deliver the enclosure to Zeno by the traveling post.
+
+Mahomet mppr.
+
+--- page 171 ---
+
+Imendingen, the 5th of July.
+
+Sp. f. p. d. M. [? — header formula, not resolved]
+
+As my provincial report of Chardad I have to cite:
+
+1.) In Damiata Phirro has imparted to Pythagoras and Hus the 3 Masonic degrees,
+and the Illuminatus minor. The next monthly report will now show of their
+activity. His Q. L. lies sub No. 1. Since he takes the matter so much to heart,
+I have until now not wanted to have anyone admitted beside him through others. I
+thus await further orders, whether I should, notwithstanding that, have it done
+through Ptolemaeus Lagus, and if you will, then give the order to Philo at
+once.
+
+2.) In Olympia I have come to know Zeno. He is no thinker at all, and still less
+a searching spirit. He quarrels with Jesuits, and rails at abuses in the
+church: but is a zealous adherent of Catholicism, an enemy of all ceremonies,
+which he regards as useless, and an enemy of investigations about things, which
+he believes beyond human understanding. He wishes never to be promoted further,
+than to the Minerval, and to be promot-
+
+--- page 172 ---
+
+-ed, and promises always to deliver upright novices. Crantor
+is a man, who has more curiosity, more fire. I have myself initiated him to the
+Minerval, but how little he is himself at rest with his science and his mind,
+shows [the fact], because he wished, his father had never had him learn
+writing. Speusippus was sick, and the rest are purely young and needy people,
+so this nursery still stands on weak feet. Be you indeed cautious in
+correspondence with Zeno; he told me, that he would not want to dwell under one
+roof with the man who doubts the immortality of the soul, and if the Order [☉]
+could ever arouse such doubts in members, then he would want to work against It,
+as against Jesuits. His Q. L. lies sub No. 2.
+
+3.) Tybur still carries Fabini along.
+
+4.) The brothers in Nicomedia are not yet assigned to me.
+
+5.) From Sangarium Machiavel has now written, and has named me the noblest men
+in Switzerland, whom he has come to know. If Philo sets him in fire, it can
+still always go.
+
+--- page 173 ---
+
+6.) Orpheus from Hispalis is already assigned to Epictet; otherwise, however,
+this place will be entirely lost for us. His Q. L. lies sub No. 3.
+
+7.) Of Assur I still know nothing further. May I ask you, to arrange it so, that
+he and Pherecidei work together.
+
+8.) In the last report I have forgotten to cite Parmenides, the secretary of my
+uncle —.
+
+9.) I send the Illum. dirigens; however, the same is first to be copied by an
+Areopagite hand.
+
+10.) On the 22nd I come to Erzerum, and stay the whole week there. I hope thus
+to see you certainly.
+
+Your
+
+Mahomet.
+
+--- page 174 ---
+
+2.
+
+Minos's
+
+monthly provincial report of the month of Thirmeh.
+
+Sebaste, the 7th of Merdedmeh 1152. Jezdedg.
+
+Dacia.
+
+My most illustrious superiors will most graciously forgive me, that I come
+somewhat late with this report: I have only for some days returned from the not
+yet ended Masons' Convent at Wilhelmsbad, from which nothing prosperous stands
+to be hoped, and about which I shall render report in an appendix to this
+report, as much as it can be done in default of the protocols, and the enormous
+quantity of enclosures. In the firm confidence of receiving forgiveness for
+this neglect, I turn myself to the report on our most excellent Order.
+
+A.) Lydia.
+
+Sebaste. Here a Minerval assembly has again been held, but the report of which
+belongs in the month of Merdedmeh. Hercules I have not spoken since the last
+report; and therefore do not know, how it looks with his
+
+--- page 175 ---
+
+Bückeburg service: presumably not good, because he still thinks of no
+departure. Brother Chabrias has already traveled to Bonn, where he takes up a
+position in the state. Since he thus goes into another province, he must be
+handed over here. I must ask [you] to name me the brother, to whom I should
+hand him over, and at the same time send his undertaking [Revers], tables, and
+initiation protocol. Only I must ask again, that he not be brought into the
+2nd and 3rd Masonic degree sooner, until he has paid our lodge [▢] the first.
+Molay has already held various formal Minerval assemblies, and therein admitted
+the brothers Lainetz, Chabrias, and Wittekind, as the enclosure sub No. 1 gives
+to recognize, as Minervals; as then henceforth no one present will any more be
+admitted otherwise than formally in the assembly. As soon as I shall have come
+back from the country into the city, the Illuminati assembly shall also be set
+up: nothing hinders us but W - - -, who is extremely attentive to us, and in a
+discourse against Molay (who has however entered into nothing, nor admitted,
+that he knows anything of the Order [☉]) has given to recognize, that he knows
+very much of the Order [☉], and made mockery over the name Illuminatus. It
+stands very much to be feared, that if excluded Illuminati
+
+--- page 176 ---
+
+come here, he will draw such to himself, in order to fish out still more. The
+local brothers I have, on received intelligence in a letter of Bro. Spartacus,
+that such an excluded Illuminatus named K - - will come here, warned against
+this one, and generally bound them once more, to enter into [dealings] with no
+brother, however he may legitimize himself, who is not made known to them by
+the Superior of the local assembly. As novices are admitted: 1.) Johann
+Melchior H = =, and has received the Order-name Marini etc. 2.) v. W - - has
+received the Order-name Carolus audax. 3.) Tessin &c. 4.) Doctor G - - under
+the Order-name [☉ Namen] Antigonus Conator &c. &c. Hercules is again not
+satisfied with Molay; because the latter corrected his advertisement
+[Avertissement] for him, and had it printed under his name. Here Molay might
+well be in the wrong. A gentle direction to both: Hercules, that he spare the
+man, and Molay, that he abstain from the arbitrary correcting, will keep
+everything in order. Finally Hercules praises Brother Bentharith in Beersheba
+quite uncommonly, and I place not the least distrust in his judgment: when he
+has brought him into the Illum. min., and he will first be a Mason, I shall
+hand him over, since he belongs into the prefecture Peloponnesus, to Brother
+Gra-
+
+--- page 177 ---
+
+-tianus, and do not doubt, he will under his direction, in time, establish a
+Minerval church in Beersheba, where there is a famous gymnasium. The further
+proposal of Hercules, in this enclosure, to establish a Minerval school for
+girls, deserves all possible attention. *) I have long had the very same
+thought, and opened it to Philo several times. The women have too much
+influence on the men, for one to be able to hope to improve the world, if they
+are not improved. Only the manner of beginning it makes the difficulty; and how
+will the older mothers, especially those taken with prejudices, permit, that
+others occupy themselves with the education of their daughters? The beginning
+must thus be made with grown girls, and with women. Hercules proposes Ptolemy
+Lagus's wife, and I have nothing against it: I propose
+
+*) Zwack's proposal for the establishment of a women's order already stands in
+the first volume of the Original Writings, pages 5 and 6. The intention was to
+extort money from the women for the Illuminati Order, to fish out certain
+secrets, and to satisfy the passion of the voluptuous brothers of the Order,
+and consequently, under the pretext of world-improvement, to make the
+corruption general, and to propagate it on children and children's children.
+
+--- page 178 ---
+
+my 4 stepdaughters for it as well; they are good girls, and especially the
+eldest a very good girl of 24 years, who has very much reading, is beyond all
+prejudices, thinks about religion as I do, understands all female work,
+economy, and kitchen, speaks French, Italian, and now, in order to understand
+the Latin authors, together with the second, who goes into her 18th year,
+learns Latin with much application, who draws and paints very beautifully, is
+fairly far in music, and with that has the gentlest and most beneficent
+character in the world. Were all women like her, then, if a Minerval school
+for girls were still necessary, such would be easily established. The second
+can almost everything the eldest can; her character is, however, not so
+tender-hearted and gentle; her figure and face, on the other hand, much more
+beautiful. The two little ones of 14 and 13 years are still to be formed: the
+youngest has not very much understanding; but much diligence, order, and
+application, is always for herself, and has in everything her own manner.
+These my stepdaughters have much acquaintance with young girls of their age,
+and a small society would soon be established under the direction of Ptolemy
+Lagus's consort. But they must nevertheless have something, an order, a
+reception, secrets and the like, which would set them in motion. This would
+have to be established purposefully and
+
+--- page 179 ---
+
+beautifully, about in 4 to 5 degrees, and no male person allowed; only Ptolemy
+Lagus's consort alone would have to communicate about it with her husband,
+without the others knowing it, and about my eldest stepdaughter as first
+directress with me. We would have to watch in concealment over the admissions,
+so that no unworthy one would be admitted, and whisper to them the books to be
+read, and the themes which they should have worked out.
+
+Nota: That they would have a secret for themselves with the exclusion of the
+men, would fire them up, and at the same time prevent all running-wild and
+disorder. It would have to be a fundamental law, that no man may look into
+their locked doors: and could at the end prevent letting the most proven and
+wisest glimpse great institutions for the human race [?]. —
+
+But who makes these degrees of the ladies' Masonry [Dames Maçonerie]? Here no
+brother has time for it. Could not my most illustrious superiors, if the
+proposal is approved, find out a brother capable for it, and charge him with
+it. One has after all a printed ladies' Masonry, and the Mops order: these
+could after all be laid at the ground, and a kind of disclosure [Aufschluß]
+made to it instead of the Scottish degree, and everything established according
+to female taste, and at the same time mora-
+
+--- page 180 ---
+
+lly and instructively. If I received
+such newly made degrees sent over, I stand surety, that everything shall soon
+be established etc. etc.
+
+3.
+
+Epictet's
+
+provincial report on Albania, of the month of Schaharimeh 1152.
+
+I. Utica.
+
+1.) Raphael, Scottish Knight, very devoted to the Order [☉], is useful to the
+same where he can, enlightens himself through reading, and works diligently in
+his calling.
+
+2.) Diodorus Sinopensis, Illuminatus minor, entirely devoted to the Order [☉],
+very diligent in his studies, civilized in his conduct, zealous for the best of
+the whole, has handed over his Q. L., and noted in it the following: "B . . of
+E . . was to defend at the end of this half-year; to that end he himself
+prepared a dissertation de votis curiatis at the Reichstag; during the work he
+was convinced by the reasons of the Protestants, that the Westphalian Counts'
+College is Protestant, so that instead of the sentence of the Catholics he
+defended the Protestant proposition in his dissertation. When his praeses,
+pro-
+
+--- page 181 ---
+
+-fessor R . ., came to read this, he raged terribly. "It is unheard-of, that a
+Catholic wants to defend such an opinion at a Catholic university; each part
+remains with its sentence, and one does not quarrel about it at all. He could
+not let this pass the censorship." E . . remained steadfast; he wanted to
+defend it: for his part he cared nothing about it, even if it had consequences
+etc. Only finally Herr R . . persuaded him to desist, and to tell the quarrel
+of the publicists only historically."
+
+3.) Herodotus, Illum. minor, devoted to the Order [☉], was at Stuttgart, has
+entered his Q. L., and nothing further to remind.
+
+4.) Erastus, Illum. minor: works and is useful to the Order [☉] wherever he
+ever can, and desires of the Order, through the best measures, to bring the
+tutor of the young Prince of Zweibrücken over to the Order's side, and to have
+him educated in the Order's spirit [☉s Geist], because for the future much
+fortune depends on it. The present tutor is called Herr M. von K - - -. Also a
+nobleman and chamberlain, Herr von G . ., is said to be at the Zweibrücken
+court, who deserves the Order's attention. I ask and expect closer instruction
+and orders of conduct on this.
+
+--- page 182 ---
+
+5.) Plinius, Minerval, laden with his official affairs, yet otherwise very
+devoted to the Order [☉], and has delivered his Q. L.
+
+6.) Picus mirandulanus, novice, very devoted to the Order [☉]: has on 10 Sept.
+defended his primas notiones theologicas [first theological notions] despite
+the ex-Jesuit counter-efforts, to their greatest vexation, and shamed his
+opponents. He begs the Order [☉] in his Q. L. to employ itself to the end,
+that the imperial fortress Philippsburg, abandoned by the Imperials, does not
+fall into the hands of the bigoted and zealous F. B = = of S. ., who seeks it,
+but rather remain in the hands of the F = = of A. . —, who is also said to
+strive after it.
+
+7.) Seneca, novice, has traveled into the Trier region, and is drumming up some
+teachers for the college of the Lazarists.
+
+II. Thessalonica.
+
+1.) Paracelsus, Illum. minor, hopes through the early return of Xenocrates to
+bring more life and activity both into the lodge [▢] and the Minerval
+assembly, and has expressed this in his Q. L.
+
+2.) Oxenstirn, Illum. minor, entirely bound to the Order [☉], has proposed Herr
+S . . from Mainz to the Order, and wished, that for this the commission of the
+closer examination be given to Ovid, which has already happened.
+
+--- page 183 ---
+
+3.) Ovid, Illum. minor, has asked in his Q. L. for more determinate concepts of
+the Order [☉], whereupon the answer has been given him to report: "what seems
+indeterminate to him?"
+
+4.) Tacitus, Minerval, has delivered his Q. L., is diligent, devoted to the
+Order [☉], and for that reason the commission has also been given to
+Paracelsus, to lead him further.
+
+5.) Bernhard, Minerval, praised from several sides, recommended to Newton for
+promotion to a parish post, which has also been accepted by Newton, and
+Bernhard assured of his vote.
+
+6.) Crito, Minerval, will leave Thess[alonica], and betake himself soon to the
+Brunnenort near Fulda, where Herr von W . . stays: he is very diligent in his
+field.
+
+7.) M. L. Crassus, Minerval, has sent in his Q. L., and received his
+Reprochen-Zettel [reproach-slips? — term uncertain, kept as printed] the day
+before yesterday.
+
+8.) Themistius, Minerval, convalescent, but still very enfeebled.
+
+--- page 184 ---
+
+9.) Arius, novice. I have heard nothing of him in this month.
+
+10.) Clitomachus, novice, bridegroom, has chosen very well, and is getting a
+rich girl from St. = =, who, however, is still now staying in the Philanthropin
+at Frankenthal.
+
+III. Dodona.
+
+1.) Montaigne, Minerval, very devoted to the Order [☉], has sent in his Q. L.,
+and communicated in it an excerpt from the Roman Breviary, which all the clergy
+must pray annually on the 16th of July, and which contains in itself the secret
+news of Mary's preference for the Carmelites &c.
+
+2.) Bodinus, Minerval, a very noble and insightful man, reports in his Q. L.
+the result of his conversations with Lamezan; this one expressed, concerning
+the entry into the Order [☉], the following scruples. a) He could not resolve
+to enter a society whose superiors and members are entirely unknown to him, and
+which nevertheless demands obedience from him, and wants to lay new obligations
+on him. Secondly: it is striking and questionable to him, that secret overseers
+are appointed, who over the morals and conduct of other members
+
+--- page 185 ---
+
+shall keep watch. Both from experience, and especially from the Jesuit and monk
+schools, it would be recollectable to him, that thereby no true and virtuous
+men are formed, but mostly only sanctimonious ones and hypocrites are raised."
+Epictet must confess, in the latter Lamezan is not wrong, but in the former
+merely misunderstanding and prejudice reign. One can easily give the doubt a
+good, harmless turn: but Lamezan will hardly satisfy himself with it.
+
+3.) Nieuwentydt, a very brave man, Minerval, reports in his Q. L., that the
+good W- has been sufficiently justified, and also avenged, by the head of the
+Catholic religion. To Herr M = = = of D = = a very obliging letter is said to
+have gone out, in which one begged him, to preserve the moderation observed
+until now also for the reconciliation with the Lord Bishop. The Lord Bishop is
+said to have received another letter composed in very mild expressions.
+
+4.) Panaetius Rhodius, novice, had some doubts in regard to the Order [☉],
+which have been entirely lifted for him.
+
+--- page 186 ---
+
+IV. Issus.
+
+1.) Belisarius, 2.) Virgil, 3.) Zeno Tarsensis, 4.) Posidonius, 5.) Simias,
+have sent in their Q. L., but reported nothing at all special, except that
+Virgil has proposed to the Order [☉] a skilled young apothecary, who still
+travels, and applies himself to chemistry. I wished, that Belisarius would be
+requested by the superiors through a letter, to bring about the Minerval
+assemblies in Issus right after the autumn, to effect thereby more spirit,
+life, and intimacy in their connection there.
+
+V. Mantinea.
+
+1.) Ariosto, Minerval, very devoted to the Order [☉], very attentive to all
+arrangements and crooked goings of the ex-Jesuits, is very bound to his
+affairs, and has sent his Q. L.
+
+2.) Metrodorus, Minerval, has been away traveling for a month.
+
+VI. Patara.
+
+From there the Q. L. have not yet arrived, just as not yet from Cousel, from
+Caurus, and from Carlsruhe.
+
+--- page 187 ---
+
+VII. Halifax.
+
+1.) Cebes, Minerval, very devoted to the Order [☉], exact in his reports,
+industrious in his calling, zealous and punctual in answering the inquiries,
+has delivered his Q. L.
+
+2.) Strato Lampsacenus, novice, very brave, devoted to the Order [☉], and
+inclined, as soon as he receives commissions, to serve the Order actively; has
+delivered his Q. L.
+
+3.) N — T - - - of Mühlhausen in Switzerland, born 19 Feb. 1758, Reformed, free
+citizen [Freibürger], licentiate of law, director of the local academy of
+commerce, understands German, French, and Latin: amateur more than learned,
+furnished with knowledge in arithmetic, geometry, and the French belles
+lettres, has as favorite study himself, the man, practical pedagogy, and
+beekeeping; married, without children, proposed to the Order [☉] by Cebes, and
+initiated, has on 15 Sept. issued his undertaking [Revers] and tables, and
+received the Order's name [☉s Namen] Maximus Tyrius.
+
+VIII. Frankenthal.
+
+1.) M. Aurelius Antoninus, still Minerval in Amsterdam, has made on the
+Order's [☉] account var-
+
+--- page 188 ---
+
+-ious inquiries, which I answered him on the spot.
+
+IX. Alcey.
+
+1.) Diodorus Chronus, novice, very devoted to the Order [☉], corresponds
+diligently with his recipients, and seeks to make himself more useful to the
+world and the Order from day to day.
+
+2.) A — R = of Ketsch, 25 years old, Catholic religion, hitherto amanuensis to
+the office scribeship at A = =, future district-office advocate at L = =, has
+applied himself to jurisprudence and cameral sciences, speaks German,
+understands Latin, and somewhat French, loves especially the cameral sciences,
+is honest and brave of character, initiated and recommended by Diodorus
+Chronus, has issued his undertaking [Revers] and tables on 9 Sept., and
+received the Order name [☉ Namen] Sextus Pompeius: has been best recommended
+to Xenocrates for further leading.
+
+--- page 189 ---
+
+4.
+
+Report
+
+with the signature
+
+of Agis.
+
+In order to relieve our dear Alberoni, whom, besides, a new explanation of the
+Apocalypse, on which he actually works, costs too much time, I also have the
+honor to give my little contribution of news.
+
+1.) W = = in Aachen, with whom I stand in strong correspondence, is more fiery
+than I ever hoped to see him. He holds it easy to convert his lodge [▢], and
+works at it according to a quite regular little plan. But he reports me
+something from Brussels, which puts me into no small embarrassment. I enclose
+the letters. Shall we engage ourselves, through W = =, with this hermetic fool?
+and how? I do not believe that we gain much by these people, except in
+external strength. Perhaps it would be good, if I carried on with W = = a
+little side-correspondence, which he would then have to slip them under the
+seal of secrecy. At the beginning one would have to prattle a little according
+to their system, until one had caught them.
+
+--- page 190 ---
+
+2.) Concerning my dear fatherland, I am exceedingly satisfied with M = =. All
+letters and remaining essays betray a noble man. From Salzmann's letters,
+indeed, enough enthusiasm [Schwärmerei] peers out, and the evil therein is,
+that he will enter with me only orally about his Zinnendorf principles.
+Otherwise his letters are well written, and betray a man who eagerly seeks and
+values the good, wherever he may find it. Our general concepts (for further he
+has nothing) please him very much. He requests of me the permission to lay
+them, and my 2 letters, before Bro. v. T - -, the banker and first warden of
+the lodge [▢] Iris. His main ground is: without him he could after all
+accomplish nothing with his lodge [▢]. He has the intention, then, after all.
+But the man already knows much, quite very much, of us, and I cannot conceive
+whence. Among other things he complains very much, "that we have people, and
+indeed not only in our lower grades, who publicly make almost everything that
+is called religion ridiculous, as superstition." You presumably know whom he
+means. On such people, if they are dull enough to reject all religion, at
+least silence would have to be imposed.
+
+3.) The more my correspondence increases, the more fools of all kinds I learn
+to know.
+
+--- page 191 ---
+
+That would now amuse me splendidly, if I only had a closer knowledge of the
+various systems and their phraseology. But as it is, many a letter squeezes
+almost an anxiety-sweat out of me, because I must always assume the appearance
+of a Mason experienced in all systems, and finally arrived at the source of
+light. But if, unfortunately, one of my deceived pupils once comes to me, I
+stand there in my whole nakedness. Help me then, for heaven's sake! If you have
+no papers, I most obediently beg for books.
+
+4.) A powerful concern. Archelaus is on the point of getting a tutor's post
+with a young prince at an ancient princely court. Thereby the upright man
+would be helped out of all need. The legation councilor B - - in G = = has the
+commission. One way I have already taken, from which I hope everything. You
+are certainly exactly acquainted with B - -. O do what is possible to you. But
+this matter is a little urgent. Besides, Archelaus wishes most longingly to
+become French major à la suite, and to obtain la croix de mérite. He believes
+stiffly and firmly in the omnipotence of our Order [☉]. *)
+
+*) In the margin, in Philo's handwriting: Who the devil told him that fairy
+tale?
+
+--- page 192 ---
+
+Since he has served long, since one makes little difficulty about it in
+France, and it occurred to me, that the envoy in Munich, Ch - -, are of us, the
+latter, however, has strong influence on — —, I made no objection. If it
+succeeds, our fama potentiæ will increase very much. There passes almost no
+week, in which someone does not ask us about our connections at the French,
+Berlin, and Vienna courts. It is enough to laugh oneself sick! We deny
+nothing; but always assure, that we do not gladly overrun these courts every
+day.
+
+This week we shall still admit a Lutheran clergyman, who through his fine
+intrigues has collected 9000 fl. for the local congregation, and as soon as
+there is peace, goes to London, whither he takes a multitude of letters of
+recommendation. Pr = F = = v. B. — has promised him all support. We want to
+use him there too for the Order [☉]. He must thoroughly illuminate the
+English. A large Dutch peruke, extremely meager and pale, large wide-open
+eyes, full of imagination, the talent to pour himself into all forms, his
+knowledge of men, which he has acquired on a two-year begging journey, — do you
+not believe that we can work wonders through him? — This winter we want to
+rig him out, as the Herrnhuter [Moravians] their heathen-converters.
+
+--- page 193 ---
+
+If we sometimes have the appearance of coldness, forgive you it: we certainly
+work much; but we have our offices, cannot [work] as we will, and apart from
+our clover-leaf [trio] there is no one who is usable. On Friday everything
+outstanding goes off with the post.
+
+And now still one thing, most worshipful, most tenderly loved man! We have all
+taken the warmest part in your Frankfurt stories. We feel how it must have
+been with you. We almost hate the wretched city. But compose yourself, despise
+the low rabble, and do not grow faint. The better part of men will always
+esteem and love you highly. Is that not comfort? It would be far too much
+honor for bad people, if a wise man only had the appearance, as if their
+malicious goose-cackling disturbed his peace of mind.
+
+Agis.
+
+I most obediently beg for the soonest possible return of the Aachen letters.
+
+--- page 194 ---
+
+5.
+
+Fragment
+
+of a report
+
+without beginning and signature.
+
+Picinum.
+
+etc. serves [the] office [with?] ... procures the poor man a small increase of
+his salary, keeps the third through fear in inactive submission etc.
+
+It has come so far here, [that] the name Freemason, which otherwise provoked
+mockery, nose-wrinkling, that one now almost pities the one who is not it, that
+everyone seeks the entry to us, that to the profane the time is death-long.
+
+Everyone wants to betake himself into the protection of a society that has so
+much power in hands; everyone honors a union that suffers no disorders to its
+brothers; for on some there have actually been done very striking moral cures,
+visible to the whole city.
+
+Now still something of other brothers.
+
+Crates is a man full of talents, which have, however, been very much lamed by
+disorderly life and a hope-
+
+--- page 195 ---
+
+-less, ineradicable love. Yet I can give him the
+testimony with good conscience, that he deserves the helpful arm of the Order
+and encouragement, because he really earnestly strives.
+
+Macedonius has received the Illum. min. grade on account of his very noble
+cast of mind, loyalty, and talents: this man we can make entirely our own.
+
+Our good Pausanias has received a company from — — —, and will presumably soon
+travel away — —.
+
+Nestorius has behaved himself ill, and is now at Kaiserswerth. It is advisable
+to lift all connection with him.
+
+Joannes Taleja, a polite youth, is now at the gymnasium at Buchsweiler in lower
+Alsace.
+
+Theognis is actually pastor in the Austrian [lands] near Vöklabrück, not far
+from Linz.
+
+Admitted have been:
+
+1.) The Lutheran pastor L — R = =, perhaps already announced to the illustrious
+superiors, born in Clandiopolis on 29 Nov. 1755, entered the no-
+
+--- page 196 ---
+
+-vitiate on 2 Oct. 1782. His fiery genius, his extraordinary activity, his warm
+love for us moved us to raise him in the time of 8 weeks into the Illum. min.
+grade. The burden of the work lies only on few, and indeed very heavily: we
+are thus glad to have a man who will take a good part of it off us, and since
+the principles of the Order [☉] seem to be born in him, we can promote him
+faster without danger. He is called Averroes.
+
+2.) J — H — H = =, hunting-lackey of the honorable Bro. Campanella, born at
+Oberseemen in the Stolberg region, on 25 Sept. 1749, has been admitted as
+Minerval and Freemason, is used as copyist, and is called Lutherus.
+
+Pinna (Hachenburg).
+
+Here, last month on 3 Nov., was admitted J — A — D = =, born in Darmstadt on 20
+Oct. 1754, Count Kirchenberg's court physician, a good Greek and Latinist,
+loves the color-lacquering art and music. His favorite study is chemistry,
+pharmacy: a quite good man, but very much in love, is called: Pierre Cotton.
+
+--- page 197 ---
+
+Here the affairs of the Order [☉] thus stand well; the Count is surrounded
+with nothing but Illum. Secret secretary, physician, pastor, councilors,
+everything belongs to us.
+
+The Count's favorites are our most fiery brothers; it is thus also provided
+for the future. If the Bros. Bros. had settled themselves everywhere so, we
+would command the world.
+
+The notorious conscience-tormentor of the Elector of —, B —, has received his
+discharge, and had to vacate the land. Since the Elector only, since he has had
+this Jesuit in his service, raised himself up as an enemy of the Freemasons
+and generally of all enlightenment, there is now rich hope for us to work good
+also in the Trier region.
+
+Prefecture Servia.
+
+Gaza.
+
+Here Sotion makes himself uncommonly meritorious around the Order [☉]; his
+whole soul hangs on us: his previously quite extinguished Masonic fire has now
+again broken out in bright flames: he writes me, that he will now soon have the
+lodge [▢] in order, and will also establish a Minerval church.
+
+--- page 198 ---
+
+Recently he heard, that a cleric made the sick healthy through the name of
+Jesus, and by means of an oil: that made him furious. He wrote me, wished to
+have a deputation sent from the side of the Order [☉], which should uncover
+the fraud. He himself offered money for it. A pity, that he was not
+sufficiently formed in his youth. He sighs pitiably over the hard cleric-yoke.
+
+The Bros. Bros., whom he has led to the Order [☉], are:
+
+1.) P — v. L = =, Amphyction, born in Burtscheid near Gaza, 27 years old,
+merchant in Burtscheid. Entered the novitiate on 10 Oct. 1782. Minerval,
+Freemason in the 3rd degree, and Deput. Mr. v. St. [Deputy Master of the
+Chair] of the lodge there, Reformed religion.
+
+2.) J — P - - Thraseas Paetus, born in Metz on 9 Nov. 1728, merchant in Gaza,
+Catholic, loves — and the Latin authors. Entered the novitiate on 10 Oct.
+1782. Minerval, Freemason in the 3rd degree, past master.
+
+3.) J — F — R = =, Oregius, born in Bayreuth on 13 June 1739, merchant in
+Aachen, Lutheran. Entered the novitiate on 10 Oct. 1782. Minerval, Freemason
+in the 4th degree, 2nd warden.
+
+--- page 199 ---
+
+4.) J — B = =, Helvidius Perseus, born in Gaza on 1 April 1745, merchant
+there, Catholic. Entered the novitiate on 10 Oct. 1782. Minerval, Freemason
+in the 3rd degree.
+
+5.) J — B — - P - -, son of J — - P —, is called Fenelon, born at Beaumont in
+Arragonne on 30 March 1758, merchant in Gaza, Catholic. Entered the novitiate
+on 15 Nov. 1782. Minerv., Freemason in the 1st degree.
+
+6.) J — F — W — S = (Goswin), Palatine court councilor, and Majorie-stadtholder
+in Gaza [Majorie as printed — [?]]. Entered the novitiate on 8 Oct. 1782.
+Minerval.
+
+7.) F — J — T = =, merchant, Freemason in the 4th degree. Entered the novitiate
+on 3 Dec. 1782. Minerv., 1st warden, he is called Anaxilaus Larisdus, Catholic.
+
+8.) J — v. L = =, Maimonides, merchant in Burtscheid. Entered the novitiate on
+21 Nov. 1782. Minerv., Freemason in the 3rd degree. Almoner of the lodge [▢],
+Reformed.
+
+9.) B — v. L = =, Abulceda, merchant in Burtscheid. Entered the novitiate on
+21 Nov. 1782, ceremony master, Reformed, Minerv.
+
+--- page 200 ---
+
+10.) J — D - - Bellarminus, entered the novitiate on 30 Nov. 1782.
+
+11.) R — E = =, merchant in Gaza, entered the novitiate on 25 Nov. 1782.
+Catholic, Freemason in the 3rd degree, is called Godofredus a Valle.
+
+12.) J — P - - Albertus magn[us], merchant in Aachen, entered the novitiate on
+8 Oct. 1782. Reformed, Freemason in the 2nd degree.
+
+The secretary of the lodge [▢] there, K — S — D = =, imperial captain, had
+been admitted, but died in the novitiate.
+
+6.
+
+Philo's reports
+
+of the month of Thirmeh
+
+1152. J.
+
+Since the Masons' Convent is not yet quite at an end, I defer my final opinion,
+how we might have to hold ourselves in regard to the new system, until my next
+report; yet I shall still say something about it, namely this: Here is Minos's
+report on it, together with the enclosures. He himself confesses on the last
+sheet,
+
+--- page 201 ---
+
+that he has behaved himself imprudently. And that is in the strictest
+sense true. His essay is, among other things, a proof of it. Politics required
+it, that one had to make a heretic of him after reading it; and I myself, if I
+had been present, would not have been allowed to take him up. He has now barred
+for himself the way to lure out the princes. I, however, not; of that, more
+shortly. To that comes, that he cannot be silent at all, and what occurred in
+the sessions, the well-company already knew by the afternoon. It is not enough
+to be an honest man: one must also act cautiously, if one wants to effect the
+good. In the choice of his people he always errs. C = = = is a very good
+person: C - - perhaps only a mouth-babbler, (he quite seemed so to me). It is
+not true, that W = = stands behind the curtain. Fools are the —, and weak
+fools; but deceivers they are not, and they truly have the intention to effect
+something good, only they lack prudence. — Yet, as said, about all that I
+reserve my final opinion to myself. In 10 days everything will be past.
+
+Once more I repeat, what I cannot repeat enough: if we
+
+--- page 202 ---
+
+a.) Have worked out the whole system,
+
+b.) If every province has its provincial,
+
+c.) If over 3 provinces an inspector is set,
+
+d.) If we have our National Direction in Rome:
+
+e.) If with all these the Areopagites have nothing to do, but lead the rudder
+in concealment, consequently cannot be discovered, are not so very much
+overburdened with vexatious details, but can survey the system, refine it,
+spread it into other lands, stand by the directing class at the right time: —
+Then, and not earlier, we accomplish something. We would then need no so
+noisy institutions, [and] would have to send every provincial back into his
+boundaries. — But if we continue to operate so criss-cross, then we are blown
+up in 3 years. Now to my report.
+
+France.
+
+Here I advise, for the time being, to undertake nothing yet. Before I do not
+have the affairs off my neck, I even leave all proposals in Alsace and
+Lorraine lying.
+
+--- page 203 ---
+
+Holland.
+
+I could not refuse a youth friend, who lies mostly in Germany on recruiting,
+to admit him. I have named him Bayard. He is called W = = of the B = =, was
+born on 18 August 1756 in —, where his father, the — minister, was envoy. He
+is captain in Dutch service, rich, skilled, noble, and prudent. For what he
+can be useful to us, of that I reserve to myself to speak. He entered the
+novitiate on 30 June 1782, and is now Minerv. Here are his two Q. L.
+
+Assyria.
+
+A - - has taken over Media. I have in the meantime opportunity to work there,
+about which I shall partly give news after the ended Convent, partly have
+already rendered report in private letters to Spartacus.
+
+I. Inspection Achaja.
+
+Alcibiades in Thebes has sent me news of the ex-Jesuit novitiate, which I am
+having printed here.
+
+II. Inspection Æthiopia.
+
+1.) Province Macedonia.
+
+A.) Prefecture Paphlagonia. Here is Epictet's report. You will see, that we
+
+--- page 204 ---
+
+now also have an establishment in Surinam. I have named Surinam Mannheim, and
+Parmaribo Frankenthal.
+
+B.) Albania. Here is report from Cleanthes and from Manetho. I can now no
+longer be silent. The matter shall and must be put in order. On that account I
+will pick out one of the members there, and lead him further secretly. My aim
+goes at Hegesias. But, to be safe, I will demand an opinion from Cleanthes and
+Manetho, each separately: who among their people is the best?
+
+C.) Pamphilia is unpopulated.
+
+D.) Desidia.
+
+Stagyra. Roscius and Glaucus have been absent, but have sent me their Q. L.,
+also admitted under the name Jubal the — court musician N — S = =, born at
+Mainz on 24 August 1751. Into the novitiate on 12 July 1782. Glaucus is an
+excellent man. Since he will come here during this fair, I have opportunity to
+train him completely. Now also Chabrias, who was until now in Sebaste, is
+again forever in Stagyra. Now they can work in earnest. Anaxagoras does not
+please me especially, and of the rest there is not yet much
+
+--- page 205 ---
+
+to say. All are, however, zealous, and have delivered their Q. L.
+
+2.) Province Thessalia.
+
+A.) Prefecture Picinum. Here there is indeed a clever report: only it is not
+composed with the proper order, and I shall shortly have a more exact one
+composed and sent along. The things go splendidly there, perhaps too well.
+Here is also a Q. L. Would it not be possible to have the question made
+therein answered by a forestry expert.
+
+B.) Servia,
+
+C.) Soria, and
+
+D.) Tagana, are unpopulated.
+
+3.) Province Dacia.
+
+Here is report from Minos. I most obediently beg for an answer, who shall
+handle H. v. T - - - in Stuttgart, and S = = = in Ansbach. I believe one could
+charge the in all pieces so glorious Ptolemaeus Lag[us] with it. S = = = is a
+great acquisition. What do you think of the B = ?
+
+--- page 206 ---
+
+III. Inspection Abyssinia.
+
+1.) Province Ionia.
+
+What I intend to effect there through a Convent deputy, my next report will
+show.
+
+2.) Over Aeolis the report has come in. Not much has been effected, because the
+provincial Simonides was absent. In the meantime, however,
+
+A.) Prefecture Susiana.
+
+At Tarsus admitted, Herr J — F — B = =, mountain-trade clerk in H = = =,
+under the name Sala, into the novitiate on 20 July 1782: promoted to Lesser
+Illuminatus is Aristodemus Carius, and he has departed as court bailiff to
+Andrus.
+
+B.) Thracia. Here nothing has happened.
+
+C.) Palestine.
+
+At Numantia is admitted, and promoted up to the Illum. min., under the name
+Godeschalcus, Herr D — G — M = = =, doctor and professor of theology at K =,
+born in Königsberg on 11 Dec. 1754, entered the novitiate on 10 July 1782, is
+now going on travels.
+
+--- page 207 ---
+
+D.) Cappadocia is not populated.
+
+I pass over trifles and minor desiderata.
+
+My main care will now be, to provide in all prefectures for important local
+superiors, who will now bring the whole machine into motion.
+
+Philo.
+
+* *
+
+Report
+
+of the month of Merdedmeh 1152. J.
+
+Media.
+
+1.) At the Convent in Wilhelmsbad I have recruited the deputed Count v. K = =
+=, and given him the name Numenius. Here is his undertaking [Revers]. He knew
+not only the existence of the Order [☉], but also told me, he had heard, S = =
+= is an Illuminatus. That has struck me. Should N - - have babbled then?
+Besides, he spoke very ill of S = = =, and begged, one might not refer him to
+the same. I said, I did not know what members there were in Austria. I have
+had the undertaking [Revers] drawn up extremely cautiously, as you will see.
+He has read the preparation essay, the novitiate, and the Minerval grade
+successively;
+
+--- page 208 ---
+
+nothing more. He asked me to allow him to make the tables in my presence. But
+the two enclosed billets prove, that we have always missed each other. Now he
+is in Paris, but will come back to me on the 20th of October. In the meantime
+you have time to inquire after him, and to instruct me, what I should do with
+him, and to whom I should refer him. He pleases me well. He is not of the very
+finest heads, but seems nevertheless enlightened, and warm for the good.
+Minos holds him for a bigot. But I believe, that he is wrong. Minos's
+unreasonable manner, of hawking out deism everywhere without distinction,
+could well make no good impression on anyone at the Convent, and it was at
+least in keeping with prudence, not to approve at that place what he read
+aloud.
+
+2.) Pausanias in Clandiopolis has helped two of our people, the one in the
+Austrian lands as pastor, and the other with the German Order. Against that he
+begs, as the enclosed note shows, to take up in Rome a certain W = =. I beg
+most urgently to grant this wish, where possible. It certainly encourages the
+zeal of this glorious man, when he sees, that one also seeks to help him
+brotherly.
+
+--- page 209 ---
+
+Greece.
+
+Alcibiades has sent me new contributions against Jesuits, which I have had
+printed, and of which I shall shortly send a copy.
+
+Pannonia.
+
+I have had to refer, by order, Chrysippus as well as the canon St = = = to
+Mahomet; I thus do not know, what has further become of it.
+
+II. Inspection.
+
+Aethiopia.
+
+1.) Macedonia.
+
+A.) Paphlagonia.
+
+There was at the Convent in Wilhelmsbad a deputy, who at the same time had the
+commissions of the lodges [▢▢] in Munich, the church councilor W = from
+Heidelberg. This man, whom I have known 12 to 13 years as an honest man, is
+first cousin to Epictet. Epictet, however, did not gladly want, that one
+should recruit him for the Order [☉], actually probably out of a little
+vanity: they both like to play a role, and are aemuli [rivals]. In the
+meantime I gave in. Finally, however, W =, who also knew the existence of the
+Order [☉], plagued me so terribly, that I the
+
+--- page 210 ---
+
+Revers from him took, imposed on him the strictest silence, and gave him
+nothing to read.
+
+My plan was to tune Epictet gradually, and to open to each [of them] in the
+province a career, which could not cross [each other]. To win Herr W = was all
+the more necessary, since the new Freemasonry has moved the direction of the
+VIIIth province to Heidelberg, and has given him the direction. I demanded as
+the first test of loyalty, that he should draw our people in the Palatinate
+along into the matter, and he followed. Now, however, the case occurred, that
+the Count of N = = approached the Order [☉], we should propose to him a
+chancery director, to whom he gives 1200 fl. salary, and so I wrote yesterday
+(the 25th of Sept.) to W =, that the Order [☉] has chosen him for this post.
+Thereby, if he accepts it, I gain, that the man gets a high concept of us,
+that he becomes entirely our own, that I destroy the plan of the princes in
+regard to the provincial direction, and that I separate W = and M =.
+
+Here then is Epictet's report. The desiderata I will attend to. To my
+inquiry: why one heard nothing more of Conon in Thessalonica, the answer has
+been given me, that he is a completely useless man.
+
+--- page 211 ---
+
+In Speyer a vicariate post to be filled by the Emperor is now vacant. —
+Carlsruhe is called, as is known, Delphis, and Zweibrücken Sodom. Cousel I
+have named Pisaurum, but cannot find the place in Büsching.
+
+B.) Albania. Here are the again very meager reports from there. In the
+meantime I have gathered intelligence, which of all their people there is the
+best and most active, and there the choice has fallen on Drusus. Him I will
+now have promoted, also if need be summon him here, instruct him properly, and
+then make him local superior. May I remind of the addresses for Chrysippus?
+
+C.) Pamphilia. Unpopulated.
+
+D.) Pisidia. Roscius and Glaucus are now here. The more I learn to know these
+worthy men, the more I esteem and love them. In 5 weeks they come back to
+Stagyra, and will then open assemblies, for which they are now strong enough,
+since Chabrias is also fixed there. The Q. L. have duly come in. Here are, for
+a test, a couple of them, and a letter.
+
+--- page 212 ---
+
+2.) Thessalia.
+
+Here, namely in Clandiopolis, in the prefecture Picinum, everything goes
+excellently. Theognis has, through Pausanias's endeavor, been installed in
+the Austrian lands as a Lutheran pastor. On this occasion he has unexpectedly
+received a letter from the Bishop of K = = =. In it there are principles, as
+if they were copied from our booklets; it speaks of a secret plan of
+reformation, and begs [him] to show the letter to no one. Now the members
+there believe firmly, the Bishop is a member of the Order [☉], and to it
+Theognis owes his promotion, which has then encouraged them to new zeal.
+Besides, I have already mentioned above, that the reigning Count has commanded
+us to give him a chancery director. Various of the members there have been
+here during this fair, and some newly recruited have not yet delivered the
+tables. These two difficulties are the cause, that this time I cannot yet send
+in a complete personnel [list]. Two of our most zealous members there,
+however, are: the old Count of St = =, and the lieutenant-general, commander,
+and chief chamberlain von H = = =, formerly in Hessian service.
+
+--- page 213 ---
+
+3.) Dacia.
+
+Here is Minos's report, to which I make only the following remarks:
+
+α) I most obediently beg to signify to Minos, that he should not mix so
+arbitrarily into all provinces with recruiting and correspondence. Wherever I
+listen, there they have letters from Minos. But if he lets Spinoza (whom he
+holds for the noblest man, without ever having seen anything but letters from
+him) recruit people in Lower Saxony; then he destroys my whole plan, and we
+lose Epimenides, Simonides, Accacius, and especially Marc. Aurel., who anyway
+speaks not well of Minos. We will now certainly get the best and most
+respected men in Tarsus. But as soon as Minos, Zpinoza [as printed], and deism
+operate there; then everything is spoiled. One must not commit whoredom with
+truth. She is a chaste, bashful woman, and the proselytizing spirit and the
+intolerance of a deist is just as bad as that of a cleric.
+
+β) It pleases me, that Minos wants to enter into a private correspondence with
+St =. There he will learn, that, to handle a fine man, one must oneself be a
+fine head.
+
+--- page 214 ---
+
+γ) The enclosed correspondence proves, that Minos has also engaged himself
+with B -, and begs the Order [☉] to procure him a position. B - is notoriously
+a man of bad morals and low cast of mind; but because he writes pretty
+letters, he counts for much with Minos.
+
+δ) Finally I add an opinion from Belisarius on the establishment of a lodge
+[▢] in Issus. Issus belongs actually into the Upper Rhenish Circle, but is
+directed by Epictet.
+
+III. Inspection.
+
+Abyssinia.
+
+1.) Ionia. Here I have recruited the popular writer B - - (translator of the
+sentimental journeys of Tristram Shandy (two books, in which I have perhaps
+read twelve times, and always find new treasure of philosophy and knowledge of
+mankind) and of various other books). He lives now in Weimar, was at the
+Convent as deputy, and is the factotum of the Strict Observance, and has
+promised to be active for us. His tables I do not yet have, but the
+undertaking [Revers] indeed. As soon as he is at home, I shall begin with him.
+
+--- page 215 ---
+
+2.) Aeolis. Here is a very important packet from there, which I nevertheless
+most obediently request back again. Now to the main thing! When I received
+Your Worship's kind permission to make the attempt with the distribution of
+the Priest and Regent degree in my way, Simonides was just with me. I have
+thus conferred these two degrees on him and Epimenides (in order finally once
+to get rid of a part of the Herculean burden), and that has then won them to
+us forever, as their letters show. I have made Epimenides inspector of Aeolis
+and Ionia, and Simonides provincial of Aeolis. There we are then, thank God,
+if Minos brings nothing in between, without all confusion, securely
+established. Now, however, Your Worship will also see, what doubts the people
+in Andrus have against the Scottish Knight degree; and there I now beg most
+urgently to write the following letter to Epimenides (Herr Court and
+Consistorial Councilor F = = in Hanover):
+
+"One may now rely on him, who possessed prudence, uprightness, and feeling of
+duty of his dignity entrusted to him by God; he would use the trust shown him
+for the best of the good cause. It depended on him to dispense those people
+from the issue of the undertaking [Revers], of
+
+--- page 216 ---
+
+whom he certainly knew, that they were not mere researchers, but honest
+participants. To the rest one would have to push such a bolt [bar], to make
+the step hard for them, and to test their loyalty. From the love-meal everyone
+can be dispensed who had no mind for it; to pay money, or not to pay, is their
+affair. It is comprehensible, that one must collect funds, to accomplish
+something; the superiors are tired of maintaining ex propriis [from their own
+means] their subordinates, for whom they worked day and night. Every province
+can fix its economic arrangement according to the local circumstances. To the
+superiors nothing is paid. But it is nevertheless rational to make treasuries
+for oneself, so that one partly has the nervum rerum gerendarum [the sinew of
+affairs — money], partly does not always burden the superiors with small
+beggings. Finally, (to the author of the letters about Wilhelmsbad) to Herr
+Prometheus a rebuke is to be given over his witticism, which stands in his
+letter (I have underlined the passage with pencil)."
+
+If Your Worship will send him the enclosures straight back in this letter to
+Epimenides, you will oblige me very much.
+
+The minister von H = = = is a very great acquisition.
+
+--- page 217 ---
+
+L = = has traveled to Livland; he will presumably hardly be able to send me
+his Q. L. every month, since I pay anyway annually about 250 fl. postage. But
+he will work, as no one has yet worked.
+
+Philo.
+
+I ask that the Osnabrück files be sent back not to Epimenides, but to me
+myself.
+
+* *
+
+Philo's report
+
+on Ionia.
+
+Month Dimeh 1152. Jezd.
+
+I traveled on the 22nd to Avaris, where Amelius had promised to come on the
+23rd, and also came. Before I now report, of what success my transactions with
+him have been, I must first go somewhat further back.
+
+When the Convent at Wilhelmsbad was to be held, the illustrious superiors left
+it to me, to work there for the best of the Order [☉], as I would find it good
+according to the circumstances. Since, however, none of the deputies was so
+exactly known to me, that I could have admitted him im-
+
+--- page 218 ---
+
+mediately, and, even if that had worked, at least could not have instructed
+him enough; so I had in fairness to renounce that, and my presence in
+Wilhelmsbad was thus also very dispensable, especially since Bro. Minos there
+could at least be attentive, that nothing would be established that was
+entirely contrary to our purposes. It came to us, in my opinion, chiefly to
+the following points:
+
+1.) That a certain union of all systems in the lower 3 degrees of the
+Freemasons would come about, namely, that all lodges [▢▢], which worked
+according to old usage in the three symbolic degrees, and were strict in the
+selection of their members, might mutually recognize one another as genuine,
+and not hereticize [each other].
+
+2.) That in ordinary Freemasonry there might be no talk at all of the higher
+degrees, any more than of unknown superiors.
+
+3.) That all sending of money to the higher superiors might cease.
+
+4.) That a new law-book be made.
+
+--- page 219 ---
+
+5.) That the members of the lodges [▢▢] must elect their masters, and the
+lodges [▢▢] their directoria.
+
+6.) That no one, who claimed to have higher degrees, might on that account
+have the slightest preference in common Freemasonry, but should either be
+silent about it, or hand over his wares.
+
+These points I recommend especially to the attention of the good Minos. But he
+had behaved himself so boisterous and imprudent from the beginning, that he
+not only had no influence at all on the proceedings, but that one even
+immediately appointed a narrower committee, and excluded him from it.
+Nevertheless I learned, what turn the things would take, also which other
+societies and Freemasonry systems sought to gain weight. With the chiefs of
+the Zinnendorf system I took opportunity to begin a correspondence, which I
+still continue even now. The emissaries of other societies I fished out
+partly through other ways, partly they themselves had the confidence in me to
+disclose themselves to me, because they knew of me, that I interest myself
+therein not out of self-interest, but out of zeal for the good cause. But the
+deputies at Wilhelmsbad came almost all to me, and since they
+
+--- page 220 ---
+
+(I know not whence) had news of the existence of our union; so they all
+begged me, also the — — of H = = =, for admission. Now I held it best done,
+that I had most of them sign an undertaking [Revers], thus imposing silence on
+them, but communicated to not a single one of them, during the Convent time,
+the slightest thing in writing. This I did, and spoke with them only in
+general. The Convent took a fairly good turn insofar, that one
+
+1.) gave up hereticizing, and became agreed thereupon, that one should seek to
+enter into brotherly union also with the lodges [▢▢] of the symbolic degrees
+of other systems.
+
+2.) [That one should] press no one to accept more than these three lower
+degrees as essential.
+
+3.) That everything else settled there was only sketched, but the further
+elaboration entrusted to some skilled Bros. Bros., and left to the lodges
+[▢▢] to accept the higher degrees, and in general the whole system, or not.
+Now it thus came to knowing, whether those brothers, to whom the further
+polishing of the system was entrusted, were m-
+
+--- page 221 ---
+
+-en for us, or not. The most
+important among them was Amelius, and this one thus had to be my study. On the
+whole, however, I must let the deputies have the justice again, that most of
+them had at least good will, and that, if they acted inconsequentially, it lay
+only in the fact, that they had been in no good school, consequently saw the
+matter askew.
+
+After the Convent I promoted Amelius up to the Lesser Illuminatus grade
+inclus[ive]. I sought to learn to know him, spent a couple of days with him in
+Edessa, afterwards in Thessalonica. He seemed satisfied, and zealous. The
+following speaks for him.
+
+He is a man of years, a fine head, diligent researcher; the Strict Observance
+owes him a great part of the little good it had. He has an open-hearted
+character without dissimulation, seeks truth, and is no enthusiast, clings to
+no other system, has enough means, not to act out of interest.
+
+Against him is the following:
+
+He likes to play a principal person. He is somewhat stormy and vehement. He
+will not want to be led in the dark for long.
+
+--- page 222 ---
+
+He loves the good life, yet without being immoderate. He likes it, that the
+princes flatter him.
+
+That I have continued a regular correspondence with him, the illustrious
+superiors already know. Now I come to our oral negotiations, of which I shall
+communicate to them an excerpt.
+
+I asked him, why he had sought our union?
+
+A. [= answer — Amelius] Out of the honest intention, to work something good
+through it, with the firm resolve, if he should be convinced, that it had
+noble and great purposes, then to work for it with all zeal, and to help lead
+the Strict Observance accordingly; but also with the resolution, if he should
+perceive deceit, or even Jesuitism, to put the roguery publicly to shame.
+
+J. [= "Ich" — the questioner, Philo] Whether he then knew many persons in the
+Strict Observance, whom he would like to see admitted?
+
+A. If our union corresponded to his ideal; then he knew only about 3 or 4
+people, whom he would like to see entirely informed of it.
+
+--- page 223 ---
+
+J. Bravo! But what did he then expect of us?
+
+A. A great, sure, fine institution, already confirmed by trials, for the best
+of mankind, strict uprightness, unity of the chiefs, and since he is far too
+much concerned, that Jesuits could stand behind it; so he demands, to be
+allowed to hold to my person in everything, consequently to have to do with no
+unknown superior; that thus his manuscripts, tables etc. come into no other
+hands than mine, and that, if I wanted to promise myself something from him, I
+would soon have to convince him, that nothing dangerous for mankind, no
+cleric- and stupidity-regiment stands behind it. Secrets he does not want to
+have.
+
+J. What did he promise to render against these demands?
+
+A. To live and work entirely for us, to dedicate unlimited confidence to me,
+but only me, until he could [know] the other persons, to communicate to me his
+connections, plans, intentions, discoveries, which he has recently made in the
+history of Masonry and Rosicrucianism, to show me the Convent acts, so that I
+can convince myself, that one has at least sought the good.
+
+--- page 224 ---
+
+He immediately fulfilled a great part of these promises, and I have cause,
+both to be convinced of his honesty, strictest honesty, as also of the fact,
+that his knowledge and papers would create us use. Also I now know his Order-
+and world-connections, and know, that there is no danger with him.
+
+While I read all this, he had to make me tables, character, life-narrative
+etc., which he however did only with the condition, that everything, until
+further insight into the Order's [☉] system, might remain entrusted to me
+alone.
+
+Thereupon I communicated to him the great Illum. grade.
+
+A. This is all beautiful, deeply thought through. — But how, if Jesuits
+nevertheless stood behind it? A beautiful shell one could also attach to
+dangerous purposes.
+
+J. For that I would stand him surety.
+
+A. That I cannot. He does not know, whether I am not myself deceived? Whether
+I know the heads?
+
+J. Yes!
+
+A. That is enough for him insofar, that he would now catch me by the ears, if
+it turned out to something bad.
+
+--- page 225 ---
+
+J. What right he had, to demand so much?
+
+A. Very great. It is no trifle, when a man, who has lived close on 60 years,
+and collected experiences to become useful, wants to give himself entirely. If
+his person seemed to us not important enough; then he would not want to press
+himself in, but an honest man is a very important person. If he does not suit
+the higher purposes; then that would grieve him, but at his age he cannot work
+as a Minerval. His nursery has been God's beautiful world for 56 years.
+Nurseries he would gladly establish, but still it is fair, that he would first
+have to know, whither he should lead the people. The public purpose is
+glorious, but which is the secret one?
+
+J. For now I could and might lead him only one step further, and leave
+everything else to the superiors, and this all the more, since it was settled
+at the Convent, that the deputies should have themselves admitted into all
+secret societies, and explore the same; consequently the Convent should only
+be the preparation for one to be held in a few years. Whether he could deny
+this?
+
+--- page 226 ---
+
+A. Deny? He never denies anything that is true! Thereby we risked nothing;
+for 1.) it is settled therein, that no one shall transgress the duties of
+uprightness, [and] never again tell the good that would be entrusted to them.
+2.) If we held him for no honest man; then we should let him run. But if he is
+that, then he could be very useful to us upon closer knowledge of the matter.
+
+After manifold back-and-forth talk I finally conferred on him the Knight
+degree, still before our departure. He seemed not at all affected by the
+obligations which one demands therein, although he said, for the reasons
+adduced above, that he could not take the same upon himself.
+
+Our honest agreement was the following, which I now lay before the illustrious
+superiors here, with most obedient request for an early resolution; for I
+shall soon leave these regions.
+
+If one lays before Amelius the final main purpose of the Order [☉], and he
+finds the same noble and good, [and] can also name him still a couple of
+worthy men, of whom he is certain, that they are just such enemies of Jesuits
+as he and I; then he will
+
+--- page 227 ---
+
+1.) hold faithfully to us, work for us, and seek, according to the
+prescription of the Knight degree, to procure us the upper hand in the new
+system.
+
+2.) See to it, that Illuminati (as much as he can contribute to it) be
+installed at the directoria.
+
+3.) That the lodges [▢▢] of the Strict Observance fraternize with ours.
+Therewith, however, there would be a couple of points, which he would not know
+to remove out of the way, namely, that then our lodges [▢▢] must externally
+recognize the H = = F = = = as Grand Master, then also pay the very small
+contributions for the maintenance of the main direction; against which,
+however, they would also receive all news communicated, and enjoy all
+prerogatives. — Those are evil points! —
+
+4.) At the making of the new law-book he would in every way keep our plans in
+regard to the master-elections etc. before his eyes.
+
+5.) Communicate his knowledge of the origin of Freemasonry and the
+Rosicrucians to our superiors, and have the deductions promised to the Strict
+Observance about it printed in our printing presses, and
+
+--- page 228 ---
+
+distribute [them] to our people according to our prescription, (but also to
+those to whom he had promised them before).
+
+I have also learned to know Nahor in Avaris. He is a man made shy and
+distrustful by his fates; otherwise he has pleased me quite well. But he has
+fallen into acquaintance with a Lieutenant v. W = = =, who belongs to a
+certain society, into which they also wanted to draw him. Thereby they warned
+him, and showed him a command of the superiors written in a very miserable
+style, to beware of Illuminati or Uniformes: these were people, who practiced
+Schröpferian magic [schröpferische Magie — after the Leipzig conjurer
+Schröpfer] and the like more. Mine was also best thought of therein. However
+much this bore the stamp of deceit on its brow; yet it has made Nahor
+confused, and I suspect, he will leave us. In the meantime I work, through our
+friends in Weimar, at his promotion in the service. If he then leaves us; then
+we have at least founded something good for him. Here is his Q. L., and a
+remark by Cimon with it, which I ask to read well. That is again a consequence
+of Minos's cautious [i.e. careless — ironical] corresponding. For it is he,
+who stands in correspondence with the miserable B =.
+
+--- page 229 ---
+
+Amelius has given me still a sign of his zeal for the Order [☉] thereby, that
+he has used himself powerfully for a brother in Clandiopolis, to procure the
+same, on my proposal, a tutor's post with a prince. In return I have placed a
+young man, whom he very much recommended, at Meinungen. Once more I beg
+heartily, to give me soon orders of conduct on account of Amelius.
+
+Sinope. Here E = = has become Minerval, very zealous, and very satisfied; has
+delivered his Q. L.
+
+Philo.
+
+X.
+
+Conclusion
+
+of the letters
+
+of Spartacus.
+
+25.
+
+Sp. M. S. d. [Spartacus to M. (Marius), sends greetings]
+
+I hear, that through the death of your uncle you are finally once rid of your
+sick-nursing. Sit requies Defuncto! [May rest be to the deceased!]
+
+--- page 230 ---
+
+He was, after all, once old enough to die. — I hope, that at your departure
+from Lindkirchen you will take the way over Ingolstadt. — If Mahomet writes in
+his letter to you, that I or Philo, or both together, had made too many
+confidants in Vienna: then he lies. Neither I nor Philo have maintained
+correspondences to Vienna. Why everything is decayed, lies in the fool S = =
+=, and in the defectively made arrangements of A - - -; just as also in the
+most wise Mahomet's province nothing goes behind and before itself [i.e.
+progresses]. — Divert yourself well, until I see and speak you. I am
+
+Ephesus, the 1st of Oct. 1784.
+
+26.
+
+Sp. M. f. [Spartacus to Marius; the "f." unresolved]
+
+Tomorrow the money comes. I also still owe you 50 fl.: but cannot pay,
+because L = = has sent me only 150 instead of the expected 250 fl. 2.) Because
+I have had to order books for 170 fl. 3.) Because I shall soon have a
+confinement [childbed] to defray. Since I have had great outlays ex propriis
+[from my own means] for the Order [☉] for some years, I deserve this
+indulgence, if it were not f-
+
+--- page 231 ---
+
+-air, that you forgive me this quantum entirely. If
+I could, I would not demand it.
+
+Now hear a piece of advice from me. If it should come to inquisition, I
+advise, that none of the heads should enter into the particulars [ad
+Specialia], but declare themselves straight out, that they will let themselves
+be forced by no constraint in the world, to make the necessary disclosure to
+anyone other than the Elector himself. To him one shall then give my two
+degrees of the highest Mysteries to read. I at least will do it so, when the
+question comes to me. You shall see, what a favorable, unexpected turn the
+matter will take at once. You have yourselves read, what D = = judged of the
+first grade: and I am assured, the Elector judges the like. I trust everything
+to the goodness of my things: live of good courage and unconcerned, and know
+in advance, that, even if I should succumb, I shall always succumb with
+honor, and should it even cost me my head. Do you also so. Greet for the rest.
+Speak courage into them, and remain assured, that I am entirely yours.
+
+Ingolstadt, the 18th of Dec. 1784.
+
+--- page 232 ---
+
+We have at present a beautiful opportunity to show ourselves great. This
+opportunity we must not let pass unused.
+
+Concerning my proposal made above, I have spoken with Cronwell. This one
+assures me the best success. This proposal is understood, after all, only in
+the most extreme case.
+
+27.
+
+Mes Freres! [My brothers!]
+
+The measure, which you want to take, is correct and suited to the
+circumstances. The essay by Menelaus very beautiful and correct. Only I ask
+[you] to add, that you want to lay your degrees before the Elector quite
+alone, otherwise no one.
+
+Of the degrees, which one hands over, there are:
+
+1.) Preparation.
+
+2.) Minerval grade.
+
+3.) Illuminatus minor. NB. There the word "dumbest monk" must be changed into
+"dumbest man", which is very easy.
+
+--- page 233 ---
+
+4.) Illuminatus Major. Entirely, only the passage left out: "Clerics and evil
+princes stand in our way."
+
+5.) Illum. dirigens. The ceremonies of admission, and my address: everything
+else omitted.
+
+6.) From the Priest grade nothing but the Instructio in Scientificis; but
+well gone through, so that it contains no referring passage. *)
+
+Since the packets from Ephesus are now being broken open, I see well, that
+everything is aimed at me. To Alfred I shall write tomorrow: I shall take the
+occasion from the fact, that I recommend to him the matter of Professor R - -;
+then I shall take occa-
+
+*) Several times a proof of Weishaupt's sincerity toward his sovereign. He
+had actually sent off members, who were to hand over some papers to His
+Electoral Highness. Weishaupt thus simulated an open-hearted confession; but
+had thereby only shown the less questionable, only the shell, and hidden the
+interior, the state-harmful, all the deeper, and deceived the sovereign in the
+most base and punishable manner.
+
+--- page 234 ---
+
+-sion from there, to go over to the M x. x., and harmonize
+in simili [similarly] with their essay. That shall become a letter, from which
+they can imagine in advance at court, how I shall behave. Also I shall express
+in it the supposition, that Joseph T = = is the author of this last brochure.
+
+If personal inquisitions occur, then enter into a [defense on] responsibility
+in personal crimes: but insofar as it concerns the degrees and the inner
+constitution of the Order [☉], herewith the realia, then provoke [challenge],
+that you would disclose these to no one but His Serene Highness in highest own
+person: and tell Him without fear, that this Order is a product of the land,
+and I the author; then the talk will already come to me.
+
+I doubt, however, whether one will proceed to personal inquisition, before one
+has data for it in hand. This, I believe, one wants first to obtain through
+the letter-breaking. And now farewell. Behave yourselves great and undaunted:
+from me you shall certainly experience the like. I am
+
+Your
+
+J., the 2nd of Febr. 1785.
+
+A. Wsb.
+
+--- page 235 ---
+
+Diomedes's letter I have received correctly, but not yet answered. From our
+people no letter is under way.
+
+See to it, that our supplication to the Elector be handed over as soon as
+possible. Use every moment for it: for a single neglected moment can draw on
+us vexation and mockery, that otherwise would not have followed. In my letter
+to Alfred I also let it come out, that I already wrote to Diomedes two days
+ago, that one might bring such an address to the Elector; otherwise the
+supplication appears, and the letter to Alfred, as I advise, has not come to
+his hand.
+
+If you hand over the Instruction of the Pr. Gr. (Priest degree) along with it,
+then see to it with the instruction in the historical field, that no passage
+is in it, which confirms stealing the archive. *)
+
+*) How Weishaupt sought to use, respectively to steal from, the princely
+archives and libraries for his end purpose; and what moral principle he
+imparted to his emissaries about it, was already to be seen in the first
+volume of the Original Writings, page 330.
+
+--- page 236 ---
+
+*
+
+One more letter
+
+from Weishaupt
+
+to
+
+the former city chief judge and mayor Fischer in Ingolstadt.
+
+Je vous ſalue mon Martyr! [I salute you, my martyr!]
+
+Non fert ullum ictum illæſa felicitas. Aſt ubi aſſidua fuit cum incommodis
+ſuis rixa, callum per injurias ducit, nec ulli malo cedit: ſed etiam cum
+ceciderit, de genu pugnat. — Ecce ſpectaculum Deo dignum, ad quod reſpiciat
+intentus operi ſuo Deus. Ecce par Deo dignum vir fortis cum mala fortuna
+compoſitus. Non video, inquam, quid habeat in terris Jupiter pulchrius, ſi
+convertere animum velit, quam ut ſpectet Catonem, jam partibus non ſemel
+fractis ſtantem nihilominus inter ruinas publicas rectum. [Unscathed
+happiness bears no blow. But where there has been a constant struggle with its
+inconveniences, it grows a callus through injuries, and yields to no evil:
+nay, even when it has fallen, it fights from the knee. — Behold a spectacle
+worthy of God, at which God, intent on his own work, may look. Behold a pair
+worthy of God: a brave man matched with evil fortune. I do not see, I say,
+what Jupiter has on earth more beautiful, if he would turn his mind to it,
+than to behold Cato, standing upright among the public ruins, though his
+party has been broken more than once.]
+
+Seneca de Providentia.
+
+*) This letter was not found with the papers at Sandersdorf, but has come to
+hand through other ways. — One sees from it, how Weishaupt, in order to
+maintain his plot, made his adherents into enthusiasts.
+
+--- page 237 ---
+
+Shall I wish you luck, dearest friend! or pity you? I know you too well, for
+you to wish the latter. Take then my warmest participation and my most eager
+congratulation, that Providence has also taken you up into the number of
+those, who shall one day, by a later and fairer posterity, be properly
+judged, valued, and admired as undaunted witnesses and champions of truth.
+You are now only 3- and 4-times as much worth to me as before, since you
+share with me, with so many a noble one, the same fate. I leave it to your
+insight into your circumstances, whether you hold it worth the trouble, to
+pursue and expose the crying injustice judicially, or straight out cheerfully,
+without murmuring and complaint, to step off the track, and wait for better
+times. Of provision it can and will not fail you; for that I and ours will
+contribute everything. In public newspapers the whole occurrence shall also
+be depicted, as it deserves. Drexl shall go pro interim [for the meantime] to
+Brünn. There he can wait, until something better offers itself. Let the
+laughers laugh, and the enemies rejoice. This laughter will one day cost
+tears. Rejoice, and think yourselves great, to suffer with the better part of
+the nation. If I can bless anyone, I lay my
+
+--- page 238 ---
+
+hands on you, and bless you,
+noble undaunted fighter! from whole soul. — These experiences now compel us
+to seek out principles, whose preeminent value is unrecognized in good
+fortune. I regret, that this development of the spectacle falls just into
+the time, when I am on the point of going to the Rhine. This shall happen
+next Monday; and I shall not come back for some months. In the meantime I am
+certainly active also in the distance, and do not go into these regions
+without reasons. Announce the same from me to all the rest: remain always
+equal to yourselves: dishonor you will never have, end as you have begun.
+Your enemies themselves must admire you. Now farewell, and feel yourselves
+great: for your enemies are very small in the midst of their triumph. I am
+unalterably
+
+Your
+
+Regensburg, the 9th of August 1785.
+
+entirely own A. Weishaupt.
+
+If you need your money, I will make arrangements in Munich, so that you
+receive it.
+
+--- page 239 ---
+
+XI.
+
+An original undertaking [Revers].
+
+I, the undersigned, obligate myself on my honor and good name, with
+renunciation of all secret reservation, concerning the things entrusted to me
+by Baron Frauenberg relating to my admission into a secret society, against no
+one, even the most trusted friend and relative, in no possible way, neither
+through words, signs, glances etc., ever to reveal the slightest, whether such
+my admission comes to pass or not, all the more since my receiver assured me,
+that in this society nothing is undertaken against the state, religion, and
+good morals. Also I promise to return immediately the writings to be
+communicated to me for this purpose, or the letters to be received, after
+previously making the necessary extracts intelligible to no one.
+
+And all this, as truly as I am an honest man, and will further remain one.
+
+Ingolstadt, the 5th of August 1784.
+
+(L.S.) [Locus Sigilli — place of the seal]  Aloys Bauer, jurist.
+
+Isocrates.
+
+--- page 240 ---
+
+Accounts.
+
+A.
+
+Account
+
+of the Minerval church at Megara, for the months Thirm. Merd. Schahar. 1154.
+Jezd.
+
+Receipts.                                    fl.  kr.
+
+In reception, initiation & introduction fees . . .   —   —
+
+In Minerval moneys.
+  Ill. Democed. . . . 3 —
+  Confuc. . . . — —
+  Lys. . . . — —
+  Thieop. . . . 3 —
+  Cleomed. each time 24 kr. . 1 12
+                                               ————
+                                               7 fl. 12 kr.
+Cash balance . . . . 9 8
+Extra receipt for Cleom.'s patent . . . . 1 30
+                                               ————
+Sum of all receipts . 17 fl. 50 kr.
+
+[fl. = florins/gulden; kr. = kreuzer]
+
+--- page 241 ---
+
+Expenditures.                                 fl.  kr.
+
+Letter money to Democed. . . —  30
+The cash balance is sent in with  9  8
+                                               ————
+                        Sum  9  38
+
+Balance.
+
+The receipts amount to . . 17  50
+The expenditures . . . 9  38
+                                               ————
+Remains for the new cash balance . 8 fl. 12 kr.
+
+Outstanding [arrears].
+
+Lysand. Init. & Recept. . . 10 —
+Democed. likewise. . . 10 —
+and in monthly contributions . 15 —
+Cleomed. Init. & Recept., then the Order's [☉s] sign . . . 12 24
+Manes Init. & Recept. . . 10 —
+Confuc in monthly contributions . 6 —
+                                               ————
+Sum of the outstanding . . 63 24
+Lysand. in monthly contributions . 3 —
+                                               ————
+                                               66 fl. 24 kr.
+
+Democedes mppr.
+Lysander mppr.
+
+--- page 242 ---
+
+B.
+
+Account,
+
+rather
+
+specification
+
+of the contributions received in the last 2 quarters, Jul. Aug. and Sept.,
+then Oct. Nov. and Dec.,
+
+rendered
+
+by J. Lycurgus
+
+Anno 1784.
+
+Preliminary note.
+
+Why no formal account can be rendered for these two quarters, is known of
+itself from the state of circumstances. Namely, since already from the
+beginning of July a part of the former Minerval assembly has withdrawn, under
+the Super. [Superior] of the Ill. Musæus, into the narrow friendly circle of
+Demonax. It was therefore just as little possible to make a rubric of the
+receipt of reception and introduction fees as one of expenditures, because no
+serving brother has since reported for requisites or monthly pay; there
+follows hereby the
+
+--- page 243 ---
+
+specification
+
+of the contributions received in the above 2 quarters
+
+                                               fl.  kr.
+
+Cæsar d'abalos paid for all 6 months at 50 kr. . . 5 —
+Xenophanes, who is now entirely absent, for 5 months at 50 kr. . . 4 10
+Valentinianus paid for 3 months, Aug. Sept. & Oct., each time 1 fl., and will
+now presumably have been assigned to the lodge [▢]; but here are to be set
+down the above . . 3 —
+The first newly arrived Mithridates paid for the months Oct. and Nov., then
+Dec., at 50 kr. . . 2. 30
+                                               ————
+                                               14 fl. 40 kr.
+
+Reminder.
+
+Agamemnon, as well as Petrejus, still owe for all 6 months in arrears of
+their Minerval contribution; but since both are not included in the circle of
+Demonax, I found it not advisable in the present critical situation, to demand
+anything from them; so that
+
+--- page 244 ---
+
+I may henceforth, for the reintroduction of order, legally know, who, also
+from the newly increased circle of Demonax, has to pay or not to pay, from
+whom I am accordingly to demand further contributions; I request, as partly
+already reported in the 2nd quarterly account, on the part of the illustrious
+superiors a graciously nominal directive over the present personnel under the
+direction of Demonax, in order to be able to direct myself accordingly, and
+present the eventual arrears in accounting form.
+
+Finally it is still to be noted, that the alms collected in these 2 quarters
+remained in the hands of Demonax for the determined-otherwise assistance,
+consequently also here did not come into receipt.
+
+Lycurgus.
+
+Reminder of Demonax.
+
+By command of the Ill. Diomedes I had the writing delivered as a contribution
+to the Museum, which consisted in a very important correspondence of the
+former secret chancellor Freiherr von Unertl, and in 25 sheets,
+
+--- page 245 ---
+
+copied, and paid the needy copyist for it . . . 2 fl. 30 kr.
+
+Further I paid a likewise needy man, loaded with wife and children, who cast
+about 50 large and small secret signets in plaster . . 2 fl. 30 kr.
+                                               ————
+                                     Sum 5 fl. — kr.
+
+There follows thus still in ready money . 9 fl. 40 kr.
+
+Further paid to the own messenger to Ingolstadt . 3 fl. 36 kr.
+
+Bought for the local brothers, as also for the foreign ones, of warnings and
+enclosures . 2 fl. 24 kr.
+
+Bought of writing paper, then laid out on letter postage . 1 fl. 36 kr.
+                                               ————
+                                               7 fl. 36 kr.
+                                               ————
+                                     Remainder 2 fl. 4 kr.
+
+--- page 246 ---
+
+C.
+
+Corinthian superintendence-
+
+and
+
+quarterly account
+
+from 1 Sept. to last Dec. 1784 inclusive.
+
+Receipt
+
+In reception, initiation and introduction fees . Nothing.
+
+In fine moneys . . . Nothing.
+
+In outstanding [arrears] . . . Nothing.
+
+In monthly contributions
+
+from Attila . . . . 6 15
+from Jason . . . . 3 —
+from Æ. Sylvius . . . . 3 —
+from Lucretius . . . . 3 —
+                                               ————
+Summa Summarum of all receipts 15 fl. 15 kr.
+
+NB. To the Bros. Bros. Argus and Acheus the outlays are remitted for the sake
+of their inability.
+
+--- page 247 ---
+
+Expenditures Nothing.
+
+If now the expenditures are deducted from the receipt, there remains for the
+ready cash balance . . . 15 fl. 15 kr.,
+
+which I shall send in at the next opportunity.
+
+Corinth, XXVIII. Adar.
+
+MCLIV. Jezded.
+
+Att. mppr.
+
+p. t. S. [? — pro tempore superior?]
+
+D.
+
+Quarterly account
+
+of all receipts and expenditures at the venerable Minerval assembly at
+Granipalatium,
+
+from 1 Oct. to 31 Dec. 1784,
+
+rendered
+
+by M. Aeacus, at present quaestor.
+
+Personnel.
+
+J. Socrates.
+
+J. Pollio.
+
+M. Suetonius.
+
+M. Aeacus.
+
+N. Hecateus Milesius.
+
+--- page 248 ---
+
+Receipt
+
+In reception fees . . Nothing.
+
+In initiation fees . . Nothing.
+
+In introduction fees, and for the Minerval insignia, has resulted . . .
+Nothing.
+
+In monthly contributions.
+
+                                               fl.  kr.
+From Ill. Socrates for Oct. Nov. and Dec. . . . 3 —
+From Ill. Pollio . . . 3 —
+From Suetonius . . . 3 —
+From M. Aeacus . . . 3 —
+                                               ————
+                                     Sum 12 fl. —
+
+In alms and fine moneys, since in this quarter no assembly was held . . .
+Nothing.
+
+In outstanding [arrears] from the previous quarter . . . Nothing.
+
+Expenditures.
+
+At present . . . . Nothing.
+
+--- page 249 ---
+
+Balance.
+
+                                               fl.  kr.
+Sum of all receipts . . 12 —
+— — — expenditures . . — —
+
+Statement of the remainder.
+
+Ready cash . . . . 9 —
+Outstanding . . . . 3 —
+
+List of the outstanding [arrears].
+
+J. Socrates, this month's contribution with . . . 3 —
+                                               ————
+                                     Sum 3 fl. — kr.
+
+Pollio, warden.
+
+M. Aeacus, at present quaestor.
+
+Suetonius, at present secretary.
+
+--- page 250 ---
+
+E.
+
+Fourth
+
+quarterly account
+
+of all receipts and expenditures at the venerable Minerval assembly at
+Juvenatium,
+
+from
+
+1 Oct. to 31 Dec. 1784,
+
+rendered by
+
+M. Claudius, at present quaestor.
+
+Personnel.
+
+M. Plato.
+
+Claudius.
+
+Artemon.
+
+N. Dioscorus.
+
+Receipt
+
+In reception fees . . Nothing.
+
+In initiation fees . . Nothing.
+
+--- page 251 ---
+
+Receipt
+
+In introduction fees, and for the Minerval insignia . . Nothing.
+
+Receipt
+
+in monthly contributions.
+
+                                               fl.  kr.
+Plato . . . . . 3 —
+Claudius . . . . . 3 —
+Artemon . . . . . 3 —
+Dioscorus . . . . . — —
+                                               ————
+                                     Sum 9 fl. — kr.
+
+Receipt
+
+in alms and fine moneys.
+
+From Bro. Artemon in alms . — 36 kr.
+                                               ————
+                                     Sum per se.
+
+Receipt
+
+In outstanding [arrears] . . . Nothing.
+
+Expenditures . Nothing.
+
+--- page 252 ---
+
+Balance.
+
+                                               fl.  kr.
+Sum of all receipts . . 9 36
+Sum of all expenditures . . — —
+                                               ————
+                                     Remainder 9 fl. 36 kr.
+
+Statement of the remainder.
+
+Ready cash . . . . 9 36
+Outstanding [arrears] . . . . — —
+                                               ————
+                                     Sum 9 fl. 36 kr.
+
+List
+
+of the outstanding [arrears] . . . Nothing.
+
+M. Claudius,
+
+at present quaestor mppr.
+
+--- page 253 ---
+
+F.
+
+Quarterly account
+
+of all receipts and expenditures at the Minerval assembly at Nemea, under the
+superiorate of the Ill. Sulla,
+
+from 1 Jan. to 28 Febr. 1785,
+
+rendered
+
+by the Ill. Armidorus, quaestor.
+
+Personnel.
+
+of the Bros. Bros. at Nemea and Epidaurus.
+
+Ill. Sulla, Superior.
+
+— Erasmus, Censor.
+
+— Armidorus, Quaestor.
+
+— Maxentius, Secretary.
+
+— Thales mil[esius].
+
+— Arion.
+
+Min. Anton Venier.
+
+— Adonis.
+
+— Rousseau.
+
+— Acrisius.
+
+--- page 254 ---
+
+Novice[s]. Xenophon.
+
+— Pizaro.
+
+— Architas.
+
+— Nectarius.
+
+Receipt
+
+                                               fl.  kr.
+In reception fees . . — —
+In initiation fees . . — —
+In introduction fees . . — —
+
+In Minerval moneys.
+
+From the Ill. Sulla . . . 2 —
+— Erasmus . . . 2 —
+— Armidorus . . . 2 —
+— Maxentius . . . 2 —
+— Thales Milesius, as dispensed . . . — —
+— Arion . . . 2 —
+— Nestorius . . . 2 —
+Minerv. Anton Venier, as dispensed . . . — —
+— Adonis, as dispensed . — —
+— Acrisius, dispensed to the half . . . 1 —
+— Rousseau, at 50 kr. . 1 40
+                                               ————
+                                     Sum 14 fl. 40 kr.
+
+--- page 255 ---
+
+In alms and fine moneys . — —
+
+In outstanding [arrears]                                 fl.  kr.
+
+From the Min. Rousseau, in initiation and introduction fees . 10 —
+From the Min. Pizaro and Nectarius, in reception fees . 10 —
+From Acrisius, in initiation and introduction fees . . 10 —
+In monthly contributions for the past 2nd quarter, from Nestorius . . . . 2 —
+In the same, for the past 2nd quarter, from Rousseau . 2 30
+In the same, for the past 3rd quarter, from the same . 2 30
+From the Ill. Maxentius, remainder in initiation and introduct. fees . 5 —
+Monthly contributions from the same for Jul. Aug. Sept. . . 3 —
+Monthly contributions of Acrisius pro August . . . — 30
+Monthly contributions of Maxentius pro Oct. Nov. and Dec. . 3 —
+Monthly contributions of Nestorius for the same months . . 3 —
+Monthly contributions of Rousseau at 50 kr. . . . 2 30
+                                               ————
+                                     Sum 57 fl. — kr.
+
+--- page 256 ---
+
+Expenditures
+
+For letters . . . . 3 fl. 12 kr.
+
+Balance.
+
+Summa Summarum { of all receipts . 71 fl. 40 kr.
+                 { of all expenditures . 3 fl. 12 kr.
+                                               ————
+                        Cash balance 68 fl. 28 kr.
+
+Statement of the cash balance.
+
+Ready cash . . . . 4 fl. 42 kr.
+Outstanding [arrears] . . . . 63 fl. 46 kr.
+                                               ————
+The above remainder . . . 68 fl. 28 kr.
+
+Armidorus, quaestor.
+
+Rev. Sulla Sup. [revised? — as printed]
+
+--- page 257 ---
+
+List
+
+of the outstanding [arrears].
+
+                                               fl.  kr.
+All the arrears brought into receipt sub No. 6 . . . 57 —
+Remainder of monthly contributions of Arion . . . — 36
+Monthly contributions of Maxentius pro January & February . 2 —
+Monthly contributions of Acrisius pro Febr. . . . — 30
+Monthly contributions of Nestorius pro Jan. and Febr. . . 2 —
+Monthly contributions of Rousseau at 50 kr., pro January and February . . . 1 40
+                                               ————
+                                     Sum 63 fl. 46 kr.
+
+--- page 258 ---
+
+G.
+
+Specification
+
+of those contributions,
+
+which have been given by some Bros. Bros. since the month of January 1785.
+
+As:                                           fl.  kr.
+
+From Xenophanes, for 3 months at 50 kr. . . . 2 30
+From Cæsar d'avalos, 2 months at 50 kr. . . . 1 40
+From the young Bar[on] L - -, 1 month per . . . — 50
+From Valentinianus, 2 months, each at 1 fl. . . . 2 —
+                                               ————
+Sum, which follows ready . . .   7 fl. — kr.
+
+--- page 259 ---
+
+XII.
+
+Announcement slip
+
+for the St. John's feast of the lodge [▢] on the 7/1 5784.
+
+XIII.
+
+List
+
+of the monthly contributions for the 7th month 1784.
+
+XIV.
+
+List
+
+of the monthly contributions for the 12th month 5784.
+
+XV.
+
+List
+
+of the monthly contributions for the 1st month 1785.
+
+Note.
+
+The first sovereign prohibition against all communities, societies, and
+fraternal unions erected without the highest confirmation was already issued
+and published on 22 June 1784; notwithstanding it, however, this disobedient
+and refractory society continued its in every respect most harmful handiwork
+through lodges and clandestine meetings [Winkelzusammenkünfte], collections,
+and recruitings of new members, as, among others, the above undertaking
+[Revers] and these accounts and announcement slips sufficiently prove.
+
+--- page 261 ---
+
+Misprints,
+
+which have remained standing.
+
+P. 114 l. 9. "tief" — read: "tief genug"
+P. 132 l. 1. "præſercti" — "præſenti"
+— l. 10. "conſecrati" — "conſecrato"
+P. 132 l. the last "te" — "ter"
+P. 133 l. 15. "abſolutione" — "ablutione."
+P. 135 l. 4. "Was" — "wo es"
+
+--- page 263 ---
+
+NATIONAL DIRECTIONS TABLE
+
+of
+
+Germany.
+
+In the handwriting of Philo.
+
+The Austrian lands wish to have their own National Direction, consequently
+not to be counted along with the rest of Germany.
+
+National Direction of Germany.
+
+FIRST INSPECTION.
+
+Provincial Direction of Bavaria.
+  Scottish directorium at Munich over the duchy of Bavaria.
+  — — — — Salzburg — the Archbishopric of Salzburg.
+  — — — — Regensburg — Regensburg, Passau, Sternberg, Ortenburg, Leuchenberg,
+    Sulzbach.
+  — — — — Freysingen — the Upper Palatinate, Freysingen, Neuburg.
+
+Provincial Direction of Swabia.
+  Scottish directorium at Augsburg over Augsburg, Constanz, Kempten.
+  — — — — Stuttgard — Württemberg, Zollern, imperial cities.
+  — — — — Oettingen — Oettingen, Fürstenberg, abbeys, imperial cities.
+  — — — — Carlsruhe — Baaden, knighthood, imperial cities.
+
+Provincial Direction of Franconia.
+  Scottish directorium at Eichstädt over Eichstädt, the Bareuthian, and the
+    imperial cities.
+  — — — — Würzburg — Würzburg and Bamberg.
+  — — — — Bayreuth — Bayreuth, counties, lordships.
+  — — — — Meinungen — the German Order's cities, and Henneberg.
+
+SECOND INSPECTION.
+
+Provincial Direction of the Electoral Rhenish Circle.
+  Scottish directorium at Mannheim or Heidelberg over the Palatinate on the
+    Rhine.
+  — — — — Maynz — the Maynzian lands and Beilstein.
+  — — — — Coblenz or Trier — the Archbishopric of Trier.
+  — — — — Bonn or Cöln — Cöln, Arenberg, Reineck, Isenburg.
+
+Provincial Direction of the Upper Rhenish Circle.
+  Scottish directorium at Cassel over Hessen-Cassel.
+  — — — — Wetzlar — the Wetteravian imperial cities, knighthood etc.
+  — — — — Frankfurt — Fulda, Hanau, Isenburg, Frankfurth.
+  — — — — Darmstadt — Darmstadt, Homburg, Usingen.
+  — — — — Speyer — Speyer, Worms, Zweybrücken.
+
+Provincial Direction of the Westphalian Circle.
+  Scottish directorium at Neuwied over Wied, Seyn, Mörs, Thorn, Essen.
+  — — — — Münster — Münster, Osnabrück, Jülich, Cleve.
+  — — — — Paderborn — Paderborn, Minden, Corvey, Nassau.
+  — — — — Oldenburg — Verden, Oldenburg, Hoya, Schaumburg.
+
+THIRD INSPECTION.
+
+Provincial Direction of Upper Saxony.
+  Scottish directorium at Dresden or Leipzig over Chursachsen, Vogtland, Zeitz.
+  — — — — Berlin — Brandenburg and Pomerania.
+  — — — — Weimar or Gotha — the duchies of Saxony and Schwarzburg.
+  — — — — Dessau — Anhalt, Mannsfeld, Stolberg and Querfurth.
+
+Provincial Direction of Lower Saxony.
+  Scottish directorium at Hanover over Churhannover, Celle, Grubenhagen.
+  — — — — Braunschweig — Wolfenbüttel, Magdeburg, Halberstadt, Hildesheim.
+  — — — — Bremen — Bremen, Holstein, Hamburg.
+  — — — — Strelitz — Mecklenburg, Lübeck, Ratzeburg.
+
+--- page 265 ---
+
+Second Part.
+
+DOCUMENTS.
+
+I.
+
+Proposal,
+
+to move older and respected, yet capable and knowledge-desirous men to join
+our Order.
+
+In the handwriting of Spartacus.
+
+1. He, who is to be recruited for this, must show a disposition, that he takes
+pleasure in the cognition of higher truths, [truths] most hid-
+
+--- page 266 ---
+
+-den from the world. To this end, with one who does not yet have this
+disposition, this disposition must be awakened, and it is to be brought about,
+that a lively desire for such arises in him. Such happens
+
+1. thereby, that one raises and makes palpable the pleasure of knowing
+something, which not all know, where the greatest part of the world gropes in
+the dark.
+
+2. That not all teachings may become public, but that such be propagated
+merely through tradition.
+
+3. One adduces here the secret teaching of the Pythagoreans, of the
+Gymnosophists in India, of the priests of Isis in Egypt, of the Eleusinian
+Mysteries.
+
+4. One gives him, to this end, Meiners's treatises on the Eleusiniis to read.
+
+5. One shows, that such a more general insight into the providence
+
+--- page 267 ---
+
+of God, and into the arrangement of the world, makes life more pleasant, the
+evil more bearable, and enlightens our ideas of the majesty of God.
+
+6. One holds it for this end, that all the wise of the older times possessed
+such hidden insights. One adduces for this end the passages from Cicero,
+Seneca, Aristides, Isocrates, and others, e.g. that Cicero says of the
+Eleusiniis:
+
+Initiaque, ut apellantur, ita revera Principia vitae cognovimus: neque ſolum
+cum laetitia vivendi rationem accepimus, ſed etiam cum ſpe meliore moriendi.
+[And the initia, as they are called, we have in truth known as the principia
+[beginnings] of life: nor have we only received from them the manner of
+living with joy, but also of dying with a better hope.] de Leg. 2. 14.
+
+At another place: reminiſcere, quoniam initiatus es quae traduntur in
+Myſteriis. [Remember, since you are initiated, what is handed down in the
+Mysteries.] Seneca says: non ſemel quaedam ſacra traduntur, Eleuſis ſervat,
+quod oſtendat reviſentibus. Rerum natura ſacra ſua non ſemel tradit.
+Initiatos nos credimus, in veſtibulis eius haeremus. Illa arcana non pro⸗
+
+--- page 268 ---
+
+miſcue nec omnibus patent, reducta et in interiore ſacrario clauſa ſunt.
+[Not once are certain sacred things handed down; Eleusis keeps [something] to
+show to those who revisit. Nature does not hand down its sacred things only
+once. We believe ourselves initiated; we linger in its vestibules. Those
+secrets do not lie open promiscuously nor to all; they are withdrawn and shut
+in the inner sanctuary.]
+
+7. One adds, that the ancient Christians also observed such a disciplinam
+arcani [discipline of secrecy].
+
+8. One thus diligently collects passages that serve for this, gives the other
+books to read, which impart to him an attraction toward the hidden.
+
+9. When one finally notices such a desire in the other, one begins
+
+2. to show the uncertainty, in which we presently are with regard to
+certainly very pleasant and necessary matters, e.g. over the origin of the
+human soul: over the origin of evil: over the nature of the soul: over its
+immortality: over our final determination etc.; one then asks further,
+whether it would not be pleasant to receive a satisfactory answer about it.
+
+3. One acts mysteriously, giving to understand thereby, that one could help.
+
+--- page 269 ---
+
+[One] confesses at the end, that one has been so fortunate, to obtain such an
+enlightenment: but one is oneself only still on the way. This insight will
+not be communicated at once: only a hint [finger-point] is given one. One
+must become, as it were, oneself the inventor of this new world.
+
+4. When the other shows desire, one reports to him, one wants to be helpful
+to him.
+
+5. After a time one visits him, and reports to him, that it is necessary,
+that for the sake of the further insight they both must first come to
+agreement in certain principles. These he wants to communicate to him here:
+they are very simple and general. One demands of him
+
+1. that he test these propositions,
+
+2. either convince himself of them, or seek to invalidate them.
+
+3. that he bring these his reasons and doubts over each of these propositions
+to pa-
+
+--- page 270 ---
+
+per, and then hand them over to him, the receiver.
+
+From the resolution and answering of these propositions depends everything
+else.
+
+6. Therewith the receiver adds: with grown and settled men the society
+proceeds in this manner. With youths, however, it makes use of another
+method.
+
+7. Then he explains to him the system of the Minervals: also gives him the
+permission, if he will, to frequent their assemblies. Teaches him also
+thereby the signs: but reports to him thereby, that he is to learn to know
+the remaining members, until the resolution of his questions, only in the
+quality of Minervals.
+
+8. Such a one, who receives these preparatory teachings, is an Illuminatus,
+and the nearest to the Mysteries, which henceforth shall always be conferred
+in this manner, and shall receive their own signs.
+
+--- page 271 ---
+
+I believe, that I have helped in this manner. If our Illuminatus wants to
+frequent the assemblies of the Minervals, the admission is allowed him, and
+he will frequent in the eyes of the others as an already old one, also
+receives a higher place. But as Illuminatus none makes himself known to him,
+except his recipient. This grade is a new novitiate to the Mysteries. With
+Brutus the beginning can be made in this manner, and so with some others, e.g.
+Ch - - -.
+
+I need surely not remind, that the gentlemen Areopagites, in order not to be
+shamed by their people, will make it their concern, to think themselves about
+these propositions, to speak with one another, to seek out examples for them.
+etc. etc.
+
+Also I will advise, that they study with all strength [totis viribus] the
+Alex. v. Joch [? — book reference unclear, kept as printed] for the sake of
+the following propositions, and for the enlightenment of the present ones. In
+this book is wisdom. Valete [Farewell]. Also see to it, that by the 21st a
+Minerval assembly be
+
+--- page 272 ---
+
+held, and in it a well-worked speech be read. The
+practical propositions shall also soon follow.
+
+Eleusis, the 5th of Asphandar
+
+1148.
+
+Spartacus.
+
+NB. I must have this letter with the propositions back again.
+
+II.
+
+Recesses [resolutions]
+
+among the Areopagites in the month of Adarmeh 1151.
+
+In the handwriting of Cato.
+
+The Order shall have the following classes and grades:
+
+First class. Minervals.
+
+a. Novice is treated according to enclosure No. 1.
+
+b. Minerval, according to enclosure No. 2.
+
+--- page 273 ---
+
+c. Minervalis Illuminatus, or Illum. minor, according to enclosure No. 5.
+
+Ad b. Nothing can for the present be changed in the main things, because this
+grade is already in too many hands; yet in the assemblies only the censor
+shall speak the Greek watchword aloud, and afterwards demand the annual parole
+from the remaining members, and in case one did not know it, the censor calls,
+and with him the others, ekas ekas ostis alytros.
+
+Ad c. This grade should properly be given only after the 3 Freemason degrees;
+for certain circumstances' sake, however, it is for the present fixed, that a
+Minerval too, without being a Freemason, can receive it. This Illum. min.
+still further frequents the Minerval assemblies, sits right after the
+magistrates, and has a number of Minervals under his supervision; yet he may
+not, unsummoned, attend the
+
+--- page 274 ---
+
+magistrate assemblies. But if he becomes magistrate, he is constituted
+according to enclosure No. 6. Further, no one can come into the Order without
+becoming a Freemason, and one shall already at the conferral of the
+magistrate dignity hold to it, that, as much as possible, only Freemasons
+become magistrates.
+
+Second class. Freemasons.
+
+a. Apprentice.
+
+b. Fellow[-craft].
+
+c. Master.
+
+According to the ritual under No. 3.
+
+Note.
+
+In extraordinary cases, or when in the region, where the Minerv. is, there is
+no Freemason lodge [▢], which is constituted by the Order, the same can with
+permission of the superiors be initiated tête à tête, and if necessary be
+provided with a patent by the nearest directing
+
+--- page 275 ---
+
+assembly, or Scottish chapter.
+
+Further, the lodges [▢▢], which the Order establishes, shall indeed work
+exactly according to enclosure No. 3; only the provincials can, according to
+local circumstances, alter the instructions, and make special lodge [▢] laws.
+
+In the provinces of Greece, Illyria, and Pannonia, [one shall] wait with the
+establishment of the new Masonic system, and the tearing loose from Berlin,
+until the 1st Pharav. of the coming year, in order to be able to make this
+step with more security, honor, and preparation. But if it could happen,
+without offending against the contract, which the Order has formally
+concluded with the secret chapter in Athens per deputatos [through deputies],
+that still before this time the chapter and the lodge [▢] at Athens were
+loosened from Berlin, and led to the Order's system, then one shall strive
+after it with all strength;
+
+--- page 276 ---
+
+in the meantime the first 3 degrees can be introduced right now.
+
+Third class. Mystery class.
+
+a. Illum. Major, or Scottish novice, according to the Cajeux [Cahiers? —
+grade booklets; kept as printed] No. 7.
+
+b. Illum. dirigens, or Scottish knight, according to the Cajeux No. 8.
+
+Ad a. It shall be free for the Scottish grand master to augment the nosce te
+ipsum [know thyself] with useful additions, e.g. what kind of advocate,
+physician, confessor the promote has, etc. etc.
+
+The life-narrative, which the promote drafts, shall indeed be given to the
+grand master, but not read publicly; likewise the character [sketch] on the
+questions of the nosce te ipsum shall be answered and composed in writing by
+each Ill. maj. singly, and immediately handed to the grand master, who then
+makes out of it, with the secret secretary, a whole, but as short as possible,
+about in laco-
+
+--- page 277 ---
+
+-nic sentences, sends it to the candidate sealed, and as if it
+had been corrected by the further superiors, who then gives it back again,
+sealed. The essay No. 10 is given into the hands of the prefect, in order to
+train experienced Masons according to it, whom one recruits to the Order; but
+the prefect can also communicate this essay to his subordinates according to
+circumstances. Of further grades nothing further shall be made known here.
+
+Higher Mysteries.
+
+If the man suits nothing better, he remains Sch. R. [Scottish Knight]. If he
+is a particularly diligent collector, observer, worker, he becomes Priest.
+These Priests are the stewards of the collected scientific treasures,
+distributed in classes according to their fields. If among them there are
+higher, speculative heads, these be-
+
+--- page 278 ---
+
+come Magi. These collect and bring the higher philosophical systems into
+order, and work out a 20. 14. 2. 3. 18. — 17. 8. 2. 4. 6. 4. 14. 13. —
+(folk-religion *) which the Order wants to give the world shortly.
+
+Should these higher geniuses also suit for the government of the world, they
+become 17. 8. 6. 8. 13. 19. 8. 13. — (Regents **). This is the last
+
+*) That would become a fine folk-religion, which these immoral seducers of
+the world wanted to give. One sees from the preceding, and still following,
+that these godless people had the intention to falsify and undermine the true
+Christian religion, and to introduce naturalism, Pyrrhonism, atheism, and
+other such fashionable religions hatched out by these pseudo-philosophers,
+which have also, alas! already spread very much in these lands through these
+seducers of the people.
+
+**) Here too it betrays itself, that the intention of the Illuminati was no
+less than to rule the world. They would thus have wanted either to clear the
+regents gradually out of the
+
+--- page 279 ---
+
+grade; they are then according to their instructions either Consultores,
+provincials, national consultors, or nationals.
+
+The Priest and Regent grade shall only be composed in the sequel: the
+Areopagites collect materials for it in the meantime, and send everything to
+Philo: he drafts the skeleton, and lets it circulate
+
+**) way, or to set and direct them in motion as machines according to the
+arbitrariness and intention of the Order's superiors and Areopagites. They
+also, right at the foundation and establishment of their Order, formed a
+status in statu [state within a state], in that they had arrogated to
+themselves the jus vitae et necis in omnes [right of life and death over all]
+(see the first volume of the Original Writings, pages 88 and 98). Since they
+thus might not and could not publicly exercise this jus, they had to use
+secret means and bandit-artifices for the attainment of their purpose, in
+order to remove to the side what stood against them. To this end the
+superiors demanded (see again the 1st volume, pages 92 and 103) from their
+subordinates unconditional and boundless obedience, even if the Order should
+demand something indecent or unjust. (see pp. 85 and 96.)
+
+--- page 280 ---
+
+among the Areopagites; when everything is corrected, the General gets it, and
+only then is it fully worked out, sent around again, finally brought into
+clean [copy], but not conferred before.
+
+The whole is directed by the Areopagites, and these by Spartacus: therewith
+it has been settled
+
+1. That from one congress to another no changes shall be made in the system,
+grades, ceremonies, nor the direction.
+
+2. Spartacus and all Areopagites bind themselves, to make no more Areopagite
+without general consent.
+
+3. The Areopagites shall, as much as possible, obtain insight and knowledge
+of the whole, therefore
+
+4. within 4 weeks have a complete personnel [list] of all provinces.
+
+5. quarterly receive report from the General, in a circulari [circular], of
+the more important occurrences, the growth in personnel, and the promotions
+
+--- page 281 ---
+
+exclusions etc. etc. be reported; otherwise, however, [they are]
+not bound, but well entitled to impart news among themselves, since otherwise
+everything goes through the General, to whom the reports shall also run
+exactly.
+
+Conclusum [resolved] at Athens, the 20th of Adarmeh
+
+1151.
+
+Philo.
+
+Marius.
+
+Cato.
+
+Celsus.
+
+NB. These four have signed themselves in their own hands.
+
+III.
+
+Instruction for provincials.
+
+1. Since the Order was erected with the intention, to promote true human
+happi-
+
+--- page 282 ---
+
+-ness: to make virtue amiable, and to become terrible to vice: to make
+the attraction to the good also sensual and more attractive, and in general
+always to effect as much good, as the respective circumstances allow; so this
+office lies in every province especially incumbent on every provincial or
+first [man] of the province. It is therefore easy to comprehend, that a
+respective provincial must be one of the most perfect Order-men. He shall
+thus
+
+1. be a native of the province, and acquainted with the land.
+
+2. A man free from all other affairs, and one who, as much as possible, hangs
+entirely on the Order.
+
+3. Be prudent, cautious, of the best repute, respected, resolute, active,
+skilled, liked, sought after.
+
+4. Free from all reproach and blame, [and] stand in the general repute of
+insight, enlightenment, and love of mankind.
+
+--- page 283 ---
+
+5. Integrity, disinterestedness, love of the general and the extraordinary,
+he must possess in high degree.
+
+6. He must have the appearance, as if he sought rest, and had withdrawn
+himself from all affairs.
+
+7. He is chosen from the midst of his consultors or secretaries, and
+confirmed by the nationals.
+
+8. In the remainder he shall, if he has no means himself, be stipended by the
+Order in proportion to his needs.
+
+9. He stays, if it can be, at that place of his province, from which he, as
+the middle [point], can direct the province most easily.
+
+10. He shall, if possible, constantly have his secretaries or consultors
+around him.
+
+11. His office is eternal, except in the case of death, or amotion [removal]
+for crimes.
+
+--- page 284 ---
+
+2. Under these provincials stand now, without all exception, all lesser-
+graded members of the province; he commands therein absolutely, yet he is
+subordinate to his nationals. But in the province itself no one may
+contradict him.
+
+All his transactions and intentions must aim at the welfare and the greatness
+of the Order: and everything, which the Order seeks to effect in such a
+province, is nothing further than an indispensable means, to attain the
+intentions adduced above.
+
+If now, as no one can doubt, these intentions are irreproachable, and for
+every estate not only not dangerous, but highly useful, yes even essential,
+then the means, that lead thereto, must be no less so; they must be holy and
+just according to all morality. What leads to a good purpose can likewise be
+nothing other than good. No one will thus begrudge the Order, that it seeks
+to spread and strengthen itself in a land. For every great or small
+undertaking a
+
+--- page 285 ---
+
+proper number of co-workers is necessary. Spreading will thus be in a province the
+first obligation of the provincial. But it is not indifferent, what co-workers
+one has: they must have the necessary gifts of understanding and mind: as
+instruction — formation. This formation must also go so far, that the people
+gain love for the purpose, that they find it impossible to preserve this
+purpose, become so dear and estimable to them, in any other society, that
+they become inclined to contribute all their own, to preserve the Order's
+purpose: hence arises attachment, love for the Order. No one will obtain in a
+society what he seeks, if everyone can do what pleases him, if he did not at
+times make a sacrifice of his self-conceit, [and] credit other older, more
+experienced [men] with more insight. Herewith, if he cherishes respect for
+the commands of the superiors, if he follows them, and the general presumption
+arises in him, that nothing is commanded by superiors, that is not purposeful.
+Hence arises the
+
+--- page 286 ---
+
+obedience and subordination so necessary to all societies. And finally
+public workers have too many opponents, enemies, obstacles, for them to be
+able to finish their day's work safely and calmly: hence the mysterious,
+hidden [character] of an Order.
+
+3. If a provincial thus wants to understand properly his inner, his Order-
+constitution, he must set his province on the footing, that he can in it
+unhindered undertake everything good, and prevent everything evil. Blessed
+the land, in which the Order has obtained this power. Every provincial will,
+however, easily effect this with time, if he erects his building on the
+following pieces as the actual ground and foundation of the Order:
+
+1. spreading properly proportioned to the purposes to be carried out.
+
+2. instruction and formation.
+
+3. attachment of the members.
+
+4. strictest subordination.
+
+5. hiddenness.
+
+--- page 287 ---
+
+If proper care is taken for these 5 pieces, then in every land under the care
+of the good cause nothing is impossible: and precisely thereby are all
+possible arising obstacles removed. These 5 pieces are the true foundation;
+if a single one is lacking, then everything is in vain. One can thus not
+recommend enough to the provincials the care for them, and they receive, to
+this end, complete instruction with regard to each one.
+
+I. Spreading.
+
+4. 1. The provincial shall seek to bring as many people to the Order, as is
+possible to him. In the multitude consists a part of the strength, but not
+the whole strength.
+
+2. But he shall admit no one, even only to the novitiate, who stands in bad
+general repute, who is the abomination and hate of the land, even if this
+abomination were unfounded.
+
+--- page 288 ---
+
+3. In the admission he shall see to it, that he obtains
+
+1. knowledge-desirous,
+
+2. capable,
+
+3. obedient,
+
+4. settled,
+
+5. diligent and active,
+
+6. good-natured,
+
+7. economical,
+
+8. young people, who do not yet know too much, have desire to learn more, and
+in time have their enlightenment to thank the Order for.
+
+4. Young people are thus the preeminent object of attention of the
+provincial; if already beforehand a proper number of members is present in
+the province, and the provincial shall always consider, that the Order places
+its strength in the recruiting of young people.
+
+--- page 289 ---
+
+5. Thenceforth the provincial has, in every land, especially to apply for the
+school-education of the youth and their teachers. Among all the rest he must
+seek, if possible, to get such [teachers] to himself, or to bring it about,
+that at the vacancy of school offices such [posts] are filled with Order
+members. These teachers serve
+
+1. to impart the Order's maxims imperceptibly to the youth.
+
+2. to form the heart of the youth.
+
+3. to prepare the most suitable and best heads to become [members] for the
+Order.
+
+4. to accustom them to the Order's discipline.
+
+5. the youth has respect for them.
+
+6. with the youth the Order grows, and in time fills all estates and posts.
+
+7. no attachment can become greater, than that which one already obtains in
+childhood and first years toward a thing.
+
+--- page 290 ---
+
+6. With the recruiting of the adult the provincial must use caution; they
+mostly fail; they require a special formation. Much caution, exact
+examination, according to the standing of circumstances quicker promotion.
+
+7. If the provincial wants to introduce the Order in some place of his
+province, where it is not yet, he has the following ways:
+
+1. to charge a bold man, who is stipended by the Order, to buy himself in
+[settle] in the place, or to stay a while.
+
+2. not to undertake the initiating in too remote places, but first to advance
+to the most remote places, when the middle places are properly occupied.
+
+3. to select such persons for it, who are domiciled in several places, e.g.
+canons, merchants.
+
+--- page 291 ---
+
+4. not easily to advance further, before the thing is properly in motion,
+especially in the principal place.
+
+5. He must well know, to whom he gives the commission to spread the Order,
+whether he is also the man for it.
+
+6. The Masonry will much ease his way to establish himself firmly in other
+places.
+
+7. to recruit friends, who stay long in his place.
+
+8. In general nothing is harder, than the establishment of a new colony
+usable in time. He has to look
+
+1. at the man, who is to become the warden [superior]:
+
+1. his capability
+
+2. mind.
+
+3. zeal, attachment.
+
+4. standing, credit.
+
+5. capability to train others: to impart zeal to them.
+
+--- page 292 ---
+
+6. punctuality, earnestness, prudence.
+
+2. at the place of the colony:
+
+1. remoteness.
+
+2. dangerousness.
+
+3. size.
+
+3. at the means, that are to be used for it.
+
+4. at the time, within which it can be brought about.
+
+5. at the people, of whom it consists; for if the first in a place are not
+well chosen, then all the rest are good for nothing.
+
+6. at the subordination, to which place, or further superior he wants to
+subordinate it in a skilled manner, so that no disorder arises in the
+hierarchy.
+
+7. at the cautions, that are to be observed with regard to the place and the
+members.
+
+--- page 293 ---
+
+9. The provincial shall thus, in the recruiting of already adult men,
+especially seek, or have sought, such in whom either the ideas required for
+our purpose are already present, or can nevertheless easily be awakened:
+people, who gladly submit to better insights: who act according to reason and
+deliberation: who are strongly beyond prejudices, but yet still teachable:
+who feel great intentions and designs, and are able to think: who feel the
+drive to become benefactors of the human race — or in whom such [drive] can
+easily, vividly, and durably be awakened: who eagerly seize every opportunity
+to use [it]: who with reason censure much in the world and in governments,
+and wish it otherwise: to the all-too-rich and noble, who have received no
+other than the ordinary education of the rich and noblemen, he shall not
+easily trust. Since they do not so often feel the needs of human life, they
+also do not know, how necessary one man is to another. They are therefore
+seldom
+
+--- page 294 ---
+
+good society-men: but people, who do not feel the force of fate through their
+own imprudence, dissoluteness etc. etc., but are yet exposed to all malice
+and ill-will, these are especially the men, to whom the Order shall open its
+lap as a place of refuge.
+
+10. If the Order has once obtained the proper strength at its place, are the
+highest posts filled through it, can it in a place, if it will, become
+terrible, dangerous to those who do not follow, let [them] feel, how
+dangerous it is to offend the Order, can it provide for its people etc. etc.,
+has it in a land nothing to fear from the government, but such is rather in
+its hands, then every provincial will see, how easy it is to obtain more
+people, than one perhaps needs; but then it still always remains better, to
+obtain the population and spreading through the schools. Never can the Order
+sufficiently recommend this kind of spreading.
+
+--- page 295 ---
+
+11. As necessary as the schools are to the Order for spreading, just as
+necessary are to it, in Catholic lands, the seminaries of the clergy; to make
+the warden of it, in a skilled manner, an active Order member, is the
+greatest thing a provincial can do. Thereby is
+
+1. the main estate in every land won.
+
+2. the most powerful opponent of the good design drawn into the interest [as
+well].
+
+3. and what is above all, that many and very common men [are] in the hands of
+the Order.
+
+12. But clerics need twofold caution; they seldom hold the middle [way]; they
+are either far too anxious, or far too free, and those far too free in their
+cast of thinking seldom have good morals. Order-clerics remain excluded
+forever.
+
+--- page 296 ---
+
+13. Military schools and academies can be just as little indifferent to the
+Order.
+
+14. All secular men's foundations, especially cathedral chapters, deserve not
+to be passed over in the spreading.
+
+15. And if the provincial can gradually fill the princely dicasteries and
+councils with zealous Order members, he has done everything he can do; it is
+even more, than if the prince himself were of the Order.
+
+16. Princes shall be made Order members extremely rarely: and if they were,
+never be promoted beyond the Illuminatus major. They would have to believe,
+that with such a grade all grades of the Order come to an end: and occupy
+themselves only with the direction. It is thus natural, that this instruction
+should come into no prince's hands. If these have in everything unbound
+hands, they do not follow, bu-
+
+--- page 297 ---
+
+-t they exploit the best intentions to their advantage.
+
+17. Printing presses and bookshops too are just as little indifferent.
+
+18. In general the provincial may recruit everything
+
+1. that can be formed.
+
+2. that procures the Order a use and strength.
+
+3. that does not redound to its shame, humiliation.
+
+4. whereby he exposes himself and his people to no danger.
+
+5. all men, who live not for themselves alone, but for the world, for the
+human race, and set themselves above all narrower unions, are born members
+and favorites of the Order.
+
+--- page 298 ---
+
+Now to II.
+
+Instruction and formation of the members.
+
+5. What use is to the Order a multitude of people, who are in no way similar
+to one another. All these people must be cleansed of their —, and be reshaped
+into noble, worthy, great men. This is now the hardest and heaviest work. The
+Order is not so much concerned with the multitude, as with the goodness of
+the workers. To this end
+
+1. at the first entry into the Order every man's soul shall be widened, made
+feelable, excitable toward great designs. He shall receive high, worthy
+concepts right from the beginning. The thing shall be depicted to him as
+great, important, astonishing, yet without entering into the particular. It
+is understood, that the conduct of the receiver must not let the candidate
+expect the contrary.
+
+--- page 299 ---
+
+2. The Instructio pro recipientibus [instruction for receivers] contained in
+the statutes of the Minervals lies at the ground thereof, and the newly to-
+be-admitted is led according to it:
+
+1. not at once.
+
+2. gradually, so that through the reflection-pauses the image impresses
+itself deeper in his soul.
+
+3. the candidate must ask, but not let himself be asked.
+
+3. The concepts of greatness are imparted to him
+
+1. through the greatness of the purpose, which is indicated in the general
+statutes.
+
+2. through the effort, one gives to the formation of the heart.
+
+3. through the prudence, caution, with which [one] goes to work.
+
+4. through the effort, it costs to get into the lowest compartment [fach].
+
+--- page 300 ---
+
+5. through the description of the prerogative, which even the most faithless
+member has before all others.
+
+6. through description of the attraction of hidden power.
+
+7. through the strength, a candidate has in this manner.
+
+8. through the insights, one promises to obtain for him.
+
+9. through the acquaintance, into which he will in time enter with the
+noblest men.
+
+10. through the security, he will receive, if he submits in everything.
+
+11. through the opportunity to use [it], which he will find here and nowhere
+else so.
+
+12. through the order, punctuality, which he sees here.
+
+13. through the respect, regard, shudder, with which the receiver always
+speaks of the Order.
+
+--- page 301 ---
+
+14. through the standing, eloquence of the receiver himself.
+
+4. The provincial has thus to instruct his subordinates in these 19 points
+through his subalterns, and to have himself exercised.
+
+5. But it is not enough to fan this fire; it must also from time to time be
+maintained, namely
+
+1. through the reading of such books, as make desires arise, to improve
+oneself, to distinguish oneself, to become great, in which virtue appears
+amiable, vice abominable. Hitherto belong for Germany
+
+1. Abbt, On Merit.
+
+2. Hirschfeld, On the Great Man.
+
+3. Seneca.
+
+4. Epictetus.
+
+5. Antoninus.
+
+6. the Wielandian.
+
+7. the Essays of Montaigne.
+
+--- page 302 ---
+
+8. the Basedowian, and also other moral, soul-elevating books.
+
+2. The provincial must from time to time have the middle-superiors report,
+how much use the candidate has drawn from these readings.
+
+3. When the young people come into the Minerval class, it would be good, to
+have them instructed, by a special person, who has enough lively delivery and
+eloquence, in morals, on the doctrine of pleasure, of displeasure, of good
+and of evil, according to a reading-book also to be designed especially.
+
+4. Still better is it to make practical exercises, make the people
+opportunities to show the fruit of their teaching through deeds.
+
+5. With regard to promotion to a further grade, to test and examine from the
+various books, and [keep] them so long in the lower clas-
+
+--- page 303 ---
+
+ses, until they are that, which one wants to have them.
+
+6. In no piece must the provincial be so careful, as to have himself
+informed, from month to month in a special table through the middle-
+superiors, of the diligence, morals, morality, and progress of the novices
+and Minervals; no class needs so much supervision as this first one, where
+the ground is to be laid.
+
+7. The candidates and Minervals shall also work out monthly tasks, but no
+theoretical, scientific ones; all shall have influence on the will, on the
+improvement of the character, on the social bond, so that
+
+1. the people have occupation.
+
+2. so that one obtains proofs of their capability and insight.
+
+3. so that they are accustomed with diligence to order.
+
+--- page 304 ---
+
+4. so that they are compelled to think themselves into various situations.
+
+8. According to the multitude and goodness of this work follows also, sooner
+or later, the promotion. No one may in the whole province be promoted without
+the permission of the provincial.
+
+9. The provincial shall thus, with people of estate, look not so much at the
+money, as at the pliability and skillfulness. Also at promotions take no
+regard of money or birth: nobility of spirit and of heart are the only
+[things], on which regard is taken here.
+
+10. The provincial must care for the heart and for the understanding of his
+members of all classes, but especially of the novices and Minervals. But the
+heart is the foundation of all. The Order would rather tolerate fools and
+simpletons in the multitude, than a single villain. Therefore
+
+--- page 305 ---
+
+1. no envy, pride, contempt shall be suffered.
+
+2. general benevolence [shall be] awakened.
+
+3. the people [shall be] summoned to good actions; those who have done such
+[shall] be publicly praised, rewarded, distinguished in assemblies.
+
+4. in the Minerval assembly the actions of those, — — — that are good, even
+if they are not done by Order members, shall be promoted; in short
+
+5. everyone shall see, that here justice is rendered to every merit, even
+that which is misrecognized by the world. Every good man shall here find a
+kind of canonization, and the provincial shall in this piece awaken the
+emulation of his people.
+
+11. All, on the contrary, who are convicted of a bad action, shall in a
+prudent manner be suspended from the Order, or entirely excluded. If they are
+novices or Minervals,
+
+--- page 306 ---
+
+the exclusion can be made privatively by the provincial. But if they are
+further-graded, then a higher inquiry is necessary.
+
+12. Especially shall the people be accustomed to represent every moral work
+sensually under one or more images; therefore the Order favors the poets,
+fables, also rational novels in a preeminent manner: and everyone, who has to
+instruct others, shall make himself especially acquainted with images,
+examples, in order to give his instruction the proper liveliness.
+
+13. The instructing [ones] shall always assure their youths, in a thorough
+and at the same time sensual manner, of their interest: and then arises
+
+III. Attachment.
+
+6. This is, however, still particularly effected in the members:
+
+--- page 307 ---
+
+1. when the people are convinced of the goodness of the Order, of the purity
+of its intentions.
+
+2. likewise also certain of its importance.
+
+3. through the integrity of the members.
+
+4. through the dignity and excellence of the institutions.
+
+5. through the benefaction of the instruction, through protection, that one
+experiences.
+
+6. through a greatness, that one sees in the distance.
+
+7. through the constantly increasing goodness of the moral character.
+
+8. chiefly however through the inseparability of one's own interest from the
+interest of the Order, from the fortune in such: from the misfortune outside
+such. etc. etc.
+
+* Herewith this product found [among the papers] ends.
+
+--- page 308 ---
+
+IV.
+
+Address
+
+to the newly to-be-admitted Ill. dir.
+
+(Illuminatos dirigentes.)
+
+In the handwriting of Spartacus.
+
+After this careful preparation and examination, the time of their reward now
+draws near; they have learned to know themselves and others; they are what
+they shall be, what we expect of them. — Now the turn also strikes them, to
+lead others; that, which they have known until now, and which they shall
+still experience in this hour, gives them superiority of insights over other
+weaker ones, and precisely this superiority is the only true source of the
+power of man over other men. — The darkness disappears, the day of light
+breaks in, the first gate of the sanctuary opens itself. A part of our
+secrets will develop itself to them. — Close
+
+--- page 309 ---
+
+the gates of the sanctuary to the uninitiated. I will speak to the
+illustrious, the holy, the chosen. I speak with those, who have ears, to
+hear, a tongue, to be silent, and a purified, enlightened understanding, to
+comprehend. — —
+
+In this assembly of the illustrious they enter today, present, into the class
+of the high Order, into the class of those, who have no insignificant share
+in the government of the Order itself. But do they also know sufficiently,
+what that means, to rule, to rule in a secret society? Not over the lesser or
+more noble rabble, [but] to rule over the best men, over men of all estates,
+nations, and religions, without external constraint, to unite them durably:
+to breathe into them one and the same spirit and soul, to rule over the men
+scattered in all parts of the world, in the greatest remoteness, in the
+greatest possible stillness, with the greatest possible haste and exactness:
+is a task until now still unresolved in statecraft.
+
+--- page 310 ---
+
+To unite distinction and equality, despotism and freedom most closely: to
+create one's realm and one's subjects oneself: to prevent all betrayal, and
+the inevitable persecutions arising therefrom: to make something out of
+nothing, to stem the generally encroaching corruption, to spread blessing
+and delight on all ways, is the masterpiece of politics united with morality.
+To effect this, the civil constitution offers us few usable rules also
+applicable here. The springs [motives], of which one makes use in both, to
+set men in motion, even distinguish themselves. There the men are determined
+to act out of fear and constraint; here with us everyone shall determine
+himself to it. Hope, foreseen rational advantage, expectation, reason,
+morality shall impart to them the proper direction. Here are found obstacles,
+which are proper to only such institutions alone, and are not at all
+encountered in civil society. These are they,
+
+--- page 311 ---
+
+which infinitely make harder the most rational thing, and occasion detours.
+
+Members, who live scattered in various jealous and suspicious governments,
+grown up in such, receive their sustenance from them, hope and fear from
+them, who for the sake of this sustenance give and dedicate to these
+communities all their strength and activity: thus already elsewhere with many
+affairs overburdened members, whom one, beyond that, instructs at no common
+place, under common supervision with the usual coercive means, who live in
+the midst of corruption, and are so easily carried away by it, where the bad
+example is so frequent, and the seduction so easy, and can annihilate the
+work of years: members, whom one, beyond that, cannot transfer at pleasure
+after the example of the spiritual orders — these are they, who constitute
+the foundation of our co-workers, and make the work infinitely harder. — How
+shall one further, of men, whose
+
+--- page 312 ---
+
+greatest part is without means, and themselves expect help from us, and the
+remaining wiser part has been too much sharpened by repeated deceit, for it
+to dare again to spend its money on a society, whose final purpose has not
+yet been laid before it, and the useful, rational, purposeful application of
+its generosity is not proven to it; — how shall one, I say, obtain from such
+members the necessary funds, to defray the needs essential to every body, to
+maintain such a costly correspondence and coherence extending into all the
+world, to help deserving needy [ones], to support those, who because of
+their honesty, zeal for the just cause, for the Order itself, came to grief,
+to promote great institutions useful to humanity, to erect foundations
+useful to the Order; [to] members, who renounce all civil offices, in order
+to employ themselves for the Order, to make these the due recompense: to
+maintain widows and children of members without means, and in this manner to
+put every member
+
+--- page 313 ---
+
+in the position, that he, during his life in independence from evil, and at
+his passing over, be not hindered in his reassurance and peace of soul.
+
+Were men right at the beginning that, which rational men should be; could the
+glory of the plan be laid before them right at first entry, and be made
+evident; then much might still be possible: but, since everyone hopes,
+everyone wants to have, and no one wants to give: since the attraction of the
+hidden is almost still the only means, to retain men, who would perhaps,
+after satisfied curiosity, immediately turn their backs: since it is first of
+all about the moral formation of these often still raw men, and yet everyone
+hurries and murmurs, and becomes impatient over the delay, so they can easily
+see here, that here effort, patience, perseverance, and preponderant love
+for the purpose is required, in order not, in the middle of the work, to
+leave the post, and the ungrateful work, men
+
+--- page 314 ---
+
+to improve, to renounce forever. To prevent that now, to help there, where
+the help is often so hard, to accomplish all that, is what we call, in G. Z.
+[? — unresolved abbreviation], the art of government. — This is the care, to
+which we call you today, to observe, form, come to the help of, care for
+others day and night: to awaken courage in the timid, zeal and activity in
+the lukewarm and sluggish, to preach and teach the ignorant: to raise up the
+fallen, to strengthen the wavering and weak, to hold back the hot-headed, to
+prevent disagreements, settle those arisen, conceal all defects and weakness,
+stand on guard against the intrusion of curious researchers and wits, prevent
+imprudences and betrayal, and finally to effect among yours subordination and
+respect toward superiors, love and inclination among themselves, and
+tolerance toward those, who are outside. These and more besides are the works
+and duties, which we just now lay upon them. —
+
+--- page 315 ---
+
+And finally, do they also know, what secret societies are? what place they
+maintain in the great realm of world-events? do they believe, that such are
+an indifferent, transitory appearance? O, my brothers! God and nature, which
+have ordered all things of the world, the greatest as well as the smallest,
+at the right time and in the proper place, use such as means, to attain
+enormous final purposes otherwise not attainable. Hear and be astonished!
+According to this point of view the whole morality, and the right of secret
+societies, directs and determines itself, and our previous morality and
+concepts of right and wrong receive through this only their necessary
+correction. They stand here in the middle between the past and the future
+world: one glance back into the past times, and immediately the ten thousand
+bars fall away, and the gates of the future open themselves. Prepare
+yourselves to dare a fleeting, but bold glance into it: — they will behold
+the unspeakable richness and store of God and na-
+
+--- page 316 ---
+
+ture, the humiliation and dignity of man, and the world and the human race
+in its youthful years, if not even in its childhood, there where they already
+presumed to find it in gray, decrepit age, near its downfall and
+degradation.
+
+Nature, which is the stepwise development of an infinite plan, where the same
+archetype lies at the ground in all possible changes, graduations, and forms,
+and receives from us men different names according to the difference of its
+shape, makes in all these its changes no leap: it begins from the smallest
+possible, and imperfect, runs through regularly all middle steps, in order to
+arrive at the greatest and most perfect of this kind, which highest is
+perhaps newly the lowest step of a new higher change: it makes children, and
+out of them men; and savages, in order to make civilized men out of them,
+perhaps to make the contrast of that which we were with that which we
+actually are more feelable, more attractive, more estima-
+
+--- page 317 ---
+
+ble to us: or at the same time to teach us, that precisely therefore, with
+that which we are, its infinite store is not yet exhausted: that we and our
+race are still reserved for further, incomparably more important changes. —
+Just as thus the individual man, just so has also the whole race its
+childhood, youth, manly and gray age. With each of these periods of the whole
+race the men learn to know new needs, previously unknown to them. Every new
+need is, as it were, the seed, out of which a new change, a new state, a
+better-being germinates, because it spurs the man to activity, produces in
+him the nisus [striving], to satisfy such, to remove it. From every satisfied
+need arises again a new one, and the history of the human race is the history
+of its needs, how the one arose from the other: and this history, this
+descent, this development of the needs is the history of the perfection of
+the whole race; for according to these direct themselves
+
+--- page 318 ---
+
+culture, refinement of morals, development of the sleeping powers of the
+mind: with their development there changes at the same time the manner of
+life, the moral and political state, the concepts of happiness, the behavior
+of men toward one another, their relations among themselves, the whole
+situation of the respective simultaneous world. — Only on the step of the
+manly age does the human race first appear in its dignity; there alone, after
+we have previously learned through many detours, through long repeated sad
+experiences, what a misfortune it is to arrogate to oneself the rights of
+others, to raise oneself over others through mere external prerogatives, in
+order to use one's greatness to the disadvantage of others: there alone one
+sees it, believes it, feels it, what an honor, what a fortune it is to be a
+man.
+
+This first step of the life of the whole race is wildness, raw nature: where
+the family is the only society, and easily satisfiable hunger and thirst,
+protection from the violence of the weather; a woman, and after the fatig-
+
+--- page 319 ---
+
+ue the rest, are the only needs, a state, in which man enjoys the two
+preeminent goods, equality and freedom, in full abundance, and would also
+enjoy them eternally, if he wanted to follow the wink of nature, and
+understood the art not to misuse his powers, and to hinder the excessive
+outbreak of his passions: or, if he were already that, which his race should
+first attain through long preparation. If it did not lie in the plan of God
+and nature, to show him at the beginning only that, to which they have
+determined his race, in order to make a good all the more estimable to him,
+which he had at the beginning, as soon lost, wished back immediately
+thereafter, and for so long so eagerly and vainly sought, until he was
+finally taught to determine the right use of his powers, his relations
+toward other men more correctly. In this state, where all conveniences of
+our life were lacking, this lack was no misfortune for men, who did not know
+them, and precisely therefore never missed them. Health was their ordinary
+sta-
+
+--- page 320 ---
+
+te, physical pain the only displeasure; — what could well be lacking to
+these original men, to be happy, since they beyond that also taught their
+circumstances to have few and not too lively desires: an art, which is the
+most essential requirement of our happiness, the goal and striving of
+wisdom, and the effect of the most enlightened reason and the most ordered
+will. — Happy men, who were not yet enlightened enough, to lose their peace
+of soul, and to feel the great unblissful springs and causes of our misery,
+the love of power, the desire to distinguish oneself and to surpass others,
+the inclination to sensuality, and the desire after the representing signs
+of all goods, this true original sin of all men with its toilsome retinue,
+envy, avarice, intemperance, illnesses, and all tortures of the imagination.
+But soon this unblissful germ developed itself in them, and their rest and
+original happiness was gone.
+
+--- page 321 ---
+
+When the families multiplied, the sustenance began to fall short, the nomadic
+life ceased, property arose, the men chose fixed seats, and through
+agriculture the families drew near one another, therewith the language
+developed itself, and through the living together the men began to measure
+their powers against one another, saw here superiority, there weakness: here
+one indeed saw, how the one could be useful to the other, how the prudence
+and strength of the one could order the families living together, and
+procure for a whole tract of land security against the attacks of the
+others. But here was also at the same time laid the ground for the downfall
+of freedom; equality disappeared. One felt new unknown needs; one also felt,
+that they were not to be satisfied through one's own strength as before.
+With this intention the weak submitted himself without hesitation to the
+stronger and wiser, not to be mistreated by him, but protected, led, taught:
+the capability to be useful to the other was the only recognized law-
+
+--- page 322 ---
+
+ful title to the throne, and just as before fathers and heads of the
+families [were] the first, so now benefactors were the second and only kings
+of the world. Since previously every man was free and independent, no power
+of the one over the other could arise, except through voluntary submission,
+and no one wanted to submit himself, renounce his rights, put himself into a
+worse state, if he could not hope to draw advantages from it.
+
+All submission, even of the rawest men, is thus conditional upon the case,
+that I have need of help, that he, to whom I submit myself, be in a position
+to render it to me. With my weakness and with the superiority of the other,
+his power ceases. Kings are fathers: paternal power goes to an end with the
+inability of the child. The father would offend his child, who would want to
+arrogate to himself a right over his child beyond this time. Every adult can
+provide for himself: if the whole nation is adult, then the ground of its
+
+--- page 323 ---
+
+guardianship falls away. If the greater part is still underage, then the
+adults indeed step out, but they have thereby no right, to tear the rest,
+against their will, from their previous guardianship, and to throw themselves
+into its place. To a power, that all recognized, if it shall entirely cease,
+all must also renounce. But never have men submitted themselves, to be
+misused, mistreated.
+
+Never has the stronger submitted himself to the weaker: the weak is eternally
+determined by nature to submissiveness, because he needs: the strong is
+called from all times to dominion, because he can be useful. Let the weak
+become strong, and the strong weak, then they also change the place.
+
+He, who needs the other, depends on him; he has himself ceded his right.
+Thus to need little is the first step to freedom; therefore wild and in the
+highest degree enlightened [men] are perhaps the only free men. The art of
+restricting one's
+
+--- page 324 ---
+
+needs more and more is at the same time the art of attaining freedom: and
+the art of doing well to others is at the same time the art of attaining
+dominion; he, who does not need others, is free: he, who can besides be
+useful to others, is free and their king. If the need is long and lasting,
+so is also the submission: security is such a lasting need. Had men abstained
+from offense, they would have remained free. Injustice alone has subjugated
+them. In order to be secure, they have attributed to a single man a strength,
+which he did not have before, which is now stronger, than the strength of
+every single one; thereby they have made themselves a new need: the fear
+against the work of their hands; in order to be secure, they have taken from
+themselves the security itself; this is the case with our states. — Where do
+they now find this strength, that shall protect them against the other? In
+their unity? But this case is too rare. — Thus in new, narrower, wiser,
+secret unions; hence the longing for such [is] grounded in nature itself.
+
+--- page 325 ---
+
+This is the short, true, and philosophical history of despotism and freedom,
+of our wishes and our fear, of our fortune and our misery. Freedom has
+brought despotism into the world, and despotism leads again to freedom. The
+union of men in states is the cradle and the grave of despotism; it is also
+at the same time the grave and the cradle of freedom. We have had freedom,
+and have lost it, to find it again, to no longer lose it, to make ourselves
+through the lack all the more capable of its enjoyment. Nature has torn the
+human race out of wildness, and united [it] in states: out of the states we
+step into new, more wisely chosen ones. New unions approach our wishes, and
+through these we arrive again there, where we went out: but not to make the
+old circle back again one day, but to experience our further determination
+more closely; the consequence shall prove everything still more clearly.
+
+--- page 326 ---
+
+Now the men were thus set out of their calm situation into the state of
+submissiveness. Eden, the garden of paradise, was lost for them, for they
+had fallen, subjected to sin and servitude; they had to earn their bread in
+submissiveness, in the sweat of their face. Others took possession of them,
+promised them protection, and became their leaders: or the wiser, in order
+to lead them to their intentions, and to give their precepts great standing,
+gave themselves out for supernatural beings or emissaries of God: and in
+this manner the theocracy was introduced among them. Yet none of these
+peoples was yet too great; they were distributed in hordes, each of which
+had its leader. These leaders, just as unequal in powers as the individual
+natural men, had gradually likewise to yield to the superiority of the
+clever or bravest among them, and so many small tribes were united into a
+great people. There arose nations and wardens, kings of the nations. With
+the origin of the nations and peoples ceased
+
+--- page 327 ---
+
+the world to be a great family, a single realm: the great band of nature
+was torn. One united men, in order to separate them from one another: one
+drew a line between man and man: these ceased to know themselves under a
+common name. Man began to yield to the countryman, and nationalism stepped
+into the place of love of mankind: with the division of the earth and the
+lands the benevolence was also divided, and boundaries assigned to it, over
+which it should never extend itself. Now it became a virtue to enlarge one's
+fatherland at the cost of those, who were not enclosed in our boundaries.
+Now, if it was a means to this narrower purpose, it was allowed to despise,
+outwit, or even offend strangers. This virtue was called patriotism: and the
+man, who was unjust toward all others, in order to be just toward his own,
+who had led his reason so far down, that he was blind toward foreign
+prerogatives, and the defects of his fatherland not at all,
+
+--- page 328 ---
+
+or even regarded as perfections: this man received the name of the patriot.
+The love toward men was in the closest proportion with the greatness of his
+fatherland.
+
+If it was once allowed, or even virtuous, to hold men lower, who did not
+inhabit with me the same land, or even to offend them, why should it not
+also be allowed to restrict this love still more narrowly to the inhabitants
+of my city, or even to the members of my family, or to me alone? And so
+arose out of patriotism localism, the family spirit, and at the end even the
+egoism.
+
+Just as the point of view narrowed itself from time to time, so out of a
+single interest there became thousand and infinite: everyone wanted to
+attain such. These boundaries contradicted themselves; there arose inner
+fermentations, divisions, enmities: the general was forgotten, because
+everyone thought only alone on his aggrandizement. In such manner was
+already at the first origin of the states the seed
+
+--- page 329 ---
+
+of discord scattered in it; patriotism found its punishment in itself; and
+the offended humanity was sufficiently avenged on its enemies. An evil,
+that is inseparably connected with every state constitution of every form,
+and is to be healed by no statecraft. Diminish patriotism, then the men
+learn to know themselves again as such; the attachment is lost; the band of
+union tears and widens itself; and the source and cause of a multitude of
+deeds useful to the state are no longer undertaken: increase patriotism,
+then you teach men at the same time, that it is just as little wrong to act
+against one's fatherland, as against the rest of the human race: that with
+regard to the remaining part of men, the state possesses just as little as
+the family any privilege: that one cannot punish that, and [should not] take
+a narrower love as a crime, if one oneself gives the example thereto: and
+that finally the narrowest egoism would appear just as lawful, if it were
+able, as the state through
+
+--- page 330 ---
+
+its superiority, to procure impunity for itself. That here thus often a
+crime would be virtue, because it is committed unpunished by several. Every
+rational [man] must rather see, that the use of a state is in no way the
+last measure of right, wrong; for otherwise we would have in the same case
+contradicting rights: that there must be a general right, to which all
+others are subordinate; this is the use of the whole race. What contradicts
+this is wrong, even if altars were built to it in certain lands; and the
+most meritorious action for one's fatherland could be the greatest crime
+against the world. The codex of the nations is distinguished from the law-
+book of nature. From this last the rights of the nations are judged; just
+as every state usurps the right to judge the rights of individual families
+and men, just as every land as much as possible avoided intercourse with
+foreigners, so the original [character] of men had to get lost, and instead
+of such, own customs,
+
+--- page 331 ---
+
+opinions, languages, laws, and religions had to arise through such exclusive
+union; the uniform had to disappear, and manifoldness be spread over the
+earth. These completed the last line between man and man. Now the men had
+cause enough to hate themselves, but almost none to love themselves. Now one
+no longer loved the man, but such a man. This word got entirely lost, and
+now men called themselves Romans and Greeks and barbarians, heathens and
+Jews, Mohammedans and Christians. These divided themselves again into
+further new sects down to egoism. Now one needed only to hear the word
+Christian or Jew, Roman or barbarian, so arose inclination for one's own,
+and persecution-spirit against the other party. Intolerance was now on all
+sides, and because patriotism had born egoism, men of the same sect and
+nation hated themselves not the less for that. They were now strangers,
+when they had to do with one, whom they hated more vividly, with a for-
+
+--- page 332 ---
+
+eign one: but when this one was tamed, then they fell again over
+themselves, and weakened themselves, in order in this manner in time to
+fall into the hands of a third, and to forge themselves new fetters. Their
+own leaders gained the most in this division of the interest. The nation
+was divided, as the different interests; this name forgotten: and the kings
+began to put themselves in the place of the nation, to treat it as their
+property, and to consider themselves no longer as wardens.
+
+To subjugate the nation completely, the conquest-lust of the monarchs
+contributed not the least. One commanded over 100000 men. One believed to be
+able to command over ten, or a hundred times as many. The nation, which had
+part in the booty, gladly consented to it: the nation and the kings divided
+themselves into the conquered lands. The kings again divided theirs, in
+order to maintain against a nation, that still wanted to command, a
+following, a standing militia, to tame the one part of the people through
+the other.
+
+--- page 333 ---
+
+Hence came thus the feudal system [Lehensystem]. The invention of the
+monarchs, who had more, than they needed, and used the surplus, to rule more
+unrestricted, to gild the chains of the people, and to become out of
+benefactors oppressors of men. The origin of a kind of men, who served not
+the nation but the king, stood ready against the nation at every wink, the
+true tools of despotism and the means for the oppression of the national
+freedom, and precursors and models of the standing militia erected later,
+both to one and the same purpose: only the one paid in ready money, the
+others in real estates [liegenden Gründen], for their oppression and
+hangman-services, and hired for the murder and robbery of innocent men.
+Now men fell over men, nations over nations; human blood flowed on all
+sides. There arose out of the conquered a new class of men, which one called
+slaves, entirely for others, not for themselves created m-
+
+--- page 334 ---
+
+-en, at the
+arbitrariness of the conqueror, without acquisition, without property.
+
+Foolish peoples! who did not foresee, what should happen with them, who
+helped the despot to degrade human dignity down to the cattle, in order one
+day to try the like with them; the slavery of the conquered became the model
+of the slavery of the conquerors. Their crime was avenged on their
+descendants; they needed only to lose their strict morals, give themselves
+to effeminacy, and find taste in the sensual needs, to which the surplus of
+the made booty had prepared them, then the victor was the conquered, and
+the conquered the victor.
+
+These were important, but not the only consequences of the establishment of
+the states; the men, who had once dared the first step in good trust out of
+shortsightedness, exhausted their art in the invention of the means to
+their degradation.
+
+--- page 335 ---
+
+Such men, who had lifted their nation out of nothing to such a greatness,
+could, by blind subordinates, who saw only on the present, and did not
+believe, that he, who had been useful to them, could also one day harm
+them, at the beginning not otherwise be regarded than as extraordinary men,
+as gods. Gladly would one have wished them immortality. Through a very
+natural consequence of human shortsightedness this respect had to extend
+itself also to their children, to their families. The son of a benefactor,
+the men fancied, could not be otherwise than a renewed benefactor. It was
+still a kind of election, that determined the successor. Out of respect for
+the first benefactor one did not go out of his family: but gradually the
+elective realm was reshaped into the hereditary realm, and in further
+consequence, when the princes began to put themselves in the place of the
+state and the nation, to regard the people as their inheritance and
+property. When the warlike frenzy was past, and the people, through the
+refi-
+
+--- page 336 ---
+
+-nement of morals and the love of effeminacy, was more prepared for
+servitude: when the first fathers and children and grandchildren of the
+arising people no longer lived, and the degenerated effeminate great-
+grandchildren had forgotten their rights: there arose finally the
+patrimonial realms, and despotism stormed in over the careless men: now the
+children and peoples were sold like a herd, divided, given away, delivered
+to the slaughter-bench. In place of the law [Geſatz as printed] the
+arbitrariness of the princes stepped in: they themselves made themselves
+into the purpose: the nation was merely means, to satisfy the fantasy of
+the prince. Now the power of these was no longer from the people; the power
+to mistreat men was derived immediately from God: life, goods, and honor of
+the citizens was left to their arbitrariness. Now one saw princes without
+insight, and careless over the fate of their subjects, drowned in
+voluptuousness. A court without morals and full of the corruption, that
+spread itself down into the lowest classes, vice on high, virtue in
+
+--- page 337 ---
+
+chains; flattery, baseness at their place: sciences and reason suppressed:
+no one at his proper place: the most important offices of the state offered
+for sale to the highest bidders, to the favor of courtiers, and unchaste
+courtesans: the nation in poverty, the land abandoned and uncultivated,
+industry struck down, trade suppressed: insecurity of property: the great
+independent of laws: the just and virtuous man given up to the fury of
+every base [man], to whom he did not want to pay homage, and, what is the
+worst, suppressed even under the pretext of laws and justice. Now fear was
+the only spring of human actions, and violence and lusts the only law: one
+saw on all sides inner disruption, discord, friends against friends,
+brothers against brothers, parents against children, traitors on all sides:
+at court revelry, weakness, baseness, indifference against the fate of the
+nation, oppressions and imposts
+
+--- page 338 ---
+
+without end and name: misery from within and weakness from without.
+
+In such dreadful circumstances, at this extraordinary degradation, the eyes
+had finally to open, if there was still anyhow the least spring-force in
+the people, to the still remaining few better ones; or in the contrary case
+the nation had to become prey to one or more third [parties], partly
+foreign, partly, according to the finding of the circumstances, to the
+greater ones of the nation itself. Sometimes, when the corruption is almost
+general, and the corruption of morals is greatest, the help is nearest.
+Nature, which preserves in one or the other corner of the north still good
+seed of manliness, and untainted, uncorrupted capability, in order to
+restore the sick South [Mittag], steps into the middle, and calls into
+these voluptuous and effeminate lands, out of the poorer and more barren
+regions, wild peoples; brings life and fresh blood into the sickly body,
+thereby imparts to it manliness and strength, new customs and laws, until
+the
+
+--- page 339 ---
+
+remaining germ of corruption seizes also these healthy parts. But in the
+case, that the corruptions did not attack all men of this people, and there
+were still a few better and unprejudiced ones: o how very much must they
+wish themselves back to the place of their first ancestors, at the rippling
+brook under the shadow of a fruitful tree, at the side of a loving, feeling
+girl. Now they had to see, what a good freedom is, and what folly it is, to
+transfer too great power to one. They could convince themselves, that too
+great power and the impunity connected therewith, in immoral men, even if
+they seem ever so good, leads very easily to misuse.
+
+Here, since they felt the need for freedom, and their fall most violently,
+the wish for relief had to arise in them. They believed, that with the
+change of the despot the evil would be stemmed; all blows fell on the
+person of the tyrant, none on the tyranny: they overthrew the one, to raise
+the oth-
+
+--- page 340 ---
+
+er: or at most, sharpened by the preceding example, they restricted the
+power of the new ruler, which has thereby in time nevertheless become no
+less absolute, after the kings found the secret either to have their part
+in the election of the representatives of the people, to promote their
+adherents to it, or to spread corruption among these, to awaken the hunger
+for gold, or through court offices to buy the votes, or through the
+standing militia to bring the voice of the fatherland to silence. Others,
+who thoroughly despised the power of a single one, chose the popular
+constitution. But they soon found, that freedom is a good, of which not
+everyone is capable, who has only just torn himself loose from the
+corruption of the monarchy; that the affairs of a people cannot always be
+treated before the assembled multitude of the people. To this end they
+chose wardens and representatives, who in time forgot, that they have
+received their commissions first from the people, and not in their own, but
