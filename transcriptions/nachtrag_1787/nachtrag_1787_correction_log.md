@@ -1643,3 +1643,209 @@ the typeface switch is not marked.
 Confidence: pp.310-340 read against the 300 dpi images; no page was copied
 from OCR unread. Printed oddities kept: p.328 "Egoimus", p.333 "meht", p.336
 "Geſatzes", p.317/318 missing "ſich".
+
+## 2026-10-10 session: PDF pages 341-400 (printed pp. 77-136)
+
+**Resume point.** The corrected file ended at p.340 "...und nicht im eigenen,
+ſondern" (catchword "frem-"). p.341 begins "fremden Namen ſich zu verſammeln".
+The raw OCR file has no page markers in this range; page splits were taken
+from the printed page numbers in the OCR stream and checked on each image.
+
+**Content and section boundaries.**
+- pp.341-385: end of "IV. Anrede an die neu aufzunehmenden Ill. dir."
+  (Spartacus). The history of mankind closes (Gleichgewicht der Staaten,
+  pp.341-342), then the program: geheime Weisheitsſchulen as the means of
+  redemption (p.344), Moral as the art that makes princes unnecessary
+  (pp.352-360), Jesus as the "große Meiſter" whose secret doctrine of freedom
+  and equality was kept by the Diſciplina Arcani (pp.362-371), masonic
+  hieroglyphs reinterpreted (three stones = three states of mankind; flaming
+  star with G = Gratia; "Erleuchtete, Illuminati" as the early-Church name for
+  the baptized, p.373; Hieram = Jesus; J and B = Juſtitia and Benevolentia,
+  pp.375-377), and the corruption of Freemasonry by invented higher degrees
+  (pp.377-381).
+- **The Anrede ends on p.385 (printed p.121)**: "...je naͤher ſie der
+  Entwicklung entgegen kommen. *)". The editor's footnote cites "oben Seite 14
+  **)": Weishaupt's party meant to undermine states and rule the world, and
+  "verdrehte ... ſogar die Lehre Jeſu".
+- p.385: **new section "V. Erklaͤrung der maureriſchen Hierogliphen. Von
+  Weishaupts Handſchrift."** Marginal note: "Iſt ein Aufſatz von mir, der auch
+  mutatis mutandis in die Anrede dieſes Grads eingetragen worden". This is
+  Weishaupt's working draft of the Hieram = Christ thesis used in the Anrede.
+  Runs pp.385-399. He admits (p.387) he must "im Grund lachen" at his own
+  HIERAM acrostic, suggests (p.390) using it to spread Socinianism, and closes
+  (pp.398-399) calling it "fluͤchtige, oft ſehr gewagte und gezwungene
+  Gedanken".
+- p.399: ornament rule, then **new section "VI. Circulare an die Logen. Von
+  Philos und Anderer Handſchrift. Man ſehe den Brief S. 110."** Continues past
+  p.400. Its sentence "Wenn man uͤberlegt, wie die ſchlechteſten Menſchen..."
+  (raw OCR, p.401) is the passage quoted in the volume's preface (corrected
+  file lines 21-22).
+
+**Symbols.** ▢ / ▢▢ (Loge/Logen) on pp.392-393 (OCR "OU", "DI", "OJ",
+"U] U"). No ☉ and no new redacted names in this range.
+
+**Logged corrections** (silent f/ſ, umlaut, hyphen-join, signature-mark and
+catchword fixes not listed):
+- p.341: "Ariftocratie" → "Ariſtocratie"; "Willkuͤhe" → "Willkuͤhr"; "Eis ferſucht" → "Eiferſucht"; "nicht fo Häufig, wie vot dem" → "nicht ſo haͤufig, wie vor dem"; "vergehen „" → "vergehen,".
+- p.342: "Kö: nige" → "Koͤnige"; "garantie. ren" → "garantieren"; **OCR "Wege ſo hoͤrt 1 auf, und die Ver| nuunft" → "beguͤnſtigt, ſo hoͤrt ſolche auf, und die Ver⸗"** (OCR lost most of the last line).
+- p.343: "Die Menſchen. unterſuchen" → "Die Menſchen unterſuchen".
+- p.344: "benußen" → "benutzen"; "Gewaltthaͤtigkelt" → "Gewaltthaͤtigkeit".
+- p.345: "unmerkdar berbepfühs ren" → "unmerkbar herbeyfuͤhren"; "Saus vater" → "Hausvater"; "Piisfter" → "Prieſter"; "unum ſchraͤnkte Zerr" → "unumſchraͤnkte Herr".
+- p.346: "ungufhaltbare" → "unaufhaltbare"; "gelan en" → "gelangen"; "unfe lige" → "unſelige".
+- p.347: "Geſchlecht, o oder" → "Geſchlecht, oder"; "Mer ſchen" → "Menſchen".
+- p.348: "folk für" → "ſoll fuͤr"; **"Gefuͤhl W Wuͤrde" → "Gefuͤhl ſeiner Wuͤrde"** (word lost in OCR).
+- p.349: "Prevention" → "Prævention" (æ printed); "majeftätifchen" → "majeſtaͤtiſchen".
+- p.350: "laäͤugnen" → "laͤugnen"; "Ber redſamkeit" → "Beredſamkeit"; **"lachen die Lacht" → "lachen die Lacher,"**.
+- p.352: "Beduͤrf-⸗ niſſe" → "Beduͤrfniſſe".
+- p.353: "Borbedacht" → "Vorbedacht".
+- p.354: "gedenktder" → "gedenkt, der".
+- p.355: stray OCR "So" before "Aufklaͤrung um andere" dropped.
+- p.356: "fih" → "ſich"; OCR "Aufllaͤklaͤrung": **the print has the dittography "Aufklaͤklaͤrung"**; kept as printed.
+- p.358: "nationalFreyheit" → "national⸗Freyheit"; **"ſo maß: ihr es" → "ſo macht ihr es"**.
+- p.360: **"den Ne der Heiligen und a;" → "den Namen der Heiligen und Unuͤberwindlichen"** (Theban Sacred Band).
+- p.361: "fol" → "ſoll"; "Muͤſſt iggang" → "Muͤſſiggang".
+- p.362: **"goͤttliche Lehre lein und" → "goͤttliche Lehre Jeſu und"**; **"groſſe und wbitgehliche" → "groſſe und unvergeßliche"**.
+- p.363: "ſebſten" printed so (for ſelbſten); kept.
+- p.366: "Simmelreichs" → "Himmelreichs"; **"denn ſie ne es nicht. i nn" → "denn ſie verſtehen es nicht."**; "ſo wi er, daß wir uns als Bir" → "ſo will er, daß wir uns als". The Gospel quotations on pp.366, 368-370 are set in larger Schwabacher for emphasis; not marked.
+- p.367: "zus vor" → "zuvor"; "Bas. ters" → "Vaters"; "ber weiſen" → "beweiſen". "kannte er den Vater allein": umlaut on the a is uncertain on the image (possibly "kaͤnnte"); transcribed "kannte" with the OCR.
+- p.368: **"werdet die 1 erkenn. und die 453" → "werdet die Wahrheit erkennen, und die Wahr⸗"**.
+- p.369: "weltliche Sürften berrfchen" → "Fuͤrſten herrſchen"; "Serr" → "Herr" (Schwabacher H; also twice on p.370).
+- p.370: "DIE ciplinam Arcani" → "Diſciplinam Arcani"; "Exbfünde" → "Erbſuͤnde".
+- p.372: "unterwuͤrſig" → "unterwuͤrfig"; **"Gratis" → "Gratia"**.
+- p.373: "Ealeuchteten" → "Erleuchteten"; "Diſeiplinam" → "Diſciplinam".
+- p.374: **"Delpotiſmus vollends fü weit aetsichen werden" → "Deſpotiſmus vollends ſo weit getrieben werden"**.
+- p.375: "Ulurpalionen" → "Uſurpationen".
+- p.376: "Hie Jefus" → "Hic Jeſus" (both readings); "Mac» Benae" → "Mac⸗Benac"; "Shla cken" → "Schlacken"; **"Und weil die „ die Menſchen 108 die" → "Und weil die Freymaͤurerey die Menſchen"** (umlaut "Freymaͤurerey" printed so; kept).
+- p.378: "Geheimmiß" → "Geheimniß".
+- p.379: "Thorhbeiten" → "Thorheiten"; "verbrꝛiten" → "verbreiten"; "Sins terhalt" → "Hinterhalt"; "Vernnuft" → "Vernunft". Printed "Geizes" here (elsewhere "Geitz").
+- p.380: "der) Finſterniß" → "der Finſterniß" (print flaw); "Untergeng" → "Untergang"; "Meg" → "Weg"; "Gie öffnen" → "Sie oͤffnen"; "Könfe" → "Koͤpfe".
+- p.381: "gegenelnauber" → "gegeneinander"; **"an aht und Klugheit" → "an Zahl und Klugheit"**; "zerftrenen" → "zerſtreuen"; "Bew» bindungen" → "Verbindungen"; "unaufßoͤrlich" → "unaufhoͤrlich".
+- p.382: "Eins richtungen" → "Einrichtungen"; **"entfliehen mußte" → "entſtehen mußte"**; "Kürften" → "Fuͤrſten".
+- p.383: "vorßerſieht" → "vorherſieht".
+- p.384: "Feßler" → "Fehler"; "andece" → "andere".
+- p.385: "Kläger" → "kluͤger"; "Erflärung ... Pon Weishaupts Handfihrift" → "Erklaͤrung ... Von Weishaupts Handſchrift"; "Lich nehme" → "Ich nehme" (drop-cap I).
+- p.386: "Acht ſeyen" → "aͤcht ſeyen"; "Achte" → "aͤchte"; "Hicrogliphen" → "Hierogliphen".
+- p.387: **"R. — xeſurgens Ba:" → "R. — reſurgens / A. — a"** (OCR lost the A line of the acrostic). The acrostic prints "J." for Jeſus. **A stray "A." stands in the left margin before "Explication"**, probably a marginal reference letter like the "B.", "C.", "D.", "F." on pp.390-397; kept inline as printed.
+- p.387: "Jefchirach" → "Jeſchirach" (printed so; meaning unclear; flagged, not emended).
+- p.388: printed list numbering "1. 2. 3. 4." then "7."; the 1-4 are sub-points of item 6 (p.387). Kept as printed. "coptinuiren" → "continuiren".
+- p.389: "vers fommelt:" → "verſammelt."; "V. g. sanfter den Arianern" → "V. g. unter den Arianern".
+- p.390: "abzugeben" → "abzugehen"; "E piſcopalen" → "Epiſcopalen"; "Torrys" printed so; "Maureren" → "Maurerey"; "Religionsyſtem" → "Religionsſyſtem"; **OCR numbered the second point "3."; printed "2."**; "berußigen" → "beruhigen".
+- p.391: **"Nun laͤßt fi ſich alles weitere Bet begreifen. 1. Die Maurer halten ai die Zahl" → "Nun laͤßt ſich alles weitere leichter begreifen. 1. Die Maurer halten auf die Zahl"**; "Ehrifien" → "Chriſten".
+- p.392: "Kirchen und OU" → "Kirchen und ▢▢"; "der DI" → "der ▢"; "fremden OJ" → "fremden ▢"; "Literæ Paeis" → "Literæ Pacis"; marginal "D." kept.
+- p.393: "Catbecumenus" → "Cathecumenus"; "die DI ſter" → "die Meiſter"; "U] U" → "▢▢"; "bagden" → "baaden".
+- pp.394-398: **Latin patristic quotations, transcribed as legible and NOT verified against the sources** (Origen, Contra Celſum; Ambroſius, De Myſteriis; Cyril of Jerusalem, Catecheſes; Tertullian, De Corona c. 3; Justin, Apologia I). Main OCR repairs: p.394 "Pra Henke Converfionem" → "Prædicatores, Converſionem"; "vivere rer ſtatuiſsent" → "vivere irrevocabiliter ſtatuiſsent". p.396 "et f ie Satan tanquam præſercti" → "et ſic Satanæ tanquam præſercti" (**"præſercti" printed so**, sense unclear; flagged); "Ad Main Baptifmi" → "Ad ſacrum Baptiſmi"; "P. T et F. T. et ſp. S. I" → "P. † et F. †. et ſp. S. †" (printed crosses). p.397 "Hane ... vosamus, Iluminationem" → "Hanc ... vocamus, Illuminationem"; **"Hac abſolutione" printed so** (Justin has "ablutione"); kept. p.398 "porigitur" printed so (for porrigitur); kept; "vonfecratum ... diſtribunnt" → "conſecratum ... diſtribuunt".
+- p.399: "aD Gd Hdd GS Gd ee" = printer's ornament rule, rendered "[Zierleiſte / printer's ornament rule]"; "f VL Circulare a N an die Logen" → "VI. Circulare an die Logen."; "Di traurige" → "Die traurige" (drop-cap D).
+- p.400: "Ars gerlichen" → "aͤrgerlichen"; "reelamiren" → "reclamiren"; "dle" → "die".
+
+Antiqua words (Corruption, Convention, Moral, Religion, Intereſſe, Masque,
+Legion, Liturgie, Allegorie, Hierogliphen, the Latin quotations) are
+transcribed without marking the typeface change, as before.
+
+Confidence: pp.341-400 read against the 300 dpi images; each page image was
+viewed before its text was written. Printed oddities kept: p.356
+"Aufklaͤklaͤrung", p.363 "ſebſten", p.387 marginal "A.", p.387 "Jeſchirach",
+p.388 list numbering, p.396 "præſercti", p.397 "abſolutione", p.398
+"porigitur". Uncertain: p.367 "kannte"/"kaͤnnte".
+## 2026-10-10 session: PDF pages 401-436 (printed pp. 137-159)
+
+Corrections made by Devin (claude-sonnet-5-5-high) reading the 300 dpi page
+images over the public ngrok URL; same methodology as 341-400. The corrections
+below are the per-page record. Full notes (scope, symbols, uncertain readings,
+page map, preface quote) follow at the end of the section.
+
+CORRECTION_LOG
+
+Silent, not itemised: f/ſ and s/ſ repairs (very many); precomposed ä/ö/ü normalised to the corpus form with combining e (aͤ oͤ uͤ); line-end hyphens and "⸗" joins repaired; printed page numbers (137-159), running catchwords, signature marks (K 2 ... K 5, "I 5") and stray "|" / "—" scanner debris dropped.
+
+p.401: "Mitbeuͤdern" → "Mitbruͤdern" — e/r confusion (the print's r is damaged and looks like ":"). PREFACE-QUOTE exact text, see NOTES.
+p.402: "wußte:" → "wußte:*" — footnote asterisk lost by OCR
+p.402: "= Eine wahre Schilderung des IIluminatenOrdens." → "* Eine wahre Schilderung des Illuminaten⸗Ordens." — footnote marker, "IIl" → "Ill", dropped hyphen
+p.402: "Enchuſiasmus" → "Enthuſiasmus" — c/t
+p.402: "ih: ren" → "ihren" — hyphen debris
+p.403: "beguuͤgte" → "begnuͤgte" — n/u
+p.403: "eriltite" → "exiſtire" — OCR garbage
+p.403: "ja l kamen" → "ja endlich kamen" — word lost, rebuilt from image
+p.404: "Flierogliphen" → "Hierogliphen" — H/Fl
+p.404: "mit: theilten" → "mittheilten"; "die ſen" → "dieſen" — hyphen debris
+p.405: "rent: lich" → "oͤffentlich" — garbled word rebuilt from image
+p.406: "fi h" → "ſich"; "bracht" → "gebracht" — lost letters
+p.406: "enn" → "Mann" — garbled word (einen Mann auftretten)
+p.407: "Be trogner" → "Betrogner" — hyphen debris
+p.407: "Clerieis" → "Clericis" — c/e
+p.407: "Sund" → "Hund" — H/S
+p.407: "dirigiereng" → "dirigieren." — stray g for period
+p.408: "wußte * er" at page head → "wußte" — stray "* er" scan debris dropped
+p.408: "unverſtandlichen" → "unverſtaͤndlichen" — missing diacritic
+p.408: "Interelse" → "Intereſſe" — ſſ misread
+p.409: "D TI" → "▢▢"; "DI)" → "▢" — Loge/Logen glyph mangled
+p.409: "Guter" → "Guͤter" — missing diacritic
+p.409: "bee R geben" → "be-" — signature/catchword debris; page ends mid-word, p.410 starts "geben"
+p.410: "[I" → "▢"; "U DI" → "▢▢" — Loge glyph
+p.410: "ee" → "entſchloſſen," — word lost, rebuilt from image
+p.410: "vers ſteht" → "verſteht"; "fein syſtem" → "ſein Syſtem"; "hermetifhe" → "hermetiſche"
+p.411: "Chapitre illumine" → "Chapître illuminé" — French; accents as printed, UNVERIFIED
+p.411: "bes wogen" → "bewogen"
+p.411: "JahK 2 ren" → "Jah-" — signature and catchword debris; p.412 starts "ren"
+p.412: "Noſenkreutzer ekiſtiert" → "Roſenkreutzer exiſtiert" — N/R, k/x
+p.412: "Jeſaiten" → "Jeſuiten"; "st" → "iſt"
+p.412: "diefe gus sen" → "dieſe guten"; "Des trügern" → "Betruͤgern" — garbled, rebuilt
+p.413: "Roſenkreuger" → "Roſenkreutzer" — missing t
+p.413: "einges riſſene" → "eingeriſſene"; "jeſuiten" → "Jeſuiten"
+p.413: "Emillarien hoff tem K 3 (we n" → "Emiſſarien hofften" — ſſ misread, signature and catchword dropped
+p.413: "nachzulaufen" → "nachzulaufen,"; "war" → "war." — dropped punctuation
+p.414: "Revennen" → "Revenuen"; "Aunds" → "Hunds"; "une igennügige" → "uneigennuͤtzige"; "verſchiebenen" → "verſchiedenen"; "Vorfein;" → "Vorſchein:"
+p.414: "Geis" → "Sei-" — line ends "Sei-", catchword "ten" (UNCERTAIN S/G, see NOTES)
+p.415: "» Wie wäre eg," → "„Wie waͤre es," — quotation restored with per-line „ marks as in the corpus
+p.415: "Duelle" → "Quelle"; "were den" → "werden"; "nachber" → "nachher"; "Öffentlich" → "oͤffentlich"
+p.415: "TempelherrnGeſchichte" → "Tempelherrn⸗Geſchichte"
+p.416: "Zems pelherren⸗Orden" → "Tempelherren⸗Orden"
+p.416: "die anf nicht mehr" → "die Freymaurerey nicht mehr" — word lost, rebuilt from image
+p.417: "wurde ihn" → "wuͤrde ihn" — u/uͤ (Konjunktiv)
+p.417: "lymboliſchen" → "ſymboliſchen"; "Syfteme" → "Syſteme"; "waren" → "waren." — punctuation
+p.418: "OU" → "▢▢" — Logen glyph
+p.419: "unterdruͤende" → "unterdruͤckende"; "koͤ⸗ iglichen Runſt" → "koͤniglichen Kunſt"; "ges reinigten" → "gereinigten"
+p.419: "LIT]", "DO", "Q" → "▢▢", "▢▢", "▢" — Loge glyphs
+p.420: "Kölle" → "Faͤlle"; "okonomiſche" → "oͤkonomiſche"; "Infpgetor" → "Inſpector"; "brovincial" → "Provincial"
+p.420: "— U", "OD", "UU" → "▢▢"; "II für acht" → "▢ fuͤr aͤcht" — Loge glyphs
+p.421: "O zuführen" → "☉ zufuͤhren" — Orden glyph (first ☉ in this batch)
+p.421: "Denke hungen" → "Bemuͤhungen" — garbled; "Iymbolifhen" → "ſymboliſchen"; "fieht" → "ſteht"; "U" → "▢▢"
+p.422: "ges druckt" → "gedruckt"; "OU DI" → "▢▢"; "DI" → "▢"; "[U" → "▢▢"; "Addrefle" → "Addreſſe"
+p.423: "iſt ung wenig" → "iſt uns wenig" — n/g
+p.425 (XII Anſagzettel): raw OCR unusable; table rebuilt entirely from image. "D" → "▢"; "z ten" → "⁷⁄₁ten" (date as day/month fraction)
+p.427 (XIII): raw OCR (lines lost, see NOTES) rebuilt entirely from image as table, 14 rows with Aeußerung column
+p.429 (XIV): rebuilt from image as table, 25 rows; Proteus's NB read at 300% zoom
+p.431 (XV): rebuilt from image as table, 27 rows; "30 kr." → "50 kr." for Orion (zoomed, digit is 5)
+
+NOTES
+
+Scope: the PDF has only 436 pages. Pages 437-460 do not exist (the server returns 404 for page-437.png onward; pdfinfo confirms 436). All of pp.401-436 are done. Last page completed: 436.
+Images: pp.401-432 fetched over the ngrok URL; the server directory ends at page-436, so nothing beyond was ever there.
+
+Page map: PDF 401 = printed p.137 ... PDF 423 = printed p.159. Printed numbers are dropped from the text.
+
+PREFACE QUOTE (p.401-402, printed 137-138), exactly as printed, in modern letters: "Wenn man überlegt, wie die schlechtesten Menschen, wenn sie nur listig und auf einen Ton gestimmt, nach einerley Grundsätzen gebildet waren, aus ihren Mitbrüdern alles zu machen verstanden, derselben schwache Seiten und herrschende Leidenschaften zu ihren Vortheil zu nützen, sie mit falschen Enthusiasmus für nichtswürdige, oft der Rechtschaffenheit, Vernunft und ihrem eignen Interesse entgegen gesetzte Dinge zu erfüllen wußte:* wenn man also erwägt ..." The line break "schwache / Seiten" sits across the page turn (401/402). The print itself reads "zu ihren Vortheil" and "mit falschen Enthusiasmus" (not -em); both kept as printed. "Mitbrüdern": the r is damaged in the print.
+
+Section boundaries: VI "Circulare an die Logen" ends at p.423 after item 13 ("...uns bald möglichst verlassen."). VII "National-Directions-Tabelle von Teutſchland." starts on p.423 followed by an ornament rule; the foldout tabelle itself is not in the scan (p.424 is blank). Then four printed forms, each a recto with a blank verso: XII Anſagzettel (p.425), XIII Verzeichniß der monatlichen Beyträge für den 7. Monat 1784 (p.427), XIV 12. Monat 5784 (p.429), XV 1. Monat 1785 (p.431). Blank pages: 424, 426, 428, 430, 432 (show-through only). 433-435 blank endpapers; 436 back board.
+
+New symbols: ▢ throughout 409-422 and 425 (Loge/Logen, both singular and plural). First ☉ appears p.421 ("dem ☉ zufuͤhren"). No new redacted dash-names and no "x."-dot notation in this range. Names in the tables are the plain pseudonyms (Annibal, Cato, Achilles, ... Proteus, Thelemach, Telephus).
+
+Uncertain or as-printed readings:
+- p.401 "Mitbruͤdern": damaged r.
+- p.404 "in in manchen Logen": the duplicate "in" is in the print; kept.
+- p.406 "Commſſair": printed without the i; kept verbatim (not "Commiſſair").
+- p.411 "zu zueilen": the duplicated "zu" is in the print; kept.
+- p.414 "Sei-" / "ten": S read from the page (capital Fraktur S); "Geiſten" is not what is printed. Reading "von edlen Seiten getaͤuſcht" is confident but the glyph is degraded.
+- p.422 "Cirel": printed so (elsewhere Circul); kept.
+- p.421 "Grade" for "Graden" (twice): printed so; kept.
+- p.420: the numbering skips from 3 to the unnumbered "Wir erkennen jede ▢ ..." and then 5; the "4." is absent in the print. Kept.
+- p.419 "Endes unterſchriebene": two words in the print; kept.
+- p.402 "kaͤnnte" (kennte): ä as printed.
+- p.404 "Maſken", p.423 "losſagen": s/ſ judgement only.
+- p.425 "Deſ. Wein" row 16: abbreviation as printed (probably "Deſſen"). Date "⁷⁄₁ten 5784" is a fraction in the print.
+- p.427 Row 8 contains a Latin quote, UNVERIFIED: "Etſi fractus illabatur Orbis, impavidum ferient ruinæ." (Horace, Odes III.3, the printed first word is Etſi, not Si.) Row 3 "Verbindung" is partly smudged.
+- p.427 "Inzichten": printed (Jnzichten), kept.
+
+Page-end mid-word splits (kept as "-" at the page end, next page continues): p.409 "be-"/p.410 "geben"; p.411 "Jah-"/p.412 "ren"; p.414 "Sei-"/p.415 "ten"; p.415 "die-"/p.416 "ſer"; p.416 "laſ-"/p.417 "ſen"; p.417 "Anſpielun-"/p.418 "gen". p.413 ends "hofften" (the final "ten" is faint in print).
+
+Lines OCR lost that were rebuilt from the image: p.403 "endlich"; p.405 "oͤffentlich"; p.406 "Mann"; p.410 "entſchloſſen,"; p.412 "dieſe guten", "Betruͤgern"; p.416 "Freymaurerey"; p.421 "Bemuͤhungen"; and the full tables p.425, 427, 429, 431 (raw OCR is only partial/garbled, with whole rows and the entire column of remarks on p.427 missing).
+
