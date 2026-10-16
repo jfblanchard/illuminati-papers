@@ -4662,3 +4662,485 @@ The lodge's [▢] secretary there, K--S--D==, an imperial captain, had been
 admitted, but died during his novitiate.
 
 **6.**
+
+*Philo's reports for the month of Thirmeh 1152 J.*
+
+Since the Masons' Convent has not quite concluded yet, I am putting off my
+final opinion on how we ought to position ourselves toward the new system
+until my next report. Still, I will say this much now: here is Minos's own
+report on it, with its enclosures. He admits himself, on the last sheet,
+
+--- page 201 ---
+
+that he behaved imprudently — and that is true in the strictest sense. His
+own essay, among other things, proves it. Politics required that he be made
+out a heretic once it was read; and even I, had I been present, could not
+have taken him up either. He has now closed off his own path to winning
+over the princes — I have not, of which more shortly. On top of that, he
+simply cannot keep quiet, and whatever happened in the sessions, the whole
+company at dinner already knew by that afternoon. It is not enough to be an
+honest man — one must also act with prudence, if one wants to accomplish
+any good. He always errs in his choice of people. C=== is a very good man;
+C-- is perhaps only a chatterbox (that was certainly my impression of him).
+It is not true that W== is pulling strings behind the curtain. The — are
+fools, and weak ones at that, but they are not deceivers, and genuinely
+mean to accomplish something good — they simply lack prudence. But, as I
+said, I reserve my final judgment on all of this. In ten days it will all
+be over.
+
+Once again I repeat what I cannot repeat often enough: if we
+
+--- page 202 ---
+
+a) have worked out the whole system;
+
+b) if every province has its own provincial;
+
+c) if an inspector is set over every three provinces;
+
+d) if we have our National Direction established in Rome;
+
+e) and if, with all this in place, the Areopagites have nothing to do but
+hold the rudder out of sight — unable, therefore, to be discovered, not
+weighed down with vexatious details, but free to survey the whole system,
+refine it, spread it into other lands, and support the directing class at
+the right moment —
+
+then, and not before, we will accomplish something. We would then have no
+need of such noisy institutions, and could send every provincial back
+within his own boundaries. But if we keep operating in this scattered,
+crisscross fashion, we will be blown apart within three years. Now, to my
+report.
+
+**France.**
+
+Here I advise undertaking nothing for the time being. Until this business
+is off my own neck, I am letting every proposal for Alsace and Lorraine lie
+untouched.
+
+--- page 203 ---
+
+**Holland.**
+
+I could not refuse a young friend of mine, mostly occupied with recruiting
+in Germany, when he asked to be admitted. I have named him Bayard. His
+name is W== of the B==, born 18 August 1756 in —, where his father, the —
+minister, served as envoy. He is a captain in Dutch service, rich, capable,
+noble, and prudent. I will reserve for later what use he may be to us.
+He entered the novitiate on 30 June 1782, and is now a Minerval. Here are
+his two Q.L.s.
+
+**Assyria.**
+
+A-- has taken over Media. I now have an opportunity to work there, on
+which I will report partly once the Convent has ended, and partly have
+already reported in private letters to Spartacus.
+
+**I. Inspection Achaia.**
+
+Alcibiades in Thebes has sent me news about the ex-Jesuits' novitiate,
+which I am having printed here.
+
+**II. Inspection Ethiopia.**
+
+1.) Province Macedonia.
+
+A.) Prefecture Paphlagonia. Here is Epictet's report. As you will see, we
+
+--- page 204 ---
+
+now also have an establishment in Surinam. I have given Surinam the code
+name Mannheim, and Paramaribo the name Frankenthal.
+
+B.) Albania. Here is a report from Cleanthes and from Manetho. I can no
+longer stay silent about this. The matter must, and will, be set in order.
+To that end, I will single out one of the members there and advance him
+quietly. I have my eye on Hegesias. But to be safe, I will ask Cleanthes and
+Manetho separately, each on his own, which of their people is the best.
+
+C.) Pamphylia has no members yet.
+
+D.) Desidia.
+
+Stagyra. Roscius and Glaucus have been away, but have sent in their Q.L.s;
+they have also admitted, under the name Jubal, the — court musician N==S==,
+born in Mainz on 24 August 1751, who entered the novitiate on 12 July
+1782. Glaucus is an excellent man; since he will be here for this fair, I
+will have the chance to train him thoroughly. Chabrias, too, who had been
+in Sebaste until now, is back in Stagyra for good. Now they can get to work
+in earnest. Anaxagoras does not especially please me, and there is not yet
+much to say
+
+--- page 205 ---
+
+of the others. All of them, however, are zealous, and have submitted their
+Q.L.s.
+
+2.) Province Thessalia.
+
+A.) Prefecture Picinum. Here there is in fact a clever report, only not
+composed in proper order; I will shortly have a more exact one drawn up
+and sent on. Things are going splendidly there — perhaps too well. Here,
+too, is a Q.L. Could not the question raised in it be answered by some
+forestry expert?
+
+B.) Servia,
+
+C.) Soria, and
+
+D.) Tagana have no members yet.
+
+3.) Province Dacia.
+
+Here is Minos's report. I most humbly ask for instructions on who should
+handle H. v. T--- in Stuttgart, and S=== in Ansbach. I believe the ever
+splendid Ptolemaeus Lagus could be entrusted with it. S=== is a great
+acquisition. What do you think of the B=?
+
+--- page 206 ---
+
+**III. Inspection Abyssinia.**
+
+1.) Province Ionia.
+
+What I intend to accomplish there through a deputy from the Convent, my
+next report will show.
+
+2.) The report on Aeolis has come in. Not much has been accomplished,
+since the provincial, Simonides, was away. Meanwhile, however:
+
+A.) Prefecture Susiana.
+
+At Tarsus, Herr J--F--B==, a clerk in the mountain trade at H===, was
+admitted into the novitiate on 20 July 1782, under the name Sala.
+Aristodemus Carius has been promoted to Lesser Illuminatus, and has left
+to take up a post as court bailiff at Andrus.
+
+B.) Thracia. Nothing to report here.
+
+C.) Palestine.
+
+At Numantia, Herr D--G--M===, a doctor and professor of theology at K=,
+born in Königsberg on 11 December 1754, was admitted and promoted all the
+way to Illuminatus minor, under the name Godeschalcus; he entered the
+novitiate on 10 July 1782, and is now traveling.
+
+--- page 207 ---
+
+D.) Cappadocia has no members.
+
+I will pass over trivial matters and minor desiderata.
+
+My chief concern now will be to see that every prefecture has important
+local superiors in place, who can finally set the whole machine properly
+in motion.
+
+Philo.
+
+* *
+
+*Report for the month of Merdedmeh 1152 J.*
+
+**Media.**
+
+1.) At the Convent in Wilhelmsbad I recruited the deputy, Count v. K===,
+and have given him the name Numenius. Here is his undertaking [Revers]. He
+not only knew the Order existed, but also told me he had heard that S===
+is an Illuminatus. That alarmed me — could N-- have been talking? He also
+spoke very ill of S===, and begged me not to refer him to that man. I told
+him I did not know who the members in Austria were. I have had his
+undertaking drawn up with the greatest possible caution, as you will see.
+He has read through the preparatory essay, the novitiate, and the Minerval
+grade in succession;
+
+--- page 208 ---
+
+nothing more. He asked my permission to draw up his tables in my presence.
+But the two enclosed notes prove that we have continually missed each
+other. He is in Paris now, but will return to me on the 20th of October.
+In the meantime, you have time to make inquiries about him, and to
+instruct me on what to do with him, and to whom I should refer him. I like
+him well. He is not among the very finest minds, but does seem enlightened,
+and warmly disposed toward the good. Minos takes him for a bigot, but I
+believe Minos is wrong here. Minos's unreasonable habit of hawking deism
+indiscriminately to everyone could hardly have made a good impression on
+anyone at the Convent, and it was, at the very least, the prudent course
+not to applaud what he read aloud there.
+
+2.) Pausanias in Clandiopolis has helped two of our people — one to a
+pastorate in the Austrian lands, and the other into the German Order. In
+return, as the enclosed note shows, he asks that a certain W== be taken up
+in Rome. I urge most earnestly that this wish be granted wherever possible.
+It certainly encourages this splendid man's zeal to see that we, too, look
+to help him as a brother.
+
+--- page 209 ---
+
+**Greece.**
+
+Alcibiades has sent me new material against the Jesuits, which I have had
+printed, and of which I will shortly send a copy.
+
+**Pannonia.**
+
+I have had to refer, as instructed, both Chrysippus and Canon St=== to
+Mahomet, so I do not know what has become of it since.
+
+**II. Inspection.**
+
+**Ethiopia.**
+
+1.) Macedonia.
+
+A.) Paphlagonia.
+
+A deputy appeared at the Convent in Wilhelmsbad who also carried the
+commissions of the lodges [▢▢] in Munich — the church councillor W= from
+Heidelberg. This man, whom I have known as an honest fellow for twelve or
+thirteen years, is Epictet's first cousin. Epictet, however, did not much
+want him recruited for the Order — out of a little vanity, if I am honest:
+the two of them both like to play a leading role, and are rivals. In the
+end, I gave in. Finally, though, W=, who also already knew the Order
+existed, pressed me so hard that I
+
+--- page 210 ---
+
+took his undertaking [Revers] from him, bound him to the strictest
+silence, and let him read nothing further.
+
+My plan was to bring Epictet gradually round, and open up to each of them,
+within the province, a career that would not cross the other's path.
+Winning Herr W= over was all the more necessary since the new Freemasonry
+has moved the direction of the Eighth Province to Heidelberg, and given him
+charge of it. As the first test of his loyalty, I demanded that he draw our
+people in the Palatinate into the matter, and he complied. Then the
+opportunity arose: when the Count of N== approached the Order, we were to
+propose a chancery director to him, with a salary of 1,200 florins, and so
+I wrote to W= yesterday (25 September) that the Order had chosen him for
+this post. By this, if he accepts, I gain a great deal: the man forms a
+high opinion of us, becomes entirely our own, I upset the princes' own plan
+for the provincial direction, and I keep W= and M= apart from one another.
+
+Here, then, is Epictet's report. I will see to the outstanding items
+myself. To my question of why nothing more was heard of Conon in
+Thessalonica, I was told he is simply a useless man.
+
+--- page 211 ---
+
+A vicariate post, to be filled by the Emperor, is now vacant at Speyer. —
+Carlsruhe, as you know, is called Delphis, and Zweibrücken, Sodom. I have
+named Cousel Pisaurum, though I cannot locate the actual place in
+Büsching's gazetteer.
+
+B.) Albania. The reports from there remain very meager. In the meantime I
+have gathered that, of all their people there, the best and most active is
+Drusus. I will now have him promoted, summon him here if necessary,
+instruct him properly, and then make him local superior. May I remind you
+about the addresses for Chrysippus?
+
+C.) Pamphylia has no members.
+
+D.) Pisidia. Roscius and Glaucus are here now. The better I come to know
+these worthy men, the more I esteem and love them. In five weeks they
+return to Stagyra, and will open assemblies there, for which they are now
+strong enough, since Chabrias is also settled there permanently. The Q.L.s
+have come in as expected — here are a couple of them, as a sample, along
+with a letter.
+
+--- page 212 ---
+
+2.) Thessalia.
+
+Here, in Clandiopolis, within the prefecture of Picinum, everything is
+going excellently. Theognis, through Pausanias's efforts, has been
+installed as a Lutheran pastor in the Austrian lands. On this occasion he
+unexpectedly received a letter from the Bishop of K===. It contains
+principles that could have been copied straight from our own booklets —
+it speaks of a secret plan of reform, and asks that the letter be shown to
+no one. The members there now firmly believe the Bishop is a member of the
+Order, and that Theognis owes his promotion to this, which has spurred
+them to fresh zeal. I have also already mentioned above that the ruling
+Count has ordered us to supply him with a chancery director. Several
+members there have been here for this fair, and some newly recruited
+members have not yet submitted their tables. These two difficulties are
+the reason I cannot yet send in a complete personnel list this time. Two
+of our most zealous members there, however, are the old Count of St==, and
+the lieutenant-general, commander, and chief chamberlain von H===, formerly
+in Hessian service.
+
+--- page 213 ---
+
+3.) Dacia.
+
+Here is Minos's report, on which I will make only the following remarks:
+
+α) I most humbly ask that Minos be told not to meddle so freely in every
+province's recruiting and correspondence. Wherever I turn, people already
+have letters from Minos. If he lets Spinoza (whom he considers the noblest
+of men, though he has never seen anything from him but letters) recruit
+people in Lower Saxony, he will ruin my whole plan, and we will lose
+Epimenides, Simonides, Accacius, and especially Marcus Aurelius — who
+already speaks poorly of Minos as it is. We stand to gain the very best and
+most respected men in Tarsus, but the moment Minos, Zpinoza [as printed],
+and deism start operating there, everything will be spoiled. One must not
+whore with truth — she is a chaste, modest woman, and a deist's
+proselytizing zeal and intolerance are every bit as bad as a cleric's.
+
+β) I am glad that Minos wants to open a private correspondence with St=.
+There he will learn that handling a refined man takes a refined mind of
+one's own.
+
+--- page 214 ---
+
+γ) The enclosed correspondence shows that Minos has also entangled himself
+with B-, and is asking the Order to secure him a position. B- is a man
+notorious for his bad morals and low character, but because he writes
+pretty letters, he counts for a great deal with Minos.
+
+δ) Finally, I enclose an opinion from Belisarius on establishing a lodge
+[▢] in Issus. Issus properly belongs to the Upper Rhenish Circle, but is
+directed by Epictet.
+
+**III. Inspection.**
+
+**Abyssinia.**
+
+1.) Ionia. Here I have recruited the popular writer B-- (translator of the
+sentimental journeys of Tristram Shandy — two volumes I have perhaps read a
+dozen times, and still find fresh treasures of philosophy and human
+understanding in them each time — and of various other books). He now
+lives in Weimar, attended the Convent as a deputy, and serves as the Strict
+Observance's factotum, and has promised to work actively for us. I do not
+yet have his tables, but I do have his undertaking [Revers]. The moment he
+is home, I will begin with him.
+
+--- page 215 ---
+
+2.) Aeolis. Here is a very important packet from there, which I must still
+most humbly ask to have returned. Now, to the main point! When I received
+Your Worship's kind permission to try distributing the Priest and Regent
+degrees in my own way, Simonides happened to be with me. I therefore
+conferred both degrees on him and on Epimenides (if only to finally shed
+part of this Herculean burden), and this has won them over to us for
+good, as their letters show. I have made Epimenides inspector of Aeolis
+and Ionia, and Simonides provincial of Aeolis. So, thank God, unless Minos
+gets in the way, we now stand there securely established, free of any
+confusion. But Your Worship will also see what doubts the people in Andrus
+have about the Scottish Knight degree, and on that point I most urgently
+request that the following letter be sent to Epimenides (Herr Court and
+Consistorial Councillor F== in Hanover):
+
+"One may now rely on a man who possesses the prudence, uprightness, and
+sense of duty befitting the dignity God has entrusted to him; he would put
+the trust shown him to the best use for our good cause. It is within his
+power to excuse from the written undertaking [Revers] those people whom he
+
+--- page 216 ---
+
+knows for certain to be no mere curiosity-seekers, but honest participants.
+For the rest, some such obstacle should be set up, to make the step harder
+for them, and to test their loyalty. Anyone with no taste for the
+love-feast may be excused from it; whether they pay money or not is their
+own affair. It is understandable that funds must be collected to
+accomplish anything; the superiors are tired of maintaining, ex propriis
+[out of their own pockets], the very subordinates for whom they work day
+and night. Every province may arrange its own finances according to local
+circumstances. The superiors themselves are paid nothing. Still, it is
+only sensible to build up one's own treasury, partly to have the nervus
+rerum gerendarum [the sinew of affairs — i.e., money] in hand, and partly
+so as not to constantly burden the superiors with small requests for
+funds. Finally (to the author of the letters about Wilhelmsbad), Herr
+Prometheus is owed a rebuke over the witticism in his letter (I have
+underlined the passage in pencil)."
+
+If Your Worship will send the enclosures straight back to me along with
+this letter to Epimenides, you will oblige me greatly.
+
+Minister von H=== is a very great acquisition.
+
+--- page 217 ---
+
+L== has traveled to Livonia; he will likely not be able to send his Q.L.
+every month, since I already pay around 250 florins a year in postage as
+it is. But he will work as no one else has ever worked.
+
+Philo.
+
+I ask that the Osnabrück files be returned not to Epimenides, but to me
+directly.
+
+* *
+
+*Philo's report on Ionia.*
+
+Month of Dimeh, 1152 J.
+
+On the 22nd I traveled to Avaris, where Amelius had promised to come on
+the 23rd — and he did. Before reporting what came of my dealings with him,
+I must first go back a little further.
+
+When the Convent at Wilhelmsbad was to be held, our illustrious superiors
+left it to me to work there for the Order's good, as I saw fit given the
+circumstances. Since, however, none of the deputies was known to me
+closely enough that I could have admitted him on the
+
+--- page 218 ---
+
+spot — and even had that been possible, I could not have properly
+instructed him anyway — I had, in fairness, to let that go, and my own
+presence at Wilhelmsbad was accordingly fairly dispensable, especially
+since Brother Minos was there to at least keep an eye out that nothing
+entirely contrary to our purposes was established. In my view, the matter
+chiefly came down to the following points:
+
+1.) That some degree of union should be reached among all the systems at
+the lower three Masonic degrees — that is, that all lodges [▢▢] working in
+the old way, in the three symbolic degrees, and strict in selecting their
+members, should recognize one another as genuine, and stop branding one
+another heretics.
+
+2.) That ordinary Freemasonry should have no talk at all of higher degrees,
+any more than of unknown superiors.
+
+3.) That all sending of money to higher superiors should stop.
+
+--- page 219 ---
+
+4.) That a new law-book be drawn up.
+
+5.) That the members of each lodge [▢] elect their own masters, and the
+lodges [▢▢] their own governing bodies.
+
+6.) That no one claiming to hold higher degrees should, on that account,
+enjoy the slightest preference in ordinary Freemasonry, but should either
+keep silent about it, or hand over his wares.
+
+I especially recommended these points to good Minos's attention. But he
+had conducted himself so boisterously and imprudently from the very start
+that he not only had no influence whatsoever on the proceedings, but was
+promptly excluded from the narrower committee that was formed. I did,
+nonetheless, learn what direction things would take, and which other
+societies and Masonic systems were trying to gain influence. I took the
+opportunity to open a correspondence with the leaders of the Zinnendorf
+system, which I still keep up even now. I fished out the emissaries of
+other societies partly through other channels, and partly they themselves
+chose to confide in me, knowing that my interest in such matters comes not
+from self-interest but from zeal for the good cause. But nearly all the
+deputies at Wilhelmsbad came to me on their own, since they
+
+--- page 220 ---
+
+already had word — I do not know from where — of our union's existence, and
+all of them, even the — of H===, begged me for admission. I judged it best
+to have most of them sign an undertaking [Revers], binding them to silence,
+but during the whole time of the Convent I shared not the slightest thing
+with any of them in writing. That is exactly what I did, speaking with them
+only in general terms. The Convent took a fairly good turn, in that people
+agreed:
+
+1.) to give up branding one another heretics, and to seek, instead, a
+brotherly union even with the lodges [▢▢] of other systems' symbolic
+degrees;
+
+2.) to press no one to accept anything beyond these three lower degrees as
+essential;
