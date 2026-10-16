@@ -7032,3 +7032,518 @@ useful to mankind; to found endowments useful to the Order; to properly
 reward members who give up every civil office to devote themselves to the
 Order; to support the widows and children of members without means — and
 so place every member
+
+--- page 313 ---
+
+in such a position that, throughout his life, he remains independent of
+misfortune, and that, when he passes on, he is not denied his own peace
+and reassurance of soul.
+
+Were men, from the very outset, already what rational men ought to be;
+could the full splendor of our plan be laid before them, and made
+plain, right from their first entry — then much more would still be
+possible. But since everyone hopes to receive, everyone wants to have, and
+no one wants to give; since the pull of the hidden is still almost our
+only means of keeping men who might otherwise, their curiosity satisfied,
+turn their backs on us at once; since the whole task, above all, concerns
+the moral formation of men who are often still quite raw, and yet everyone
+hurries, grumbles, and grows impatient at every delay — one can easily see
+that effort, patience, perseverance, and an overriding love for our purpose
+are all required here, so that no one abandons his post in the middle of
+the work, and gives up forever on the thankless task of improving
+
+--- page 314 ---
+
+mankind. To prevent that, to help wherever help is so often difficult to
+give, to accomplish all of this — that is what we call, in G.Z. [?
+unresolved abbreviation], the art of government. — This is the charge we
+lay on you today: to observe others, to shape them, to come to their aid
+and care for them day and night; to awaken courage in the timid, zeal and
+energy in the lukewarm and the sluggish; to preach and teach the ignorant;
+to raise up the fallen, strengthen the wavering and the weak, restrain the
+hot-headed; to prevent quarrels, and settle those that arise; to conceal
+every flaw and weakness; to stand guard against the intrusion of the
+curious and the clever; to forestall imprudence and betrayal; and finally,
+to instill in your own people subordination and respect toward their
+superiors, love and affection among themselves, and tolerance toward those
+outside. These, and more besides, are the works and duties we now lay upon
+them. —
+
+--- page 315 ---
+
+And finally, do they even know what secret societies truly are? What place
+they hold in the great order of world events? Do they believe such things
+are some indifferent, passing phenomenon? Oh, my brothers! God and nature,
+who have ordered all things in the world, the greatest as well as the
+smallest, each at its right time and proper place, use such societies as a
+means to achieve vast final ends otherwise unattainable. Hear this, and be
+astonished! It is from this vantage point that the whole morality, and the
+whole right, of secret societies orders and defines itself, and it is only
+through this that our previous morality, and our concepts of right and
+wrong, receive the correction they need. They stand here, at the midpoint
+between the world of the past and the world of the future: a single glance
+back into past ages, and ten thousand barriers instantly fall away, and the
+gates of the future swing open. Prepare yourselves to dare a brief, but
+bold, glance into it — you will behold the unspeakable richness and store
+of God and
+
+--- page 316 ---
+
+nature; the humiliation and the dignity of man; and the world, and the
+human race, still in the years of its youth, if not indeed its very
+childhood — there, exactly where people had already presumed to find it in
+gray, decrepit old age, on the verge of its own downfall and decay.
+
+Nature, which is nothing but the step-by-step unfolding of an infinite
+plan — where the very same archetype underlies every possible change,
+every gradation, every form, and takes different names from us only
+according to the difference of its shape — makes no leaps in any of these
+changes. It begins from the smallest and most imperfect, runs regularly
+through every intervening stage, in order to arrive at the greatest and
+most perfect of its kind — a peak that is itself, perhaps, only the lowest
+rung of some new, higher transformation. It makes children, and out of
+them, men; and savages, in order to make civilized men out of them —
+perhaps so as to make the contrast between what we once were and what we
+now actually are all the more palpable, attractive, and worth
+
+--- page 317 ---
+
+cherishing to us; or, at the same time, to teach us that even in what we
+now are, nature's infinite store is still far from exhausted — that we,
+and our whole race, are reserved still for further, incomparably more
+important changes to come. — Just as the individual man has his childhood,
+youth, manhood, and old age, so too does the whole human race. With each
+of these periods, the race as a whole comes to know new needs, unknown to
+it before. Every new need is, so to speak, the seed from which a new
+change, a new condition, a better state of being germinates — because it
+spurs man to activity, producing in him the nisus [striving] to satisfy
+that need, to remove it. From every satisfied need, a new one arises in
+turn, and the history of the human race is nothing but the history of its
+needs — how one arose from another. And this history, this lineage, this
+unfolding of our needs, is the history of the whole race's perfection; for
+on it depend, in turn,
+
+--- page 318 ---
+
+culture, the refinement of morals, the development of the mind's sleeping
+powers. As these develop, the manner of life changes with them, along
+with the moral and political condition, our ideas of happiness, the way
+men behave toward one another, their mutual relations, and the whole
+condition of the world in any given age. — It is only at the stage of
+manhood that the human race first appears in its true dignity; only there,
+after we have learned, through many detours and long, repeated, sorrowful
+experience, what a misfortune it is to claim the rights of others, to
+raise ourselves above others through mere external privilege, in order to
+use our own greatness to another's disadvantage — only there do we truly
+see, believe, and feel what an honor, what a piece of good fortune, it is
+simply to be a man.
+
+This first stage in the life of the whole race is wildness, raw nature:
+where the family is the only society, and where easily satisfied hunger
+and thirst, shelter from the violence of the weather, a woman, and rest
+after
+
+--- page 319 ---
+
+exertion, are the only needs — a state in which man enjoys the two
+foremost goods, equality and freedom, in full abundance, and would enjoy
+them forever, if only he followed nature's cue, and knew the art of never
+misusing his own powers, of checking the excessive outbreak of his
+passions — or if he were already what his whole race was destined to
+become only through long preparation. But it did not lie within the plan
+of God and nature to show him, at the very start, anything more than
+exactly this — that single state to which his race was first destined —
+precisely so as to make the good he had at the beginning all the more
+precious to him, once he had so soon lost it, longed for it back at once,
+and sought it so eagerly, and for so long, in vain — until he was finally
+taught the proper use of his own powers, and a truer sense of his relations
+to other men. In this condition, where every comfort of our present life
+was lacking, that lack was no misfortune at all for men who did not know
+such comforts, and therefore never missed them. Health was their ordinary
+
+--- page 320 ---
+
+state; physical pain, their only real displeasure. — What, indeed, could
+these original men have lacked, to be happy, since their very
+circumstances also taught them to want little, and to desire nothing too
+intensely? — an art that remains the most essential requirement of our own
+happiness, the very goal and object of wisdom, and the fruit of the most
+enlightened reason and the most well-ordered will. — Happy men, not yet
+enlightened enough to lose their peace of soul, nor to feel the great,
+joyless springs and causes of our misery — the love of power, the desire
+to distinguish oneself and surpass others, the pull of sensuality, and the
+craving for the outward signs of every possession — that true original sin
+of all mankind, with its weary train of envy, avarice, intemperance,
+illness, and every torment of the imagination. But soon this joyless seed
+took root in them too, and their rest, and their original happiness, was
+gone.
+
+--- page 321 ---
+
+As families multiplied, sustenance began to run short, the nomadic life
+came to an end, property arose, men chose fixed settlements, and through
+agriculture, families drew near to one another. Language developed along
+with this, and through living together, men began to measure their own
+strength against one another — seeing superiority in one place, weakness
+in another. Here, too, men could see how one might be useful to another,
+how the prudence and strength of one could bring order to families living
+together, and secure a whole stretch of land against the attacks of
+others. But this was also, at the very same moment, the ground on which
+the ruin of freedom was laid; equality disappeared. Men felt new, unknown
+needs, and felt, too, that these could no longer be met through their own
+strength alone, as before. With this in mind, the weak submitted himself,
+without hesitation, to the strong and the wise — not to be mistreated by
+him, but protected, guided, and taught. The capacity to be useful to
+others was the only recognized rightful
+
+--- page 322 ---
+
+title to the throne, and just as fathers and heads of families had once
+been the first kings, benefactors now became the world's second, and
+only, kings. Since, until then, every man had been free and independent,
+no power of one man over another could arise except through voluntary
+submission, and no one wished to submit himself, to renounce his rights,
+to place himself in a worse condition, unless he could hope to gain some
+advantage by it.
+
+All submission, even among the rawest of men, is thus conditional on this:
+that I need help, and that the one to whom I submit myself is actually
+able to give it to me. The moment my weakness, or his superiority, ceases,
+so does his power. Kings are fathers; and paternal power comes to an end
+once the child is no longer a child. A father wrongs his child who tries
+to claim a right over him beyond that point. Every grown man can provide
+for himself; and if an entire nation has come of age, then the whole
+ground of its
+
+--- page 323 ---
+
+guardianship falls away. If the greater part of it is still underage, the
+adults among them may indeed step forward, but they thereby gain no right
+to tear the rest away, against their will, from their earlier guardianship,
+and set themselves up in its place. Any power that all once recognized,
+if it is ever to cease entirely, must be renounced by all alike. But men
+have never submitted themselves in order to be abused or mistreated.
+
+The stronger has never submitted to the weaker: nature has, from the very
+start, destined the weak to submission, because he has need; it has called
+the strong, from all time, to dominion, because he is able to be useful.
+Let the weak become strong, and the strong weak, and they will simply
+trade places. He who needs another depends on him, and has already ceded
+his own right by that very need. To need little, then, is the first step
+toward freedom — and perhaps only the wild, and the supremely enlightened,
+are truly free men. The art of restricting one's own
+
+--- page 324 ---
+
+needs, more and more, is at the same time the art of attaining freedom;
+and the art of doing good for others is, at the same time, the art of
+attaining dominion. He who needs nothing from others is free; he who can,
+besides, be useful to others, is free, and their king as well. If a need is
+long-lasting, so too is the submission it produces; and security is just
+such a lasting need. Had men only refrained from doing harm, they would
+have remained free. Injustice alone has subjugated them. In order to be
+secure, they granted a single man a strength he did not have before — a
+strength now greater than that of any one of them alone — and in doing so
+created for themselves a wholly new need: fear of the very thing their own
+hands had made. In seeking security, they stripped themselves of security
+itself; and this is exactly the case with our own states. — Where, then,
+do they now find the strength to protect them against that very power?
+In their own unity? But that case is far too rare. — And so, instead, in
+new, narrower, wiser, secret unions; hence the longing for such unions is
+rooted in nature itself.
+
+--- page 325 ---
+
+This is the short, true, and philosophical history of despotism and
+freedom, of our hopes and our fears, of our good fortune and our misery.
+Freedom brought despotism into the world, and despotism, in turn, leads
+back to freedom. The union of men into states is both the cradle and the
+grave of despotism; and, at the very same time, it is both the grave and
+the cradle of freedom. We once had freedom, and lost it — only to find it
+again, never to lose it a second time, and to make ourselves, through that
+very loss, all the more fit to enjoy it. Nature tore the human race out of
+wildness, and united it into states; and out of those states, we step
+forward into new ones, more wisely chosen. New unions answer to our
+wishes, and through them we arrive once more at the point from which we
+set out — not to close the old circle all over again one day, but to come
+to know our further destiny more intimately still. What follows will
+prove all of this still more clearly.
+
+--- page 326 ---
+
+So it was that men were cast out of their calm original state into a
+condition of submission. Eden, the garden of paradise, was lost to them,
+for they had fallen, and been made subject to sin and servitude; they had
+to earn their bread, in submission, by the sweat of their brow. Others took
+possession of them, promised them protection, and became their leaders —
+or else the wiser among them, in order to lead the rest toward their own
+ends, and to lend their own precepts greater weight, passed themselves off
+as supernatural beings, or emissaries of God: and in this way, theocracy
+was introduced among men. Yet none of these peoples was, as yet, very
+large; they were scattered into hordes, each with its own leader. These
+leaders, every bit as unequal in strength as individual men in the state
+of nature, had in time likewise to yield to the superiority of the
+cleverest or the bravest among them, and in this way many small tribes
+were united into one great people. Nations arose, and wardens — kings of
+nations. With the rise of nations and peoples, the world ceased
+
+--- page 327 ---
+
+to be one great family, a single realm; the great bond of nature was torn
+apart. Men were united, only in order to be separated from one another; a
+line was drawn between man and man; they ceased to know one another under
+a single common name. Man began to yield to countryman, and nationalism
+took the place that love of mankind once held: with the division of the
+earth and its lands, benevolence, too, was divided, and given boundaries
+beyond which it was never meant to extend. It now became a virtue to
+enlarge one's own fatherland at the expense of those who lay outside its
+borders. Now, if it served this narrower purpose, it became permissible to
+despise, outwit, or even wrong the stranger. This virtue was given the
+name patriotism; and the man who was unjust toward everyone else, simply
+to be just toward his own people — who had so far dulled his own reason
+that he was blind to the merits of foreigners, and utterly blind, too, to
+the faults of his own fatherland —
+
+--- page 328 ---
+
+or who even mistook those faults for perfections — this man earned the
+name of patriot. His love of mankind stood in exact, inverse proportion to
+the greatness of his own fatherland.
+
+If it was once permissible, even virtuous, to think less of men who did
+not share my own land, or even to wrong them, why should it not be just as
+permissible to narrow that same love still further — to the inhabitants of
+my own city, or even to the members of my own family, or to myself alone?
+And so, out of patriotism, there arose localism, family feeling, and
+finally, at the very end, egoism itself.
+
+Just as this point of view kept narrowing, over and over, so a single
+interest split into a thousand, and then into endless interests, and
+everyone wanted to secure his own. These separate interests contradicted
+one another; inner ferment, division, and enmity arose; the general good
+was forgotten, since every man thought only of his own advancement. And so,
+already at the very origin of states, the seed
+
+--- page 329 ---
+
+of discord had been scattered within them; patriotism carried its own
+punishment within itself, and wounded humanity was amply avenged on its
+own enemies. This is an evil inseparable from every form of state
+constitution whatsoever, one that no statecraft can ever heal. Lessen
+patriotism, and men learn once more to recognize themselves simply as men;
+but then their attachment to the state weakens, the bond of union frays
+and loosens, and the wellspring of countless deeds useful to the state
+dries up, since they are no longer undertaken at all. Strengthen
+patriotism instead, and you teach men, at the very same time, that acting
+against one's own fatherland is no more wrong than acting against the
+rest of the human race — that, with respect to the rest of mankind, the
+state possesses no more privilege than the family does — that one cannot
+rightly punish, or treat as a crime, a narrower love if one sets the very
+example of it oneself — and that, in the end, the narrowest egoism would
+appear every bit as lawful, could it only secure its own impunity, as the
+state does, through
+
+--- page 330 ---
+
+its own superior power. That here, then, a crime would often pass for
+virtue, simply because it is committed, unpunished, by many at once.
+Every rational man, on the contrary, must see that the interest of a state
+can never be the final measure of right and wrong — otherwise we would
+find, in one and the same case, two contradicting rights. There must exist
+some general right, to which every other right is subordinate: and this is
+the interest of the whole human race. Whatever contradicts it is wrong,
+even if altars have been built to it in certain lands; and the very action
+most deserving of praise toward one's own fatherland could be the greatest
+possible crime against the world. The code of nations is a different thing
+from the lawbook of nature. By the latter, the rights of nations are to be
+judged. And just as every state has claimed the right to judge the rights
+of individual families and men, and just as every land, as far as
+possible, avoided contact with foreigners, so the original character
+common to all men inevitably had to be lost, and in its place, through
+such exclusive unions, their own customs,
+
+--- page 331 ---
+
+opinions, languages, laws, and religions inevitably arose; the single
+uniform had to disappear, and endless variety spread itself across the
+earth. These completed the final line drawn between man and man. Now men
+had cause enough to hate one another, and almost none left to love
+themselves as one. Men no longer loved man as such, but only this or that
+particular kind of man. The very word was lost entirely, and men now
+called themselves Romans and Greeks and barbarians, heathens and Jews,
+Mohammedans and Christians. These, in turn, split themselves into further
+new sects, all the way down to pure egoism. Now one needed only to hear
+the word Christian or Jew, Roman or barbarian, for an instinctive
+attachment to one's own kind to arise, together with a spirit of
+persecution against the other. Intolerance now reigned on every side, and
+because patriotism had given birth to egoism, men of the very same sect
+and nation hated one another no less for it. They became strangers to each
+other only when they had some business with an outsider,
+
+--- page 332 ---
+
+whom they hated still more intensely; but once that outsider was tamed,
+they fell upon one another again, weakening themselves in turn, only to
+fall, in time, into the hands of some third party, and forge for
+themselves new chains. Their own leaders profited most from this division
+of interest. The nation itself was split, just as its interests were
+split; the very name of nation was forgotten; and kings began to set
+themselves up in the nation's own place, to treat it as their private
+property, and to think of themselves no longer as mere wardens.
+
+The conquering ambitions of monarchs did no small part in bringing the
+nation fully under subjection. A man might command a hundred thousand men,
+and come to believe he could command ten, or a hundred, times as many. The
+nation, which shared in the spoils of conquest, gladly consented to this —
+the nation and its kings divided up the conquered lands between them. The
+kings, in turn, divided their own shares further still, in order to
+maintain, against a people that still wished some say in its own
+government, a standing following, a permanent militia, so as to hold one
+part of the people in check through the other.
+
+--- page 333 ---
+
+From this arose the feudal system [Lehensystem] — the invention of
+monarchs who had more than they needed, and used the surplus to rule with
+fewer restraints, gild the chains of their own people, and turn themselves,
+from benefactors, into the oppressors of men. From this arose, too, a new
+class of men who served not the nation but the king, standing ready
+against the nation at a moment's notice — the true instruments of
+despotism, the very means of crushing national freedom, and the
+forerunners and models for the standing armies raised later, both serving
+one and the same end: the only difference being that one was paid in cash,
+the other in landed estates [liegenden Gründen], for their part in the
+oppression and the hangman's work, and hired out for the murder and
+plunder of innocent men. Now men fell upon men, nations upon nations, and
+human blood flowed on every side. Out of the conquered arose a new class
+of men, called slaves — men created, it seemed, entirely for others, and
+not for themselves,
+
+--- page 334 ---
+
+left to the arbitrary will of the conqueror, without property, without
+any possession of their own.
+
+Foolish peoples! who never foresaw what would one day happen to them, and
+who helped the despot drag human dignity down to the level of cattle, only
+to have the same thing tried on themselves in turn. The slavery of the
+conquered became the very model for the slavery of the conquerors. Their
+own crime was avenged on their descendants: it took only the loss of their
+strict morals, a surrender to softness and self-indulgence, and a taste
+for the sensual pleasures that their plundered riches had already prepared
+them for, and the victor became the conquered, and the conquered, the
+victor.
+
+These were important, but by no means the only, consequences of the
+founding of states. The men who had once ventured that first step, in
+good faith, out of mere shortsightedness, went on to exhaust every art in
+inventing the very means of their own degradation.
+
+--- page 335 ---
+
+Such men, who had raised their nation up out of nothing to such greatness,
+could hardly be seen, by blind subordinates who looked only at the
+present, and never imagined that a man who had once served them might one
+day harm them, as anything other than extraordinary men — as gods. People
+would gladly have granted them immortality. Through a very natural
+consequence of human shortsightedness, this same reverence inevitably
+extended itself to their children, and to their whole family. The son of a
+benefactor, people imagined, could be nothing other than a benefactor
+reborn. It was still, in some sense, a form of election that determined
+the successor; out of respect for the first benefactor, people simply
+chose not to look outside his family. But gradually this elective realm
+reshaped itself into a hereditary one, and, in further consequence, once
+princes began to set themselves up in the place of the state and the
+nation, to regard the people as their own inheritance and property — once
+the warlike fervor had passed, and the people, through
+
+--- page 336 ---
+
+the refinement of manners and a growing love of ease, had become still
+more prepared for servitude — once the first fathers, children, and
+grandchildren of the rising nation were no longer living, and their
+degenerate, softened great-grandchildren had forgotten their own rights —
+there finally arose the patrimonial kingdoms, and despotism descended upon
+careless men like a storm. Now children and whole peoples were bought and
+sold like cattle, divided up, given away, and delivered to the slaughter.
+In place of law [Gesatz, as printed] stepped the sheer arbitrary will of
+princes: they made themselves into the very purpose of the state; the
+nation became a mere means to satisfy the prince's own fantasy. Now the
+power of these rulers no longer came from the people at all; the power to
+mistreat men was now derived directly from God; the life, goods, and honor
+of every citizen were left entirely to princely whim. Now one saw princes
+without insight, careless of their subjects' fate, drowned in pleasure. A
+court without morals, and riddled with corruption that spread down into
+the very lowest classes; vice enthroned, virtue in
+
+--- page 337 ---
+
+chains; flattery and baseness installed in virtue's place; the sciences
+and reason suppressed; no one in his rightful place; the state's most
+important offices offered for sale to the highest bidder, to the favor of
+courtiers, and to unchaste courtesans; the nation sunk in poverty, the
+land abandoned and left uncultivated, industry struck down, trade
+suppressed; property insecure; the great placed above the law; the just
+and virtuous man delivered over to the fury of every base man to whom he
+refused to bow — and, worst of all, crushed even under the pretext of law
+and justice itself. Now fear was the only spring of human action, and
+violence and appetite the only law: one saw, on every side, inner
+collapse, discord, friend against friend, brother against brother, parent
+against child, traitors everywhere; at court, revelry, weakness, baseness,
+and utter indifference to the fate of the nation; oppressions and levies
+
+--- page 338 ---
+
+without end or limit; misery from within, and weakness from without.
+
+In such dreadful circumstances, amid such extraordinary degradation, the
+eyes of whatever few better men still remained had, at last, to open — if
+there was still even the slightest spark of vitality left in the people at
+all; or else the nation was simply bound to fall prey to some third
+party — partly foreign, partly, depending on how circumstances fell, among
+the greater men of the nation itself. Sometimes, when corruption has become
+almost universal, and the decay of morals is at its very worst, help is
+nearest at hand. Nature, which preserves, in one corner of the north or
+another, some good seed of manliness, some untainted, uncorrupted
+capability, in order to restore the sickly South [Mittag], steps in, and
+summons wild peoples out of poorer, more barren regions into these
+indolent and effeminate lands; brings fresh life and new blood into the
+diseased body, and with it, manliness and strength, new customs and laws —
+until, in time,
+
+--- page 339 ---
+
+the lingering seed of corruption seizes hold of these healthy newcomers in
+turn as well. But in those cases where corruption did not infect every
+single man of a people, and a few better, unprejudiced souls still
+remained — oh, how fiercely they must have longed to return to the place
+of their first ancestors, beside the rippling brook, under the shade of a
+fruitful tree, at the side of a loving, feeling woman. Now, at last, they
+had to see what a true good freedom is, and what folly it is to hand over
+too much power to any one man. They could see for themselves that too much
+power, and the impunity that comes with it, very easily leads even
+seemingly good but morally weak men into abuse.
+
+It was here, feeling the need for freedom, and feeling their own fall most
+violently, that the longing for relief had to arise in them. They believed
+that simply changing the despot would check the evil; every blow fell on
+the person of the tyrant, none on tyranny itself: they overthrew the one
+man, only to raise up
+
+--- page 340 ---
+
+another in his place — or, at best, taught caution by the previous example,
+they restricted the new ruler's power, a power that nonetheless, in time,
+grew no less absolute, once kings discovered the secret of taking a hand
+in choosing the people's own representatives, of advancing their own
+supporters into those seats, of spreading corruption among them, of
+awakening the hunger for gold, of buying votes through court offices, or
+of using a standing army to silence the voice of the fatherland entirely.
+Others, who thoroughly despised the power of any single man, chose instead
+a popular constitution. But they soon discovered that freedom is a good
+not every man is capable of, least of all one who has only just torn
+himself free from the corruption of monarchy; that the business of a
+people cannot always be conducted before the people's own assembled
+multitude. To this end, they chose wardens and representatives, who, in
+time, forgot that they had first received their commissions from the
+people, and that they served not their own interest, but
