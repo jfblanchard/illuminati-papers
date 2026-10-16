@@ -1077,3 +1077,563 @@ not fall into line in Athens — whoever holds his own comfort and his own
 wretched passions dearer than anything else, who has no wish to earn the
 approval of the noblest of men, or to join with them in forming one family
 across the whole world — him I ask only this much: that he at least not
+hinder our tireless labors, and not put them to shame by his example. That
+is worse than murdering people, worse than spreading the plague across the
+earth. — Thank heaven, after what you have told me, there is hope of
+improvement again. At last they seem to be growing enlightened, to be
+Illuminati, to see that things cannot go on this way. I gladly offer
+
+--- page 52 ---
+
+my hands and my powers to this end, and will do what I can: see to it that
+at least one model emerges among you, a man who sets the tone, by which the
+weaker ones can be shaped. I am very glad to see, in your letter, hope of
+this.
+
+Your second fault is that you chase after money far too much, and connive
+too much on its account — you very nearly make it your purpose. That is the
+policy of innkeepers, who make the first bill so large for their guests
+that they never come back. Oh, how that debases us! So the man who pays is
+our patron? Not a man's betterment but his money is our aim? And in what,
+then, are we any better than every other society? By this you drive away
+every honest man involved, and keep any honest man from ever forming a good
+opinion of you, or joining your banner without shame. And these worthless
+people cannot be kept in any case — they are capable of no discipline, they
+promise and do not pay, as their arrears prove. Where, then, is the
+advantage you promise yourselves? Oh, do not do this. The best source of
+your finances, though the slowest, must be the holiness, the unprofaned
+character of your union. If that holds true, the finest of men will flock
+to you and pay —
+
+--- page 53 ---
+
+when it must be, not with a guilder, but with his life. And besides, who
+says that people unfit for the ☉ in the preparation class are nonetheless
+good enough for the Masonry? Is not the ☉, as presently arranged, itself a
+form of Masonry? This preparation class ought to be done away with
+entirely: it exists nowhere else, and yet, for all this preparation, the
+people in Athens come out worse formed than anywhere else. What good is it,
+then? Especially since it already has almost the same constitution as the
+Minerval class. The Minerval class is itself a preparation class; the
+Novitiate is a preparation class — why do we need three preparation
+classes?
+
+I must see the Magistrate's protocols for myself, for the first time,
+before any resolution is passed, so I can find their weak points and devise
+ways to change them. Otherwise this would not be an ☉ but a clerk's
+courtroom, where the clerk always has the advantage, since he alone can
+enforce judgments. Here one would merely threaten, and either the threat
+would go unfulfilled, or, against any recalcitrant member, the superiors'
+weakness would be exposed in full force.
+
+Whatever you send me, significant or not, I send everything straight back
+with the next messenger. I need none of it in my own house, and I am not
+trying
+
+--- page 54 ---
+
+to bind anyone with it either, so that he feels compelled to live according
+to my thinking.
+
+As for M. Aurelius's letter, I ask once again that I get it back soon, and
+that no one learn anything of it — he himself asked for this in his letter.
+Strange, that he should have proposed me.
+
+Here I also send you Pythagoras's essay on how he intends to guard himself
+against further extravagance — it amounts to a general confession. See what
+people will do, when they truly care about a cause. Philo writes to me that
+Minos has submitted his life-narrative for Illuminatus major. It is not yet
+complete — it already runs to ninety-six sheets, and he is only in his
+seventeenth year. See what trust people place in you, when you deal
+honestly with them, and take hold of them at the right point. Shortly I
+will also send you two letters, with which I cured one man of indolence,
+and another of a dry, lean, unsociable way of giving orders. Pass these to
+Brother Diomedes, so he can treat his own people — who lie sick in this
+same hospital — the same way.
+
+I would also like to see the new Berlin grade. Farewell for now, and let
+
+--- page 55 ---
+
+reason guide everything you do. I am
+
+Your most faithful
+Sparcacus [sic].
+Ephesus, 9 Chardad 1152.
+
+I have sent Cortez to Erzerum today, to have Illuminatus minor conferred on
+him. The same will be done with Menippus the day after tomorrow.
+
+**11.**
+*Spartacus to Celsus. Greetings.*
+
+Great complaints are being made against Arminius. So hold off referring him
+to me, or even making him a superior. He is an unbearable, obstinate,
+arrogant, vain fool — flecti nescius [one who does not know how to bend].
+He refuses to pay the 24-kreuzer fine imposed on him for the Q.L. he
+omitted. He will not come to assemblies, and he will do no favors for
+people who do him none in his own affairs. NB. Such people are the ☉! — He
+believes that, with the last grade he received,
+
+--- page 56 ---
+
+the ☉ has nothing more to offer him, and he expects nothing further. One
+must therefore wait him out, and deal with him cautiously, for he is a
+vicious, denunciatory man. If he does not come back to the ☉ of his own
+accord, let him go his own way — not much will be lost. Instead, write off
+everyone here who belongs to Brutus's assembly, and refer Pythagoras,
+Menippus, and Confucius to me — through these three I will govern all the
+rest, so that they will certainly distinguish themselves above everyone
+else! I also do not think much of Confucius, but Cortez will turn out
+well. Leave the arrangement to me; I will manage everything, as far as it
+can be managed, according to circumstances.
+
+I would also prefer it become known as little as possible in Athens that
+these men stand under my direction, since I have a great many enemies, who
+would turn it into a capital crime and brand me a corrupter of youth. [\*]
+
+> \* Weishaupt never wishes to be seen as what he truly is. Does he not
+> rightly deserve to be called a corrupter — since he has drawn a whole
+> crowd of young men at the university into his net, seducing them through
+> his hypocrisy and feigned morality,
+
+--- page 57 ---
+
+> with which he knew how to disguise and gloss over his evil intentions and
+> his scandalous deeds.
+
+In general, break your people of the habit of chattering and naming
+members to one another — almost our greatest strength is lost that way.
+And do not readily allow anyone to frequent another province; these young
+men are far too careless, and chatter to everyone. It is a misery that
+people have almost no concept of the real strength and organization of
+societies like ours — and that one earns the greatest respect precisely by
+saying only as much about it as is necessary. The age, standing, and reach
+of the ☉ are best proven by saying nothing about them at all, for people
+then presume incomparably more, and cannot accuse you of lying when they
+see it is not entirely so. What is contained in the Illuminatus minor is
+everything. If that does not move a man, and he is satisfied with it as it
+is, then he is certainly no good. I ask you, then: urge your people toward
+steadier conduct and the utmost caution. Such carelessness could one day
+cost us honor, bread, and life, however good our intentions. I no longer
+trust people readily — I have seen them in every light: even the best are
+worth little once their own
+
+--- page 58 ---
+
+interests are stirred. What, then, is to be expected of the great,
+unrefined crowd?
+
+I do not know what to make of it — Philo has not written me a single line
+in over ten letters now, and sends no provincial report either. This is
+exactly the month in which, by the terms of the last recess, I am supposed
+to report to the Areopagites — but I cannot send in a single line, since I
+have received nothing from any quarter. I sent your letter about the
+M.x.x. straight on to Philo, but have had no answer yet.
+
+On the subject of the M.x.x., let me add this. The first three grades are
+now woven into our system as ☉ grades. Whoever becomes M.x. with us after
+the Illuminatus minor advances in this way — and yet these grades stand in
+almost no connection with the grades before or after them in the ☉: they
+bear no real resemblance to them either. In fact, rather than each new
+grade containing more than the one before it, they actually contain less.
+That does not sit well with me — it never has, but what could I say, at a
+time when everything was against me? What good would my objection have
+done? One can see all too clearly that this is not the work of a
+
+--- page 59 ---
+
+single mind — that several hands have tinkered with it, each bringing in
+his own ideas. This, I believe, is the greatest flaw in the whole system.
+Machiavelli puts it this way:
+
+> „Il faut prendre pour maxime générale, que jamais presque un état n'est
+> bien reglé d'abord, que par la conduite d'un seul homme, qui donne le
+> plan, & qui établisse les ordres nécessaires pour cela. Il faut donc,
+> qu'un homme, qui a assez de prudence, pour fonder un état, assez de
+> vertu, pour le faire par un autre principe, que par celui de l'intérêt,
+> uniquement par l'amour du bien public, & sans avoir égard à ses
+> héretiers: un tel homme doit tâcher d'avoir l'autorité lui seul: & jamais
+> un esprit raisonable ne reprendra un legislateur, d'une action
+> extraordinaire, qu'il aura faite pour fonder, & pour regler un état. Il
+> est vrai, que si l'action l'accuse, il faut, que l'effet le justifie; il
+> ne faut pas reprendre un legislateur, qui use de violence pour accomoder
+> les affaires; mais seulement celui, qui en use pour les gâter.“
+>
+> [One must take it as a general maxim that almost no state is ever well
+> ordered from the outset except through the conduct of a single man, who
+> lays down the plan and establishes the institutions it requires. A man
+> who has enough prudence to found a state, and enough virtue to do so on
+> some principle other than self-interest — purely from love of the public
+> good, and without regard for his own heirs — such a man must try to hold
+> the authority alone; and no reasonable mind will ever reproach a
+> legislator for some extraordinary act he has committed in order to found
+> and order a state. It is true that if the act accuses him, the result
+> must justify him; one must not reproach a legislator who uses violence to
+> set affairs in order, but only one who uses it to spoil them. — *caution:
+> transcribed as printed, not verified against a critical edition; see the
+> translation-context file.*]
+
+— Machiavelli, *Discours politiques*, Book I, Chapter 9.
+
+But that I could never obtain: they have written it down against me as a
+love of domination, when at bottom it was statecraft, and necessity.
+
+--- page 60 ---
+
+Do not, I beg you, hold it against me that I have not finished the rest of
+the Q.L. I have a great deal to do and to write, and if I do not have my
+aestrum poeticum [poetic frenzy] in me, I cannot produce anything with real
+manly force. I must be plenus Deo [full of God] — that I have to wait for,
+and cannot force. Mostly, though, it comes when I hear or see good results.
+Since I have heard nothing at all from other places for a long time now,
+and least of all from Athens, it does not surprise me in the least that I
+am so little able to produce anything good. Often, too, the thought weighs
+on me that perhaps, for all my goodwill, thinking, and labor, I am only
+building myself a gallows as my reward, and that one imprudent fool could
+destroy the most splendid edifice. My persecutions, my misfortunes, and my
+domestic troubles give me, besides, many a hard hour.
+
+As for Yorick, I am content to let it go — although, at bottom, I do not
+think all my reasons have really been refuted. But it is reason enough for
+me that he is not agreeable to you. As for averting the blow on account of
+L===, the university owes you a great debt of gratitude for that. Do ask
+S== sometime whether these endless attacks on me over church law
+
+--- page 61 ---
+
+will ever come to an end. What man can seriously and energetically devote
+himself to a field he might lose tomorrow as easily as he keeps it today?
+You should just take it up yourself for once, so that I might live quietly
+and unnoticed, in peace. I have, after all, gained no advantage from it
+anyway. I am glad to be rid of so dangerous an office, in a country where
+one finds so little support.
+
+What I wrote above about folding the M.x.x. into our system, I do not mean
+as disapproval of the union itself — I am, in fact, very much in favor of
+it. My point concerns only the manner in which these things are woven
+together, which does not hang together closely enough for my taste. The
+☉'s own functions stop all at once, and three inactive grades follow. I
+cannot call that promotion, if it means unlearning, if I am transferred
+from activity into inactivity. So what occupation do these men have that
+connects with what came before, and prepares for what comes after? The
+Master of the Chair, too, is elected, which runs against the whole rest of
+the ☉'s constitution, and can cause the worst disorders, if the lodge [▢]
+is flooded with people admitted without any selection, merely to raise
+
+--- page 62 ---
+
+money. — Well, it will not be possible to change that now, at least not
+soon.
+
+Why, then, have you still not had D=== recruited? He is not, after all, a
+bad sort. Pizzaro has still not written to me — he must have had second
+thoughts again.
+
+Be careful regarding Hermes. W== is absolutely determined to get the local
+parish for his dependent, the beneficiary B=, ut solus fit altissimus [so
+that he alone may be the highest]. The university will very likely propose
+him, so head it off, so that no one gives it any consideration. W=='s
+pretext, for B='s sake, is economy and thrift, since B= offers to take over
+the vicarage for a very small stipend paid by the university. On this
+point Hermes must not aim as high as S===, who, I hear, is demanding 1,200
+florins — which is impossible.
+
+I have just received your further letter. I will, in God's name, set
+myself to the Reprochenzettln, though my hands are already full of work,
+and I feel little enthusiasm for it besides.
+
+If Ulysses can be won over, there will be little resistance left in the
+whole lodge [▢].
+
+--- page 63 ---
+
+I already knew something of the disorders that have broken out in Athens,
+and the general complaints.
+
+It is not impossible to bring everything back into order — but it will
+always be hard. If you will follow my lead, everything should soon be
+running again, as well as it does anywhere else. But I must first be given
+a chance to survey your whole province in detail; then I will send you a
+proper Instruction, by which you must work. It is hard — very hard — once
+people have lost respect for the cause, the person, and the arrangement, to
+win it back. Interea non desperandum [meanwhile, one must not despair].
+Farewell. I am
+
+Your
+Spartacus.
+Ephesus, 8 Asphandar 1782.
+
+**12.**
+*Spartacus to Celsus. Greetings.*
+
+Here are the last Communicata, returned. I forgot, in my letter to
+Diomedes, to mention that I
+
+--- page 64 ---
+
+know of no one at present for the post of secretary to Count Thierheim,
+except Thales Milesius — who is also ready to accept the post.
+
+Among the local students from Athens, the following are worth watching: the
+merchant S-'s son, who just this week took his licentiate, performed quite
+well, and is besides very rich. 2.) A certain M-, whose father, as far as I
+know, has a paper mill in the Au, or the Lehel. 3.) Scipio's brother. 4.) A
+certain S== born in the Forest, who dedicated his well-executed
+dissertation *de Comitatibus Bavariae* to the Academy, and is a very
+diligent, able man. I cannot speak highly enough of these men's character
+and other qualities. I ask you, then, to have them watched with this in
+mind.
+
+**13.**
+*Spartacus to Celsus. Greetings.*
+
+Why do I hand out such frightful names? Here is my answer.
+
+1.) Because, if we wanted to name our people only after worthy men, half of
+them would get no
+
+--- page 65 ---
+
+name at all. There are incomparably fewer good men than bad.
+
+2.) With good and worthy men, the candidate learns by example what he
+should be; from the bad ones, what he should not be, what to avoid. Both
+are equally instructive — one must be able to study vice through virtue,
+and virtue itself through vice.
+
+3.) He can learn from it what the man might have become under better
+circumstances, had fortune placed him in the right position — how much his
+upbringing, his religion, the form of government, the age, the
+circumstances all contributed to what he became. Hear, for instance, what
+Raynal says about Cortez on this very point:
+
+> „Cet Espagnol fut despote & cruel. Ses succès sont fletris par
+> l'injustice de ses Projets. C'est un assassin couvert de sang innocent.
+> Mais ses vices sont de son tems, & de sa nation, & ses vertus sont à lui.
+> Placez cet homme chez les peuples anciens, donnez lui une autre patrie,
+> une autre education, un autre esprit, d'autres mœurs, une autre
+> Religion: Mettez le à la tête de la flotte, qui s'avança contre Xerxès:
+> ou supposez le parmi les généraux Bataves, qui s'affranchirent de la
+> Tyrannie de ses
+
+--- page 66 ---
+
+> Compatriotes, & Cortez sera un grand Homme, ses qualités seront
+> héroïques, sa mémoire sera sans reproche. César né dans le quinzième
+> siècle & Général au Mexique eut été plus méchant que Cortez &c.“
+>
+> [This Spaniard was a despot, and cruel. His successes are tainted by the
+> injustice of his designs; he is an assassin covered in innocent blood.
+> But his vices belong to his age and his nation, while his virtues are his
+> own. Place this man among the peoples of antiquity, give him another
+> homeland, another upbringing, another spirit, other customs, another
+> religion — put him at the head of the fleet that sailed out against
+> Xerxes, or imagine him among the Batavian generals who freed themselves
+> from their countrymen's tyranny — and Cortez will be a great man, his
+> qualities heroic, his memory without reproach. A Caesar, born in the
+> fifteenth century and made a general in Mexico, would have been worse
+> than Cortez, etc. — *caution: transcribed as printed, not verified
+> against a critical edition.*]
+
+I believe these reasons ought to be enough. In everything I undertake, I
+certainly have more than one ground for it.
+
+I thank you for the trouble you have taken with Cortez. I am confident he
+will certainly catch on. I questioned him at length, and from many angles,
+about the Jesuits. In short — I vouch for everything. It is well that you
+admitted him; no one else could have given the matter as much weight and
+solemnity. You were born for this — nemo tibi in hac re palmam disputet
+[let no one dispute the prize with you in this].
+
+The small faults that have crept in here and there I recognize very well;
+all the same, we must let them stand for now, or we will find ourselves in
+a quarrel with the overly punctilious Mahomet. It does not amount to much —
+interea placeat annotare [in the meantime, let it be noted] — perhaps in
+time we will let the Minerval class die out entirely, and recast it in
+another form. Few people even have the statute-book in hand anyway. As for
+the chronology, I wish it were done away with entirely, and in its place
+
+--- page 67 ---
+
+the Olympiad reckoning translated into years, since that is the oldest
+reliable chronology — omnia fient suo tempore [all things will happen in
+their own time]. One could say, meanwhile, that it exists only to mask the
+true chronology, so that no one traces the origin and beginning of the ☉,
+from the history of the period, to the actual events that fell within these
+years. Any other reckoning could have served just as well, but this one was
+chosen precisely because it is the least known. It also serves, besides, to
+conceal the actual dates of our correspondence.
+
+Keep a firm hold on the second grade, and train your people accordingly. I
+consider it the fundamental grade, since it awakens love for our purpose,
+and, if carried out well and worked on properly, forms true enthusiasts. I
+have sent Cato a scheme for how, systematically, a great number of people
+can be trained in the finest order, with little trouble, in the best
+possible way. He will, I hope, have shown it to you; if not, ask him for
+it. It takes this form:
+
+--- page 68 ---
+
+[Diagram: a hierarchical tree chart — a top-level circle branching to two
+"a" circles, each branching to two "b"/"c" circles, each branching in turn
+to a bottom row of individual circles, matching the "a, b, c" chain-of-
+command structure described below. The raw OCR rendered this as meaningless
+character/letter noise; not transcribed as text.]
+
+The spirit of the first, the warmest, and the most insightful man
+communicates itself ceaselessly, daily, to aa — a to bb, and the other a to
+cc. bb and cc communicate it, in the same way, down to the eight below
+them, these to the sixteen beneath them, and sixteen to thirty-two, and so
+on. I have written it out at greater length for Cato — in short, each man
+has two wing-adjutants, through whom he acts, indirectly, on all the rest.
+All force radiates out from the center, and gathers back into it again. In
+a certain order of subordination, each man seeks out two others, studies
+them completely, observes them, trains them, encourages them, and, so to
+speak, drills them like recruits — so that one day they, too, will be able
+to drill and fire off the whole regiment. That can be arranged the same way
+through every grade.
+
+Should Diomedes wish to visit me, it would be an honor. My table is at his
+service for as long as he cares to stay in Ephesus, though I have neither
+bed nor room to lodge him — Marius will know that himself. But if Celsus,
+too, should wish to appear in person,
+
+--- page 69 ---
+
+there will be no end of rejoicing — only you must hurry, since Mahomet is
+soon off to Pannonia, and A-- to Rome. If only you could come at a time
+when I might attend to you properly, and enjoy your company in full.
+Concerning Hutten, you must first give notice to Erzerum, ut omnia in
+promptu sint [so that everything is ready] — though I think it a false
+principle to acquaint beginners, right from the start, with our foremost
+men. That fires off one's powder too soon. One should rather let them
+merely suspect such men exist, and make it a privilege of the higher
+classes, so that the wish to come into close association with such people
+spurs the candidates on, and drives them to better qualify themselves. As
+the grades rise, the rewards must rise with them; if a man already has
+everything in the lower grade, he looks for nothing further, and grows
+lukewarm and indifferent, since he no longer sees anything held in reserve.
+One should therefore always keep as much in reserve as possible — these
+men hear, after all, that this man and that man belong to it, and then
+imagine even more than there actually is. In short, one must, wherever
+possible, turn even the smallest thing into a privilege, and make it
+desirable, precisely because it costs effort to obtain.
+
+--- page 70 ---
+
+Celsus himself would be held in far higher esteem, if he were not so easily
+and freely accessible to everyone. That must not stand open to all comers,
+however much they may wish it — "make yourselves worthy, do as others have
+done" must be the rule, for only then shall you have a share in it.
+Pythagoras comes to my house twenty times, and I let him in to see me only
+once. That has the effect that he does not so easily tire of my company,
+and counts himself lucky whenever he is let in. If I did not do this, he
+would certainly already have discovered my faults, and grown weary of me.
+These are the small domestic advantages and tricks by which one makes
+oneself respected — in short, one must let oneself be sought after. I have
+thought it all through carefully, and I know it from experience, for I find
+this calculation serves me very well — and besides, one talks oneself into
+far less trouble this way. Oh, it works beautifully! Si quid rectius istis
+noveris, candidus impertire [if you know something better than this,
+share it candidly]. I always believe I understand this kind of operation
+and manipulation better than anyone else in the ☉. You gentlemen look only
+to the grand scheme, and think too little of the small details. Oh, but
+everything depends on them! I study every look, every step, to see whether
+I gain or lose by it, and I train my people the same way, so that they move
+at my slightest hint, and read my orders in my face without my having to
+speak. No one has ever understood this better than the Jesuits' order. I
+
+--- page 71 ---
+
+believe, too, that it is from the neglect of this kind of clever
+manipulation, even in the smallest matters, that the M.x.x. and every
+earlier secret society has decayed. We must bring among our people a
+distinct tone and manner that sets them apart from everyone else. Train
+Diomedes especially along these lines; when he comes to me, I will give
+him an instruction of his own too. That is what commands respect. One can
+give orders without a single word or line of writing. Our people must be
+trained so that the ☉ is dear to them, even if each one were its only and
+first member. The sheer love of the cause, on its own, must accomplish
+everything — my Illuminatus minor serves exactly this purpose. All these
+expectations about the age of the ☉, its spread, the standing of its
+members, its power, its riches, and so on — one must not feed these too
+much, but guide people so that all of this becomes a matter of
+indifference to them: the thing itself must hold them, not its outward
+appearance. If their expectations are exceeded in due course, so much the
+better — there is no harm in delivering more than was promised.
+
+If you find these maxims sound, then make use of this letter, and read it
+out to the rest, for I do not know whether they will occur to me again so
+clearly another time — or whether I will even have time to write them out
+again. These
+
+--- page 72 ---
+
+refinements, to my taste, have been the cause of many of our past quarrels;
+that comes from our not sharing the same point of view. But among
+Areopagites these views ought to be more alike than among everyone else —
+each believes he has the right plan, and for that very reason none of them
+can truly have it. We ought, then, to unite behind a single one — ut fit
+unus spiritus [so that there may be one spirit]. I do not claim mine is
+necessarily the best, but I have, at least, thought it through at length. I
+proceed very strictly and systematically in my operations, rarely let
+passion guide me in matters of the ☉ (which you will probably not believe),
+and keep the plan constantly before my eyes in everything I do. If someone
+then corrects me in it, or fails to follow it, the plan's finesse is lost,
+and I must reach by a roundabout path the very place I could have reached
+directly in the first place.
+
+I have just received Cato's letter, and will answer it at once as well.
+
+It is already a great step that the secret chapter wishes to turn to us.
+You have handled that beautifully! Now it must be used cleverly. Notanda
+[points to note]:
+
+1.) So that we gain time, do not rush the dispatch of your letter.
+
+--- page 73 ---
+
+2.) Send the letter itself to me, along with your own thoughts on what
+answer you want given to it.
+
+3.) The first answer must not grant everything at once — more letters
+must go back and forth, so that Philo can operate in the meantime.
+
+4.) Meanwhile, let Brutus, Diomedes, and one or another other Capitular —
+perhaps Musaeus too — receive Illuminatus major. They will then genuinely
+see a new Masonic grade, which will give them the idea that we possess a
+Masonry of our own, and so support the matter all the more forcefully.
+
+Do not rush yourselves into anything, then, and quietly arrange everything
+as needed behind the scenes, for when it comes to the decisive moment. I
+cannot understand why Philo has not written me a single line in a month
+now. Could he be ill, perhaps? Four letters of mine are still unanswered.
+Today another letter goes out, in which, at your wish, I call on him to
+establish lodges [▢▢]. I have also written to Mahomet today, to see to the
+copies. I truly have so much to write, and to so many people, that I will
+soon no longer be able to manage it. If it keeps on like this, and grows
+any worse, I shall need secretaries at my side.
+
+Do not forget to do everything possible for Epictet in Athens. He is
+almost our best man — only he is often a little too hotheaded, though
+otherwise beyond reproach — he has brought almost the entire Palatinate
+under the ☉'s command. There are one or two of ours in every little
+country town; in Thessalonica itself, though, he is only just beginning to
+work.
+
+I will look more closely at Pythagoras's proposal shortly. In general I am
+badly hindered, both in recruiting and in every other operation, because I
+do not have a single grade in hand. I do not even have a form for a
+written undertaking [Revers]. Do see to it that I, too, receive something
+for myself, so that I can take stock of it — if only I at least had my own
+manuscripts back. Valete, diligite vos invicem, sicut Christus dilexit
+Ecclesiam [farewell, and love one another, as Christ loved the Church].
+
+--- page 74 (cont.) ---
+
+**14.**
+*Spartacus to Celsus. Greetings.*
+
+Hold off awarding the Knight grade for a short time yet, and have it
+copied out afresh — but in doing so, leave out
