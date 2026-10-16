@@ -8321,3 +8321,404 @@ unstoppable, majestic course; we rejoice in our own kind, and count
 ourselves fortunate to be men, and children of God.
 
 But mark this well, and carefully: we do not force this teaching
+
+--- page 384 ---
+
+on anyone: follow no one but the truth you yourself recognize; exercise,
+even here, and from now on, as a free man, your own original right to
+inquire, to doubt, to test. If you know, or find, anything better
+anywhere, share your insights with us, just as we conceal nothing from
+you. We are not ashamed of our own finitude. We know we are men; we know
+it is the work of nature, and the lot of mankind, not to reach the best
+all at once, but to advance by stages, growing wise through our own
+errors, and making use of the insights of our forefathers, so as to become
+wise sons who will one day father still wiser grandsons. So: if all of
+this seems true to you, take it all; if there is an error somewhere in it,
+that alone certainly does not make you any the worse. If nothing pleases
+you, reject all of it without hesitation, and consider that perhaps some
+of it was meant only as an invitation to further inquiry. If one part
+pleases you, but not another, then seek out for yourself whatever
+
+--- page 385 ---
+
+does please you. If you are one of the Enlightened, your own gaze will
+surely penetrate to wherever the truth lies hidden, and you will find our
+way of instructing men all the wiser, the closer you come to its full
+unfolding. [\*]
+
+> \* This whole address proves, throughout, the remark already made above,
+> on page 14 [\*\*], namely that Weishaupt and his following meant to
+> undermine the state itself, free themselves from the rule of their own
+> territorial princes, and rule the world themselves. To this end,
+> Weishaupt even twisted the teaching of Jesus, and interpreted the
+> Scriptures according to his own perverse sense and will.
+
+**V.**
+
+*Explanation of the Masonic hieroglyphs.*
+
+*In Weishaupt's handwriting.*
+
+*In the margin stands:* This is an essay of mine, which has also, mutatis
+mutandis, been worked into the address for this grade, as the copy to be
+obtained will show.
+
+I take it as given, to begin with, that only three grades — apprentice,
+fellow-craft, and
+
+--- page 386 ---
+
+master — are old, original, and genuine. All the rest I take to be an
+invention of more recent times, and of various peoples, once the true
+meaning had been lost among them. I would not consider the Scottish grade
+old either, since it derives from one particular country and nation — it
+grants that nation far too great a privilege within Freemasonry.
+
+I take it further, then, that within the Master grade — that is, among the
+hieroglyphs appearing there — the whole genuine and original Masonic
+teaching lies concealed. Whoever can explain these explains the whole of
+Freemasonry. The chief subject of this allegory and its hieroglyphs is the
+death of Hiram. Who, then, is this Hiram? Once that is discovered,
+everything else, the whole liturgy included, must fall into line behind
+it.
+
+Here, then, I say: Hiram is Christ, and I prove my claim as follows:
+
+1. From the name itself, which I interpret thus:
+
+--- page 387 ---
+
+H. — Hic
+J. — Jesus
+E. — est
+R. — resurgens
+A. — a
+M. — mortuis
+
+[Here is Jesus, rising from the dead.]
+
+This already gains us a great deal to begin with, though I myself can
+hardly help laughing, deep down, at this particular explanation.
+
+2. Hiram is murdered; so is Christ.
+
+3. Hiram is sought after his death, and found; so is Christ.
+
+4. Hiram wishes to build the Temple. So does Christ: he says, destruam
+Templum et post tres Dies reaedificabo [I will destroy the Temple, and in
+three days rebuild it].
+
+5. Through Hiram's death, the sacred Word — Adonai, Jehovah — is lost.
+Through Christ's death, likewise: the sacred Word of Christians is no
+longer Jehovah, but Jesus — Jeschirach.
+
+6. Now, the sacred word Mac-Benac would also need explaining; one could
+say, then:
+
+--- page 388 ---
+
+1. Mac-Benac means Jesus: in Rabbinic, Mac-Benac in fact means "he has
+slain the son."
+
+2. But one should not say "Jesus" straightaway, so as to draw out the
+allegory a while longer.
+
+3. Or one could search, in every letter of Mac-Benac, for similarly
+fitting words, the way I did with Hiram.
+
+4. Or one could apply here, too, a new principle: declare anything that
+cannot be explained toward this purpose an invention of more recent times,
+and reject it accordingly.
+
+7. From the life and death of Christ, one could find — or drag in — still
+more resemblances to Hiram.
+
+So, then, Hiram is Christ, and the object of this grade is to commemorate
+the death and resurrection of Christ.
+
+--- page 389 ---
+
+Now a doubt arises: why present the teaching of the Christian religion in
+secret, in hieroglyphs, when that religion is already the ruling one, and
+has nothing whatsoever to fear?
+
+Response. 1. Olim non erat sic [it was not always so].
+
+This, then, is meant to show that Freemasonry, as times have changed, has
+lost its original meaning, and has been applied, against its first
+purpose, to other, arbitrary ends.
+
+2. This secrecy was necessary in the time of the heathens. Here, Christians
+gathered at night, in out-of-the-way places, exactly as today's Masons do.
+
+3. This was necessary, too, in times of schism within the Christian
+Church, in order to carry on the old, pure teaching — for instance, among
+the Arians, under Valens, under Julian.
+
+4. This was necessary, as well, in times and places where Christians lived
+among the
+
+--- page 390 ---
+
+heathen — for instance, in the East, at the time of the Crusades.
+
+5. This was necessary where Christians themselves began to depart from the
+old teaching, and introduce innovations.
+
+6. This was necessary in England, in the time of the struggle between
+Presbyterians and Episcopalians, between Whigs and Tories.
+
+In one of these periods, then, the origin of Freemasonry must be placed.
+Here I note:
+
+1. That Freemasonry could be used, in this way, to spread some religious
+system — Socinianism, say — an opportunity the Socinians would seize
+eagerly, were one willing to work out the further details and application
+with one of their own theologians.
+
+2. People fit for nothing better, who would be satisfied with this
+explanation, could be made use of in this way.
+
+--- page 391 ---
+
+3. Others, better suited for more, could be shown, by this same method,
+the inconstancy of Freemasonry, and thereby made eager for some other,
+better arrangement.
+
+Everything that follows is now easier to grasp.
+
+1. Masons set great store by the number three, for the sake of the
+Trinity. Who does not know the Trisagion of the early Christians?
+
+2. They recognize one another through the catechism, which represents the
+ancient Symbolum of the Christians; and through other signs — among
+Christians, the cross; among Masons, the handshake, and so forth.
+
+3. They call one another, just as the first Christians did, "brothers,"
+and kiss one another.
+
+4. They assemble at night, in out-of-the-way places.
+
+5. They hold their agape, or love-feasts.
+
+6. Collections are also taken up among them for the support of the poor.
+This
+
+--- page 392 ---
+
+represents the collections of the early Christians.
+
+7. They have their own separate assemblies; each congregation has its own
+leader. No one excluded from one congregation may be admitted into
+another.
+
+8. The various churches and lodges [▢▢] communicate with one another, and
+keep their own diptychs.
+
+9. The leaders of a lodge [▢] receive the titles: worshipful, very
+worshipful, right worshipful, most worshipful.
+
+10. Whoever wishes to be admitted into a foreign lodge [▢] must first
+prove his orthodoxy through the catechism, the signs, and a patent
+(Literae Pacis).
+
+D. 11. The flaming star is the sign of the Epiphania Domini.
+
+12. In their hieroglyphs, they make use of the moon, the sun, and the
+stars, to signify the changes that occurred in these very heavenly bodies
+at the death of Christ.
+
+--- page 393 ---
+
+13. The stone is the one that lay upon Christ's tomb, and was found again
+at his resurrection — or it admits of still another explanation, such as
+the stone on which the Church itself was built.
+
+14. They have their own Disciplina Arcani, just as the early Christians
+did.
+
+15. They have their grades: the newly admitted member is a catechumen,
+led toward baptism, made into a Christian. The apprentices are fideles,
+the fellow-crafts, diaconi, the masters, presbyteri.
+
+16. F. The manner of admitting a new Mason is the very same one described
+to us by the Church Fathers for catechumens. This is all the more
+plausible since, as far as I know, in certain lodges [▢▢] the newly
+admitted must bathe themselves, or be dipped in water, before their
+admission. The following passages from the Church Fathers lend further
+weight to this. Compare them with today's
+
+--- page 394 ---
+
+Masonic liturgy, and the resemblance is striking.
+
+> Quamvis Christiani Praedicatores, Conversionem gentilium ardentissime
+> desiderarent, nihilominus auditorum suorum probabant spiritum. Privatim
+> exorcismis eos praeparabant, antequam ad congregationem admitterentur, et
+> si firmam bene vivendi voluntatem deprehendissent, in Christianorum
+> conventum introducebant, diversis tamen ordinibus collocandos. Primo
+> ordine stabant incipientes, nec dum integrum fidei symbolum edocti.
+> Altero, qui christianis legibus vivere irrevocabiliter statuissent. Hi
+> suos habebant praepositos, qui eorum mores examinarent, a vetitis
+> abstinere nolentes arcerent, bonos toto corde susciperent, et ut de die in
+> diem proficerent, hortarentur; articuli fidei catechumenis
+> proponebantur: non leviter et inconsulte credendi, sed lente et pro
+> captu eorum instruebantur, considerata vitae et conditionis ratione; ad
+> simpliciter credendum excitabantur, qui plura intelligere non valebant:
+> capacioribus mysteriorum veritas,
+>
+> [Although Christian preachers most ardently desired the conversion of
+> the gentiles, they nonetheless tested the spirit of their hearers.
+> Privately, through exorcisms, they prepared them before admitting them
+> to the congregation, and, finding in them a firm will to live well, led
+> them into the Christian assembly — though placed in different ranks.
+> In the first rank stood beginners, not yet taught the whole creed. In
+> the second, those who had irrevocably resolved to live by Christian
+> law. These had their own overseers, who examined their conduct, barred
+> those unwilling to abstain from forbidden things, received the good with
+> their whole heart, and urged them to progress day by day. Articles of
+> faith were set before the catechumens — not to be believed lightly and
+> rashly, but taught slowly, to their capacity, with regard to their life
+> and condition; those unable to understand more were encouraged simply to
+> believe; to the more capable, the truth of the Mysteries was]
+
+--- page 395 ---
+
+> quaerendo et respondendo demonstrabatur. — Origen, *Against Celsus.*
+>
+> [shown through question and answer.]
+
+> Primo aperiuntur aures Catechumeni, dicendo: Epheta! tum in Sancta
+> sanctorum id est Baptisterium inducitur, in praesentia Diaconi,
+> Presbyteri et Episcopi renuntiant Daemoni, et opibus eius, dum Mundo
+> renuntiabat Catechumenus se ad occidentem vertebat, ut quasi in faciem
+> resisteret. Dein vertebatur ad orientem quasi Jesum Christum aspecturus.
+> Egredientes e fonte ungebantur in capite, lavabantur eorum pedes et albis
+> vestibus induebantur. Tum sigillum et pignus spiritus Sancti accipiebant,
+> cum expressione septem donorum, id est, Confirmationem: dum
+> progrediebantur versus altare, dicentes: introibo ad altare Dei, ad Deum,
+> qui laetificat juventutem meam. Altare inveniebant praeparatum, et primo
+> S. Sacrificio assistebant. — St. Ambrose, *On the Mysteries*, ch. 1-9.
+>
+> [First the catechumen's ears are opened, with the word: Ephphatha! Then
+> he is led into the Holy of Holies, that is, the baptistery, where, in the
+> presence of deacon, priest, and bishop, they renounce the Devil and his
+> works; and as the catechumen renounced the World, he turned toward the
+> west, as if to resist it face to face. Then he turned toward the east, as
+> if about to behold Jesus Christ. Coming out of the font, they were
+> anointed on the head, their feet were washed, and they were clothed in
+> white garments. Then they received the seal and pledge of the Holy
+> Spirit, with the naming of the seven gifts — that is, Confirmation —
+> while advancing toward the altar, saying: I will go in to the altar of
+> God, to God, who gives joy to my youth. They found the altar prepared,
+> and attended the first Holy Sacrifice.]
+
+> Primo aditu in vestibulo Baptisterii intrastis, et cum staretis ad
+> orientem conversi, vobis mandatum est, ut manum ex-
+
+--- page 396 ---
+
+> tenderetis, et sic Satanae tanquam praesenti renuntiastis — quare ad
+> occidentem respexistis? quia occidens est symbolum tenebrarum, quarum
+> Diabolus Princeps est. Tum venit professio fidei. Haec omnium extra
+> ecclesiam facta. Dein sancta sanctorum ingressi estis, id est,
+> Baptisterium. Illico tunicam deposuistis, in signum, quod veterem
+> hominem exueretis; oleo per exorcismum consecrato uncti estis, a vertice
+> capitis, usque deorsum. Ad sacrum Baptismi balneum adducti estis, et
+> singuli vestrum interrogati, an credant in Nomine P. † et F. † et Sp. S.
+> †. Professionem fidei ad salutem necessariam emisistis. Ter aquae
+> fuistis immersi, quibus Servator in sepulchro fuit, ut hos tres dies
+> significet — sacro balneo egressi unctionem accepistis, quae unctionis
+> J. C. imago est, etc. — Cyril, *First Catechetical Lecture.*
+>
+> [At your first entry, you came into the vestibule of the baptistery, and
+> standing turned toward the east, you were bidden to stretch out your
+> hand, and thus renounce Satan as though present — why did you then look
+> toward the west? Because the west is the symbol of darkness, of which
+> the Devil is prince. Then came the profession of faith. All of this was
+> done outside the church. Then you entered the Holy of Holies — that is,
+> the baptistery. There you at once laid aside your tunic, as a sign that
+> you were stripping off the old man; you were anointed with oil
+> consecrated by exorcism, from the crown of the head downward. You were
+or
+> led to the holy bath of Baptism, and each of you was asked whether you
+> believed in the Name of the Father, the Son, and the Holy Spirit. You
+> made the profession of faith necessary to salvation. You were immersed
+> three times in the water, matching the three days the Savior lay in the
+> tomb — coming out of the holy bath, you received the anointing, which is
+> the image of the anointing of Jesus Christ, etc.]
+
+> Antequam in aquam intremus, in ipsa aqua, et adhuc prius in ecclesia, sub
+> manu Praelati protestamur, quod Daemoni, pompis ejus, et angelis
+> renuntiemus, dein te imergimur; ex fontibus lavati lac et
+
+--- page 397 ---
+
+> mel gustamus, et ab hac die per totam septimanam solito balneo
+> abstinemus. — Tertullian, *On the Crown*, ch. 3.
+>
+> [Before we enter the water — in the water itself, and even before that,
+> in the church, under the hand of the presiding minister — we protest
+> that we renounce the Devil, his pomps, and his angels; then we are
+> immersed; washed from the font, we taste milk and honey, and from that
+> day, for a whole week, abstain from our usual bath.]
+
+> F. Siqui veritatem Doctrinae nostrae agnoverunt, et huic Doctrinae
+> conformem vitam instituere promittunt, hos ad jejunandum et orandum
+> obligamus, nosque simul cum iis jejunamus, et oramus, tum ad aquam
+> ducuntur, ibique regenerantur sicut nos regenerati sumus, in aqua enim
+> lavantur in N. Domini Dei Patris et Salvatoris nostri. — Hanc ablutionem
+> vocamus, Illuminationem, quia per eam anima illuminatur.
+>
+> [Whoever has recognized the truth of our doctrine, and promises to live
+> a life conformable to it, we bind to fasting and prayer, and we fast and
+> pray together with them; then they are led to the water, and there
+> reborn, just as we ourselves were reborn, for they are washed in water
+> in the name of the Lord God the Father and our Savior. This washing we
+> call Illumination, because through it the soul is illuminated.]
+>
+> Hac absolutione facta novum fidelem seu, ut appellare solemus, susceptum
+> in fratrum numerum ad locum ducimus, ubi omnes congregati sunt ad
+> communem orationem, quam offerunt pro se, pro Illuminato, et pro
+> fratribus absentibus, ubicunque sint, ut, postquam veritatem agnovimus,
+> per opera et praeceptorum observationem ad salutem aeternam pervenire
+> valeamus.
+>
+> [Once this washing is complete, we lead the new believer — or, as we
+> usually call him, the one received — into the number of the brethren, to
+> the place where all are gathered for common prayer, which they offer for
+> themselves, for the Illuminated one, and for the absent brethren,
+> wherever they may be, so that, having recognized the truth, we may, by
+> works and the observance of the precepts, attain eternal salvation.]
+>
+> Factis precibus osculo nos salutamus, tum illi, qui fratribus praeest,
+> panis et
+
+--- page 398 ---
+
+> poculum cum vino et aqua porrigitur. Hoc ille accipiens laudem et
+> gloriam dat patri per nomen filii et Sp. S. et prolixam gratiarum
+> actionem pronuntiat, pro donis, quae nobis gratificatus est. Quando
+> preces et gratiarum actionem complet, omnis assistentium multitudo
+> elevata voce respondet: Amen. Tandem illi qui apud nos dicuntur Diaconi
+> omnibus assistentibus, consecratum panem, vinum et aquam distribuunt et
+> absentibus deferunt. — Justin Martyr, *First Apology.*
+>
+> [Having finished the prayers, we greet one another with a kiss; then
+> bread, and a cup of wine mixed with water, are brought to the one who
+> presides over the brethren. Taking these, he offers praise and glory to
+> the Father through the name of the Son and the Holy Spirit, and gives
+> extended thanks for the gifts he has graciously given us. When he has
+> finished the prayers and thanksgiving, the whole assembled multitude
+> responds, with raised voice: Amen. Finally, those we call deacons
+> distribute the consecrated bread, wine, and water to all present, and
+> carry them to the absent as well.]
+
+17. For the sacred words Boaz and Jachin, one would need to work out a
+similar interpretation, the way I have done with the word Hiram.
+
+18. These hieroglyphs could also be explained in another way, for
+morality, for the ethical worth of man.
+
+I have sketched out these quick, often very bold and forced, thoughts only
+to give a thinker occasion for further reflection, and for a complete
