@@ -5144,3 +5144,461 @@ degrees;
 
 2.) to press no one to accept anything beyond these three lower degrees as
 essential;
+
+--- page 221 ---
+
+3.) that everything else agreed there was only sketched out, with the
+further elaboration entrusted to a few capable Brothers, and left to each
+lodge [▢] to decide for itself whether to accept the higher degrees, and
+the system as a whole, or not.
+
+It all came down, then, to knowing whether the Brothers entrusted with
+further polishing the system were our men or not. The most important of
+them was Amelius, and he became my chief study. On the whole, though, I
+must do the deputies justice: most of them meant well, at least, and if
+their actions were inconsistent, it was only because they had never been
+through a proper school, and so saw the whole matter askew.
+
+After the Convent, I promoted Amelius up through the Lesser Illuminatus
+grade. I tried to get to know him, spent a few days with him in Edessa,
+and afterward in Thessalonica. He seemed content, and zealous. The
+following speaks in his favor.
+
+He is a man of years, with a fine mind, a diligent researcher; the Strict
+Observance owes him a great part of whatever little good it has done. He
+has an open, undissembling character, seeks the truth, is no enthusiast,
+clings to no particular system, and has means enough that he need not act
+out of self-interest.
+
+Against him stands the following:
+
+He likes to play the leading man. He is somewhat stormy and hot-tempered.
+He will not be led in the dark for long.
+
+--- page 222 ---
+
+He loves the good life, though without excess. He enjoys being flattered
+by princes.
+
+Our illustrious superiors already know that I have kept up a regular
+correspondence with him. Now let me come to our conversation in person, an
+excerpt of which I will share here. [Speaker tags follow the original:
+"J." for Philo, the questioner ("Ich"), and "A." for Amelius's answer.]
+
+**Philo:** I asked him why he had sought out our union.
+
+**Amelius:** Out of the honest wish to accomplish some good through it,
+firmly resolved — should he become convinced it served noble, great
+purposes — to work for it with all his zeal, and help steer the Strict
+Observance accordingly; but just as firmly resolved, should he detect
+deceit, or even Jesuitism, to expose the roguery publicly.
+
+**Philo:** I asked whether he knew many people within the Strict Observance
+whom he would like to see admitted.
+
+**Amelius:** If our union matched his ideal, he knew of only three or four
+people he would want informed of it in full.
+
+--- page 223 ---
+
+**Philo:** Bravo! But what, then, did he expect from us?
+
+**Amelius:** A great, secure, refined institution, already proven by trial,
+devoted to the good of mankind; strict uprightness; unity among its
+leaders. And since he worries a great deal that Jesuits might be behind
+it, he demands to deal only with me in every matter, so as to have no
+unknown superior at all — meaning his manuscripts, his tables, and the
+rest should pass through no hands but mine — and that, if I hoped for
+anything from him, I would soon have to convince him that nothing
+dangerous to mankind, no regime of clerics and stupidity, lies behind it
+all. He wants no secrets of his own.
+
+**Philo:** What did he promise to offer in return for these demands?
+
+**Amelius:** To live and work entirely for us, to place unlimited trust in
+me — in me alone, until he could know the others — to share with me his
+connections, plans, intentions, and the discoveries he has recently made
+into the history of Freemasonry and Rosicrucianism, and to show me the
+Convent's records, so that I could satisfy myself that good, at least, had
+been intended.
+
+--- page 224 ---
+
+He fulfilled a good part of these promises at once, and I have reason to
+believe both in his honesty — his strictest honesty — and in the real
+usefulness of his knowledge and papers to us. I now also know his
+connections, within the Order and in the wider world, and know there is no
+danger in him.
+
+While I read through all this, he had to prepare tables, a character
+sketch, a life-narrative, and the rest for me — though only on the
+condition that everything remain entrusted to me alone, until he could see
+further into the Order's system.
+
+I then shared with him the great Illuminati grade.
+
+**Amelius:** All of this is beautiful, deeply thought through. — But what
+if Jesuits stood behind it after all? A beautiful shell can just as easily
+be fitted to dangerous ends.
+
+**Philo:** For that, I would stand surety myself.
+
+**Amelius:** That I cannot accept. How does he know I am not deceived
+myself? That I truly know the men at the top?
+
+**Philo:** I do!
+
+**Amelius:** That is enough for him, insofar as it means he would hold me
+personally to account, should it all turn out badly.
+
+--- page 225 ---
+
+**Philo:** What right did he have to demand so much?
+
+**Amelius:** A very great right. It is no small thing, when a man who has
+lived close to sixty years, and gathered experience enough to be of use,
+wishes to give himself entirely to a cause. If his person did not seem
+important enough to us, he would not force himself in — but an honest man
+is always a very important person. If he does not suit our higher
+purposes, that would grieve him, but at his age he cannot work as a mere
+Minerval. His own nursery has been God's wide world for fifty-six years.
+He would gladly help establish nurseries of our own, but it is only fair
+that he know, first, where he is being asked to lead people. The public
+purpose is a splendid one — but what is the secret one?
+
+**Philo:** For now, I told him, I could and might lead him only one step
+further, and leave the rest entirely to our superiors — all the more so
+since it was agreed at the Convent that the deputies should have
+themselves admitted into every secret society, to investigate them, and
+that the Convent itself was therefore only preparation for one to be held
+a few years hence. Could he deny this?
+
+--- page 226 ---
+
+**Amelius:** Deny it? He never denies anything true! And by it, we risk
+nothing at all — first, because it was agreed that no one should overstep
+the bounds of honesty, nor ever betray whatever good is entrusted to them;
+and second, because if we consider him no honest man, we should simply let
+him go his own way. But if he is honest, then, once he knows the matter
+more closely, he could prove very useful to us.
+
+After a good deal of back and forth, I finally conferred on him the Knight
+degree, just before our departure. He did not seem especially moved by the
+obligations it demands, though, for the reasons already given, he said he
+could not yet take them upon himself.
+
+Our honest agreement came to this, which I now lay before our illustrious
+superiors, with a most humble request for a prompt decision, since I will
+soon be leaving this region.
+
+If the Order's final, chief purpose is laid before Amelius, and he finds it
+noble and good, and can also name a few more worthy men he is certain are
+enemies of the Jesuits, just as he and I are, then he will:
+
+--- page 227 ---
+
+1.) hold faithfully to us, work for us, and try, as the Knight degree
+prescribes, to secure us the upper hand within the new system;
+
+2.) see to it, as far as it lies within his power, that Illuminati are
+installed on the governing boards;
+
+3.) bring about a fraternal union between the Strict Observance lodges
+[▢▢] and our own. There would, however, be one or two points here he would
+not know how to get around — namely, that our lodges [▢▢] would then have
+to formally recognize the H== F=== as Grand Master, and pay a small
+contribution toward the upkeep of the central direction, in exchange for
+which, however, they would receive every communication and enjoy every
+privilege. — Those are troublesome points indeed! —
+
+4.) when the new law-book is drawn up, keep our own plans regarding the
+election of masters, and the like, constantly in view;
+
+5.) share his knowledge of the true origin of Freemasonry and the
+Rosicrucians with our superiors, have the deductions he has promised the
+Strict Observance on this subject printed on our own presses, and
+
+--- page 228 ---
+
+distribute them to our own people according to our instructions (as well
+as to those he had already promised them beforehand).
+
+I have also come to know Nahor, in Avaris. His experiences have left him
+shy and distrustful, though otherwise I have liked him quite well. But he
+has fallen in with a Lieutenant v. W===, who belongs to a certain society,
+into which they also tried to draw him. In doing so, they warned him,
+showing him an order from their own superiors, written in a thoroughly
+wretched style, to beware of Illuminati, or of the "Uniformes" — people, it
+said, who practice Schröpferian magic [after the Leipzig conjurer
+Schröpfer] and the like. My own name, too, came off none too well in it.
+However plainly this bore the mark of deceit on its face, it has left
+Nahor uneasy, and I suspect he will leave us. In the meantime, I am
+working, through our friends in Weimar, toward his advancement in service —
+so that even if he leaves us, we will at least have done something good
+for him. Here is his Q.L., along with a note from Cimon, which I ask you
+to read closely. This, again, is a consequence of Minos's "careful"
+[ironic] correspondence — for it is he who stays in contact with that
+wretched B=.
+
+--- page 229 ---
+
+Amelius has also given me another sign of his zeal for the Order, in that
+he exerted himself vigorously on behalf of a Brother in Clandiopolis,
+securing him, at my suggestion, a tutor's post with a prince. In return, I
+have placed a young man he recommended highly at Meiningen. Once again I
+ask most earnestly for prompt instructions regarding Amelius.
+
+Sinope. Here E== has become a Minerval, very zealous and very pleased; he
+has submitted his Q.L.
+
+Philo.
+
+**X.**
+
+*Conclusion of Spartacus's letters.*
+
+**25.**
+*Spartacus to Marius. Greetings.*
+
+I hear that your uncle's death has at last freed you from your nursing
+duties. Sit requies defuncto! [May the deceased rest in peace!]
+
+--- page 230 ---
+
+He was, after all, old enough to die. — I hope that on your way from
+Lindkirchen you will take the road through Ingolstadt. — If Mahomet writes
+to you that I, or Philo, or the two of us together, made too many
+confidants in Vienna, he is lying. Neither Philo nor I have kept up any
+correspondence with Vienna. Whatever has fallen apart is the fault of that
+fool S===, and of A---'s badly made arrangements — just as nothing moves
+forward or backward, either, in the most wise Mahomet's own province.
+Enjoy yourself well, until I see you and we can talk. I am
+
+Ephesus, 1 October 1784.
+
+**26.**
+*Spartacus to Marius.* [header: "Sp. M. f." — the "f." unresolved]
+
+Tomorrow the money arrives. I still owe you 50 florins, but cannot pay it:
+first, because L== has sent me only 150 of the expected 250 florins;
+second, because I have had to order 170 florins' worth of books; and
+third, because I will soon have a confinement to pay for. Since I have, for
+some years now, laid out considerable sums of my own money for the Order,
+I think I deserve this indulgence — though it would not be
+
+--- page 231 ---
+
+fair of me to ask you to forgive me this sum outright. If I could manage
+without it, I would not ask at all.
+
+Now, hear a piece of advice from me. Should it come to an inquisition, I
+advise that none of our leaders go into particulars; let them instead
+declare flatly that nothing in the world will force them to disclose the
+necessary particulars to anyone but the Elector in person. To him alone,
+then, one should give my two higher-Mysteries grades to read. That, at
+least, is what I will do, if the question ever comes to me. You will see
+what a favorable, unexpected turn the whole matter takes at once. You have
+read yourselves what D== thought of the first grade, and I am assured the
+Elector will judge it much the same. I trust everything to the soundness of
+my own cause: live with good courage, and without worry, and know in
+advance that, even should I go down, I will always go down with honor,
+even if it costs me my head. Do the same yourselves. Give everyone my
+regards, put courage into them, and rest assured that I am entirely yours.
+
+Ingolstadt, 18 December 1784.
+
+--- page 232 ---
+
+We have, at present, a splendid opportunity to show our true greatness.
+This opportunity we must not let slip by unused.
+
+As for the proposal I made above, I have spoken with Cronwell, who assures
+me of the best success. This proposal, of course, is meant only for the
+most extreme case.
+
+**27.**
+
+Mes frères! [My brothers!]
+
+The step you intend to take is sound, and fits the circumstances. Menelaus's
+essay is very fine and correct. I ask only that you add that you intend to
+lay your grades before the Elector entirely alone, and before no one else.
+
+Of the grades to be handed over, there are:
+
+1.) Preparation.
+
+2.) The Minerval grade.
+
+3.) Illuminatus minor. NB. There, the phrase "stupidest monk" must be
+changed to "stupidest man" — a very easy change.
+
+--- page 233 ---
+
+4.) Illuminatus major, entire, except for leaving out the line: "Clerics
+and wicked princes stand in our way."
+
+5.) Illuminatus dirigens: the admission ceremonies and my own address;
+everything else left out.
+
+6.) From the Priest grade, nothing but the Instructio in Scientificis — but
+gone over carefully, so that it contains nothing that could point further.
+[\*]
+
+Since the packets from Ephesus are now being opened, I can see plainly that
+everything is aimed at me. I will write to Alfred tomorrow, and will take
+the opportunity, in recommending Professor R-- to him, to
+
+> \* Yet another proof of Weishaupt's sincerity toward his own sovereign.
+> He had in fact sent off members to hand certain papers over to His
+> Electoral Highness himself — Weishaupt thus playing at an open-hearted
+> confession, while in fact showing only the less compromising part, the
+> mere shell, and hiding the real, state-threatening core all the deeper —
+> deceiving his own sovereign in the most base and punishable manner.
+
+--- page 234 ---
+
+turn from there to the M.x.x., harmonizing my remarks in simili [in like
+fashion] with their essay. That will become a letter from which people at
+court can already picture how I intend to conduct myself. In it, I will
+also suggest that Joseph T== is the author of this latest pamphlet.
+
+Should any personal inquisitions occur, answer for yourselves on matters of
+personal wrongdoing — but as for anything concerning the grades themselves,
+or the Order's inner constitution, the realia, there, challenge them: say
+you will disclose these to no one but His Serene Highness in his own
+highest person, and tell him without fear that this Order is a product of
+this land, and that I am its author — then the matter will come straight
+back to me.
+
+I doubt, though, that they will proceed to any personal inquisition before
+they have evidence in hand for it. That, I believe, is exactly what they
+hope to obtain first, through the opening of our letters. And now
+farewell. Conduct yourselves with greatness and courage — you will
+certainly find the same from me. I am
+
+Your
+J., 2 February 1785.
+A. Wsb.
+
+--- page 235 ---
+
+I received Diomedes's letter correctly, but have not yet answered it. No
+letter from our people is on its way.
+
+See to it that our petition to the Elector is handed over as soon as
+possible. Use every moment for it — a single moment lost can bring down on
+us vexation and mockery that would otherwise never have followed. In my
+letter to Alfred, I have also let it be known that I already wrote to
+Diomedes two days ago, urging that such an address be brought before the
+Elector — otherwise the petition, and the letter to Alfred, as I advise it,
+will not have reached his hands.
+
+If you hand over the Instruction for the Priest grade along with it, take
+care, in the historical section, that no passage remains that would
+confirm the theft from the archive. [\*]
+
+> \* How Weishaupt sought to use — or rather, to steal from — princely
+> archives and libraries for his own purposes, and what moral principles he
+> taught his agents on the subject, was already shown in the first volume
+> of the *Original Writings*, page 330.
+
+--- page 236 ---
+
+*
+
+*One more letter from Weishaupt to Fischer, the former city chief judge
+and mayor of Ingolstadt.*
+
+Je vous salue mon Martyr! [I salute you, my martyr!]
+
+> Non fert ullum ictum illaesa felicitas. At ubi assidua fuit cum
+> incommodis suis rixa, callum per injurias ducit, nec ulli malo cedit: sed
+> etiam cum ceciderit, de genu pugnat. — Ecce spectaculum Deo dignum, ad
+> quod respiciat intentus operi suo Deus. Ecce par Deo dignum vir fortis
+> cum mala fortuna compositus. Non video, inquam, quid habeat in terris
+> Jupiter pulchrius, si convertere animum velit, quam ut spectet Catonem,
+> jam partibus non semel fractis stantem nihilominus inter ruinas publicas
+> rectum.
+>
+> [Unscathed good fortune withstands no blow. But where there has been a
+> constant struggle with its own hardships, it grows a callus through
+> injury, and yields to no misfortune — indeed, even when it has fallen,
+> it fights on from its knees. — Behold a spectacle worthy of God, on
+> which God himself, intent on his own handiwork, might look. Behold a
+> match worthy of God: a brave man pitted against ill fortune. I do not
+> see, I say, what Jupiter could find on earth more beautiful, should he
+> care to turn his mind to it, than the sight of Cato — his own party
+> broken more than once — standing nonetheless upright amid the ruin of
+> the state.]
+>
+> — Seneca, *De Providentia.*
+
+> \* This letter was not found among the papers at Sandersdorf, but has
+> come to hand by other means. — It shows how Weishaupt, in order to keep
+> his conspiracy alive, turned his followers into fanatics.
+
+--- page 237 ---
+
+Shall I wish you good fortune, dearest friend, or pity you? I know you too
+well to wish you the latter. Take, then, my warmest sympathy and my most
+eager congratulations, that Providence has numbered you, too, among those
+who will one day be properly judged, valued, and admired by a later, fairer
+posterity, as undaunted witnesses and champions of the truth. You are now
+worth three or four times as much to me as before, since you now share, with
+so many a noble soul, the very same fate. I leave it to your own judgment of
+your circumstances whether it is worth your while to pursue this crying
+injustice through the courts, or simply to step cheerfully off the path,
+without complaint or murmur, and wait for better times. Provision, at
+least, will not be lacking — for that, I and mine will contribute
+everything we can. The whole affair will also be set out in the public
+newspapers, exactly as it deserves. Drexl shall go, for the time being, to
+Brünn; there he can wait until something better presents itself. Let the
+mockers mock, and the enemies rejoice — this laughter will cost them tears
+one day. Rejoice, then, and count yourselves great, to suffer alongside the
+better part of the nation. If I have it in me to bless any man, I lay my
+
+--- page 238 ---
+
+hands on you, and bless you, noble, undaunted fighter, with my whole soul.
+— Such experiences as these now force us to seek out the principles whose
+true worth goes unrecognized in good fortune. I regret only that this turn
+of events falls just as I am about to leave for the Rhine — which happens
+next Monday, and I will not be back for some months. In the meantime, I am
+certainly no less active at a distance, and I do not travel to that region
+without good reason. Pass this on, from me, to all the rest: remain always
+true to yourselves. Dishonor will never touch you — end as you began. Even
+your enemies must admire you for it. Now farewell, and think yourselves
+great, for your enemies are very small indeed, even in the midst of their
+triumph. I remain, unalterably,
+
+Your
+entirely devoted A. Weishaupt.
+Regensburg, 9 August 1785.
+
+If you are in need of your money, I will make arrangements in Munich so
+that you receive it.
+
+--- page 239 ---
+
+**XI.**
+
+*An original undertaking [Revers].*
+
+I, the undersigned, bind myself on my honor and good name, renouncing any
+secret reservation, concerning the matters entrusted to me by Baron
+Frauenberg regarding my admission into a secret society: never, to anyone —
+not even my most trusted friend or relative — by word, sign, glance, or
+any other means, to reveal the slightest thing about whether my admission
+takes place or not, all the more so since the man who received me assured
+me that nothing is undertaken in this society against the state, religion,
+or good morals. I further promise to return immediately any writings
+communicated to me for this purpose, or any letters I receive, having
+first made whatever extracts I need intelligible to no one else.
+
+All of this, as truly as I am, and will remain, an honest man.
+
+Ingolstadt, 5 August 1784.
+
+(L.S.) [Locus Sigilli — place of the seal] Aloys Bauer, jurist.
+Isocrates.
