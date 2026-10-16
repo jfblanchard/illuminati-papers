@@ -8722,3 +8722,134 @@ morality, for the ethical worth of man.
 
 I have sketched out these quick, often very bold and forced, thoughts only
 to give a thinker occasion for further reflection, and for a complete
+
+--- page 399 ---
+
+working-out — not as though this system should be made binding within
+Freemasonry, but rather so as to have something in reserve that might
+prove useful for future occasions. Whoever understands the art of putting
+everything to proper use will easily see how good a use he might make of
+it.
+
+[Printer's ornament rule]
+
+**VI.**
+
+*Circular to the lodges.*
+
+*In Philo's hand, and others'. See the letter, p. 110.*
+
+The sorry state in which the old, venerable Order of Freemasons now finds
+itself, in nearly every country of Europe; the uncertainty in which the
+great majority of the members of this noble brotherhood hover, as to the
+true purposes of the Order, and
+
+--- page 400 ---
+
+the meaning of its hieroglyphs; the enormous mass of poor, inactive, and
+useless members with which it has been flooded over the past twenty
+years, and the resulting disorders, so deeply offensive to the whole
+uninitiated public — all of this is well known to us all, and deeply
+troubling to every genuine Mason.
+
+When one sees a society whose purpose is to entrust a circle of the best,
+most carefully chosen, most thoroughly tested men with certain sacred
+truths — truths of such interest to the whole of mankind, handed down to
+us, unprofaned, from the gray dawn of antiquity, through every older
+school of wisdom; a society called by God and nature, in every age, to
+reclaim the rights of oppressed humanity, of persecuted virtue, and of
+defiled wisdom; when one sees this same society now torn apart, consisting
+in part of enthusiasts, swindlers, weaklings, and fools; and when one
+considers, besides, how deeply humanity has sunk through the corruption of
+
+--- page 401 ---
+
+morals, prejudice, and badly understood self-interest, and how badly the
+sick world now needs help, and how much a firmly united legion of noble,
+great, wise, disinterested, and humanity-loving men could contribute to
+lifting this general corruption — and even if, in this present age, its
+current should prove too violent to stem entirely, at least to begin work
+on a dam that could secure better, calmer days for a later generation, and
+grant the faithful worker, even without rich fruit in his own lifetime,
+the great consolation of closing his eyes each evening in the sweetest
+contentment that comes from the awareness of having worked quietly toward
+a great end, of having fulfilled his own sacred calling, and of having
+come, this very day too, a little closer to the great purpose — when one
+considers how the worst of men, provided only they were cunning, tuned to
+a single note, schooled in identical principles, knew how to make whatever
+they liked of their fellow brothers, turning their weak
+
+--- page 402 ---
+
+points and ruling passions to their own advantage, filling them with false
+enthusiasm for things worthless, and often opposed to honesty, to reason,
+and to their own interest [\*] — when one reflects, then, that anything
+can be made of man, if only one goes about it the right way, one can only
+grieve that Freemasonry, which, at its very core, offers us the means to
+make men better, wiser, happier, more receptive to higher wisdom, which —
+if it only truly knew its own members, bound together by such close ties,
+tested them, shaped them, instructed them — could kindle in them a noble
+enthusiasm for wisdom and virtue, the only things that can ever make a man
+truly happy and blessed; that this same Freemasonry achieves not a single
+one of these purposes, and occupies itself instead with mere trifles,
+having become an object of ridicule and contempt among the people, and the
+playground of idle or dishonest men. Shall we, in the face of these sorry
+facts, simply let our hands fall, and give the whole thing
+
+> \* A true portrait of the Illuminati Order.
+
+--- page 403 ---
+
+up — or is there some means of helping the good cause along? Let us run
+briefly through the Masonic history of the last twenty years, and we will
+perhaps find, together with the very source of the decay, the remedy for
+it as well. Then let whoever has the courage and the goodwill step
+forward, or else stand back, and confuse nothing, where he has no wish to
+be of use.
+
+When Freemasonry came, for the second time, from England to France, and
+then to us in Germany, at the start of this century, only the three
+symbolic degrees were known at first. People were content to join in the
+ceremonies with quiet reverence, to leave the hieroglyphs unexplained, to
+regard the Grand Lodge in London as the head of all Freemasons, and, for
+the rest, to view the Order simply as a league of honest men, called to
+noble and charitable deeds. Meanwhile, here and there, a rumor began to
+spread that further grades existed — in particular, a Scottish grade of
+the Knights of St. Andrew — and at last travelers came
+
+--- page 404 ---
+
+from England and Scotland who claimed to have received this grade, and
+even shared written fragments of it, out of which such a Scottish grade
+was pieced together, and conferred in a number of lodges. This first
+aroused a certain curiosity to work out the Masonic hieroglyphs more
+precisely — and it was precisely this curiosity that swindlers exploited,
+turning the most venerable of orders to their own private ends. Already in
+England, and especially in Scotland, Freemasonry had been misused by the
+Jesuits to found a party of their own. The chief leaders of this clique
+lived and worked at the court of the Pretender, whom they led to believe
+that this whole machine existed only to restore him to the English throne.
+They concealed their real aims, however, behind various masks, spreading
+word in England and France that Freemasonry was merely a continuation of
+the Order of the Knights Templar, whose priests, equipped with great
+secrets and treasures, still remained hidden, but would one day come
+forward, once the
+
+--- page 405 ---
+
+outer order of knighthood — whose Grand Master was the Pretender himself —
+had grown powerful enough everywhere to protect them. Since, meanwhile,
+the Jesuits believed they could accomplish little with this particular
+invention here in our own country, they devised a different lie for this
+land instead, spreading word, through their agents, that the true
+superiors of Freemasonry were to be found within another old, still
+existing brotherhood — namely, the so-called Rosicrucians. In this way,
+the spirit of the marvelous, the longing for higher grades, and belief in
+unknown superiors were first sown among Freemasons; and now the old
+Brothers, who possessed true knowledge, withdrew, and left this now
+thoroughly disordered society to carry on its mad game on its own.
+
+Since the Jesuits still did not come forward openly — their whole purpose
+being merely to throw the entire body into confusion, and fish in troubled
+waters — since they only dropped the occasional hint here and there, and
+spread rumors, simply to see how
