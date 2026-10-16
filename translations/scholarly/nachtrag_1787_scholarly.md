@@ -4180,3 +4180,485 @@ morally instructive. If such newly composed degrees were sent to me, I
 would stand surety that everything would soon be established, etc., etc.
 
 **3.**
+
+*Epictet's provincial report on Albania, for the month of Schaharimeh
+1152.*
+
+**I. Utica.**
+
+1.) Raphael, Scottish Knight, very devoted to the Order, is useful to it
+wherever he can be, continues to enlighten himself through reading, and
+works diligently at his calling.
+
+2.) Diodorus Sinopensis, Illuminatus minor, entirely devoted to the Order,
+very diligent in his studies, civil in his conduct, zealous for the common
+good, has submitted his Q.L., in which he notes the following: "B.. of E..
+was to defend his thesis at the end of this half-year; to that end he
+prepared a dissertation himself, de votis curiatis at the Reichstag. In
+the course of the work he became convinced, by the Protestants' own
+arguments, that the Westphalian Counts' College is in fact Protestant, so
+that instead of the Catholic position he ended up defending the Protestant
+one in his dissertation. When his praeses, Professor
+
+--- page 181 ---
+
+R.., came to read it, he flew into a rage: 'It is unheard of that a
+Catholic should defend such an opinion at a Catholic university — each
+side keeps to its own position, and one simply does not quarrel over it at
+all.' He could not let it pass censorship. E.. stood his ground; he wanted
+to defend it regardless, and for his own part did not care if it had
+consequences. Only in the end did Herr R.. persuade him to back down, and
+to present the dispute among the publicists purely as history."
+
+3.) Herodotus, Illuminatus minor, devoted to the Order, was at Stuttgart,
+has submitted his Q.L., and there is nothing further to report of him.
+
+4.) Erastus, Illuminatus minor, works for and serves the Order wherever he
+can, and wishes the Order, through whatever means work best, to win over
+the tutor of the young Prince of Zweibrücken, and have him educated in the
+Order's spirit, since much of our future fortune may depend on it. The
+current tutor is a Herr M. von K---. There is also said to be a nobleman
+and chamberlain, Herr von G.., at the Zweibrücken court, who deserves the
+Order's attention. I ask for, and expect, more detailed instructions on
+this point.
+
+--- page 182 ---
+
+5.) Plinius, Minerval, burdened with his official duties, but otherwise
+very devoted to the Order, and has submitted his Q.L.
+
+6.) Picus Mirandulanus, novice, very devoted to the Order: on 10 September
+he defended his primas notiones theologicas [first theological notions]
+despite the ex-Jesuits' counter-efforts, to their great vexation, and put
+his opponents to shame. In his Q.L. he asks the Order to work toward
+ensuring that the imperial fortress of Philippsburg, abandoned by the
+Imperial forces, does not fall into the hands of the bigoted, zealous F.
+B== of S.., who is seeking it, but remains instead in the hands of the F==
+of A..—, who is likewise said to be after it.
+
+7.) Seneca, novice, has traveled into the Trier region, and is recruiting
+teachers for the Lazarists' college.
+
+**II. Thessalonica.**
+
+1.) Paracelsus, Illuminatus minor, hopes that Xenocrates's early return
+will bring more life and activity to both the lodge [▢] and the Minerval
+assembly, and has said as much in his Q.L.
+
+2.) Oxenstirn, Illuminatus minor, entirely devoted to the Order, has
+proposed Herr S.. of Mainz to the Order, and asked that the task of
+closer examination be assigned to Ovid, which has already been done.
+
+--- page 183 ---
+
+3.) Ovid, Illuminatus minor, has asked in his Q.L. for more definite
+concepts of the Order, to which the answer was given that he should report
+exactly what seems indefinite to him.
+
+4.) Tacitus, Minerval, has submitted his Q.L., is diligent, devoted to the
+Order, and has for that reason been assigned to Paracelsus for further
+guidance.
+
+5.) Bernhard, Minerval, praised from several quarters, has been
+recommended to Newton for promotion to a parish post, which Newton has
+accepted, assuring Bernhard of his vote.
+
+6.) Crito, Minerval, will be leaving Thessalonica soon, for Brunnenort
+near Fulda, where Herr von W.. resides; he is very diligent in his field.
+
+7.) M. L. Crassus, Minerval, has sent in his Q.L., and received his
+Reprochen-Zettel [reproach-slip? — term uncertain, kept as printed] the
+day before yesterday.
+
+8.) Themistius, Minerval, convalescing, but still very weak.
+
+--- page 184 ---
+
+9.) Arius, novice. I have heard nothing of him this month.
+
+10.) Clitomachus, novice, bridegroom, has chosen very well, and is to
+marry a wealthy girl from St.==, currently still staying at the
+Philanthropinum in Frankenthal.
+
+**III. Dodona.**
+
+1.) Montaigne, Minerval, very devoted to the Order, has sent in his Q.L.,
+and included in it an excerpt from the Roman Breviary that every member of
+the clergy must pray annually on the 16th of July, which contains, among
+other things, secret notice of Mary's preference for the Carmelites, etc.
+
+2.) Bodinus, Minerval, a very noble and perceptive man, reports in his
+Q.L. the result of his conversations with Lamezan, who raised the
+following scruples about joining the Order. a) He could not bring himself
+to enter a society whose superiors and members are entirely unknown to
+him, yet which demands his obedience and wishes to impose new obligations
+on him. And second, he finds it striking and questionable that secret
+overseers are appointed to watch over
+
+--- page 185 ---
+
+the morals and conduct of the other members. From experience — and
+especially from the example of the Jesuit and monastic schools — he
+recalls that this produces not truly virtuous men, but mostly just
+sanctimonious hypocrites. Epictet must admit that Lamezan is not wrong on
+the second point, though on the first he is guided purely by
+misunderstanding and prejudice. One can easily put a good, harmless face
+on that particular doubt, but Lamezan is unlikely to be satisfied with it.
+
+3.) Nieuwentydt, a very fine man, Minerval, reports in his Q.L. that good
+W- has been amply vindicated, and even avenged, by the head of the
+Catholic religion himself. A very obliging letter is said to have gone out
+to Herr M=== of D==, asking him to extend the same moderation he has shown
+so far to his reconciliation with the Lord Bishop as well. The Lord Bishop,
+in turn, is said to have received another letter, composed in very gentle
+terms.
+
+4.) Panaetius Rhodius, novice, had some doubts about the Order, which have
+now been fully resolved for him.
+
+--- page 186 ---
+
+**IV. Issus.**
+
+1.) Belisarius, 2.) Virgil, 3.) Zeno Tarsensis, 4.) Posidonius, 5.) Simias
+have all sent in their Q.L.s, but report nothing special, except that
+Virgil has proposed to the Order a skilled young apothecary, still
+traveling, who is applying himself to chemistry. I would wish that
+Belisarius be asked, by letter from our superiors, to see to it that
+Minerval assemblies resume in Issus right after the autumn, in order to
+bring more spirit, life, and closeness to their fellowship there.
+
+**V. Mantinea.**
+
+1.) Ariosto, Minerval, very devoted to the Order, very alert to every
+scheme and crooked maneuver of the ex-Jesuits, very caught up in his own
+affairs, and has sent in his Q.L.
+
+2.) Metrodorus, Minerval, has been traveling for a month.
+
+**VI. Patara.**
+
+No Q.L. has yet arrived from there, nor from Cousel, Caurus, or
+Carlsruhe.
+
+--- page 187 ---
+
+**VII. Halifax.**
+
+1.) Cebes, Minerval, very devoted to the Order, precise in his reports,
+diligent in his calling, zealous and prompt in answering inquiries, has
+submitted his Q.L.
+
+2.) Strato Lampsacenus, novice, very capable, devoted to the Order, and
+eager, as soon as he is given assignments, to serve the Order actively;
+has submitted his Q.L.
+
+3.) N--T--- of Mühlhausen in Switzerland, born 19 February 1758, Reformed,
+free citizen, licentiate of law, director of the local academy of
+commerce; understands German, French, and Latin; more an amateur than a
+scholar, versed in arithmetic, geometry, and French belles-lettres, whose
+favorite subjects of study are man himself, practical pedagogy, and
+beekeeping; married, with no children; proposed to the Order by Cebes and
+initiated, issued his undertaking [Revers] and tables on 15 September, and
+received the Order name Maximus Tyrius.
+
+**VIII. Frankenthal.**
+
+1.) M. Aurelius Antoninus, still a Minerval in Amsterdam, has made several
+inquiries
+
+--- page 188 ---
+
+on the Order's behalf, which I answered him on the spot.
+
+**IX. Alcey.**
+
+1.) Diodorus Chronus, novice, very devoted to the Order, corresponds
+diligently with his recruits, and seeks, day by day, to make himself more
+useful to the world and to the Order.
+
+2.) A--R= of Ketsch, twenty-five years old, Catholic, formerly a clerk's
+assistant at A==, soon to be a district-office advocate at L==, has
+devoted himself to law and the cameral sciences, speaks German,
+understands Latin and some French, has a particular love of the cameral
+sciences, is honest and capable in character; initiated and recommended by
+Diodorus Chronus, he issued his undertaking [Revers] and tables on 9
+September, received the Order name Sextus Pompeius, and has been warmly
+recommended to Xenocrates for further guidance.
+
+--- page 189 ---
+
+**4.**
+
+*Report, signed by Agis.*
+
+To relieve our dear Alberoni, who, among other things, has too little time
+left over from the new explanation of the Apocalypse he is currently
+working on, I too have the honor of contributing my own small share of
+news.
+
+1.) W== in Aachen, with whom I keep up a lively correspondence, is more
+fired up than I ever hoped to see him. He considers it easy to convert his
+lodge [▢], and is working at it according to a fairly orderly little plan.
+But he has told me something from Brussels that puts me in no small
+difficulty — I enclose the letters. Should we involve ourselves, through
+W==, with this hermetic fool, and if so, how? I do not believe we gain
+much from people like this, beyond sheer numbers. Perhaps it would be
+best if I carried on a small side-correspondence with W== myself, which he
+could then slip to them under the strictest secrecy. At the start, one
+would have to babble along a little in their own system, just to draw them
+in.
+
+--- page 190 ---
+
+2.) As for my own dear homeland, I am extremely satisfied with M==. Every
+letter and essay of his shows a noble man. Salzmann's letters, admittedly,
+betray more than enough enthusiasm, and the trouble is that he will only
+discuss his Zinnendorf principles with me in person. Otherwise his letters
+are well written, and show a man who eagerly seeks and values what is good,
+wherever he finds it. Our general principles (he has not yet been shown
+anything further) please him greatly. He asks my permission to lay them,
+along with my two letters, before Brother v. T--, the banker and first
+warden of the lodge [▢] Iris — his main reason being that, without this
+man, he could accomplish nothing with his own lodge [▢]. So he clearly
+does mean to go through with it. But the man already knows a great deal —
+far too much — about us, and I cannot imagine how. Among other things, he
+complains bitterly "that we have people — and not only in our lower
+grades — who publicly mock almost everything called religion as mere
+superstition." You can probably guess whom he means. Such people, if they
+are foolish enough to reject religion altogether, ought at least to be
+made to hold their tongues.
+
+--- page 191 ---
+
+3.) The more my correspondence grows, the more fools of every kind I come
+to know. It would amuse me enormously, if only I had a closer knowledge of
+the various systems and their jargon. As it is, many a letter squeezes
+nearly a cold sweat out of me, since I must always keep up the appearance
+of a Mason experienced in every system, who has finally arrived at the
+very source of light. But should one of my deceived pupils ever actually
+come to me in person, I would stand there utterly exposed. Help me, then,
+for heaven's sake! If you have no papers to spare, I most humbly beg for
+books instead.
+
+4.) A pressing concern. Archelaus is on the verge of securing a tutor's
+post with a young prince at an ancient princely court, which would lift
+the honest man entirely out of his troubles. The commission rests with
+legation councilor B-- in G==. I have already taken one approach, from
+which I hope for everything. You surely know B-- well. Do whatever you
+can — the matter is somewhat urgent. Archelaus, besides, longs more than
+anything to become a French major à la suite, and to win the croix de
+mérite. He believes, firmly and unshakably, in our Order's omnipotence.
+[\*]
+
+> \* In the margin, in Philo's hand: Who the devil told him that fairy
+> tale?
+
+--- page 192 ---
+
+Since he has served a long time, and since the French make little
+difficulty about such things, and since it occurred to me that the envoy
+in Munich, Ch--, is one of ours, and has strong influence over — —, I
+raised no objection. If it succeeds, our fama potentiae [reputation for
+power] will grow considerably. Hardly a week goes by without someone
+asking us about our connections at the French, Berlin, and Viennese
+courts. It is enough to make one laugh oneself sick! We deny nothing, but
+always assure people that we do not care to overrun these courts every
+single day.
+
+This week we are also admitting a Lutheran clergyman, who, through his
+clever intrigues, has collected 9,000 florins for the local congregation,
+and who, once peace comes, intends to go to London, carrying with him a
+great many letters of recommendation. Pr. F== v. B.-- has promised him
+every support. We mean to make use of him there too, for the Order — he is
+to thoroughly enlighten the English. A great Dutch wig, extremely gaunt
+and pale, large wide-open eyes, brimming with imagination, a talent for
+pouring himself into any shape, and a knowledge of men gathered on a
+two-year begging tour — do you not believe we can work wonders through a
+man like this? This winter we mean to kit him out the way the Moravian
+Brethren equip their missionaries to the heathen.
+
+--- page 193 ---
+
+If we sometimes seem cold to you, forgive it: we do a great deal of work,
+but we also have our own offices to run, cannot do as we please, and
+besides our own little trio, there is no one here we can really use. On
+Friday, everything outstanding goes out with the post.
+
+And now, one more thing, most worshipful and most dearly loved man! We
+have all taken the warmest interest in your troubles at Frankfurt. We feel
+for what you must have gone through there. We nearly hate the wretched
+city. But take heart, despise the low rabble, and do not lose courage. The
+better part of mankind will always esteem and love you deeply. Is that not
+comfort enough? It would be far too great an honor for wicked men, if a
+wise man ever let it appear that their spiteful cackling disturbed his
+peace of mind in the least.
+
+Agis.
+
+I most humbly beg for the soonest possible return of the Aachen letters.
+
+--- page 194 ---
+
+**5.**
+
+*Fragment of a report, without beginning or signature.*
+
+Picinum.
+
+... serves the office ... procures the poor man a small increase in his
+salary, keeps the third in inactive submission through fear, etc.
+
+Things have come so far here that the name Freemason, once good for mockery
+and turned-up noses, now draws something close to pity for whoever is not
+one; everyone seeks a way in to us, and to the uninitiated, time itself
+feels deadly slow.
+
+Everyone wants to place himself under the protection of a society that
+holds so much power in its hands; everyone honors a union that tolerates
+no disorder among its brothers — for in some cases truly striking moral
+cures have been worked, visible to the whole city.
+
+Now, a little more about some of the other Brothers.
+
+Crates is a man full of talent, though it has been badly crippled by a
+disorderly life and a hopeless,
+
+--- page 195 ---
+
+ineradicable love affair. Still, I can say in good conscience that he
+deserves the Order's helping hand and encouragement, since he genuinely
+strives in earnest.
+
+Macedonius has received the Illuminatus minor grade on account of his
+very noble character, loyalty, and talents — this man we can make entirely
+our own.
+
+Our good Pausanias has received a company from — — —, and will presumably
+soon be traveling away — —.
+
+Nestorius has behaved badly, and is now at Kaiserswerth. It would be wise
+to sever every connection with him.
+
+Joannes Taleja, a polite young man, is now at the gymnasium in Buchsweiler,
+in Lower Alsace.
+
+Theognis is in fact a pastor in the Austrian lands, near Vöklabrück, not
+far from Linz.
+
+*The following have been admitted:*
+
+1.) The Lutheran pastor L--R==, perhaps already announced to our
+illustrious superiors, born in Clandiopolis on 29 November 1755, entered
+the
+
+--- page 196 ---
+
+novitiate on 2 October 1782. His fiery genius, extraordinary energy, and
+warm devotion to us moved us to raise him, within eight weeks, to the
+Illuminatus minor grade. The burden of the work falls on very few of us,
+and falls very heavily; we are glad, then, to have a man willing to take a
+good share of it off our hands, and since the Order's principles seem
+almost born in him, we can safely promote him faster than usual. His Order
+name is Averroes.
+
+2.) J--H--H==, hunting servant to the honorable Brother Campanella, born
+at Oberseemen in the Stolberg region on 25 September 1749, has been
+admitted as Minerval and Freemason, is employed as a copyist, and goes by
+the name Lutherus.
+
+Pinna (Hachenburg).
+
+Here, last month, on 3 November, J--A--D== was admitted, born in Darmstadt
+on 20 October 1754, Count Kirchenberg's court physician, a good Greek and
+Latin scholar, fond of the lacquering arts and of music, whose favorite
+studies are chemistry and pharmacy — a quite decent man, though very much
+in love — his name is Pierre Cotton.
+
+--- page 197 ---
+
+The Order's affairs stand well here: the Count is surrounded by nothing
+but Illuminati — secret secretary, physician, pastor, councillors, all of
+them belong to us.
+
+The Count's favorites are our most ardent Brothers, so the future is well
+provided for too. If our Brothers had established themselves this way
+everywhere, we would command the whole world.
+
+The notorious tormenter of consciences to the Elector of —, B—, has been
+dismissed, and had to leave the country. Since it was only this Jesuit's
+presence in his service that turned the Elector into an enemy of the
+Freemasons, and of enlightenment generally, there is now good hope that we
+can do real good in the Trier region as well.
+
+*Prefecture Servia.*
+
+*Gaza.*
+
+Here Sotion is making himself extraordinarily useful to the Order; his
+whole soul is bound up in us. His once nearly extinguished Masonic fire has
+flared up brightly again — he writes to me that he will soon have the
+lodge [▢] in order, and will also establish a Minerval church.
+
+--- page 198 ---
+
+He recently heard that some cleric was healing the sick in the name of
+Jesus, using a certain oil — that drove him into a fury. He wrote to me
+wishing for a deputation to be sent from the Order, to expose the fraud,
+and even offered his own money toward it. A pity he was not better formed
+in his youth. He sighs most pitiably over the harsh yoke of the clergy.
+
+The Brothers he has brought into the Order are:
+
+1.) P--v. L==, Amphictyon, born in Burtscheid near Gaza, 27 years old,
+merchant in Burtscheid. Entered the novitiate on 10 October 1782.
+Minerval, Freemason in the 3rd degree, and Deputy Master of the Chair of
+the local lodge, Reformed.
+
+2.) J--P--Thraseas Paetus, born in Metz on 9 November 1728, merchant in
+Gaza, Catholic, fond of — and of the Latin authors. Entered the novitiate
+on 10 October 1782. Minerval, Freemason in the 3rd degree, past master.
+
+3.) J--F--R==, Oregius, born in Bayreuth on 13 June 1739, merchant in
+Aachen, Lutheran. Entered the novitiate on 10 October 1782. Minerval,
+Freemason in the 4th degree, second warden.
+
+--- page 199 ---
+
+4.) J--B==, Helvidius Priscus, born in Gaza on 1 April 1745, merchant
+there, Catholic. Entered the novitiate on 10 October 1782. Minerval,
+Freemason in the 3rd degree.
+
+5.) J--B--P--, son of J--P--, known as Fénelon, born at Beaumont in
+Aragon on 30 March 1758, merchant in Gaza, Catholic. Entered the novitiate
+on 15 November 1782. Minerval, Freemason in the 1st degree.
+
+6.) J--F--W--S= (Goswin), Palatine court councillor and Majorie-
+stadtholder [printed as "Majorie" — reading uncertain] in Gaza. Entered
+the novitiate on 8 October 1782. Minerval.
+
+7.) F--J--T==, merchant, Freemason in the 4th degree. Entered the
+novitiate on 3 December 1782. Minerval, first warden, known as Anaxilaus
+Larissaeus, Catholic.
+
+8.) J--v. L==, Maimonides, merchant in Burtscheid. Entered the novitiate
+on 21 November 1782. Minerval, Freemason in the 3rd degree. Almoner of
+the lodge [▢], Reformed.
+
+9.) B--v. L==, Abulceda, merchant in Burtscheid. Entered the novitiate on
+21 November 1782, ceremony master, Reformed, Minerval.
+
+--- page 200 ---
+
+10.) J--D--, Bellarminus, entered the novitiate on 30 November 1782.
+
+11.) R--E==, merchant in Gaza, entered the novitiate on 25 November 1782.
+Catholic, Freemason in the 3rd degree, known as Godofredus a Valle.
+
+12.) J--P--, Albertus Magnus, merchant in Aachen, entered the novitiate
+on 8 October 1782. Reformed, Freemason in the 2nd degree.
+
+The lodge's [▢] secretary there, K--S--D==, an imperial captain, had been
+admitted, but died during his novitiate.
+
+**6.**
