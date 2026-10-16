@@ -8853,3 +8853,484 @@ Since the Jesuits still did not come forward openly — their whole purpose
 being merely to throw the entire body into confusion, and fish in troubled
 waters — since they only dropped the occasional hint here and there, and
 spread rumors, simply to see how
+
+--- page 406 ---
+
+the Masonic public would take it, fools and swindlers now pressed in from
+every side, building every sort of structure on this foundation of tales,
+guesswork, and fairy stories, and finally came forward with new Masonic
+grades, some of them even claiming to be the very secret superiors of the
+Order that people had been searching for. During the recent Seven Years'
+War, a French commissary, among others, traveled through Germany with a
+whole wagonload of decorations, handing out forty-five grades bred in his
+own fertile homeland. Freemasonry was in just such confusion when, shortly
+before the peace, an entirely new scene suddenly opened.
+
+The Jesuits now believed the moment had come when they could bring an
+already-blinded, thoroughly confused society fully under their own
+control. After a counterfeiter first set the whole thing moving again as
+a kind of herald, they put forward a man
+
+--- page 407 ---
+
+whom it remains uncertain to this day whether he was deceived or
+deceiving — whether he knew, or did not know, for whom he was actually
+working. This man was Herr von Hund, who revived the old legend that
+Freemasonry was merely a continuation of the Order of the Knights
+Templar. He claimed to have been received as a Knight of the Temple in
+France, by an English gentleman, in the presence of a secretary of the
+Pretender, who was said to be the secret Grand Master. He had also, he
+claimed, been presented to the Pretender in this capacity; afterward he
+neglected the matter, and lost contact with the Order's true superiors,
+the Clerics — until, at last, a certain Herr von Marschall, who had been
+Grand Master of the seventh province, summoned him to his deathbed, and
+bequeathed his own dignity to him. He, Hund, was therefore now the only
+man entitled to carry on the high Order in Germany, and to direct
+Freemasonry. To support these claims,
+
+--- page 408 ---
+
+Herr von Hund could produce nothing but a document written in
+unintelligible signs; the accomplices in his fraud invented an unbroken
+list of Grand Masters resting on not a single genuine historical proof;
+and in the end, every Masonic hieroglyph was bent to fit this system,
+patched together with new ones wherever the old rituals and ceremonies
+failed to match. Where the Order's priests, with their secrets and
+treasures, might actually be hiding, however, remained a mystery. Yet no
+one even asked for proof — people believed everything willingly, drew the
+children of princes into their own interest, and a great crowd ran after
+these fantasies, since everyone found something flattering to himself in
+them. Princes hoped for treasures, power, dominion; the servants of
+princes hoped for ribbons of honor and powerful protection; ordinary
+citizens, if vain, delighted in their new knightly rank; and enthusiasts
+already pictured themselves dancing among higher beings. People began by
+branding every other Masonic system a heresy,
+
+--- page 409 ---
+
+denouncing them as false systems. Lodges and chapters were set up
+everywhere, admitting, as far as possible, only distinguished men, even
+the worst scoundrels among them — partly to be safe from banishment a
+second time, partly to lay hold of new estates. And this, then, is the
+thoroughly un-Masonic system of the Strict Observance, of which more will
+be said below. Meanwhile, people kept searching for the Clerics, and this
+search became a constant lure for a great many men to play some role in
+it — some for good ends, others for bad. Herr von Zinnendorf, too, had
+been received as a Knight Templar; seeing how little these men worked
+according to any firm plan, he believed he could make better use of the
+machine, broke away, claimed to have come into contact, in Sweden, with
+true, wise Clerics, and established a new system — on whose real worth we
+will not pass judgment, except to say that, as far as the lower grades are
+concerned, he placed himself under the protection of the Grand Lodge in
+London,
+
+--- page 410 ---
+
+that he knows how to tune his own people to a single note, and shape them,
+mostly, toward virtue, refinement, and charity, and that his system
+continues on its quiet course, and that nothing more, on the whole, can
+publicly be said against it, except that it grants London's lodge a
+monopoly on teaching wisdom, and claims that, in Germany, this same
+monopoly has been transferred to the Grand Lodge in Berlin. That is the
+Zinnendorf system. Some lodges stayed with the old Observance, admitting,
+without much selection, a great many men for money, with whom they went
+through the motions, hand in hand, without any thought for greater
+purposes, playing with symbols they did not understand, eating well,
+drinking, digesting, and here and there giving alms — these are the
+so-called English lodges. In France, people carried on their game with
+about fifty grades, until, at last, hermetic enthusiasts forced their way
+into individual lodges [▢▢] there too. In Sweden, the king gave it to be
+understood that he had resolved to
+
+--- page 411 ---
+
+publicly restore the Order of the Knights Templar, all the more so since
+they had, he said, succeeded in learning great magical arts from the
+genuine Clerics. By this, he presumably hoped to persuade a great many
+German Templars to come rushing to poor Sweden with their money. But he
+hoped in vain. By a curious accident, the deception was uncovered, and the
+Swedish Chapitre Illuminé lost its reputation for wisdom. Meanwhile,
+various kinds of Rosicrucians had become known in Germany, all of them
+seeking to get their hands on wayward Freemasonry — among which the German
+Rosicrucians, in particular, distinguished themselves. We will not
+anticipate anyone's own judgment of them here. From the *Compass of the
+Wise*, the Rosicrucian discourses, and other writings of that kind, one
+can get to know this society more closely; and whoever is moved by them to
+let himself be admitted into their order should do so at his own risk, and
+see what he will have learned after some six
+
+--- page 412 ---
+
+years. Now, a word on Rosicrucianism in general! It is well enough known
+among enlightened men today that no real Rosicrucians ever actually
+existed, but that the whole thing, contained in the *Fama* and the
+*Universal Reformation of the World*, was a clever allegory by Valentin
+Andreae, which was later taken up, partly by swindlers (the Jesuits among
+them), partly by enthusiasts, in an attempt to make this dream real. The
+patchwork system of hermetic philosophy is unknown to no one who has
+looked into the history of philosophy.
+
+From the writings of the German Rosicrucians, however, it is easy to see
+that these good people themselves never properly grasped the true meaning
+and spirit of this system; and it is no longer any secret that this
+society, which does include some genuinely worthy men among its members,
+has been led astray, in the most underhanded manner, by a few ignorant
+swindlers — men who do not teach, but learn, who spy things out, and who
+still mean to bring every Masonic lodge
+
+--- page 413 ---
+
+under their own control. Since every fraud, sooner or later, punishes
+itself, we could remain quite calm about all this, were it not that the
+general human inclination toward the marvelous — and, above all, the urge
+toward alchemy that has taken such general hold in Germany over the past
+couple of centuries, of which the Jesuits have made such good use — has,
+through these very German Rosicrucians, taken such deep root in our own
+fatherland that a great many mediocre men have been drawn into chasing
+speculative daydreams they could never, in any case, make real, growing
+idle in the very world into which they were placed, and for which they
+will one day have to account for how they filled their place in it; and
+that, in the end, every source of clear physical, chemical, and
+mathematical knowledge is muddied by these same ignorant men. But let us
+return to the Strict Observance, since it was, for a time, the publicly
+dominant system. The Jesuits and their agents hoped
+
+--- page 414 ---
+
+that, once the enormous reception fees and "St. John's ducats" — from
+which great funds were collected, and from which the chief revenues were
+meant to grow — had stopped the mouth of every objector, there would soon
+be no more talk at all of the priests' secrets and treasures. But they
+were very much mistaken. Both before and after Herr von Hund's death,
+people still kept demanding contact with those same Clerics. There was,
+then, no other way out but to put forward men to play this very role — and
+for this purpose, unfortunately, men let themselves be used who were only
+too glad to pass as wise, deeply learned, disinterested men, and who were
+indeed recognized, from their own writings, as good Freemasons. So a
+priestly class was brought forward, which, however, also dispensed nothing
+but words, no genuine knowledge at all. In the meantime, all sorts of
+other prophets turned up from various conventions — in Wiesbaden, for
+instance — and once people saw themselves
+
+--- page 415 ---
+
+deceived on all the noble sides of the matter, and the real purpose of the
+Strict Observance had become better known than anyone had hoped, people's
+eyes finally opened, and they said: "How would it be, if we sent someone to
+Italy, to the Pretender's own court, to inquire into the actual basis of
+Herr von Hund's claims, and of all the other actors in this affair (who,
+since they all drew from the same source, largely agreed with one
+another)?"
+
+It would, of course, have been wiser to do this twelve years earlier,
+before so many men had been led around on a fool's leash — but it had,
+evidently, been decided from the start that everything here should begin
+backward. At the Pretender's own court, people learned that the entire
+Knights Templar story was a lie. This could no longer be kept quiet, and
+shortly afterward it was published openly. But the Jesuits still did not
+lose heart. They had new plans — which, however, since the Masonic world
+was no longer so credulous, promptly fell apart. In this
+
+--- page 416 ---
+
+difficulty, in order to escape general ridicule and the reproaches of the
+younger Brothers, the leaders of the Strict Observance now summoned the
+most recent Convent, at Wilhelmsbad. What was to be expected of it, any
+rational Freemason could easily foresee in advance. The two princes who
+convened this Convent certainly had honest intentions for the Order. But
+since the whole game with the Knights Templar Order had now to come to a
+complete end — the very foundation on which their own claim to be
+superiors actually rested — few were inclined to let themselves be
+dictated to by these men any longer. They could give no real unfolding, no
+clear and settled resolution of the Masonic hieroglyphs, since they
+plainly possessed none themselves. No accounting could be given for the
+enormous sums of money collected over more than twelve to fourteen years,
+for this money, while perhaps not managed fraudulently, had certainly been
+managed with the greatest carelessness. Freemasonry no longer wished to be
+fed on mere hieroglyph-games,
+
+--- page 417 ---
+
+and no greater, finer, nobler, more important plans for mankind could
+possibly be expected from a society of Masons, most of whom had been
+chosen and placed at its head carelessly, without proper testing, and
+according to purely political considerations.
+
+People hoped, then, to see at this Convent foreign Freemasons who would
+bring a store of real knowledge to market. But whoever actually possessed
+such knowledge would hardly have delivered it into such hands, and
+voluntarily placed himself under their yoke. All sorts of mystical matters
+did, indeed, come to light; but since some of it was mere enthusiasm, and
+some unproven fable or obscure pretense, the greater part of the deputies
+rejected it, and there was nothing left to do but to cook up a new,
+homemade Masonic system of their own.
+
+Of this new system, we can say only this much: besides three symbolic
+grades (pieced together partly from every existing ritual, and partly
+decorated with allusions
+
+--- page 418 ---
+
+to matters some French Freemasons consider the very essence of
+Freemasonry), a fourth, homemade so-called Scottish grade has also been
+sketched out, though not yet fully worked out, meant to follow these two
+French knightly grades — though the lodges [▢▢] are not obliged to accept
+it, just as, in general, they retain, until the end of 1783, the freedom to
+declare whether they wish to adopt the new system or not; that the
+authority of these chiefs, not freely elected but simply set up as
+superiors among themselves, continues, as before, for life; that certain
+sums must be sent annually to the central direction; and that, for the
+rest, no reliable arrangement whatsoever has been made to accomplish
+anything new or substantial for the world, to remove bad men from
+Freemasonry, to come to know the good ones closely, raise them out of the
+dust, and protect them against the wicked.
+
+--- page 419 ---
+
+Given this state of affairs, a society of well-informed Freemasons — many
+of whom have been firmly united since 1762, when the so-called Strict
+Observance, so damaging to the Order's free spirit, first began — has now
+come together, and has, in many German and other lodges [▢▢], instructed a
+number of safe, venerable men in its own plan, one that capable minds and
+experienced members have labored over for many years. The undersigned are
+the ones who vouch, in the various lodges, for the soundness of this
+cause, and who invite and encourage their respective lodges [▢▢] to adopt
+this system, under the name of: the Lodge of Purified Ancient Freemasonry,
+United for the Preservation of the Royal Art. Here follow the conditions
+we offer.
+
+1. Work in the three symbolic grades will proceed unalterably according to
+the enclosed ritual, and a carefully and sensibly drawn-up book of
+constitutions, and each lodge [▢] shall elect its own master annually.
+
+--- page 420 ---
+
+2. A number of lodges [▢▢] unite, and choose a location for a Scottish
+Directorium, on which a deputy from each lodge sits.
+
+3. This Scottish Directorium handles the review of accounts, decides
+disputed cases, oversees larger economic and other undertakings,
+constitutes new lodges [▢▢], and so on.
+
+4. We recognize as genuine every lodge [▢] that submits to these
+arrangements.
+
+5. Beyond this Scottish Direction we recognize no commanding superiors
+whatsoever — nor any body that has anything to do with the collection of
+money — though we do have bodies to which a quarterly report is made on
+the economic, political, and moral condition of the lodges [▢▢], and these
+we call
+
+6. Provincial Directorates, chosen by a certain number of Scottish
+Directorates.
+
+7. Three provincial governments choose an inspector among themselves, and
+three inspectors choose
+
+--- page 421 ---
+
+8. a National Direction, as the enclosed table on Germany sets out in
+greater detail.
+
+9. Whoever has received the three symbolic grades is free to accept
+higher grades wherever he likes, only:
+
+a) we advise him to consult his own Scottish Directors beforehand, since
+they may then be able to offer him the same thing at a fairer price — or,
+depending on the man, perhaps even free of charge — rather than what he
+would pay dearly for elsewhere.
+
+b) he must refrain from trying to have such grades recognized among us.
+
+10. What we intend to do for the world — what we have already done, quietly
+— is not for us to boast about. Only this much: we have, here and there,
+established nurseries for the formation of young men, whom we will in due
+course bring into the ☉, in order to work for the coming generation, and
+secure it better, calmer days. This seems to us work most worthy of our
+efforts; but on this, the lodges [▢▢] can best
+
+--- page 422 ---
+
+inquire with those who lay this plan before them directly.
+
+11. This circular will be printed, and presented to their own lodges [▢▢]
+by the small circle of our trusted Brothers. As soon as a lodge has, by the
+signature of the majority of its members, resolved to adopt this system,
+it will be made known to it which other lodges — already a fairly large
+number — have joined this union as well.
+
+12. But since this whole matter must be handled with the utmost discretion
+and care, each Master of the Chair will keep the copy signed within his
+own lodge [▢] in his own hands, until he has learned that a sufficient
+number of lodges [▢▢] have likewise committed themselves. He will report
+only, to a designated address, how far he has succeeded in moving his own
+lodge toward this union.
+
+--- page 423 ---
+
+13. We care little for the sheer number of lodges, but a great deal for
+firm, upright, well-meaning men. Whoever takes up this system must
+therefore renounce all others — or, if he has found better Freemasonry
+somewhere else, should leave us as soon as possible instead.
+
+**VII.**
+
+*National Directions Table of Germany.*
+
+[Printer's ornament rule]
+
+--- page 424 ---
+
+*[Blank page: only a faint show-through of the table on the following
+page; no text transcribed. See the National Directions Table already
+given above, p. 263, in Philo's hand.]*
+
+--- page 425 ---
+
+**XII.**
+
+*Announcement slip (L.S.) for the lodge's St. John's feast, on 7/1, 5784.*
+
+| No. | Names of the worshipful Brothers | Confirmation of attendance | Confirmation of meal- and wine-money paid | Outstanding monthly dues from the previous year |
+|---|---|---|---|---|
+| 1. | Annibal | coming, along with Plinius | pays 3 fl. for both, Franche-Comté | |
+| 2. | Aristippus | coming, both | pays 1 fl.; brings the wine | |
+| 3. | Brutus | coming | pays 1 fl. 30 kr., Franche-Comté | |
+| 4. | Cato | coming | pays 1 fl. 30 kr., Franche-Comté | |
+| 5. | Demonax | coming | pays 1 fl. for the meal, 30 kr. for Franche-Comté | |
+| 6. | Diomedes | coming | pays 1 fl., and 32 kr. for wine | |
+| 7. | Dioscorides | coming | pays 1 fl.; brings his own wine | |
+| 8. | Euclides | | | |
+| 9. | Euryphon | coming, both | pays 1 fl., 30 kr. for Franche-Comté | |
+| 10. | Lycurgus | coming, both | pays 1 fl. and 30 kr. for wine | has paid everything owed for last year to Marius |
+| 11. | Hermes | coming | pays 1 fl., and drinks Alsatian wine at 32 kr. | |
+| 12. | Marcellus | | | |
+| 13. | Menelaus | | | |
+| 14. | Orestes | will appear at the lodge, | but not at the meal | |
+| 15. | Pericles | coming | pays 1 fl. | |
+| 16. | Telephus | will come to both | and pays 1 fl. for the meal, his wine 30 kr. | |
+
+--- page 426 ---
+
+*[Blank page: only a faint show-through of the facing table; no text.]*
+
+--- page 427 ---
+
+**XIII.**
+
+*List (L.S.) of monthly dues for the 7th month, 1784.*
+
+| No. | Member's name | Confirmation of monthly dues paid for the 7th month | Remarks on future payment, etc. |
+|---|---|---|---|
+| 1. | Achilles | paid | I will never separate myself from a brotherhood so precious to me, unless its charges against it are ever actually proven. |
+| 2. | Apollo | paid | I will never depart from my own view of forty years' standing. |
+| 3. | Artaxerxes | paid | Shock breeds caution, and after caution, closer union. I hope no one will doubt my constancy, since I always hold the best confidence in Your pure, good, and lofty intentions. |
+| 4. | Miltiades | paid | Slander does not make us vicious, and no storm shall fling me out of the circle of the noble. |
+| 5. | Moron | | Taking it as given that all these accusations are false, I would never separate myself from honest and upright men; but my official duties bid me be discreet, and to await more fortunate circumstances, where one can live free of surveillance and suspicion. |
+| 6. | Musaeus | paid | Will never abandon the good cause. Owes 3 fl. for April, May, June. |
+| 7. | Nearchus | paid | As long as the society I belong to holds to principles that can withstand the test of truth, justice, and every other virtue, and behaves toward me as I behave toward it, so long shall I remain its faithful adherent. |
+| 8. | Numa | paid 1 fl. | The integrity of these noble men is my guarantee for the sincerity of the circular; in this conviction nothing shall separate me from this sacred union. Etsi fractus illabatur orbis, impavidum ferient ruinae. [Should the world's frame collapse, the ruins would strike him undismayed.] |
+| 9. | Philoctetes | paid | |
+| 10. | Pompeius | | |
+| 11. | Proteus | | Owes 3 fl. for April, May, June. |
+| 12. | Sabinus | paid | My feelings toward this venerable society remain exactly as they were when I first joined it; I find, then, no reason to separate myself from it. |
+| 13. | Scipio | paid | My last breath shall be spent in contempt of every scoundrel, and in striving after what is truly good; accordingly, with regard to this society, whose pure and good intentions I am convinced of, I shall never change my sentiments. |
+| 14. | Vespasian | paid | |
+
+--- page 428 ---
+
+*[Blank page: only a faint show-through of the facing table; no text.]*
+
+--- page 429 ---
+
+**XIV.**
+
+*List of monthly dues for the 12th month, 5784.*
+
+| No. | Member's name | Confirmation of monthly dues paid for the 12th month | Arrears | NB. |
+|---|---|---|---|---|
+| 1. | Achilles | paid | | NB. Pompeius. |
+| 2. | Ajax | paid | owes nothing | |
+| 3. | Apollo | paid | owes nothing | |
+| 4. | Aristippus | paid | nothing | |
+| 5. | Artaxerxes | paid | | |
+| 6. | Demonax | paid 1 fl. | | |
+| 7. | Dioscorides | paid | | |
+| 8. | Evander | paid | | |
+| 9. | Euryphon | paid | | |
+| 10. | Hermes | paid for Oct., Nov., and Dec. | owes for Oct. and Nov. | |
+| 11. | Leargus | pays 6 fl. | owes for July, Aug., Sept., Oct., Nov., and Dec. | |
+| 12. | Lycurgus | paid | nothing | |
+| 13. | Marcellinus | paid | nothing | |
+| 14. | Menelaus | | owes 1 fl. for Nov., paid 2 fl. | |
+| 15. | Miltiades | paid | | |
+| 16. | Musaeus | paid | | |
+| 17. | Numa | | | |
+| 18. | Orestes | | paid | |
+| 19. | Philoctetes | paid | | |
+| 20. | Proteus | paid | | Since the name "lodge" has ceased, I have now put the money I used to spend on monthly dues toward my own charitable use for the poor instead. So until the lodge returns to its former splendor, please send me no more dues slips. — Proteus. |
+| 21. | Sabinus | paid | | |
+| 22. | Scipio | paid | | |
+| 23. | Thelemach | paid 8 fl. — Thelemach. | owes 8 fl. for May through Dec. | |
+| 24. | Theseus | paid | | |
+| 25. | Telephus | paid | | |
+
+--- page 430 ---
+
+*[Blank page: only a faint show-through of the facing table; no text.]*
+
+--- page 431 ---
+
+**XV.**
+
+*List of monthly dues for the 1st month, 1785.*
+
+| No. | Member's name | Confirmation of monthly dues paid for the 1st month | Arrears | NB. |
+|---|---|---|---|---|
+| 1. | Achilles | paid | | |
+| 2. | Agamemnon | | | |
+| 3. | Ajax | | | |
+| 4. | Apollo | paid | | |
+| 5. | Aristippus | paid | | |
+| 6. | Artaxerxes | paid — Artaxerxes | | |
+| 7. | Demonax | paid 1 fl. | | |
+| 8. | Dioscorides | paid 1 fl. | | |
+| 9. | Evander | paid 1 fl. | | |
+| 10. | Euryphon | paid | | |
+| 11. | Hermes | | | |
+| 12. | Leargus | | | |
+| 13. | Lycurgus | paid 1 fl. | | |
+| 14. | Marcellinus | paid 1 fl. | | |
+| 15. | Menelaus | paid 1 fl. | | |
+| 16. | Miltiades | paid 1 fl. | | |
+| 17. | Musaeus | paid 1 fl. | | |
+| 18. | Numa | | | |
+| 19. | Orion | paid 50 kr. | | |
+| 20. | Orestes | | | |
+| 21. | Philoctetes | | | |
+| 22. | Polybius | paid 1 fl. | | |
+| 23. | Sabinus | | | |
+| 24. | Scipio | paid 1 fl. | | |
+| 25. | Thelemach | | | |
+| 26. | Theseus | paid 1 fl. | | |
+| 27. | Telephus | paid | | |
+
+--- page 432 ---
+
+*[Blank page: only a faint show-through of the facing table; no text.]*
+
+--- page 433 ---
+
+*[Blank endpaper page: no text.]*
+
+--- page 434 ---
+
+*[Blank endpaper page: no text.]*
+
+--- page 435 ---
+
+*[Blank endpaper page: no text.]*
+
+--- page 436 ---
+
+*[Blank endpaper page: no text — end of the corrected text and of this translation.]*
