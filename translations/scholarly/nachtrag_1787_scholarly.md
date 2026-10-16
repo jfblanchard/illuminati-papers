@@ -2409,3 +2409,463 @@ from what I hear.
 > protection — so that, had he succeeded, he might obtain it under the
 > pretext of a good cause, only to misuse it for his own evil designs, and
 > go on carrying out his covert intrigues in safety.
+
+--- page 107 ---
+
+Letters in the hand and signature of Philo.
+
+**1.**
+*Philo to his most beloved Cato. Warmest greetings.* [Latin header: "Catoni
+amantissimo S. p. d. Philo."]
+
+Given the situation I now find myself in with Spartacus — through no fault
+of my own, I am quite certain — it was a heartfelt comfort to me to receive
+from you, my honest, beloved brother, so friendly, kind, and encouraging a
+letter. I would be the most ungrateful of men if I did not answer it with
+complete openness, and pour out my whole heart to you.
+
+It is not Mahomet and A-- who bear the greater share of blame for my
+break with Spartacus, but this man's own Jesuitical way of operating, by
+which he has so often set us at odds with one another, simply to rule
+despotically over people who, even if they lack his rich imagination, his
+subtlety and cunning, yield him nothing at all in good will, plain sound
+reason, and honesty — people who have rendered him such essential
+
+--- page 108 ---
+
+service that, without them, his ☉, begun with a handful of young men
+gathered together with no selection at all (think of Tiberius, Ajax, and
+the rest), would amount to nothing. I have long foreseen how he would play
+with me, but I have also firmly resolved to show him that, however
+compliant and almost excessively submissive I may be, I withdraw for good
+once I am treated shamefully — so that he may learn, for once, that not
+every man can be played with. So here is my declaration: with Spartacus I
+can never return to the old footing we once stood on; but as long as I
+live, I will give everything I have to the good of the ☉, and work with
+all my strength at whatever you, my best friends, choose to entrust to me.
+Now let me turn to my account of things.
+
+When Spartacus first began corresponding with me about the ☉, he painted
+it for me as a fully worked-out, deeply considered system, already widely
+spread, and urged me to recruit grown, respected, already educated and
+learned men wherever I could. Naturally enough, these men not only wanted
+to advance faster than the lower ranks, but it also became clear that I
+could not, without ruining my health and my purse, go on conducting
+
+--- page 109 ---
+
+the whole direction of things alone. The thing caught on so quickly that I
+eventually had five hundred people on my hands. To be able to install
+middle-ranking superiors, I asked for the necessary instructions — in a
+word, for higher grades — and Spartacus promptly made me an Areopagite, and
+then confessed to me that none of the other grades were actually finished.
+That did not discourage me; I only asked, urgently, that a certain number
+of grades necessary for direction be worked out, and promised, in the
+meantime, to keep all my people occupied for two years. He then wrote back
+that I should do exactly as I pleased, and admit as many Areopagites as I
+liked. I, for my part, admitted no one as Areopagite; I kept even our
+oldest, wisest men waiting through the most unheard-of delays and
+excuses; I set everything in motion; I undermined the Strict Observance; I
+worked sixteen hours a day for the ☉, setting aside all my own domestic
+affairs and other business, some of it important, some of it profitable;
+to avoid any suspicion of self-interest, so common in these parts, I took
+money from no one, and spent 250 florins a year of my own on postage; I let
+myself be used for everything; I wrote against Jesuits and Rosicrucians who
+had never done me any wrong, but who now persecute me for it; and all the
+while I worked out the lower classes. After that I was finally permitted to
+travel to see you, my best brothers, where
+
+--- page 110 ---
+
+I myself enjoyed so much friendship and kindness. By then the grades up to
+Scottish Knight had been settled. I came back, introduced them in my own
+provinces, and set up assemblies and lodges [▢▢] — though I still hold to
+the principle that, when one means to spread the ☉ in a country from the
+ground up, it is better to work with a few tested men from the top down
+than with a crowd of uneducated people who all want to be satisfied from
+the bottom up. Still, I obeyed. But by now the machine had grown too heavy
+for my own shoulders. On that account I asked for higher directing grades
+to be established — namely, a) a small Priest grade for scientific
+direction, and b) a small Regent grade for political direction. My thought
+was that we could then keep the so-called greater Mysteries for ourselves,
+hide behind these two grades, and hand the whole visible edifice over to
+other men. We would watch how they ran it, stay in reserve ourselves, and
+work out the higher Mysteries at our leisure. But once the lesser Mysteries
+were finished, I meant to give each province its own provincial, put three
+provincials under an inspector, and let these men install local superiors
+according to instruction and set everything in order. My only request was
+that proper provision be made for a real National
+
+--- page 111 ---
+
+direction — and A-- in Rome had a splendid opportunity to see to this, but
+achieved nothing. I was left to do everything alone, fobbing off my own
+people with excuses.
+
+Meanwhile Spartacus began pressing me to plant a real force of the ☉ in
+Edessa. I told him the people there had too little need of it — too lazy,
+too self-indulgent, too rich, too republican — but that did no good. He
+kept after me about it so insistently that I finally tried everything. I
+started with ten or twelve people in succession, not one of whom really
+took to it; and since the thing did not catch on even among my five hundred
+loyal followers, along with a number of other small, accidental
+circumstances, he began to consider me a rash, mediocre sort of man. He
+corresponded behind my back with my own subordinates — I have read letters
+of his in which he discusses me, with the men I myself had admitted, as if
+I were some raw beginner. Among other things, he now placed his trust in
+Minos — a very honest man, useful enough for the purpose I used him for,
+but otherwise quite imprudent and overhasty, a man who needs particular
+handling and a short leash. When I noticed this, I let it trouble me not at
+all, made him no reproaches, and simply went on working out the Presbyter
+and
+
+--- page 112 ---
+
+Princeps grades, on the following principles. The small Priest grade had
+to carry the scientific direction, so I took Spartacus's instruction for
+the provincials in scientific matters as its foundation; for the Regent
+grade, meant to carry the political direction, I laid down the first half
+of the provincial instruction as its base (I am having the whole thing
+copied out for you now, as you asked). But then came the question of what
+principles these grades should actually teach, to carry people forward in
+the system — and this is what occurred to me. One has to consider the
+needs of the age. The deceit of the priesthood has by now turned almost
+everyone against the Christian religion; yet, as is so common among men who
+always want to attach themselves to something, the worst kind of
+enthusiasm is breaking back in at the same time. So, to work on both kinds
+of people at once, and unite them, one has to invent an explanation of the
+Christian religion that brings the enthusiast back to reason, while
+keeping the freethinker from throwing out everything good along with the
+bad — make this the secret of Freemasonry, and turn it to our purposes. On
+another front, we have to deal with princes. As their despotism grows
+daily, a general spirit of freedom is breaking out everywhere at the same
+time. So these
+
+--- page 113 ---
+
+two extremes, too, must be reconciled. We say, then: Jesus wished to found
+no new religion, but only to restore natural religion and reason to their
+former rights. In doing so, he wanted to unite mankind in a greater
+universal bond, and, by spreading a wise morality, enlightenment, and the
+fight against every prejudice, to make men capable of governing
+themselves — the secret meaning of his teaching being to reintroduce
+universal freedom and equality among men, without any revolution. Every
+passage of the Bible can be read and explained toward this end, which puts
+an end to all quarreling among the sects, once each finds a rational
+meaning in the teaching of Jesus (whether it is true or not). But since
+this simple religion was later profaned, these teachings were passed down
+to us through the Disciplina Arcani, and finally through Freemasonry, and
+every Masonic hieroglyph can be explained toward this same purpose.
+Spartacus has gathered a great deal of good material for this; I have
+added my own; and between us we have prepared the two grades, putting
+nothing into them but ceremonies drawn from the earliest Christian
+communities. Since our people see, through this, that we alone are the
+true, genuine Christians, we may in return speak a little more freely
+against priests and princes — though
+
+--- page 114 ---
+
+I have handled this in such a way that I would be willing to admit even
+popes and kings into these grades, after a prior examination. (In the
+higher Mysteries, one would then: a) expose this pious fraud [piam
+fraudem]; b) trace, from all the relevant writings, the origin of every
+religious lie and how they connect; and c) tell the history of the ☉.)
+
+Once the Presbyter and Princeps grades were finished, I sent the draft to
+Spartacus, asking that it be circulated to all the Areopagites — I had done
+little more than gather together everyone's various contributions, most of
+it, in fact nearly all of it, from Spartacus himself — but I had no answer
+for a long time, nor did I get my papers back, and meanwhile I had to
+promote my own people regardless, just to ease a burden that had become
+more than Herculean. Finally Spartacus wrote that Mahomet indeed had many
+objections, but that he would see to it that the grades were accepted as
+they stood; since I was in a hurry, I should simply distribute them in my
+own way in the meantime. This I did, vouching for the authenticity of the
+cahiers with my own signature, and my people were delighted with what they
+called these masterpieces — except that two of them raised small
+objections to a few expressions, which could easily
+
+--- page 115 ---
+
+have been adjusted to local circumstances in each province. Then, without
+warning, Mahomet sent me — not comments on these grades, but an entirely
+altered, mutilated version of the whole thing. I was told to take back my
+own booklets, and when I refused, Spartacus at least insisted on reviewing
+every copy himself, telling people that spurious additions had crept in —
+so as to make me out a liar. I am certainly not power-hungry; I have given
+up every province I held, and I now stand myself under Minos, sending him
+my Q.L. every month — but even I could not stomach such an insult, and
+since Spartacus, on top of it, grows rude with me, I fail to see why I
+should let myself be treated like a student by some professor at
+Ingolstadt. So I have renounced all obedience to him. To you, however, I
+remain ready at a moment's notice, and will gladly go on directing Upper
+Saxony and Hesse too, until everything there is in order, and only then
+withdraw entirely — devoting my powers to you, day and night, in the
+meantime. Heartfelt thanks for the touching proof of your friendship and
+your trust. As soon as the grades are copied, I will present them; then
+judge for yourselves. I follow this order:
+
+--- page 116 ---
+
+**Class I. Nursery [Pflanzschule].**
+- Preparatory essay.
+- Novitiate.
+- Minerval.
+- Illuminatus minor.
+- Initiation of a Magistrate.
+
+**Class II. Freemasonry.**
+1. Symbolic.
+  - A. Ritual book.
+    - a. Apprentice.
+    - b. Fellow[-craft].
+    - c. Master.
+  - B. Constitution book.
+2. Scottish.
+  - A. Illuminatus major, or Scottish Novice.
+  - B. Illuminatus dirigens, or Scottish Knight.
+
+**Class III. Mysteries.**
+1. Lesser.
+  - A. Presbyter.
+  - B. Princeps.
+2. Greater.
+  - A. Magus.
+  - B. Rex.
+  - (not yet made).
+
+Now, as to the content of your dear letter. Chrysippus has described the
+sorry state of things in Rome to me too, though I have tried to make him
+believe there are still many hidden, important men in Rome who belong to
+us. But if Spartacus keeps setting
+
+--- page 117 ---
+
+me against my own people, who trust me blindly, the majority will soon
+grow mistrustful of me, and of the ☉ along with me.
+
+Numenius is not yet of much use. I keep him on only to stop his mouth at
+the convent; still, if he were well guided, something could be made of
+him. But the excellent Chrysippus could be very useful to us — though I
+will now take great care not to work abroad, since Spartacus has told me,
+in so many words, that he considers me an imprudent, rash man. It is lucky
+for him that I am an honest fellow, or else, with the help of the Strict
+Observance, I could set his ☉ back into the nothing it came from. But once
+more: he shall see that I stand firm in my principles, for good or ill. I
+wish he would let you read, too, the letters I wrote him on the 11th and
+12th, and today.
+
+The returning reports have truly pleased me. Of all my colonies,
+Clandiopolis (Neuwied) is the most splendid — there they work, govern,
+promote, and perform wonders.
+
+Once you have read the cahiers, I believe you will find it most advisable
+for Spartacus to let the inspectors and
+
+--- page 118 ---
+
+provincials know that, if anyone takes offense at particular passages, they
+may leave them out and dispense with them according to their own
+conscience. Local circumstances differ — what can be printed openly here
+could scarcely be whispered in someone's ear in Erzerum.
+
+You may certainly trust Chrysippus, though he is a little religious —
+superstitious, no — and our Priest grade has, without his even realizing
+it himself, made something of a half-naturalist of him. Only two things
+should be kept in mind: a) he still always believed there were secret
+members in Rome; b) Spartacus should not, perhaps, send him a separate
+order at the same time, since I have already made him this very same
+proposal myself.
+
+Please do take care with the Freemasons in Rome — the place is full of
+Rosicrucians [R.†].
+
+As for Poland, that is a splendid affair. I have sent Spartacus the draft
+for a circular letter to the lodges [▢▢]. He will presumably not have
+shared it with you, though, so I am having it copied this very hour, in
+haste, on separate sheets, by several hands at once. Do let me know your
+opinion of it, and kindly send it back to me.
+
+If
+
+--- page 119 ---
+
+Spartacus had not treated me so shamefully, I could show you splendid
+people in Rome — I have more influence there than he believes. I have also
+made discoveries in Freemasonry that are not unimportant; you will find
+small hints of this in the enclosed draft circular. Of honest Hannibal I
+hear nothing at all. What a long letter this has become! My eyes and
+fingers are worn out. Farewell, a thousand times over, from your most
+tenderly devoted
+
+Your
+Philo.
+20 Dimeh.
+
+**2.**
+
+My most beloved brother!
+
+I have only just sent off a letter to you, and already I am beginning a
+new one — it weighs that heavily on my heart. I would hate for Spartacus,
+through his reckless, ignoble, hotheaded conduct, to force me into a step
+that would distress men as dear to me as you are; and yet I do not feel
+strong enough in myself to let myself be trampled on and insulted without
+a word of protest. I implore you, then — if my friendship has ever meant
+anything to you,
+
+--- page 120 ---
+
+then set this matter right. But if it means nothing to you, then let me go
+my own way. I truly have no interest here beyond heartfelt affection and
+grateful friendship toward you, for it would cost me very little to form a
+firm league against Spartacus, and overturn everything he has done or
+might still do. I can feel something in me rebelling against that thought,
+so I will try every gentle means first. But should I ever let an
+unreasonable urge for revenge run its course, consider the following.
+
+At Spartacus's own bidding, I have written against ex-Jesuits and
+Rosicrucians — persecuted men who had never done me any wrong; I have
+thrown the Strict Observance into disorder, and drawn its best people over
+to us; I have given them grand ideas of the dignity of the ☉, of its power
+and age, the excellence of its chiefs, the irreproachable character of its
+higher members, the importance of its knowledge, and the honesty of its
+intentions. Those among us who have proven so effective, but who still
+cling strongly to religion, and fear that we mean to spread Deism, I have
+worked hard to convince that the higher superiors intend nothing of the
+kind. (Little by little, I do get my own way, after all.) Now, if I were
+
+1.)
+
+--- page 121 ---
+
+to give the Jesuits and Rosicrucians a hint as to who is really persecuting
+them —
+
+2.) If I were to reveal the small, insignificant true origin of the ☉ to
+only a handful of people —
+
+3.) If I were to show them, through my own drafts, that I composed a good
+part of the grades myself —
+
+4.) If I were to tell them how, after everything I have done for the
+cause, I am forced to let myself be mistreated —
+
+5.) If I were to acquaint them with the truly Jesuitical character of the
+man who perhaps leads us all by the nose, uses us for his own ambitions,
+and sacrifices us as readily as his own stubbornness demands — and with
+what they might have to fear from such a man, from such a machine, behind
+which Jesuits may still be lurking, or might yet come to lurk —
+
+6.) If I were to assure every seeker of secrets that there is nothing here
+for them to find —
+
+7.) If I were to acquaint every man who holds religion dear with the real
+principles of our Herr General —
+
+8.)
+
+--- page 122 ---
+
+If I were to reveal how new this whole enterprise really is, and on how
+shaky a foundation parts of it rest —
+
+9.) If I were to warn the lodges [▢▢] about an association behind which
+the Illuminati are lurking —
+
+10.) If I were to ally myself once again with princes and Freemasons —
+
+11.) If I were then to devise a firmer, more disinterested, clearer plan,
+resting entirely on honesty and freedom, drawing in the finest minds I am
+connected with, and placing people in every region who would secretly let
+themselves be admitted by Illuminati, so as to learn, later, exactly what
+goes on there —
+
+12.) If I myself, in Greece, were to drop certain hints to certain people,
+and thereby expose the founder and everything else at once —
+
+13.) If, in Rome, through the princes, through Numenius, through the
+Rosicrucians, I raised such an alarm —
+
+— I shudder even to think of it. Revenge will never drive me that far; but
+whatever is necessary to secure my own reputation, should satisfaction not
+be given me,
+
+--- page 123 ---
+
+that much I must do. But I am just as ready to work entirely on the old
+footing — indeed, to accomplish the greatest things for us — if I am shown,
+once again, complete and unrestricted trust. I know every one of our
+people exactly; I know why each of them, individually, clings to the ☉; I
+know which spring must be pulled, to bring these men to the height of
+enthusiasm, or to drain the life out of them in an instant. Spartacus does
+not know this — otherwise he would never have recently given our best men
+in Göttingen such serious second thoughts, by recommending Boulanger's
+writings to them. During my visit I set everything back in good order
+again. On the whole, I have made no move against Spartacus so far — but
+this much is sacred and certain: if I do not have full satisfaction between
+now and the 26th of April, I will answer for nothing further.
+
+When I first joined the ☉, everyone was blindly prejudiced against
+anything connected with the Strict Observance. I maintained that there
+were splendid people among them — Spartacus trusted me, and events have
+proven me right. Our best people in Neuwied, Göttingen, Mainz, Hanover, and
+Braunschweig, as well as in the Palatinate, are all former members of the
+Strict Observance.
+
+Now Spartacus lets himself be blindly ruled by Minos, who, out of private
+hatred for a couple of individuals,
+
+--- page 124 ---
+
+takes steps so reckless that our best men are taken aback by them.
+
+I say it once more: if I am given a free hand, I will answer with my own
+head for bringing about
+
+1.) Very important knowledge for the ☉,
+
+2.) Firm power over the Strict Observance, or rather its total
+destruction,
+
+3.) Great influence over the Zinnendorf system,
+
+4.) Worldly power and riches — and all of it without disturbing our own
+arrangement in the slightest.
+
+Spartacus has had my own former subordinate write to me that he sees
+through these lures of mine — what plebeian rudeness! What need do I have
+of lures? And to what end? If I did not gladly wish to act honestly — if
+only I were not forced to act otherwise — I would lay our whole
+arrangement openly before the best men, tell them the true history of our
+☉, resign from it myself, devise still more cautious safeguards against
+its profanation, give the thing a new name, and turn my own nursery
+[Pflanzschule] into what our ☉ ought to have been. And I confess that this
+is exactly what I
+
+will
+
+--- page 125 ---
+
+do, if this matter is not urgently set right. An ☉ that abuses and
+tyrannizes men the way Spartacus intends would place the poor souls in a
+yoke worse than the Jesuits ever did. It is a duty to stop this, and I am
+so firmly resolved to do it that I will not leave even the shadow of a
+suspicion among the five hundred poor people I myself have brought into
+the ☉ that I let myself be used as an instrument of tyranny. Everyone shall
+know that I too was deceived — deceived with the best of hearts.
+
+Be so good, my best of brothers, as to share this letter with Spartacus —
+I will enclose it in the same packet, so that it reaches you both the
+sooner. If I receive no satisfying answer before the 26th of April, I will
+begin my campaign; everything lies ready for it. If I receive so much as a
+single discourteous line, then it is over between us entirely. If,
+instead, everything is set right, then by the end of April you and
+Spartacus shall both hear news from me that will certainly give you joy,
+and convince you both of the caution and honesty with which I act.
+
+Your
+eternally faithful
+Philo.
+
+**3.**
