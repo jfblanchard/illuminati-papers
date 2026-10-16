@@ -25,3 +25,6 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# generated: hermes activity stamp (central-planning post-commit)
+.hermes/activity.log
