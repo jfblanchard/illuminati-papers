@@ -5602,3 +5602,434 @@ Ingolstadt, 5 August 1784.
 
 (L.S.) [Locus Sigilli — place of the seal] Aloys Bauer, jurist.
 Isocrates.
+
+--- page 240 ---
+
+*Accounts.*
+
+**A.**
+
+*Account of the Minerval church at Megara, for the months of Thirmeh,
+Merdedmeh, and Schaharimeh, 1154 Jezdedgerd.*
+
+Receipts (fl. / kr.):
+- Reception, initiation, and introduction fees: — —
+- Minerval dues: Illuminatus Democedes 3 —; Confucius — —; Lysander — —;
+  Theopompus 3 —; Cleomedes, each time 24 kr., 1 12
+  — subtotal: 7 fl. 12 kr.
+- Cash balance on hand: 9 8
+- Extra receipt for Cleomedes's patent: 1 30
+- **Total receipts: 17 fl. 50 kr.**
+
+[fl. = florins/gulden; kr. = kreuzer]
+
+--- page 241 ---
+
+Expenditures (fl. / kr.):
+- Letter money to Democedes: — 30
+- Cash balance remitted: 9 8
+- **Total: 9 fl. 38 kr.**
+
+Balance:
+- Receipts: 17 fl. 50 kr.
+- Expenditures: 9 fl. 38 kr.
+- **Remaining for the new cash balance: 8 fl. 12 kr.**
+
+Arrears outstanding:
+- Lysander, initiation and reception: 10 —
+- Democedes, the same: 10 —, plus 15 — in monthly dues
+- Cleomedes, initiation and reception, plus the Order's badge: 12 24
+- Manes, initiation and reception: 10 —
+- Confucius, monthly dues: 6 —
+- **Total arrears: 63 fl. 24 kr.**
+- Lysander, monthly dues: 3 —
+- **Grand total: 66 fl. 24 kr.**
+
+Democedes, mppr.
+Lysander, mppr.
+
+--- page 242 ---
+
+**B.**
+
+*Account — or rather, specification — of the contributions received over
+the last two quarters (July, August, September; then October, November,
+December), rendered by J. Lycurgus, anno 1784.*
+
+*Preliminary note.* Why no formal account can be rendered for these two
+quarters explains itself from the state of affairs. Since the start of
+July, part of the former Minerval assembly has withdrawn, under the
+superior Illuminatus Musaeus, into the narrower, friendly circle of
+Demonax. It was therefore just as impossible to draw up a column for
+reception and introduction fees as for expenditures, since no serving
+Brother has since reported in for supplies or monthly pay. Here, then,
+follows the
+
+--- page 243 ---
+
+*specification of the contributions received in the above two quarters*
+(fl. / kr.):
+- Caesar d'Abalos, paid in full for 6 months at 50 kr.: 5 —
+- Xenophanes, now entirely absent, for 5 months at 50 kr.: 4 10
+- Valentinianus, paid for 3 months (Aug., Sept., Oct.) at 1 fl. each, and
+  presumably now assigned to the lodge [▢] — recorded here all the same: 3 —
+- Mithridates, the first newly arrived member, paid for October and
+  November, then December, at 50 kr.: 2 30
+- **Total: 14 fl. 40 kr.**
+
+*Reminder.* Agamemnon, as well as Petrejus, still owe their full 6 months
+of Minerval dues in arrears; but since neither belongs to Demonax's
+circle, I did not think it advisable, under the present critical
+circumstances, to demand anything from them, so that
+
+--- page 244 ---
+
+I may, going forward, for the sake of restoring order, know for certain
+who, even among the newly enlarged circle under Demonax, owes dues or
+does not, and from whom I am accordingly to demand further contributions.
+I therefore request — as I have partly already reported in the second
+quarterly account — that our illustrious superiors graciously provide a
+formal directive on the present personnel under Demonax's direction, so
+that I may govern myself accordingly, and present any eventual arrears in
+proper accounting form.
+
+Finally, it should also be noted that the alms collected in these two
+quarters remained in Demonax's own hands, for assistance directed
+elsewhere, and so likewise never came into my accounts.
+
+Lycurgus.
+
+*Reminder from Demonax.* By order of Illuminatus Diomedes, I had a
+writing delivered as a contribution to the Museum, consisting of a very
+important correspondence of the former secret chancellor, Baron von
+Unertl, and in 25 sheets,
+
+--- page 245 ---
+
+copied — and paid the needy copyist for it: 2 fl. 30 kr.
+
+I further paid a likewise needy man, burdened with wife and children, who
+cast about fifty small and large secret seals in plaster: 2 fl. 30 kr.
+— **Subtotal: 5 fl. — kr.**
+
+That leaves, still in ready cash: 9 fl. 40 kr.
+
+Further paid: to my own messenger to Ingolstadt, 3 fl. 36 kr.; purchases
+of warnings and enclosures for local and foreign Brothers alike, 2 fl. 24
+kr.; writing paper, and outlay on letter postage, 1 fl. 36 kr.
+— **Subtotal: 7 fl. 36 kr.**
+— **Remainder: 2 fl. 4 kr.**
+
+--- page 246 ---
+
+**C.**
+
+*Corinthian superintendent's and quarterly account, from 1 September to
+the end of December 1784, inclusive.*
+
+Receipts:
+- Reception, initiation, and introduction fees: Nothing.
+- Fine moneys: Nothing.
+- Arrears: Nothing.
+- Monthly dues: from Attila, 6 15; from Jason, 3 —; from Ae. Sylvius, 3 —;
+  from Lucretius, 3 —.
+  — **Grand total of all receipts: 15 fl. 15 kr.**
+
+NB. Brothers Argus and Acheus have been excused their dues on account of
+their inability to pay.
+
+--- page 247 ---
+
+Expenditures: Nothing.
+
+Deducting expenditures from receipts leaves a ready cash balance of 15 fl.
+15 kr., which I will send in at the next opportunity.
+
+Corinth, 28 Adarmeh 1154 Jezdedgerd.
+
+Att., mppr.
+p.t.S. [? — pro tempore Superior; abbreviation uncertain]
+
+**D.**
+
+*Quarterly account of all receipts and expenditures of the venerable
+Minerval assembly at Granipalatium, from 1 October to 31 December 1784,
+rendered by M. Aeacus, present quaestor.*
+
+*Personnel:* J. Socrates. J. Pollio. M. Suetonius. M. Aeacus. N. Hecataeus
+Milesius.
+
+--- page 248 ---
+
+Receipts:
+- Reception fees: Nothing.
+- Initiation fees: Nothing.
+- Introduction fees and Minerval insignia: Nothing.
+- Monthly dues: from Illuminatus Socrates, for Oct., Nov., and Dec.: 3 —;
+  from Illuminatus Pollio: 3 —; from Suetonius: 3 —; from M. Aeacus: 3 —.
+  — **Total: 12 fl. —**
+- Alms and fine moneys (no assembly held this quarter): Nothing.
+- Arrears from the previous quarter: Nothing.
+
+Expenditures: at present, Nothing.
+
+--- page 249 ---
+
+Balance:
+- Total receipts: 12 —
+- Total expenditures: — —
+
+Statement of the remainder:
+- Ready cash: 9 —
+- Outstanding: 3 —
+
+List of arrears: J. Socrates, this month's dues: 3 fl. — kr.
+
+Pollio, warden.
+M. Aeacus, present quaestor.
+Suetonius, present secretary.
+
+--- page 250 ---
+
+**E.**
+
+*Fourth quarterly account of all receipts and expenditures of the
+venerable Minerval assembly at Juvenatium, from 1 October to 31 December
+1784, rendered by M. Claudius, present quaestor.*
+
+*Personnel:* M. Plato. Claudius. Artemon. N. Dioscorus.
+
+Receipts:
+- Reception fees: Nothing.
+- Initiation fees: Nothing.
+
+--- page 251 ---
+
+- Introduction fees and Minerval insignia: Nothing.
+- Monthly dues: Plato, 3 —; Claudius, 3 —; Artemon, 3 —; Dioscorus, — —.
+  — **Total: 9 fl. — kr.**
+- Alms and fine moneys: from Brother Artemon, in alms, 36 kr.
+- Arrears: Nothing.
+
+Expenditures: Nothing.
+
+--- page 252 ---
+
+Balance:
+- Total receipts: 9 36
+- Total expenditures: — —
+- **Remainder: 9 fl. 36 kr.**
+
+Statement of the remainder:
+- Ready cash: 9 36
+- Arrears: — —
+- **Total: 9 fl. 36 kr.**
+
+List of arrears: Nothing.
+
+M. Claudius, present quaestor, mppr.
+
+--- page 253 ---
+
+**F.**
+
+*Quarterly account of all receipts and expenditures of the Minerval
+assembly at Nemea, under the superiorate of Illuminatus Sulla, from 1
+January to 28 February 1785, rendered by Illuminatus Armidorus, quaestor.*
+
+*Personnel of the Brothers at Nemea and Epidaurus:*
+Illuminatus Sulla, Superior. — Erasmus, Censor. — Armidorus, Quaestor. —
+Maxentius, Secretary. — Thales Milesius. — Arion.
+Minerval Anton Venier. — Adonis. — Rousseau. — Acrisius.
+
+--- page 254 ---
+
+Novices: Xenophon. — Pizarro. — Architas. — Nectarius.
+
+Receipts (fl. / kr.):
+- Reception fees: — —. Initiation fees: — —. Introduction fees: — —.
+- Minerval dues: Illuminatus Sulla, 2 —; Erasmus, 2 —; Armidorus, 2 —;
+  Maxentius, 2 —; Thales Milesius (excused), — —; Arion, 2 —; Nestorius,
+  2 —; Minerval Anton Venier (excused), — —; Adonis (excused), — —;
+  Acrisius (half excused), 1 —; Rousseau, at 50 kr., 1 40.
+  — **Total: 14 fl. 40 kr.**
+
+--- page 255 ---
+
+- Alms and fine moneys: — —
+- Arrears (fl. / kr.): Minerval Rousseau, initiation and introduction
+  fees, 10 —; Minervals Pizarro and Nectarius, reception fees, 10 —;
+  Acrisius, initiation and introduction fees, 10 —; monthly dues for the
+  past 2nd quarter from Nestorius, 2 —; the same, past 2nd quarter, from
+  Rousseau, 2 30; the same, past 3rd quarter, from Rousseau, 2 30;
+  Illuminatus Maxentius, remainder of initiation and introduction fees,
+  5 —; his monthly dues for July, Aug., Sept., 3 —; Acrisius's monthly
+  dues for August, — 30; Maxentius's monthly dues for Oct., Nov., Dec.,
+  3 —; Nestorius's for the same months, 3 —; Rousseau's at 50 kr., 2 30.
+  — **Total: 57 fl. — kr.**
+
+--- page 256 ---
+
+Expenditures: for letters, 3 fl. 12 kr.
+
+Balance:
+- Grand total of receipts: 71 fl. 40 kr.
+- Grand total of expenditures: 3 fl. 12 kr.
+- **Cash balance: 68 fl. 28 kr.**
+
+Statement of the cash balance:
+- Ready cash: 4 fl. 42 kr.
+- Arrears: 63 fl. 46 kr.
+- **The above remainder: 68 fl. 28 kr.**
+
+Armidorus, quaestor.
+Rev[ised?] Sulla, Superior. [abbreviation as printed, uncertain]
+
+--- page 257 ---
+
+*List of arrears* (fl. / kr.):
+- All arrears carried into receipt under No. 6: 57 —
+- Remainder of Arion's monthly dues: — 36
+- Maxentius's monthly dues for January and February: 2 —
+- Acrisius's monthly dues for February: — 30
+- Nestorius's monthly dues for January and February: 2 —
+- Rousseau's monthly dues at 50 kr., for January and February: 1 40
+- **Total: 63 fl. 46 kr.**
+
+--- page 258 ---
+
+**G.**
+
+*Specification of contributions given by certain Brothers since the
+month of January 1785* (fl. / kr.):
+- From Xenophanes, for 3 months at 50 kr.: 2 30
+- From Caesar d'Avalos, 2 months at 50 kr.: 1 40
+- From the young Baron L--, 1 month: — 50
+- From Valentinianus, 2 months, at 1 fl. each: 2 —
+- **Total, now in hand: 7 fl. — kr.**
+
+--- page 259 ---
+
+**XII.**
+
+*Announcement slip for the lodge's [▢] feast of St. John, on 7/1, 5784.*
+
+**XIII.**
+
+*List of monthly dues for the seventh month, 1784.*
+
+**XIV.**
+
+*List of monthly dues for the twelfth month, 5784.*
+
+**XV.**
+
+*List of monthly dues for the first month, 1785.*
+
+*Note.* The first sovereign prohibition against all communities, societies,
+and fraternal unions formed without the highest confirmation had already
+been issued and published on 22 June 1784. Notwithstanding this, however,
+this disobedient and refractory society continued its thoroughly harmful
+work through lodges, clandestine gatherings [Winkelzusammenkünfte],
+collections, and the recruitment of new members — as, among other things,
+the above undertaking [Revers] and these accounts and announcement slips
+amply prove.
+
+--- page 261 ---
+
+*Misprints that have been left standing:*
+
+- P. 114, l. 9: "tief" — read: "tief genug."
+- P. 132, l. 1: "praesercti" — read: "praesenti."
+- l. 10: "consecrati" — read: "consecrato."
+- P. 132, last line: "te" — read: "ter."
+- P. 133, l. 15: "absolutione" — read: "ablutione."
+- P. 135, l. 4: "Was" — read: "wo es."
+
+--- page 263 ---
+
+**NATIONAL DIRECTIONS TABLE OF GERMANY**
+
+*In Philo's handwriting.*
+
+The Austrian lands wish to have their own National Direction, and so are
+not to be counted together with the rest of Germany.
+
+*National Direction of Germany.*
+
+**FIRST INSPECTION.**
+
+*Provincial Direction of Bavaria.*
+- Scottish directorium at Munich, over the Duchy of Bavaria.
+- — at Salzburg, over the Archbishopric of Salzburg.
+- — at Regensburg, over Regensburg, Passau, Sternberg, Ortenburg,
+  Leuchtenberg, Sulzbach.
+- — at Freising, over the Upper Palatinate, Freising, Neuburg.
+
+*Provincial Direction of Swabia.*
+- Scottish directorium at Augsburg, over Augsburg, Constance, Kempten.
+- — at Stuttgart, over Württemberg, Zollern, the imperial cities.
+- — at Oettingen, over Oettingen, Fürstenberg, the abbeys, the imperial
+  cities.
+- — at Carlsruhe, over Baden, the knighthood, the imperial cities.
+
+*Provincial Direction of Franconia.*
+- Scottish directorium at Eichstätt, over Eichstätt, the Bayreuth lands,
+  and the imperial cities.
+- — at Würzburg, over Würzburg and Bamberg.
+- — at Bayreuth, over Bayreuth, its counties and lordships.
+- — at Meiningen, over the Teutonic Order's cities, and Henneberg.
+
+**SECOND INSPECTION.**
+
+*Provincial Direction of the Electoral Rhenish Circle.*
+- Scottish directorium at Mannheim or Heidelberg, over the Rhenish
+  Palatinate.
+- — at Mainz, over the Mainz lands and Beilstein.
+- — at Koblenz or Trier, over the Archbishopric of Trier.
+- — at Bonn or Cologne, over Cologne, Arenberg, Reineck, Isenburg.
+
+*Provincial Direction of the Upper Rhenish Circle.*
+- Scottish directorium at Kassel, over Hesse-Kassel.
+- — at Wetzlar, over the Wetterau imperial cities, knighthood, etc.
+- — at Frankfurt, over Fulda, Hanau, Isenburg, Frankfurt.
+- — at Darmstadt, over Darmstadt, Homburg, Usingen.
+- — at Speyer, over Speyer, Worms, Zweibrücken.
+
+*Provincial Direction of the Westphalian Circle.*
+- Scottish directorium at Neuwied, over Wied, Sayn, Moers, Thorn, Essen.
+- — at Münster, over Münster, Osnabrück, Jülich, Cleves.
+- — at Paderborn, over Paderborn, Minden, Corvey, Nassau.
+- — at Oldenburg, over Verden, Oldenburg, Hoya, Schaumburg.
+
+**THIRD INSPECTION.**
+
+*Provincial Direction of Upper Saxony.*
+- Scottish directorium at Dresden or Leipzig, over Electoral Saxony,
+  Vogtland, Zeitz.
+- — at Berlin, over Brandenburg and Pomerania.
+- — at Weimar or Gotha, over the Saxon duchies and Schwarzburg.
+- — at Dessau, over Anhalt, Mansfeld, Stolberg, and Querfurt.
+
+*Provincial Direction of Lower Saxony.*
+- Scottish directorium at Hanover, over Electoral Hanover, Celle,
+  Grubenhagen.
+- — at Braunschweig, over Wolfenbüttel, Magdeburg, Halberstadt, Hildesheim.
+- — at Bremen, over Bremen, Holstein, Hamburg.
+- — at Strelitz, over Mecklenburg, Lübeck, Ratzeburg.
+
+--- page 265 ---
+
+**Second Part.**
+
+**DOCUMENTS.**
+
+**I.**
+
+*Proposal to win over older, respected, but capable and knowledge-seeking
+men for our Order.*
+
+*In Spartacus's handwriting.*
+
+1. The man to be recruited for this must show a disposition that takes
+pleasure in the knowledge of higher truths — truths most hidden
