@@ -6033,3 +6033,674 @@ men for our Order.*
 
 1. The man to be recruited for this must show a disposition that takes
 pleasure in the knowledge of higher truths — truths most hidden
+
+--- page 266 ---
+
+from the world. Where this disposition is not yet present in someone, it
+must be awakened, and a lively desire for it brought about. This is done:
+
+1. by pointing out, and making felt, the pleasure of knowing something
+that not everyone knows, where most of the world gropes in the dark;
+
+2. by showing that not all teachings should become public, but should be
+passed down only through tradition;
+
+3. by invoking the secret teachings of the Pythagoreans, of the
+gymnosophists of India, of the priests of Isis in Egypt, of the Eleusinian
+Mysteries;
+
+4. by giving him Meiners's treatises on the Eleusinia to read;
+
+5. by showing that such a broader insight into the workings
+
+--- page 267 ---
+
+of God's providence, and the order of the world, makes life more pleasant,
+misfortune easier to bear, and enlightens our ideas of the majesty of God;
+
+6. by holding up, to this end, that all the wise men of antiquity possessed
+such hidden insights. One cites, for this purpose, passages from Cicero,
+Seneca, Aristides, Isocrates, and others — for instance, Cicero's words on
+the Eleusinia:
+
+> Initiaque, ut appellantur, ita revera principia vitae cognovimus: neque
+> solum cum laetitia vivendi rationem accepimus, sed etiam cum spe meliore
+> moriendi.
+>
+> [And the Initia, as they are called, we have truly come to know as the
+> principia — the beginnings — of life; from them we have received not only
+> a way of living with joy, but also of dying with a better hope.]
+>
+> — *De Legibus*, 2.14.
+
+And elsewhere: reminiscere, quoniam initiatus es quae traduntur in
+Mysteriis [remember, since you are initiated, what is handed down in the
+Mysteries]. Seneca says: non semel quaedam sacra traduntur, Eleusis
+servat, quod ostendat revisentibus. Rerum natura sacra sua non semel
+tradit. Initiatos nos credimus, in vestibulis eius haeremus. Illa arcana
+non pro-
+
+--- page 268 ---
+
+miscue nec omnibus patent, reducta et in interiore sacrario clausa sunt.
+
+[Certain sacred things are not handed down all at once; Eleusis keeps
+something back, to show to those who come again. Nature does not reveal
+her sacred things all at once either. We believe ourselves initiated; we
+still linger in her outer courts. Those secrets do not lie open to
+everyone, indiscriminately — they are withdrawn, and shut away in the
+inner sanctuary.]
+
+7. One adds that the early Christians, too, observed a disciplina arcani
+[discipline of secrecy].
+
+8. One thus carefully collects passages useful for this purpose, and gives
+the other man further books to read that draw him toward the hidden.
+
+9. Once such a desire is finally noticed in the other man, one begins
+
+2. to point out the uncertainty in which we presently stand on matters
+both very pleasant and quite necessary — the origin of the human soul, the
+origin of evil, the nature of the soul, its immortality, our final
+purpose, and so on — and then asks further whether it would not be
+pleasant to receive a satisfying answer to such questions.
+
+3. One behaves mysteriously, hinting that one might be able to help.
+
+--- page 269 ---
+
+Finally, one admits to having had the good fortune to obtain such
+enlightenment oneself, though one is still only on the way to it. This
+insight is not shared all at once — only a hint is given. The other man
+must, in a sense, become the discoverer of this new world himself.
+
+4. Once the other man shows real desire, one tells him one wishes to help
+him.
+
+5. After some time, one visits him, and explains that, for the sake of
+further insight, the two of them must first come to agreement on certain
+principles. These one now wishes to share with him — they are very simple
+and general. One asks of him:
+
+1. that he test these propositions;
+
+2. that he either convince himself of them, or try to disprove them;
+
+3. that he put his reasons and doubts about each of these propositions to
+
+--- page 270 ---
+
+paper, and then hand them over to the receiver.
+
+Everything else depends on how these propositions are resolved and
+answered.
+
+6. The receiver then adds: with grown, settled men, the society proceeds in
+this manner. With young men, however, it uses a different method.
+
+7. He then explains the Minerval system to him, and gives him permission,
+if he wishes, to attend their assemblies. He also teaches him the signs,
+but tells him that, until his questions are resolved, he is only to come
+to know the other members in their capacity as Minervals.
+
+8. Such a man, once he has received these preparatory teachings, is an
+Illuminatus, and stands nearest to the Mysteries — which shall henceforth
+always be conferred in this manner, and shall have their own signs.
+
+--- page 271 ---
+
+I believe I have been of help in this way. If our Illuminatus wishes to
+attend the Minerval assemblies, admission is granted him, and he appears
+to the others as if already a veteran, and is given a higher place as
+well. But no one reveals himself to him as an Illuminatus except his own
+recipient. This grade amounts to a new novitiate for the Mysteries. One
+can make this same beginning with Brutus, and with a few others, such as
+Ch---.
+
+I need hardly remind the Areopagite gentlemen that, so as not to be
+outdone by their own people, they will take care to think these
+propositions through themselves, discuss them with one another, and
+gather examples to illustrate them.
+
+I will also advise that they study totis viribus [with all their strength]
+the Alex. v. Joch [? — book reference unclear, kept as printed] for the
+sake of the propositions that follow, and for the enlightenment of the
+present members. There is real wisdom in this book. Valete [Farewell].
+Also see to it that a Minerval assembly be
+
+--- page 272 ---
+
+held by the 21st, at which a well-crafted speech is read. The practical
+propositions will also follow shortly.
+
+Eleusis, 5 Asphandar 1148.
+
+Spartacus.
+
+NB. I must have this letter, with the propositions, returned to me.
+
+**II.**
+
+*Recesses [resolutions] among the Areopagites, in the month of Adarmeh
+1151.*
+
+*In Cato's handwriting.*
+
+The Order shall have the following classes and grades:
+
+*First class. Minervals.*
+
+a. Novice, treated according to enclosure No. 1.
+
+b. Minerval, according to enclosure No. 2.
+
+--- page 273 ---
+
+c. Minervalis Illuminatus, or Illuminatus minor, according to enclosure
+No. 5.
+
+On b: For now, nothing can be changed in the essentials, since this grade
+is already in too many hands; but in assemblies, only the censor shall
+speak the Greek watchword aloud, and afterward demand the annual password
+from the remaining members, and should one of them not know it, the
+censor, together with the others, calls out: ekas ekas ostis alytros.
+
+On c: This grade ought properly to be given only after the three Masonic
+degrees; but for certain practical reasons, it is for now settled that a
+Minerval, too, may receive it without yet being a Freemason. This
+Illuminatus minor continues to attend Minerval assemblies, sits
+immediately after the magistrates, and has a number of Minervals under his
+supervision — yet he may not attend
+
+--- page 274 ---
+
+magistrate assemblies unless summoned. But should he become a magistrate,
+he is constituted according to enclosure No. 6. Furthermore, no one may
+enter the Order without becoming a Freemason, and from the moment the
+magistrate's dignity is conferred, it shall be observed, as far as
+possible, that only Freemasons become magistrates.
+
+*Second class. Freemasons.*
+
+a. Apprentice.
+
+b. Fellow-craft.
+
+c. Master.
+
+According to the ritual under No. 3.
+
+*Note.* In extraordinary cases, or where there is no Masonic lodge [▢] in
+the Minerval's region that has been constituted by the Order, he may, with
+his superiors' permission, be initiated tête-à-tête, and, if necessary, be
+furnished with a patent by the nearest directing
+
+--- page 275 ---
+
+assembly, or Scottish chapter.
+
+Further, the lodges [▢▢] that the Order establishes shall indeed work
+precisely according to enclosure No. 3; only the provincials may, according
+to local circumstances, alter the instructions, and make special lodge [▢]
+laws.
+
+In the provinces of Greece, Illyria, and Pannonia, the establishment of
+the new Masonic system, and the break with Berlin, shall wait until the
+1st of Pharavardin of the coming year, so that this step can be taken with
+greater security, honor, and preparation. But should it prove possible,
+without violating the contract the Order has formally concluded, through
+deputies, with the secret chapter in Athens, to detach the chapter and the
+lodge [▢] at Athens from Berlin and bring them over to the Order's system
+even before that date, then every effort should be made toward it;
+
+--- page 276 ---
+
+in the meantime, the first three degrees can be introduced right away.
+
+*Third class. Mystery class.*
+
+a. Illuminatus major, or Scottish novice, according to the Cajeux
+[Cahiers? — grade booklets; kept as printed] No. 7.
+
+b. Illuminatus dirigens, or Scottish Knight, according to the Cajeux No. 8.
+
+On a: The Scottish grand master shall be free to augment the nosce te
+ipsum [know thyself] with useful additions — for instance, what sort of
+lawyer, physician, or confessor the candidate has, and so on.
+
+The life-narrative drafted by the candidate shall indeed be given to the
+grand master, but not read publicly. Likewise, the character sketch
+answering the nosce te ipsum questions shall be written out by each
+Illuminatus major individually, and handed directly to the grand master,
+who, with the secret secretary, composes it into a single account — as
+short as possible, in roughly
+
+--- page 277 ---
+
+laconic sentences — sends it to the candidate sealed, as though it had
+already been reviewed by higher superiors, who then return it, again
+sealed. Essay No. 10 is placed in the prefect's hands, to train experienced
+Masons recruited into the Order according to it, though the prefect may
+also share this essay with his subordinates as circumstances allow. Of the
+further grades, nothing more shall be disclosed here.
+
+*Higher Mysteries.*
+
+If a man is suited to nothing better, he remains a Scottish Knight. If he
+is a particularly diligent collector, observer, and worker, he becomes a
+Priest. These Priests are the custodians of the Order's collected
+scientific treasures, organized by field. If, among them, there are higher,
+speculative minds, these
+
+--- page 278 ---
+
+become Magi. These gather and systematize the higher philosophical
+systems, and work out the 20.14.2.3.18.—17.8.2.4.6.4.14.13. (the folk
+religion [\*]) that the Order intends to give the world before long.
+
+Should these higher minds also prove suited to governing the world, they
+become 17.8.6.8.13.19.8.13. (Regents [\*\*]). This is the final
+
+> \* A fine folk religion that would be, which these immoral corrupters of
+> the world intended to give! One can see from what precedes, and from
+> what follows, that these godless men meant to falsify and undermine the
+> true Christian religion, and introduce naturalism, Pyrrhonism, atheism,
+> and the other such fashionable religions hatched by these
+> pseudo-philosophers — which have, alas, already spread far too widely
+> in these lands through such corrupters of the people.
+>
+> \*\* Here, too, it betrays itself that the Illuminati's intention was
+> nothing less than to rule the world. They meant, then, either to clear
+> the regents gradually out of the
+
+--- page 279 ---
+
+grade; they are then, according to their instructions, either Consultores,
+Provincials, National Consultors, or Nationals.
+
+The Priest and Regent grades shall only be composed later; in the
+meantime, the Areopagites gather material for them, and send everything to
+Philo, who drafts the skeleton and circulates it
+
+> way, or else to set them in motion and direct them like machines,
+> according to the Order's superiors' and Areopagites' own arbitrary will
+> and intention. Indeed, right from the founding and establishment of their
+> Order, they formed a status in statu [a state within a state], having
+> arrogated to themselves the jus vitae et necis in omnes [the right of
+> life and death over everyone] (see the first volume of the *Original
+> Writings*, pages 88 and 98). Since they could not, and might not,
+> exercise this right openly, they were forced to use secret means and
+> bandit's methods to achieve their aims, in order to remove whatever
+> stood in their way. To this end, the superiors demanded (see again
+> volume one, pages 92 and 103) unconditional, boundless obedience from
+> their subordinates, even where the Order demanded something indecent or
+> unjust (see pp. 85 and 96).
+
+--- page 280 ---
+
+among the Areopagites; once everything has been corrected, the General
+receives it, and only then is it fully worked out, circulated once more,
+and finally put into a clean copy — though never conferred before that
+point.
+
+The whole is directed by the Areopagites, and the Areopagites by Spartacus;
+on this basis it has been agreed:
+
+1. That no changes shall be made to the system, grades, ceremonies, or
+direction from one congress to the next.
+
+2. That Spartacus and all the Areopagites bind themselves to make no more
+Areopagites without general consent.
+
+3. That the Areopagites shall, as far as possible, obtain insight and
+knowledge of the whole, and therefore
+
+4. within four weeks, have a complete personnel list for every province;
+
+5. receive quarterly reports from the General, by circular, of the more
+important developments — growth in membership, promotions,
+
+--- page 281 ---
+
+exclusions, and so on; in all other respects, however, they are not bound,
+though they are fully entitled to share news among themselves, since
+everything otherwise passes through the General, to whom all reports must
+also run precisely.
+
+Resolved at Athens, 20 Adarmeh 1151.
+
+Philo.
+Marius.
+Cato.
+Celsus.
+
+NB. These four have signed in their own hands.
+
+**III.**
+
+*Instruction for provincials.*
+
+1. Since the Order was founded with the intention of promoting true human
+
+--- page 282 ---
+
+happiness — of making virtue lovable, and vice something to be feared — of
+making the attraction to the good sensual and appealing as well, and, in
+general, of always accomplishing as much good as circumstances allow —
+this duty falls, in every province, chiefly upon the provincial, or first
+man, of that province. It follows easily, then, that a provincial must be
+one of the Order's most accomplished men. He must therefore:
+
+1. be a native of the province, and familiar with the land;
+
+2. be a man free of all other business, and devoted, as much as possible,
+entirely to the Order;
+
+3. be prudent, cautious, of the highest reputation, respected, resolute,
+active, capable, well liked, and sought after;
+
+4. be free of all reproach and blame, and enjoy a general reputation for
+insight, enlightenment, and love of mankind;
+
+--- page 283 ---
+
+5. possess integrity, disinterestedness, and a love of the general good and
+the extraordinary, all to a high degree;
+
+6. give the appearance of seeking rest, and of having withdrawn from all
+worldly business;
+
+7. be chosen from among his own consultors or secretaries, and confirmed
+by the Nationals;
+
+8. be given a stipend by the Order, proportionate to his needs, if he has
+no independent means;
+
+9. reside, wherever possible, in whatever part of his province allows him,
+as its center, to direct it most easily;
+
+10. keep his secretaries or consultors constantly around him, as far as
+possible;
+
+11. hold his office for life, barring death or removal for crimes.
+
+--- page 284 ---
+
+2. Under these provincials stand, without exception, every lesser-graded
+member of the province; he commands there absolutely, though he remains
+subordinate to his own Nationals. But within the province itself, no one
+may contradict him.
+
+All his dealings and intentions must aim at the welfare and greatness of
+the Order; and everything the Order seeks to accomplish in such a province
+is nothing more than an indispensable means toward the ends described
+above.
+
+If, as no one can doubt, these ends are beyond reproach, and not merely
+harmless but genuinely useful — even essential — to every class of
+society, then the means leading to them can be no less so: they must be
+holy and just by every standard of morality. Whatever leads to a good end
+can likewise be nothing but good. No one, then, will begrudge the Order
+its efforts to spread and strengthen itself in a country. Every
+undertaking, great or small, requires a
+
+--- page 285 ---
+
+proper number of co-workers. Expansion is therefore the provincial's first
+duty in any province. But it matters a great deal what sort of co-workers
+one has: they must possess the necessary gifts of mind and understanding,
+through instruction and formation. This formation must go so far that
+people come to love the cause itself — that they find it impossible to
+imagine preserving this purpose anywhere else, that it becomes so dear and
+precious to them that they grow willing to contribute everything they have
+to preserving the Order's purpose. From this arises attachment, and love
+for the Order. No one will get what he wants from a society if everyone
+simply does as he pleases, without at times sacrificing his own
+self-regard, and crediting older, more experienced men with greater
+insight. From this, in turn — provided he holds the superiors' commands in
+proper respect, and follows them — arises the general presumption that
+nothing commanded by a superior is without purpose. From this arises, in
+turn, the
+
+--- page 286 ---
+
+obedience and subordination so essential to every society. And finally,
+public reformers have too many opponents, enemies, and obstacles ever to
+carry out their day's work safely and calmly — hence the secret, hidden
+character of an Order.
+
+3. If a provincial, then, truly means to understand his own inner
+constitution as an Order-man, he must set his province on such a footing
+that he can, within it, undertake everything good and prevent everything
+evil, without hindrance. Blessed is the land in which the Order has
+achieved this power. Every provincial, in time, will easily bring this
+about, if he builds his structure on the following as the true ground and
+foundation of the Order:
+
+1. expansion, properly proportioned to the purposes to be carried out;
+
+2. instruction and formation;
+
+3. the members' attachment;
+
+4. the strictest subordination;
+
+5. secrecy.
+
+--- page 287 ---
+
+Where proper care is taken of these five points, nothing is impossible in
+any land under the good cause's charge — and this is exactly how every
+possible obstacle is removed. These five points are the true foundation;
+if even one is missing, everything else is in vain. The provincials cannot
+be urged too strongly to attend to them, and full instruction is given
+them on each in turn.
+
+*I. Expansion.*
+
+4. 1. The provincial shall try to bring as many people into the Order as
+he possibly can. There is strength partly in numbers — but not the whole
+of it.
+
+2. But he shall admit no one, not even to the novitiate, who stands in
+general bad repute, who is the object of the land's hatred or disgust —
+even if this reputation is unfounded.
+
+--- page 288 ---
+
+3. In admitting members, he must see that he secures:
+
+1. the knowledge-hungry,
+
+2. the capable,
+
+3. the obedient,
+
+4. the settled,
+
+5. the diligent and active,
+
+6. the good-natured,
+
+7. the economical,
+
+8. young people, who do not yet know too much, who are eager to learn
+more, and who will, in time, owe their enlightenment to the Order.
+
+4. Young people are thus the provincial's foremost object of attention;
+even where a proper number of members already exists in the province, the
+provincial must always remember that the Order places its real strength in
+the recruitment of the young.
+
+--- page 289 ---
+
+5. From there, the provincial must, in every land, pay particular
+attention to the schooling of the young and their teachers. Above all, he
+must try, wherever possible, to win such teachers over to himself, or to
+ensure that, when school posts fall vacant, they are filled with members
+of the Order. These teachers serve to:
+
+1. impart the Order's maxims imperceptibly to the young;
+
+2. shape the hearts of the young;
+
+3. prepare the most suitable and promising minds to become members of the
+Order;
+
+4. accustom them to the Order's discipline;
+
+5. earn the respect of the young.
+
+--- page 290 ---
+
+6. With the young, the Order grows, and in time fills every class and
+office in society.
+
+7. No attachment can ever grow stronger than one formed in childhood and
+one's earliest years.
+
+6. In recruiting adults, the provincial must proceed with caution — most
+attempts fail; they require special handling. Much caution, exact
+examination, and, depending on circumstances, faster promotion are called
+for.
+
+7. If the provincial wishes to introduce the Order somewhere in his
+province where it does not yet exist, he has the following options:
+
+1. to charge a bold man, stipended by the Order, with settling, or staying
+for a while, in that place;
+
+2. not to attempt initiations in too remote places, but to advance toward
+the most remote places only once the intervening ones are properly
+occupied;
+
+3. to choose for this purpose men who reside in several places at once —
+canons, merchants, and the like.
+
+--- page 291 ---
+
+4. not to advance too readily until matters are properly set in motion,
+especially in the principal location;
+
+5. to know well the man to whom he gives the task of spreading the Order —
+whether he is truly fit for it;
+
+6. to remember that Masonry will greatly ease his path to establishing
+himself firmly elsewhere;
+
+7. to recruit friends who will remain long in the place.
+
+8. In general, nothing is harder than establishing a new colony capable of
+lasting. He must consider:
+
+1. the man who is to become its warden (superior):
+
+1. his capability;
+
+2. his character;
+
+3. his zeal and attachment;
+
+4. his standing and credit;
+
+5. his capacity to train others, and instill zeal in them;
+
+--- page 292 ---
+
+6. his punctuality, seriousness, and prudence;
+
+2. the location of the colony:
+
+1. its remoteness;
+
+2. its dangerousness;
+
+3. its size;
+
+3. the means to be used for it;
+
+4. the time within which it can be achieved;
+
+5. the people who will make it up — for if the first men in a place are
+poorly chosen, all the rest will be worthless too;
+
+6. the chain of subordination — to which place, or higher superior, it
+should skillfully be subordinated, so that no disorder arises in the
+hierarchy;
+
+7. the precautions to be observed, both for the place and for its members.
+
+--- page 293 ---
+
+9. In recruiting already-grown men, the provincial should especially seek
+out, or have sought out, those in whom the ideas our purpose requires are
+already present, or can easily be awakened: people who gladly submit to
+better insight; who act from reason and deliberation; who are well beyond
+prejudice, yet still open to learning; who feel the pull of great
+intentions and designs, and are capable of thought; who feel the drive to
+become benefactors of the human race — or in whom this drive can easily,
+vividly, and durably be awakened; who eagerly seize every opportunity to
+act on it; who, with good reason, find much to criticize in the world and
+its governments, and wish things were otherwise. He should not readily
+trust the overly rich and noble, who have received nothing but the
+ordinary education of the wealthy and well-born. Since they rarely feel
+the hardships of life, they also rarely understand how much one man needs
+another. They are, therefore, seldom
+
+--- page 294 ---
+
+good society-men. But people who have not brought misfortune on themselves
+through their own imprudence, dissipation, and the like, yet who are still
+exposed to every form of malice and ill-will — these, above all, are the
+men to whom the Order should open its arms as a place of refuge.
+
+10. Once the Order has gained proper strength in a place, once the
+highest posts are filled with its members, then, should it wish, it can
+become something to be feared, dangerous to those who refuse to follow,
+letting them feel how dangerous it is to offend the Order; it can provide
+for its own people, and so on; it has nothing more to fear from the
+government in that land, which instead lies largely in its own hands —
+and then every provincial will see how easy it becomes to gain more
+members than one could ever need. Still, it remains always better to
+achieve growth and expansion through the schools. The Order cannot
+recommend this method of expansion highly enough.
+
+--- page 295 ---
+
+11. Just as the schools are essential to the Order's expansion, so, in
+Catholic lands, are the clergy's seminaries; to skillfully make the warden
+of such a seminary into an active Order member is the greatest thing a
+provincial can achieve. By this:
+
+1. the leading estate in any land is won over;
+
+2. the most powerful opponent of our good design is drawn into our
+interest as well;
+
+3. and, above all, a great many quite ordinary men are placed in the
+Order's hands.
+
+12. But clerics require double caution: they rarely hold to the middle
+path, being either far too anxious or far too free — and those too free in
+their habits of thought rarely have good morals besides. Clerics are
+forever excluded from the Order's own leadership.
+
+--- page 296 ---
+
+13. Military schools and academies, too, can be of no small interest to
+the Order.
+
+14. Every secular foundation for men, especially cathedral chapters,
+likewise deserves attention in our expansion.
+
+15. And if the provincial can gradually fill the princely offices and
+councils with zealous members of the Order, he will have done everything
+within his power — more, even, than if the prince himself belonged to the
+Order.
+
+16. Princes should be made members of the Order only in the rarest of
+cases, and, if they are, should never be promoted beyond Illuminatus
+major. They must be made to believe that all the Order's grades end there,
+and should occupy themselves only with direction. It follows naturally
+that this instruction should never fall into any prince's hands. Where
+princes have unrestricted freedom in everything, they do not follow —
