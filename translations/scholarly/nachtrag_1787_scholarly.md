@@ -1637,3 +1637,775 @@ Ecclesiam [farewell, and love one another, as Christ loved the Church].
 
 Hold off awarding the Knight grade for a short time yet, and have it
 copied out afresh — but in doing so, leave out
+
+--- page 75 ---
+
+1.) The undertaking [Revers],
+
+2.) The love-feast.
+
+3.) The gibberish, half-theosophical address composed by Philo, along with
+the explanation of the hieroglyphs.
+
+In its place you will receive, within the next few days, a very purposeful
+and important address newly composed by me. I found this change necessary,
+because this grade is plainly the most wretched of them all — it does not
+even suit the rest, it lessens all the respect people ought to feel (which
+should grow with every grade), and, as the enclosure shows, it has made M.
+Aurelius, among others, uneasy. F== and several others call it jouer la
+Religion [playing at religion], and they are right.
+
+Fac, ut haec omnia quam citissime fiant [see that all this is done as
+quickly as possible]. For my part I am working flat out, and you will find
+I have certainly not changed it for the worse. Vale.
+
+Spartacus.
+
+I ask that the enclosure be returned to me, along with Epictet's last
+letter.
+
+--- page 76 ---
+
+**15.**
+*Spartacus to Celsus. Greetings.*
+
+Now I am finally finished with the address for the Priest grade: I believe
+I have reworked it so that it is more correct, more complete, and
+incomparably more substantial than my own first draft. Our people are glad
+to accept changes for the better, all the more so since they asked for them
+themselves. And for my part I am never ashamed to improve my own work,
+least of all in an ☉ that has expressly set out to refine its system day by
+day. I am almost coming to believe, as I explain it, that this really was
+the secret teaching of Christ — to introduce freedom among the Jews by this
+very means. I believe that Freemasonry is hidden Christianity, or at least
+that my explanation of the hieroglyphs fits that idea perfectly; and in the
+way I explain Christianity, no one need be ashamed to be a Christian, for I
+keep the name and simply put reason in its place. It is no small thing, to
+compress a new religion, a constitution, and an explanation of such dark
+hieroglyphs [\*] so neatly together
+
+> \* This explanation of the hieroglyphs follows in the second part.
+
+--- page 77 ---
+
+into a single grade. — One would think that alone was the greatest
+achievement; and yet I already have, lying finished, three further grades,
+greater and incomparably more important, for the higher Mysteries. These,
+however, I am keeping to myself, and will confer them only bene meritis
+[on those who have truly earned them], Areopagite or not. It is honestly
+dispiriting that I must beg to have my own work accepted, when you have
+nothing better in any case, instead of simply being glad that I am willing
+to give it up at all. I am eager to hear what Diomedes will say to the
+Priest grade — do write and tell me, it will give me strength and good
+cheer again for a long while.
+
+Had I not already praised people so often, only to have cause to complain
+of them afterward, I would gladly praise Campanella. As I know him now, he
+is a splendid man. I will send you his inspection report shortly. Philo,
+indeed, claims to have delivered 500 people to me — but first, it is not
+nearly that many, and second, his provinces are in such confusion that I
+hardly know how to help myself. After he has quarreled with all his own
+people and lost their credit and trust, I am now somehow supposed to set
+the whole thing moving again. Philo is good at recruiting, but he has no
+patience for keeping people, and
+
+--- page 78 ---
+
+does not examine them closely — which means I will probably have to let go
+of half of them all; and, worst of all, the superiors are very partial, and
+chosen with no real knowledge of human nature. That alone gives me trouble
+and endless thought. Almost everywhere it looks like Edessa, where, even by
+Philo's own arrangement, only four men could be saved, and most of those
+had been recruited by Philo himself in the first place.
+
+Here are two more sheets of my manuscript — Marius already has the third
+and fourth. Please see that no time is lost in copying them. I received the
+two already copied in good order, and I look forward most eagerly to the
+rest. Once some of your people have obtained this grade, you will finally
+see what life it breathes into every part of the whole machine, once some
+of them can testify from their own experience how much real instruction it
+contains.
+
+I am also enclosing a letter from Epictet, so that — since Philo appeals to
+him — you can judge for yourself how little Philo really knows the man he
+is appealing to: whether it is true, as Philo claims, that Epictet preaches
+everything Philo worked into the Priest grade.
+
+Refer
+
+--- page 79 ---
+
+Numenius to me directly for correspondence — I will try to cure him of his
+theosophy, and bring him round to our purposes. I would wager on it: none
+has yet escaped me, once I set my mind to him. Is the — an Excellency?
+
+The questions the Illuminatus major answers upon his admission are kept on
+file as data about him, so that further conclusions can be drawn about his
+character later.
+
+How much can I count on Usong? Enclosed is the one sheet still not copied
+out. I remain, otherwise,
+
+Your
+Spartacus.
+
+**16.**
+*Spartacus to Celsus. Greetings.*
+
+If you were here with me, I would confer my grade on you without a moment's
+hesitation, for you deserve it — and I say this here for your lasting
+record, that of all the Areopagites, none has changed as much as you have.
+Others who knew you before have already remarked on it too, and
+
+--- page 80 ---
+
+now find you changed incomparably for the better. Keep on this way, and you
+are well on the road to becoming a great man. — But I will not let this
+grade out of my own hands; it is far too important — it is the key to
+ancient history as well as modern, to religion, and to every constitution
+in the world. I mean to arrange things so that, in order to keep the
+rebellious provinces dependent on their inspections, only three copies in
+all of Germany are ever distributed — one to each inspection.
+
+Mahomet and A== are drawing in gentler strings now, because they find
+themselves in straits, with no grades and no password. The moment they get
+those, they will be their old selves again. I no longer concern myself
+with their provinces at all; they amount to almost nothing anyway, so I can
+easily do without them — let them do as they please there. The trick they
+played on me with Philo was simply too base, too unworthy of an honest man.
+I have sent the former's provincial report back to him unopened. But as for
+appointing an inspector and new provincials, I beg you, for heaven's sake,
+do not rush into it — nothing calls for more care than this. Philo has
+already made astonishing mistakes here, and if I do not win over F==, all
+of Lower Saxony is
+
+--- page 81 ---
+
+lost to us. What need do you have of an inspector and provincials in
+Greece, so long as I am willing to see to that work myself? Let the other
+two provinces do as they like. To appoint provincials and inspectors we
+need several highly graduated men to choose from — and at present that is
+not yet true in any of the three provinces, least of all Pannonia. If I may
+wish for anything, it is that Epictet be set over Pannonia as provincial —
+then perhaps I might also take pity on Illyria. Epictet is a splendid man,
+who admits himself that it was the ☉ that first taught him to moderate his
+temper and grow wiser. A man of solid learning, refinement, and worldly
+experience. I would wish him as provincial, and — if he did not still have
+the whole Palatinate to look after at present — as head of the first
+inspection. If you put people in charge there whom I cannot approve of, I
+will withdraw entirely from the whole first inspection, and then they can
+see how they manage on their own.
+
+If my letter to F== pleased you, so much the better — it contained nothing
+but thoughts as plain as bread and milk soup. You did right to open the
+letter to Chrysippus; you have my full
+
+--- page 82 ---
+
+permission to deal with any letter I enclose to you the same way in the
+future.
+
+I hear from every quarter that the G=== Chrysippus proposed is indeed a
+skilled man, but an infamously bad one — you will find the same confirmed
+in Athens. In my last letter I ordered Chrysippus to get himself in order.
+Vale. The enclosure will show you how matters stand with the M.x.x. in
+Austria.
+
+Ephesus, 22 Benmeh.
+
+Spartacus.
+
+If Allucius comes to Athens, see to it that he learns nothing of my
+heart's affairs. What is my gracious lady doing — is she in Rome yet? Send
+me any letters on this subject always under her cover.
+
+**17.**
+*Spartacus to Cato. Greetings.*
+
+Here, at last, is something from the Priest grade to copy. Diomedes can
+copy it, but soon — I need it back within eight days, and then I will send
+the rest. It would be well if you, Celsus, and Marius read the enclosure
+first — otherwise, if Diomedes mentions it to Celsus, or
+
+--- page 83 ---
+
+is asked about it, he will know nothing. So, eight days without fail — I am
+counting on your punctuality. Then send the copy along too, for sealing.
+
+Here, too, is Lullus's Soli — you come off very well in it; the rest of us
+he has put through the wringer.
+
+The enclosed biography belongs to Thebes; it comes from a confrere of
+Placidus.
+
+It would be a shame if Celsus got his hands on the enclosure for the
+grade — no power on earth would get it out of them again, and the whole
+matter would be delayed.
+
+Do have the Illuminatus major copied, flat out. Our honor and reputation
+depend on it.
+
+Vale.
+
+**18.**
+*Spartacus to Cato. Greetings.*
+
+The local church dedication is finally over — I attended myself, and read
+a speech aloud, which Alfred will bring with him. Alfred and the rest,
+including Hutten, Anaxagoras, and Phaedon, were
+
+--- page 84 ---
+
+very pleased. But the whole town is talking about Alfred, and about the
+black coats who have been gathering at my house. Just imagine if that had
+happened at Menippus's house, or if Alfred had gone to Confucius's room
+instead!
+
+Is the Priest grade being copied yet? If only Celsus would send my essay
+back to me.
+
+Architas should, if he thinks it necessary, travel with A— to A== in
+Erzerum — that would be best, since I get no answer from him at all.
+
+You would not believe the respect and standing our Priest grade commands
+among the people. The most remarkable thing is that the great Protestant
+and Reformed theologians who belong to the ☉ actually believe that the
+religious instruction it contains holds the true and genuine spirit and
+meaning of the Christian religion. Oh, humanity — what can one not talk you
+into! I would never have believed that I should end up a new founder of a
+faith besides. [\*]
+
+Have
+
+> \* What delight Weishaupt shows here at having succeeded in deceiving so
+> many Catholics, Protestants, and Reformed believers through his
+> cleverly laid deceptions. He boasts, again and again, that his aim is to
+> undermine the Christian religion as such, and flatters himself with
+> becoming a new founder of a faith. —
+>
+> Attendite a falsis Prophetis, qui veniunt ad vos in vestimentis ovium,
+> intrinsecus autem sunt lupi rapaces. A fructibus eorum cognoscetis eos. —
+> Sunt impii — scelerati — contaminati — homicidae — fornicarii —
+> masculorum concubitores — plagiarii — mendaces — et perjuri, et siquid
+> aliud sanae doctrinae adversatur —
+>
+> [Beware of false prophets, who come to you in sheep's clothing, but
+> inwardly are ravening wolves. By their fruits you shall know them. —
+> They are the impious, the wicked, the defiled, murderers, fornicators,
+> those who lie with men, kidnappers, liars, and perjurers, and whatever
+> else is contrary to sound doctrine.]
+
+--- page 85 ---
+
+Have the goodness to send me the Knight grade too — I will seal and stamp
+it, then have it copied, and it shall be returned within fourteen days at
+the latest.
+
+One more thing: would it suit you if I were to become your brother-in-law
+one day? If it suits you — if it can happen without any harm to my
+integrity, as I have hope it can — then I hope it will happen; but say
+nothing of it for now, and allow me to open a correspondence on the matter
+with the gracious lady, to whom I commend myself most warmly. She will
+tell you more, and my whole situation, in person. But I say it once more:
+this must be handled delicately and with great care, and I would not, for
+all the world, want to become the deceiver of someone who certainly does
+not deserve it — least of all from me. Farewell, and write to me about this
+plan. I am
+
+Your
+Sp.
+
+--- page 86 ---
+
+**19.**
+*Spartacus to Celsus. Greetings.*
+
+Now, to matters of the ☉.
+
+In the present crisis the ☉ is going through, it has to show itself, one
+way or another, just how fit A== and Mahomet still are for their work — in
+all three circles they head, nothing agrees with anything else, and the
+cause is not spreading in the least. A== is too negligent, and Mahomet is
+not the man to set others on fire. Instead of being useful, they only
+hinder me in everything, and on top of that demand that I bend to their
+short-sighted views in everything. So nothing at all is lost if they take
+offense at me, and hand in their notice from the direction — I will accept
+that at once, and gladly, utiliter [to our advantage]. Things will soon
+look different once they no longer stand at the head.
+
+--- page 87 ---
+
+Philo himself has asked that Epictet be made an Areopagite; and I need
+Cronwell badly.
+
+As for the Regent grade, which I drafted once already, set your mind at
+rest. Philo has it in hand, and has made it into his own Regent grade —
+which Mahomet, too, has already been sitting on for six months, never
+releasing it, constantly castrating and altering it, even though more than
+twenty people already have it. — I am at odds with the whole world just
+now, but even that does no harm; it keeps the machine alive. And if I mean
+to attend properly to my office, I simply cannot praise faults, or
+pretend not to see them. Still, things do go well when people follow my
+lead, and nowhere does anything agree when they do not. It may be that I
+have my moods now and then, but I am still mostly not wrong — and a man
+like me, who alone carries every household, official, and ☉ worry on his
+shoulders, must be forgiven if, in a bad mood, he sometimes goes further
+than he should, as happened recently with you. This irritability has
+become almost second nature to me, since I am constantly given fresh
+material for it. Compatissez donc [have some pity, then], and remember:
+quandoque bonus dormitat Homerus [even good Homer nods now and then]. Then
+we remain good friends after all —
+
+--- page 88 ---
+
+though I always reserve the right to quarrel, when things are not going as
+they should. Inimicus causae, amicus personae [an enemy of the cause, a
+friend of the person]. — From Philo's letter I could see how nicely you
+gentlemen recommended me to him. What did you hope to gain by that? I
+should think the ☉'s own interest requires that its chiefs unite with me,
+not separate themselves from me — for, first, I have worked the hardest
+and the most at this whole affair; second, the entire plan is mine, so I
+must know best how far it can be carried out or not; third, I still hold
+the most important matters in my own hands; and fourth, even if you all
+had every essay I have ever written, I would still remain, to the ☉, an
+essential and indispensable man — without wishing to speak grandly — simply
+through my fire, my vigilance, my activity, the scope of my aims and
+outlook, my punctuality, my disinterestedness, and my knack for working on
+people. I will go so far as to say that few men are as suited to this work
+as I am. — There, I too have spoken grandly for once, and only because the
+rest of you think, and speak, so little of me. For the rest, we remain and
+will stay good friends, and you may rely on me in everything — you will
+find that even when I make mistakes, I have the skill to turn them to our
+advantage again. Now I have
+
+--- page 89 ---
+
+nothing more to say. Valeas cum uxore et filiola tua [farewell, along with
+your wife and little daughter].
+
+**20.**
+*Spartacus to Celsus. Greetings.*
+
+What am I to begin with F==? Contraria contrariis sunt curanda [opposites
+are cured by opposites]. Though you consider his case hopeless, I will
+wager you that within six weeks he will be our most zealous adherent. With
+this man I will prove, once and for all, that no one resists me so easily
+when I attack him in earnest. I will bring him to the ground, and shake his
+whole way of thinking to its foundations.
+
+I suspect Philo of working behind our backs, setting something up on his
+own — everyone else he used to write to complains that they hear nothing
+from him at all. Be on your guard with him, then; it will soon come out.
+But he will have to get up earlier than that if he means to outmaneuver me.
+
+Please return the enclosed letter from Epictet to me soon. Farewell, I am
+
+Your
+Spartacus.
+
+--- page 90 ---
+
+**21.**
+*Spartacus to Celsus. Greetings.*
+
+Now, to the rest of your letter.
+
+I can send no ☉ reports, since none have come in yet. M. Aurelius is
+extremely pleased with the Priest grade — he writes that his whole soul
+hangs on it, since it unites his holiest duties within it; he only wishes
+that certain expressions be softened.
+
+On the direction in Rome I still have nothing to report, since I hear
+nothing at all from A--.
+
+Within the ☉ there is, at present, the most dreadful crisis imaginable,
+caused by Mahomet. He has turned A-- against the Priest grade, in order to
+force his own opinion through. A-- wrote me a furious letter, accusing me
+of having deceived him, and — as he mentioned in passing — his brother too
+(who does more harm than good). The language, he claimed, was rebellious
+and so forth, and would have to be changed. To keep the peace, I promised
+him that too — that the wording would be softened, though the rest would
+stay as it is — and wrote to Philo to that effect. Here is part of his
+answer, which arrived today. You see what I have
+
+--- page 91 ---
+
+to put up with — I can hardly bear it any longer. With every small grade
+there are upheavals like this, and Mahomet is always behind them. He has
+now had this grade in hand for over six months, is forever correcting it,
+and I cannot get it back from him. I will not give in entirely, either to
+Philo or to Mahomet — I have written to the latter in the strongest terms.
+It is true, as Philo writes, that Mahomet has bungled the grade so badly
+according to his own fancy that it has become the most wretched,
+pedestrian piece of work. I have kept quiet about this upheaval, which has
+already dragged on a long time, because I keep every unpleasant matter to
+myself, so as not to rob our workers of their courage. But now I am forced
+to let others know of it too.
+
+As for the matter you know of, my prospective in-laws will make one more
+attempt. I cannot oppose it. But the whole thing is being dragged out
+needlessly, and will in the end likely come to nothing anyway. I am
+
+Your most devoted
+Spartacus.
+
+Keep this matter to yourself as much as you can; above all, do not mention
+it to Celsus yet —
+
+--- page 92 ---
+
+he can too little hide his displeasure, and our subordinates might then
+notice the disorder running through the body.
+
+**22.**
+*Spartacus to Celsus. Greetings.*
+
+The enclosure will show you that, if I am not satisfied with Philo, it is
+not without reason — I mention this in light of the prediction once made
+to Philo about me. News of our lodges [▢▢] has forced me to take the
+following steps. If I have ever asked for punctuality, it is now. I intend
+to adopt the Polish confederation — not in matters of the ☉, but purely in
+Masonry — in order to set up a system of confederated lodges [▢▢], draw
+out the best people through it, and forestall, and destroy, the Strict
+Observance. Write to Warsaw at once, then, that Athens and several other
+German lodges [▢▢] stand ready, on the following conditions, to enter into
+confederation with them and all of theirs.
+
+1.) That nothing beyond the first three grades be generally accepted.
+
+--- page 93 ---
+
+2.) That beyond this, each lodge [▢] remain free to accept whatever other
+grades it likes, and however many.
+
+3.) That each lodge [▢] remain independent of the others — at least the
+German lodges independent of the Polish ones.
+
+4.) That they be connected only through mutual correspondence and lodge
+[▢] visits.
+
+If this comes about, we will have everything we need — leave the rest to
+me to arrange.
+
+Philo has already been told to prepare the lodges [▢▢] on the Rhine and in
+Lower Saxony. Lose no time at all, for time and danger press, since the
+feast of St. John is approaching, and the confederation must be in place
+before then. The — lodge [▢] in Vienna could join as well. Have them draft
+the manifesto in Warsaw, to then circulate among the German lodges [▢▢].
+The confederation is sure to grow large. See how I make use of
+circumstances, and turn them to our advantage. The moment the answer
+arrives, send it to me at once — lose nothing of it, whatever you do. Give
+the contents to Brutus or Diomedes, and see to its dispatch. That is our
+greatest
+
+--- page 94 ---
+
+interest — to introduce an Eclectic system into Freemasonry; once we have
+that, we have what we want. But tell Warsaw nothing at all of the ☉ — that
+always helps, once the main business has been settled. Also send Philo a
+copy of the Polish documents. A good number of lodges [▢▢] would already
+have joined us, had they not been afraid of being regarded by the rest as
+clandestine lodges [Winkellogen]. Hoc cessat tali modo [this ceases, this
+way]. Under these conditions, the English lodge [▢] at Edessa is coming
+over as well, as it has already declared — it is now only a matter of
+forming a proper body of lodges [▢▢]. You need not send me the draft for
+Warsaw anymore, so that the matter can move as fast as possible — but do
+demand just as prompt an answer.
+
+Here, too, is a letter about Philo from Cronwell — further proof that I do
+not cast people off for no reason, and that, if your prediction comes
+true, it will not be without cause, nor simply because of my own
+stubbornness. Valete. Do write back soon. I am
+
+Your
+Ephesus, 11 January 1783.
+faithful Spartacus.
+
+--- page 95 ---
+
+**23.**
+
+Dearest Cato!
+
+You will have received all my letters by now. They contain little that is
+comforting, I admit, and heaven knows it pains me most deeply to have to
+write unpleasant letters to friends — but I have no other way to relieve
+the weight pressing on my soul. I still cannot write anything cheerful. For
+now I must ask only that, on your side at least, the confusion the ☉ is in
+not be made any worse in Athens. I will feel reassured on many points, and
+go about my work more courageously, if I can rely on your punctuality, and
+if your Areopagus turns back from one harmful notion in particular: the
+mania for expanding the ☉. I ask you to reject every project aimed at
+that. An ☉ whose foundation must rest on cultivated, long-tested people —
+where even the smallest imprudence can cost us our heads — simply cannot
+be spread as quickly as other societies. Nothing is more dangerous than new
+colonies, unless they are founded by a sure, extremely careful man, one
+practically raised within the ☉ himself. On this
+
+--- page 96 ---
+
+subject I will say more another time.
+
+By the next messenger you will receive a deduction by Minos, some twenty-
+odd sheets long, which you may keep in your ☉ archive. Read it carefully,
+and judge it as a lawyer would — you will find that Philo has saddled me,
+as inspector for Lower Saxony, with an arch-Rosicrucian, a mystical fool
+who is, on top of everything, in correspondence with W---, has no real
+attachment to us at all, and whose report runs all of six lines. Read it
+closely first, then judge.
+
+Fresh fire will not settle things with Philo, since I am no longer writing
+to him at all, until he comes to his own senses.
+
+What Diomedes has already copied out stays as it is — only the address of
+the Priest grade am I changing. You will find the grade becomes far more
+excellent than before. I am leaving out everything offensive, and proving
+and clarifying everything better, since Philo has spoiled it dreadfully,
+and my own understanding has grown since then. F-- has been annoyed by it
+too, and Epictet as well — everyone Philo cites in his own defense, in
+fact.
+
+This
+
+--- page 97 ---
+
+change is just as necessary for Upper and Lower Saxony as it is here at
+home. What they choose to do in Erzerum is none of my concern. One must
+never shrink from improving something, least of all when doing so secures
+us and prevents misunderstanding. If things go badly today, everyone else
+will slip free of the noose, and the blame will land on me — I will be set
+up as the author of the whole failure. I do not shrink from that either —
+in that case too, I will try to help everyone else out, and take all the
+blame on myself: then, at last, they will learn what they really had in
+me. But this much I do ask: if I should one day lose my head through our
+people's own imprudence, [\*] let me at least not be made to feel ashamed
+before the rational world — let me be able to confess to my crimes without
+shame, without having to hear reproaches of carelessness, of reckless and
+needless, abusive language — let me be able to seal my own teaching with my
+death, with full honor before every reasonable mind.
+
+> \* Weishaupt's own conscience, it seems, has more than once already
+> forced from him the admission that, on account of his godless and
+> presumptuous schemes and plots against religion and the state, he might
+> yet fall into the government's hands and lose his head.
+
+--- page 98 ---
+
+That I could not do with Philo's version of the address, though I admit my
+own first draft, too, was really too blatant — so let it be altered, and
+then I will answer for everything with my own head. I can say, if things go
+badly, that I am atoning for my own faults, and not someone else's. This
+prospect, and the peace it brings me, I hope you will not begrudge me.
+
+I wrote to Erzerum about the cahiers and the Knight's cross, and have had
+nothing back. I have advanced your prepayment out of my own pocket —
+please, I beg you, every week, to repay what I have laid out, and I cannot
+get a thing. Tell me, am I wrong to be angry? Is that what Areopagite
+precision looks like? If the ☉ went into trade and exchange business, and
+its Areopagites were this careless, what would come of it? If you cannot
+even be relied on in small things like this, preferring your own comfort
+instead — what would happen with bigger ones? What great thing can be
+accomplished with people like that? It is dreadful! And then, when I say
+all this, I am the quarrelsome, disagreeable one? What I have to put up
+with, no one knows but me — so let me say no more. — It is true, I cannot
+let a single fault pass, and must talk people out of it at once: but does
+the good of the cause not demand exactly that? Would my silence here not do
+
+--- page 99 ---
+
+obvious harm? And am I not, the moment things are set right again, good
+with everyone from the bottom of my soul? I hate not a single person — only
+the cause when it goes wrong — and am I supposed to praise and love it even
+then? If you sincerely believe that would do more good, I will do that
+too. Everything would long since have fallen apart, were it not for my
+constant vigilance. We still have few people we can truly rely on — fewer
+still who are also active and punctual, and very few of the so-called
+Persuadés — and it is only the number of these last that can keep a cause
+alive. At present everything still rests on a few screws: let five or six
+active men give way, or grow disgusted, and everything is lost. And how
+easily men like that are frightened off by Philo's reckless strokes, since
+they know him as a superior! In superiors, even the smallest faults are
+terrible failings, because people hold such a high idea of the superiors of
+an institute like ours. And then, when they see folly, nonsense, the
+height of imprudence — when they see the ☉ let it go unpunished — what, do
+you think, must follow? Must not all respect collapse? And once it has
+collapsed, who can ever bring it back? — This is exactly why I sound the
+alarm, because I foresee consequences that you gentlemen have yet to even
+imagine. — You still have not fully grasped what it means to build
+
+--- page 100 ---
+
+something resting on nothing but morals and credit: here nothing can be
+overlooked, nothing is too small, for without that attention, the whole
+thing is simply impossible. Oh, if only you could be as convinced of this
+as I feel it — you will certainly come to feel it too, but too late, and
+past any remedy. I see that scarcely a single Areopagite yet fully grasps
+my plan — you all still cling too much to its outward form, and almost none
+of you penetrates to its inner, finer logic. Still, I hope this too will
+come right, if the whole thing is not spoiled too soon.
+
+Here, again, is an insolent letter from Philo: read how grandly he talks,
+how he can defy the whole world. Not even Caesar or Alexander could manage
+that. Your letter to him has done real damage — it has confirmed him in the
+delusion that everything depends on him. I wish he really would prove it,
+and try to draw everything away from me to himself — then at least I would
+have some peace. In short, I no longer write to him; that is the best
+policy. Optimum injuriarum remedium, si non intelligantur [the best remedy
+for injuries is not to notice them]. It does no good anyway, since he is
+inflexible, and I cannot give him a kind word without his becoming even
+more reckless and insolent. Ergo tacebo [so I will be silent], especially
+since he has forbidden my correspondence with him in any case.
+
+I
+
+--- page 101 ---
+
+have again sent Marius a few sheets to copy, in the hope that you will
+repay my trust in you with trust and honesty of your own. You will find the
+alterations important and interesting. My own first draft is entirely at
+your service, as soon as I have made the use of it I need.
+
+Here is proof of the confusion that arises when, in a scattered body,
+matters do not all pass through one hand. I had the prepayment for Bury
+paid out in Edessa through Cronwell, and intend to pay him myself when he
+comes here. Now I hear that the envoy of W==== G== in Regensburg is to be
+paid from Munich. What am I to do now, if D-- has already ordered the bill
+of exchange? Now I have no idea where I stand, until D-- arrives. — It is
+dreadful. I raise this again only to show you how badly we need order,
+precision, and unity.
+
+If Perseus is any good, refer him to Professor W-- in Stuttgart, and to
+Epictet in Heidelberg, who can give him addresses in Strasbourg. But if he
+is not much good,
+
+--- page 102 ---
+
+let him travel without any addresses at all. Farewell. I am
+
+Your
+Ephesus, 28 January 1783.
+Spartacus.
+
+**24.**
+*Spartacus to Celsus.*
+
+I am keeping the one copy too, until you send me a better one. The
+division into A, B, and C comes from Mahomet, and nothing is left of the
+grade but the initiation of a Decanus, which will follow along with
+Philo's original cahier. I wish all the ceremonies — which are really
+trivial and insignificant anyway — left out, so that this grade, apart from
+the preliminary questions to be resolved, the address, and the scientific
+instruction, contains nothing further; the dress, too, should be simple —
+how much money is wasted on it! In my opinion, the priests should wear
+nothing but a small red cross on the left side of the coat, or, at most, a
+short white scapular or breast-piece reaching to the hip, worn under the
+coat, with the red cross placed on it. The Decanus can be set apart
+
+--- page 103 ---
+
+by a larger cross, or by wearing the cross alone. Philo is full of such
+trifles, which only betray how small his mind really is.
+
+I did not make the Regent grade, although almost all of it is drawn from
+my own work. It is far less important than the Priest grade, and here one
+sees just how little Philo understands the system — instead of each grade
+becoming more important as it rises, his get worse. After Illuminatus
+major comes the wretched Scottish Knight grade, entirely of his own
+making, and after the Priest grade an equally wretched Regent grade. Still,
+because it is a directing grade containing the whole of the provincial
+instruction, I am changing nothing in it, apart from a few crude maxims —
+though beyond this I have already composed four further grades, next to
+which even the Priest grade, the worst of the lot, will look like child's
+play. I am sharing these with no one yet, until I see how things develop,
+and who deserves them, nor will I let a word of them be altered by anyone
+else.
+
+I will send the Regent grade for copying as soon as you are finished with
+the Priest grade.
+
+If Philo turns back to me of his own accord, as before, and admits he was
+wrong, I
+
+--- page 104 ---
+
+will be exactly my old self with him again — but I will not seek him out
+in any way. I must prove to him that he is not essential to me; that by
+belonging to the Order, he serves not me, but humanity; that I have
+nothing from him that I could not have gained elsewhere, nor has he made me
+any the wiser; and that he has suffered no harm from his association and
+correspondence with me. One must not feed his vanity — so harmful to him
+and to us alike — precisely because he wants to be courted, he must not
+be courted, least of all by me, since he has treated me badly, though not
+as badly as A-- and Mahomet. If the good of the cause truly matters to
+him, he will come back of his own accord, and I will receive him with open
+arms; but if his obstinacy and vanity matter more to him than that, then he
+does not deserve any further concern from us, since being sought out and
+begged would only make him worse than before. Through all of this I will
+always bear him this witness: that through his recruitment of important
+men he has done great service to the ☉; but beyond that he has been of
+little use to me, has often ruined things for me, and has badly damaged
+the unity of my whole plan with his wretched insertions of minor grades. I
+have certainly given way to him for a long time now, but he is going too
+far at last.
+
+On
+
+--- page 105 ---
+
+the manner in which you correspond, I can permit it to circulate further.
+
+You shall have the reports, but I am keeping the correspondence itself,
+since it often contains things that could stir up bitterness and hatred;
+but your secret archive in the ▢ house does not strike me as a safe place
+to keep it, because, should an inquisition ever take place, that is the
+very first place to be searched.
+
+I would like to get the provincial personnel list — I should have had it
+long ago. In the other provinces everything is still in too much
+confusion for me to say exactly what will remain, and what will not.
+
+Let me read something from Hannibal too — what is Usong doing? I have
+asked about him in vain so many times already.
+
+As for the manifesto for the lodge [▢▢] association, I ask you to make
+haste, so that not a single hour is wasted needlessly. Spare and use your
+time, my friends — it is precious, and it cannot be recovered.
+
+I hope to win Epimenides back — his letters are proof enough to me that I
+have found exactly the weak point where he must give way. He has already
+all but admitted my superiority, and that alone is a great deal gained.
+There is no way he can escape me now.
+
+I
+
+--- page 106 ---
+
+am also of the opinion that, to secure your own position firmly, you
+should offer the Elector, by way of a deputation, the protectorate of the
+B== eclectic lodges [▢▢], for which Ulysses, Apollo, and other notable men,
+Celsus included, might be deputed. [\*] If he accepts it, that would mean:
+
+1. a blow against the Reformists,
+
+2. you would be safe from any persecution,
+
+3. no one would hesitate any longer to join you, or associate with you
+openly.
+
+Facite hoc & valete [do this, and farewell]. I am
+
+Your
+7 February 1783.
+Spartacus.
+
+I ask that the enclosure on Minos be returned to me. B--- could sound out
+the Elector, and Celsus, B---. This one wants to come over to us anyway,
+from what I hear.
+
+**II.**
+
+> \* How far, indeed, Weishaupt would have gone in his presumption! He
+> would even have dared to petition the sovereign authority itself for
+> protection — so that, had he succeeded, he might obtain it under the
+> pretext of a good cause, only to misuse it for his own evil designs, and
+> go on carrying out his covert intrigues in safety.
