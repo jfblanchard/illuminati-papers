@@ -7547,3 +7547,777 @@ people cannot always be conducted before the people's own assembled
 multitude. To this end, they chose wardens and representatives, who, in
 time, forgot that they had first received their commissions from the
 people, and that they served not their own interest, but
+
+--- page 341 ---
+
+that of their principals, and so claimed the right to gather under a
+foreign name. These, then, founded an aristocracy, in which the cleverer
+gradually pushed the weaker out of public business, and so slid into
+oligarchy, and, by the same path, soon afterward back into monarchy and
+despotism. In this way the whole cycle of constitutional change had run
+its course, until at last the courts, through the invention of the
+balance-of-power system among states, made revolutions harder to bring
+about, and thereby further entrenched their own right to oppress their
+subjects and treat them as they pleased. This balance-of-power system is,
+among the princes of the world, a kind of tacit convention, to preserve
+themselves, in the midst of great internal upheavals, through the jealousy
+of some and the help of others. Rebellions and popular revolutions now
+break out more rarely. Since no prince will allow another the possession
+of a kingdom that has collapsed on its own, such kingdoms survive despite
+all their weakness, and we no longer see states arise and vanish nearly as
+often as before —
+
+--- page 342 ---
+
+unless several of the stronger powers have first agreed among themselves
+to plunder and divide up the sinking realm. And kings now conduct
+themselves exactly like immoral men in the state of nature. Dissatisfied
+with what is their own, greedy for what belongs to others, they lie in
+wait for every opportunity and favorable circumstance to cheat their
+neighbors, to aggrandize themselves, to forget good faith and justice, and,
+in order to gain more, to annihilate themselves and others from the face
+of the earth. This is, in fact, the lowest depth of human corruption: to
+guarantee one another, tacitly and in turn, every injustice against one's
+own people, to favor and even wish for the general corruption of nations,
+simply to draw advantage, oneself, from another's ruin. And yet, O nature,
+O reason, how great, how undeniable are your rights! For it is precisely
+there, where everyone has conspired to ruin everyone else in turn, that
+the very poison must serve as the antidote. Because oppression is
+universally favored, oppression itself begins to collapse, and
+
+--- page 343 ---
+
+reason begins to come into its own rights, exactly where people try hardest
+to drive it out. Since each prince wants to blind the others, he himself
+must still, at the very least, see clearly, must set himself on a better
+footing in order to gain the advantage over the rest, and must favor reason
+and the sciences precisely because he wants to deny them to his rivals. For
+that, he needs capable minds and sound institutions; the enlightenment of
+the one advances the enlightenment of the other, who would otherwise fall
+behind. Kings themselves come to see that it is not good to rule over a
+mere horde; oppression begins to fade, and freedom rises up from its
+ashes. Now lawmaking begins to grow more rational, now property and
+industry flourish. Now there are fathers and children again, and
+enlightenment — first spread for the shameful purpose of satisfying the
+conquering ambitions of kings, and of oppressing others — is, through an
+unheard-of transformation, taken back again by that very same conquering
+spirit of human nature and reason. Men examine their original rights, and
+
+--- page 344 ---
+
+finally reach for the long-misunderstood means of using the opportunity to
+strengthen themselves in the meantime, so as to advance the coming
+revolution of the human spirit, to secure themselves against relapse, and
+to win an everlasting victory over their former oppressors. But this
+victory would prove far too short-lived — men would only too soon sink
+back into their former degradation — had Providence not laid the
+groundwork from the most ancient times, and offered them the most durable
+means, means that have survived down to our own day, and have served,
+quietly and surely, as the hidden springs by which the deliverance of the
+human race is one day to be brought about.
+
+These means are the secret schools of wisdom. These have, from the very
+beginning, been the archives of nature and of human rights; through them
+man will recover from his fall, princes and nations will vanish from the
+earth without violence, the human race will one day become a single
+family, and the world
+
+--- page 345 ---
+
+the dwelling-place of rational men. Morality alone will bring about these
+changes, imperceptibly. Every father of a family will one day be, as
+Abraham and the patriarchs once were, the priest and unrestricted lord of
+his own household, and reason the sole law-book of mankind.
+
+This is one of our great secrets: hear now the proofs of it, and then the
+manner in which it has come down to us.
+
+By what mad delusion, what shortsightedness, could men ever imagine that
+this world, and the human race, would always be ruled in just the way it
+has been until now? Who has fathomed nature's store, and set boundaries
+for her — she whose law is unity amid infinite variety — commanding her to
+stand still? To run the same old circle forever, endlessly repeating
+itself, or merely to shift the physical boundaries of dominion, and from
+
+--- page 346 ---
+
+monarchy, once that course is run, simply to begin the same cycle anew?
+Since when is our own inability to foresee, to look into the most distant
+future, itself a limit on nature, which never halts and never repeats
+itself? Who has condemned the best, the wisest, the most enlightened men
+to eternal servitude, and called the one predestined slave of nature — all
+too often the weakest member of an entire nation — to eternal dominion?
+That notion could only occur to a prince, or to someone ambitious enough
+to crave dominion over others just as much. Why should political
+arrangements not conform, as they always have in practice, to the actual
+capacity and receptiveness of men at any given time? Why, once the very
+ground of a form of rule has fallen away, should its unhappy consequence
+still remain standing? Why should it be impossible for the human race to
+attain the highest perfection, the capacity to govern itself? Why should
+the man who already knows how to govern himself
+
+--- page 347 ---
+
+be forever led by another? Could it, then, really be impossible for the
+human race, or at least the greater part of it, one day to come of age?
+If one man can, why not another? Treat the other exactly as you treated the
+first: show him his own true interest, teach him the great art of right
+desire, mastery over his own passions; teach him diligently, from
+childhood, how much one man needs another — that, in order to avoid being
+wronged, he too must refrain from wronging others, and that, to receive
+kindness from others, he too must be kind to them. Spread tolerance,
+forbearance, modesty, love, and goodwill among men; teach all this to him,
+make it felt through reasons, experience, and example — and then see
+whether this man still needs another to lead him. Or are most men, perhaps,
+simply too weak to grasp these simple principles, and be convinced by
+them? Oh, if so, then our happiness is lost forever! Do not trouble
+yourselves any further trying to improve and enlighten men
+
+--- page 348 ---
+
+for whom even the simplest truths of reason, confirmed daily by their own
+experience, are already incomprehensible. Why, then, did you raise them in
+a religion meant for the simplest of men, and yet one that spreads the
+very same teachings and duties that you consider, in your own eyes,
+impossible? Oh, the prejudice, the self-contradiction, in the thinking of
+man! — The kingdom of reason, the capacity to govern oneself, is supposed
+to be an impossibility, a dream, for most of mankind — and yet, on the
+other hand, this same prejudice grants it as the assured birthright of
+every king's son, of the whole ruling family, and of anyone else whom mere
+comfort and favorable circumstance have made independent of others. Are
+they, these sole favorites of fortune, meant to already possess, as a
+privilege of birth, something they so seldom display — while the rest of
+us, condemned by some fatal necessity to servitude, could never attain it
+through reason and morality at all? Is it too little regard for our own
+dignity, or sheer shortsightedness, our own
+
+--- page 349 ---
+
+inability to look into the future, a prejudice against our own kind, or a
+bias in favor of despotism, that leads us into such thoughts? Or have we
+already sunk so far beneath our own dignity that we no longer feel our
+chains, that we kiss them, and endure even the worst degradation, rather
+than dare the thought of stepping into freedom — not through rebellion and
+violently throwing off the yoke, but through the aid of reason alone?
+So, then — because it does not happen tomorrow, it will therefore never
+happen at all? Let shortsighted men conclude from this whatever they like;
+they will go on reasoning, and reasoning — while nature, inexorable toward
+such self-interested demands, continues on its majestic course,
+unhindered. Let whatever falls fall, however much some would wish it
+otherwise; everything will arrange itself again on its own, inequality
+will become equality, and after the storm will come the calm. All our
+objections, in the end, prove nothing more than that we have grown too
+accustomed
+
+--- page 350 ---
+
+to the present arrangements, and imagine we are losing something even at a
+time when we no longer have any real part in it; and perhaps we deny the
+possibility of a general independence only because its opposite happens
+to suit us better, or because we still hope, by right or by wrong, to
+become lords and masters over a herd of our fellow men ourselves. As for
+those who already are such lords, we readily admit that the eloquence of
+every orator of Greece and Rome combined would scarcely suffice to
+convince them of a truth that runs directly counter to their own wishes
+and expectations — for it takes a truly gigantic strength of soul to find
+something true even when it runs against one's own interest. Let every man
+examine himself here, and ask whether he has already reached this degree
+of enlightenment; only then will many things in the world become clearer
+to him.
+
+Let the scoffers scoff, then, and the mockers mock. Whoever has studied
+the course of nature in past ages, and compares it with the present, will
+find that it advances, unchecked,
+
+--- page 351 ---
+
+undeviating, toward its own unalterable goal. Its steps are imperceptible
+to the untrained observer, and visible only to the unbiased thinker, whose
+own labor it is to look thousands of years ahead, and to spy, from the high
+crow's-nest, distant lands that the crowd below does not even suspect
+exist. This is the unmistakable mark of the loftiest greatness of spirit. —
+Whoever, then, remains unconvinced by the reasons already given may
+acquaint himself with the following further principles, for his complete
+conviction; then, I hope, he too will see with us that distant land, and
+call it Canaan. He will find, in the history of the Jewish people, the
+history of the human race itself: happy in its first origin, under
+family rule, in patriarchal life; oppressed in Egypt, and fleeing from
+there to the promised land; wandering in the wilderness; enjoying, at
+last, happy years in possession of its own country, only to be subjugated
+again soon after — until, from its own midst, there arose the man who
+became the liberator of his people, and of the whole human
+
+--- page 352 ---
+
+race. This is, at the same time, the short picture of our own first
+dignity, our later oppression, our hopes and wishes, our failed attempts,
+and our final deliverance.
+
+Whoever wants to make men dependent on himself should awaken needs among
+them that only he can satisfy: the more frequent, lively, and pressing
+these needs become, the more dependent on him they will be; let him spread
+among them fear, ignorance, and a love of sensual pleasure.
+
+The less familiar a nation is with the comforts of life, the freer it still
+remains; the moment the peoples of the North became acquainted with the
+pleasures of the soft South, their freedom was lost as well. Soft,
+self-indulgent men are the most dependent of all. Whoever wishes to
+subjugate a free and wild nation should make it soft and voluptuous
+instead. Commerce, formed into a single system, a single hierarchical
+body,
+
+--- page 353 ---
+
+would perhaps be the most fearsome and despotic body of all; it would be
+the lawgiver of the world, and it might well decide which part of the
+world would be made free and independent, and which led into servitude —
+for to govern means to awaken needs, to foresee needs, to suppress and
+weaken needs, and to satisfy needs. Who could do all that better than
+commerce itself?
+
+Perhaps it would not be impossible, through sensible, well-aimed commercial
+policy, to give nations their morals, or to take them away. At the very
+least, the discovery of America changed the morals of Europe. Whoever can
+distribute scarcity and abundance purposefully also understands the art of
+industry, and of redirecting the inclinations of both individuals and
+whole nations. But of course this body would have to treat the
+accumulation of wealth not as its end, but merely as its means. It would
+have to master the art of not always gaining money, but of sometimes,
+quite deliberately and purposefully,
+
+--- page 354 ---
+
+losing it instead, in order to gain all the more, in some other way, on
+another front.
+
+Whoever wishes to make all men free should reduce their base needs — those
+whose satisfaction lies beyond their own power; should make them
+enlightened and courageous, and give them strict morals; should teach them
+moderation, sobriety, and the great art of desiring rationally. Whoever
+preaches moderation, frugality, and contentment with one's own station to
+mankind is far more dangerous to thrones than if he preached regicide
+itself.
+
+Whoever intends to introduce a general and lasting freedom among men
+should enlighten the greatest number of them, and teach them to be
+satisfied with little; should awaken rational, mutual needs; and should
+prevent any single person from monopolizing some necessity for himself
+alone — for otherwise the very fact that the rest lack it creates, in
+them, a new need of its own: fear of his power.
+
+Enlightening one man, in order to keep others in error, grants power, and
+introduces servitude.
+
+--- page 355 ---
+
+Enlightening one man, in order to enlighten others in turn, grants
+freedom.
+
+Whoever, then, wishes to introduce a general freedom should spread general
+enlightenment. But "enlightenment," here, does not mean mere words — it
+means knowledge of actual things, not knowledge of abstract, speculative,
+theoretical matters that puff up the mind and improve the heart not at
+all.
+
+Enlightenment means knowing what I am, what others are, what others
+demand, and what I myself demand; knowing that I am not sufficient to
+myself alone, that I am nothing without the help of my fellow men; seeing
+them as an essential part of my own happiness, seeking their approval and
+favor; knowing that I win it only through actions useful to them; knowing
+that if I do nothing for them, they in turn will do nothing for me;
+moderating my own claims; being forbearing toward the faults of others,
+tolerant of their opinions, content with my own fate; grieving at another's
+sorrow, helping him
+
+--- page 356 ---
+
+wherever I can, and rejoicing in his joys just as in my own; using my own
+surplus for the benefit of others — this alone deserves to be called
+enlightenment. Give every man these ideas and principles. How could I
+suffer, how could I perish — how is it even possible that I should go to
+ruin without any help? If you cannot grant this degree of enlightenment to
+all men at once, then begin, at least, among the better of your own number.
+Serve one another, help one another, assure one another mutually, increase
+your numbers, make yourselves independent at the very least, and leave the
+rest to time and your own descendants. Once you have strengthened
+yourselves through your own league to a certain number, you will be
+secure, and will begin to grow powerful, and formidable. You will, for
+that very reason, begin to grow formidable in the eyes of the wicked too;
+many of them, rather than be left behind, will become good of their own
+accord, and come over to your banner. Then you will be strong enough to
+bind the hands of whatever remains, to subdue them, and to smother malice
+in its very seed. The way to make enlightenment
+
+--- page 357 ---
+
+universal is not to begin with the whole world at once: begin first with
+yourself, then turn to your neighbor, and the two of you together enlighten
+a third and a fourth, who will go on spreading it further still, until
+sheer numbers and strength confer power.
+
+Whoever spreads general enlightenment, then, thereby also secures general,
+mutual security — and general enlightenment and security make princes and
+states unnecessary. Or what further use would one have for them then?
+
+If this enlightenment is itself a work of morality, then enlightenment and
+security grow in exact proportion to the growth of morality. Morality,
+then, is the art that teaches men to come of age, to be freed from
+guardianship, to enter their own manhood, and to do without princes
+altogether.
+
+Just as softness and luxury gain the upper hand, morality, true
+enlightenment, and security all decline together.
+
+--- page 358 ---
+
+Softness makes princes necessary — a device every despot has used to
+suppress national freedom; and no prince can ever drive out luxury and the
+corruption of morals without weakening his own power in the process.
+Banish luxury, and everything that comes with it, from a monarchy, and you
+turn it into a democracy.
+
+Whoever wishes to bring about revolutions should simply change a people's
+morals, making them either better or worse — and in time, either a
+republic or a despotic state will result. Every history confirms this.
+
+So if it should ever prove impossible to introduce general freedom into
+the world, it would be impossible only because morality — the simplest
+morality, built on every man's own experience — cannot be made universal.
+Oh, such a man must know nothing of the charm of virtue, nor the power of
+reason; he must himself be far behind in enlightenment, to think so little
+
+--- page 359 ---
+
+of his own nature, and of the whole of human nature; he must positively
+wish for corruption, since he believes corruption is inseparable from man
+himself. If I, or he himself, could do it, why not someone else? Let him
+simply do what the two of us have already done: men can be talked, in
+droves, into death, into every kind of religious and political fanaticism,
+into self-torment, into renouncing every joy of life — talked so
+thoroughly that they lose all peace and contentment the moment their
+opinions are taken from them — and yet the one truly rational way of
+guiding men to their own happiness is supposed to be alone subject to
+impossibility? Men are not as wicked as sour-tempered moralists describe
+them; they are wicked because we make them so, because everything around
+them drives them to it — religion, the state, their company, bad example.
+They would be good, if anyone troubled to make them so, if the interests
+of too many were not wounded by it, if everything had not conspired to
+keep men wicked, simply to preserve the power built upon their vices.
+
+--- page 360 ---
+
+Think more worthily of human nature; set to the work boldly, and fear no
+difficulty. Turn the principles above into settled opinions, and let them
+pass over into customs; and finally, make reason itself the religion of
+mankind — and the problem is solved. But do not try to change the whole
+world all at once; change first those nearest to you, and once each man
+changes his own neighbor, all will, in time, be changed.
+
+If, then, morality — morality alone — is to bring about this great
+transformation, to give man his freedom, to erect the great and glorious
+realm, the realm of the noble, and to destroy hypocrisy, vice,
+superstition, and despotism, then it becomes understandable why the Order,
+from its very lowest class upward, so strongly recommends the study of
+morals, of self-knowledge and the knowledge of others — why it permits
+every newcomer to bring in a friend of his own, to strengthen the bond and
+raise up a legion that, with still better reason than the one at Thebes,
+bears the name of the Sacred and Invincible —
+
+--- page 361 ---
+
+because here, friend standing fast at the side of friend, each fights
+shoulder to shoulder, defending the rights of humanity, of original
+freedom and independence. But the morality meant to accomplish this must
+not busy itself with hairsplitting, must not debase man or set him below
+his own dignity, must not render him careless of worldly life, must not
+forbid pleasure and the innocent joys of living, must not foster hatred of
+mankind, must not favor the self-interest of its own teachers, must not
+command persecution and intolerance, must not contradict reason, must not
+forbid the rational use of the passions, must not present idleness,
+indolence, and the squandering of goods on holy do-nothings as virtue, and
+must not drive men already tormented by other men into faint-heartedness
+and despair through fear of hell and the devil. It must place no
+impossible burden on man; rather, the yoke it lays on him must be sweet,
+and its burden light.
+
+--- page 362 ---
+
+It must instead be the so greatly misunderstood divine teaching of Jesus
+and his disciples — abused by self-interest, overlaid with so many later
+additions, and, in its true sense, propagated and handed down to us only
+in secret.
+
+Our great and unforgettable Master, Jesus of Nazareth, appeared in the
+world at a time when it lay sunk in general corruption, among a people who
+had felt the weight of servitude, from time immemorial, more keenly than
+any other, and who hoped for their promised deliverer, foretold by the
+prophets, in a land that lay at the very center of the then-known world.
+To this people he taught the doctrine of reason, and, to make it all the
+more effective, turned it into a religion, making use of the traditions
+already current among the people, and skillfully joining them to the
+prevailing popular religion and customs of the time, within which he
+concealed the inner, essential core of his own teaching. The first
+followers of his doctrine were not wise men, but simple men, chosen from
+the lowest class of the people, in order
+
+--- page 363 ---
+
+to show that his teaching was possible and comprehensible for every class
+and station of mankind — that approval of the truths of reason was no
+exclusive privilege of the great. He showed the way to salvation, through
+the observance of his commandments, not to the Jews alone, but to the
+whole human race; he lived out this teaching, in everything, through the
+most innocent of lives, and sealed and confirmed it with his own blood and
+death.
+
+These commandments, which he points to as the path to salvation, are only
+two: love of God, and love of neighbor; he demands nothing more of anyone.
+No one before him had ever taught this love of one's fellow man so
+forcefully, so appealingly, so endearingly: we are to love others as
+ourselves; as we would have others do to us, so we should do to them; and
+what we would not have them do to us, we should not do to them either. A
+single commandment that contains within it the whole of morality, and the
+whole of law. From the love a man bears his
+
+--- page 364 ---
+
+fellow men, one is to recognize infallibly that he is his disciple, and he
+proclaims this love as a new commandment: he further commands us to
+forgive our enemies, so that we too may be forgiven. And who can read,
+without the deepest feeling and emotion, the divine instruction on our own
+conduct given in Matthew, chapters 10 and 11, without the thought arising
+that a world shaped by it would be the greatest blessing mankind could
+know? When Jesus, in that same passage, says he has not come to bring
+peace, but a sword, to set son against father, and daughter against
+mother, he does not mean to sever these natural bonds, but only to temper
+the disorder and excess of such attachments: these loves must simply not
+be placed above him, above his commandments — meaning that such
+attachments, in their excess, must never be carried so far as to wrong the
+rest of mankind. And when Jesus preaches contempt for riches, he means
+rather to teach us their rational
+
+--- page 365 ---
+
+use, and to prepare us for the community of goods he himself introduced:
+we are not to make wealth our purpose, nor let it seduce us into shameful,
+loveless avarice, or into waste, but are instead to use our own surplus
+for the good of others who need it, according to the law of love.
+
+No one has ever drawn the bonds of human society back within their proper
+limits, and secured them, so completely; no one has called men to mutual
+goodwill so insistently; no one has entered so closely into the minds of
+his listeners, nor so skillfully concealed the lofty meaning of his
+teaching within reach of them; and no one, finally, has paved the way to
+freedom for mankind so surely and so gently, as our great Master, Jesus of
+Nazareth.
+
+He did, admittedly, keep this hidden meaning, and its natural
+consequence, largely concealed; for Jesus had a secret teaching, as we can
+see from more than one passage of Scripture.
+
+--- page 366 ---
+
+He spoke in parables before those whom he did not wish to grasp him
+entirely; he promises his disciples the spirit of truth, which the world
+cannot receive, for it neither sees him nor knows him — but the disciples
+know him, for he remains with them, and will be in them. And elsewhere he
+says to his disciples: "To you it is given to know the mystery of the
+kingdom of heaven; to those outside, it is not given. — Seeing, they do
+not see; and hearing, they do not hear, for they do not understand."
+
+However secretly he kept the true meaning of his teaching from the
+multitude, he nonetheless revealed it, through his words and deeds, in a
+number of places: he speaks constantly of a kingdom of the just and the
+devout, of a kingdom of his Father, whose children he and we all are — and
+since all of us, high and low alike, are children of one common Father,
+God, he wishes us to know and love one another as
+
+--- page 367 ---
+
+brothers. Through this true and heartfelt brotherly love, we become true
+sons of God, when we carry out this will of the Father. Because he did
+this fully, and to the highest degree, he alone truly knew the Father, and
+was alone his beloved, only-begotten Son. Never before had we known God
+under the sweet name of Father; never before had we been taught so clearly
+that we are brothers. Through him we learned that we all have but one Lord,
+our God, and that this Lord is a Father — we his sons, his children, his
+brothers, when we do his will. He and the Father are one, for they shared
+a single will, and his works prove that he was sent from the Father, and
+that all power was given to him. Faith alone, in him, in his Father, and
+in his commandments, makes the impossible possible; through faith,
+mountains themselves will move from their place. His kingdom suffers
+violence, for it has to do with the conquest of our own passions; those
+who have strength enough for that are the forceful, and they alone
+
+--- page 368 ---
+
+will carry it off. In this, one struggles not only with oneself, but with
+the wicked, with the corruption of the world itself. He teaches us the art
+of rational desire, instructing us to ask the Father that not our will, but
+his, be done; to regard every outcome as the Father's will, and to find
+peace even in misfortune, since it had to happen this way, according to
+the order of the world and the will of the Father. He grants the power to
+bind and to loose; he means to build a community against which hell itself
+shall not prevail; he has other sheep, not of this fold; a time will come
+when there will be one shepherd and one fold. In the resurrection, all will
+be equal, like the angels of God. He holds up children as a model, for
+the innocence of their ways, and commands us to become like them, in order
+to resemble them. Elsewhere he says: "If you abide in my word, you are
+truly my disciples, and you shall know the truth, and the
+
+--- page 369 ---
+
+truth shall make you free." — Many who are first shall be last, and the
+last, first. He could never bear that any one of his own should think
+himself greater than another. "You know," he says, "that the rulers of the
+nations lord it over them, and their great men exercise authority over
+them. It shall not be so among you; whoever among you wishes to be great
+must be your servant, and whoever wishes to be first among you must be
+your slave — just as the Son of Man came not to be served, but to serve,
+and to give his life as a ransom for many." He himself lived with his
+disciples in a community of goods, one that survived for some time after
+his death, in the church at Jerusalem. When he washed the disciples' feet,
+and Peter refused, he said to him: "If I do not wash you, you have no part
+in me. You call me Master and Lord, and you say well, for so I am. If I,
+then,
+
+--- page 370 ---
+
+your Lord and Master, have washed your feet, you also ought to wash one
+another's feet. I have given you an example, that you should do as I have
+done to you. Truly, truly, I say to you, a servant is not greater than his
+master, nor is an apostle greater than the one who sent him. If you know
+these things, blessed are you if you do them."
+
+If, then, the secret purpose of his teaching — preserved through the
+Disciplina Arcani, and still shining through in his own words and deeds —
+was to restore to men their original freedom and equality, and to open the
+path toward it, then a great many things, once obscure and seemingly
+contradictory, now become comprehensible, and in fact entirely natural. We
+now understand in what sense Jesus is the redeemer and savior of the
+world. The doctrines of original sin, of the fall of man, of rebirth, all
+become clear. We now know what the state of pure nature is, the state of
+fallen
+
+--- page 371 ---
+
+nature, and the kingdom of grace. Since man stepped out of the state of
+his own original freedom, he left the state of nature behind, and forfeited
+his own dignity — because he gave in too far to his original passions and
+drives, and could not resist his own desires and sensual appetites. Men
+living under states, then, no longer live in the state of pure nature, but
+of fallen nature. If, through moderating their passions and restricting
+their needs, they recover their original dignity, this is their
+redemption — the state of grace. They attain it by means of moral
+teaching, and the most perfect moral teaching leading there was taught by
+Jesus. Once this spread of morality — the teaching of Jesus — becomes
+universal, the kingdom of the devout and the elect will arise on earth.
+This enlightenment, once attained, will make plain to men both the misery
+of their former state, and their present happiness. They will come
+
+--- page 372 ---
+
+to see that straying from his precepts only subjects them anew. This
+enlightenment, then, this grace, will ensure that men no longer fall, and
+that this state endures. These three states are represented, in the
+hieroglyphics of our Freemasonry, by the rough, the broken, and the
+smooth stone. The first is the original state of the human race, in
+wildness. The second is the hieroglyph of fallen, degraded nature — man
+under states — and this middle stone is broken, because, in this state,
+the human race no longer forms a single family, but is divided within
+itself by differences of government, country, and religion. The moment
+this artificial division disappears, this broken stone becomes whole
+again. And so the third stone is the hieroglyph of the state of our
+race's recovered worth. The flaming star with the letter G is
+enlightenment, grace, gratia, which lights our
+
+--- page 373 ---
+
+way out of our former wanderings. Those in whom this grace is at work are
+the Enlightened, the Illuminati — a name by which, in the early Church,
+all Christians, once baptized, were called, that is, all believers.
+
+Had men remained faithful to the teaching of Jesus and his disciples, all
+of mankind would, in a short time, have attained its freedom. But this
+teaching, had it not been preserved through the Disciplina Arcani, would
+soon have been entirely forgotten. Jesus himself foretold that many false
+prophets would arise, but that his own teaching, his word, would endure
+forever; and his elect — who had come close to being led astray — will, at
+last, after many trials endured, be gathered by the angel with the trumpet
+from all four corners of the earth. Then there shall be a new earth and a
+new heaven. For most men, the true meaning was lost; they quarreled over
+matters wholly indifferent to our real happiness. Self-interested,
+
+--- page 374 ---
+
+power-hungry men mixed in their own hairsplitting distinctions, and the
+clergy proved the one class able to secure its own independence from it
+all. The very means of salvation was turned into an instrument of our
+oppression. Thus arose theocracy — priestly rule, spiritual despotism. It
+rose so high that even the thrones of princes themselves were violently
+shaken by it. This new form of power and oppression was all the more
+terrible for extending even to opinions and thoughts. Until then, men had
+at least been unable to act as they wished; now they were forbidden even
+to think as they wished. Now the teaching of Jesus became mere sophistry,
+mere self-interest; men no longer acted, they merely speculated. They
+persecuted one another over it, until it became a law of religion to wipe
+one another from the face of the earth. Until then, men had oppressed one
+another only in their own name; now impiety and despotism were to be
+driven all the way to the point of oppressing one another in the name of
+
+--- page 375 ---
+
+God himself. The one sad advantage men gained from all this was only that
+the fate of servitude now befell their own former oppressors in turn —
+and in this way the history of the human race becomes the history of
+usurpations, and of the most painful oppressions imaginable. One can
+easily imagine that the fate of the early and later followers of Jesus
+was, exactly as he had foretold, wretched and sorrowful. They now had to
+keep themselves hidden twice over. They therefore concealed themselves,
+and their teaching, beneath the cover of Freemasonry, and under these
+hieroglyphs celebrated the memory of their great Teacher, longing ardently
+for the time when they might step back into their first rights, their
+original purity, and appear before the world in full light.
+
+Under the three stones, they represented the three states of the human
+race. Hiram is our own Master, Jesus of Nazareth, slain for the good of
+the world. The name Hiram arose from the
+
+--- page 376 ---
+
+initial letters of the following words: Hic Jesus est restituens amorem
+mundi [here is Jesus, who restores love to the world]; or, as others read
+it, Hic Jesus est resurgens a mortuis [here is Jesus, rising from the
+dead]. The Rabbinic word Mac-Benac points the same way: "he has slain the
+son." Since, according to the teaching of Jesus, men attain their freedom
+through justice and goodwill, these two virtues are represented by two
+pillars bearing the letters J and B — Justitia and Benevolentia [justice
+and benevolence] — the two foundation-pillars on which the whole structure
+of human independence rests. The square, the plumb line, and the rest are
+the symbols and hieroglyphs of the rightness of our actions, by which we
+measure and determine their relation to our purpose. The nine masters who
+searched for the slain Hiram represent the first founders of the Order,
+who rekindled the love of mankind, long extinguished among men, according
+to the teaching of their own slain Master, and purified it of its dross
+and later human additions. And because Freemasonry
+
+--- page 377 ---
+
+teaches men the art of governing themselves, it is called a royal art. Sun,
+moon, and stars are the various degrees of enlightenment that keep a man
+on his path toward this very purpose.
+
+And so the purpose of true Freemasonry would be this: through active
+Christianity, through the spread of the teaching of Jesus, and through the
+enlightenment of reason, to make men capable of their own freedom; to
+unite the world, and mankind — divided by so many different institutions
+— into a single family; and to bring about the kingdom of the just and the
+virtuous. But just as no human invention, however holy and venerable, has
+ever yet escaped profanation, Freemasonry too was bound to suffer the same
+fate. Men who were already on the path of light, admitted into this holy
+fellowship, but who, before its full unfolding, strayed from so promising
+a road through their own contrary conduct, fell into the delusion that
+
+--- page 378 ---
+
+they could make use of the incomplete knowledge gathered in the outer
+courts of the sanctuary, and, under the guise of borrowed ceremonies,
+deceive other men's expectations, using them as tools of their own
+self-interest and ambition, often for thoroughly shameful ends. Since the
+foundation of their own arrangements was never laid deep enough to act
+upon a corrupted world, and since even the purpose, the secret itself,
+remained hidden from them, even as they had already raised their own
+followers' expectations sky-high, they fell, for lack of anything better,
+and in order to put off the discovery of their fraud as long as possible,
+into various expedients. They invented grade upon grade; they tried, at
+last, to stir man's natural inclination toward the marvelous, to inflame
+his imagination, to dull his reason. Men who treated others very badly
+indeed now claimed, of all things, to live in intimate communion with
+invisible beings. People spoke of inspirations, revelations, ecstasies. They
+
+--- page 379 ---
+
+swept men, already careless enough about the present, into trying to see
+into the future; they even stirred up the most harmful of all human
+inclinations — the source of insatiable extravagance, of moral corruption,
+and of the most unsociable, base avarice — the lust for gold; they dug up
+every old superstition, and left nothing untried, to spread irrationality,
+superstition, folly, and bad morals; to hinder the genuine workers; and,
+through a kind of numbing stupor, to make men insensible to their own
+misery and misfortune. Had the noble and the elect not stood, in reserve,
+against this encroaching corruption, and held up the cracking, sinking
+edifice with their own shoulders, fresh ruin would have overwhelmed the
+human race, and reason itself would have been banished from the earth by
+regents, priests, and Freemasons alike — the earth flooded, in place of men,
+with tyrants, hypocrites, murderers, phantoms, corpses, and men who were
+little more than beasts. And it is precisely because
+
+--- page 380 ---
+
+these promoters of darkness had intended our ruin that they have, in fact,
+only strengthened the legion of the elect all the more — since, by their
+own false side-doors, they have hidden all the deeper the one true
+entrance, against the curiosity, the intrusion, and the persecution of the
+unholy. It would be a great mistake to think that this is the only benefit
+our own union, and the world, draw from these bastard offshoots. Even
+where they fail to reach their goal, they still prepare the way. They
+awaken a new interest; they open new, previously unknown prospects; they
+stir the spirit of invention, and men's expectations; they make men more
+indifferent to the state's own interest, bring men of different peoples
+and religions back together under a common bond, draw away from the
+service of church and state its most capable minds and workers, bring
+together men who never knew one another before, and perhaps never would
+have; they undermine the state by this very fact, even without meaning to;
+
+--- page 381 ---
+
+they collide and grind against one another; they teach men to recognize
+the power of united strength, to discover the imperfection of their own
+existing institutions; through the very imperfection, and frequent
+exposure, of their own arrangements, they ensure that the opposition, and
+public government, place no great suspicion in them; they serve as a mask
+for a better, wiser arrangement, and put us, meanwhile, in a position to
+gather their better members — long led astray, and yearning for their true
+goal — into our own bosom and midst, once properly prepared. They weaken
+the enemy, then, even where they fail to defeat him outright, and reduce
+the number and the zeal of his fighters; they scatter his ranks, forestalling
+any concerted attack; and just as new unions grow in numbers and in
+cunning at the expense of the old, the old ones must, in time,
+inevitably collapse of themselves. Since, beyond all this, this very
+striving toward secret, better unions is rooted in our own ceaseless drive
+toward happiness, and in the
+
+--- page 382 ---
+
+shortcomings of every old institution that has gone before, and had to
+arise from it, naturally and necessarily, every effort by princes to
+block its progress is entirely in vain. This spark may smolder, covered,
+under the ashes for a long while yet; but it will, one day, certainly
+break out into bright flame — for nature grows weary of repeating this old
+game forever, and the greater the oppression and persecution become, the
+more keenly men will feel it, and seek change, and seek it with ever
+greater skill. This seed of a new world has now been sown among men; it
+has taken root, and spread too widely for any violent uprooting to prevent
+the harvest. All that can still happen is that the time of harvest be put
+off still longer. Perhaps thousands, or hundreds of thousands, of years
+will pass; but sooner or later, nature must complete her day's work, and
+raise our race to the dignity already appointed for it from the very
+beginning. We, meanwhile, conduct
+
+--- page 383 ---
+
+ourselves only as spectators and instruments of nature: we hasten no
+outcome, and permit ourselves no other means than to spread enlightenment,
+goodwill, and good morals among men; and, assured of the inevitable
+outcome, we refrain from every violent measure, and content ourselves with
+having foreseen, from so far off, the pleasure and happiness of
+posterity, and with having laid the groundwork for it through only the
+most innocent of means. We rest easy, in our own conscience, against any
+reproach that we have caused the overthrow and collapse of states and
+thrones — no more than the statesman is the cause of his own country's
+decline, simply because he foresees it, with no possibility of rescue. As
+diligent and exact observers of nature, we follow and admire her
+unstoppable, majestic course; we rejoice in our own kind, and count
+ourselves fortunate to be men, and children of God.
+
+But mark this well, and carefully: we do not force this teaching
