@@ -3346,6 +3346,8 @@ with all his strength.
 
 Cato.
 
+--- page 146 ---
+
 **2.**
 
 Dearest Areopagites!
@@ -3682,3 +3684,499 @@ good speeches — one at the Minerval assembly, and the other at the lodge
 in his diligence, is also beginning to restrain his spending, which was
 badly needed — otherwise I do not know how he would have managed in the
 long run.
+
+5. I thank you for entrusting me with the supervision of Megara, and for
+relieving me of the secretariat, which had truly become a burden amid my
+many professional
+
+--- page 160 ---
+
+duties — though I would have kept it longer, had it been asked of me. The
+Brothers of Megara are, for the most part, splendid people, of a devotion
+that knows no limits. When I arrived there in the month of Meharmeh, and
+wanted to initiate Peisistratus, he was nine hours away, Dionysius seven,
+and Hermes likewise seven hours from the place; Lysander took his horse,
+rode out to all of them, and brought them all back at once, and when I was
+at Penzing, an hour from Megara, they came to visit me daily, along with
+Democedes. — They are urgently asking that a Minerval church be opened
+there, and I see no objection to it. Should the idea meet with our
+assembly's approval, I would propose Hermes as Superior, Peisistratus as
+Censor, Democedes as Quaestor, and Dionysius as Secretary. Should
+Peisistratus and Dionysius ever be unable to attend, Democedes could stand
+in for the former, Eugenius for Democedes, and Lysander for Dionysius. I
+have ranked them by seniority in the Order, and proposed only Peisistratus
+— the youngest of them — for the censorship, because he is more of a man
+than the rest, has thought himself most deeply into the Order's system in
+his written exercises and answers, and, besides his tireless industry, has
+a particular gift for character sketches. — What I have accomplished with
+D== so far, the letters already sent in will show. We will certainly win
+him over, but it will take time, and the conquest, once made, will be a
+fine one. I will gradually send in character sketches of the Brothers
+under my supervision, and have already begun with Lysander.
+
+--- page 161 ---
+
+6. As for Numenius, whom Illuminatus Philo referred to me, I can report
+that I found him, on the first day, exactly as Philo had described him to
+me: deeply attached to the system of the lodge [▢] at Lyon, which tends
+toward theosophy, and otherwise wholly given over to religion. He
+complained, among other things, about D==, who he said had spoken too
+freely on the subject at the congress. But after he had been here a few
+days, either he changed, or else he began speaking his real opinion more
+openly — for he came to doubt the immortality of the soul, and showed a
+particular attachment to our Masonic system. — Whatever the truth of it,
+my own plain conclusion is not the most flattering to him. Why pretend to
+hold religious views, toward people who do not actually hold them, when
+no one has even asked him about it — and in a man who switches so quickly
+between Masonic... and religious systems both, is that really the conduct
+of someone acting purely on conviction? Does it not rather suggest a
+fickle spirit? — Yesterday my servant brought me word that he was a
+Rosicrucian, and meant to confer a degree on someone; I informed Celsus of
+it, but learned that it was only a theosophical degree, which he himself
+had received. I leave it to our most worthy superiors to make what use
+they think best of these remarks of mine, which I offer only out of zeal
+for the Order; it would grieve me very deeply
+
+--- page 162 ---
+
+if the Order were to suffer any blow, or any misfortune, through this man.
+
+7. The last rescript sent to me warns me to guard the Order's papers more
+carefully. I will do so — though I cannot imagine how my wife should have
+come to read such writings, or how part of an essay from a rescript should
+have ended up in a stranger's house. Either I must have forgotten the key,
+or the paper must have fallen out of my pocket; beyond that, I can account
+for nothing. Still, whatever the cause, I thank you for the warning, and
+will be more careful in future.
+
+8. I am delighted that the Brothers named from the Reform meet with the
+approval of our most worthy Order, and even more delighted that Brother
+E- has been entirely won over at my urging. He wanted to see only what was
+essential, and since joining the Minerval class, his zeal has known no
+bounds. He is utterly taken with the worth of our cause, has answered the
+questions put to him so well that they were read aloud at the public
+assembly, and is already at work on his own written exercise. I am
+convinced that once our most worthy Order comes to know this man better —
+he is thirty-six — it will certainly not regret having admitted him. He is
+
+--- page 163 ---
+
+unboundedly honest, one of the most capable councillors, and extremely
+industrious. He would long ago have risen further, had the poor opinion
+people hold of his elder brother, together with his own natural
+timidity, not held him back. I do not think I claim too much in saying
+that, among the Minervals in Athens, Thebes, Megara, and Corinth, he,
+Peisistratus, and Lysander are the men best suited to our most worthy
+Order.
+
+9. I have no complaint against anyone; I am now more than satisfied with
+Diomedes's conduct, and I have had no expenses to report either.
+
+*Diary, from the 23rd of Meharmeh to the last of Abenmeh.*
+
+On the 23rd I arrived at Penzing, where I wrote a letter to Lysander,
+asking him to summon the rest of the Brothers to Megara, and he set off at
+once with that purpose.
+
+On the 25th I reached Megara, and spoke with D==, who seemed genuinely
+moved by the questions I put to him from the general statutes; he promised
+to issue his undertaking [Revers] the next day.
+
+On the 26th his first letter arrived, which I answered briefly: that one
+never
+
+--- page 164 ---
+
+forces anyone. If he had doubts, I would resolve them; and if I could not,
+then I had superiors of my own; and if he had no real desire or trust in
+the matter, I would declare him free, asking only for his Masonic silence.
+
+On the 27th his second letter followed, to which I replied, in short, that
+far from doing him any harm, my report to our most worthy Order would
+consist of nothing more than forwarding his own letters.
+
+On the 28th I instructed Hermes to have the priest F== watched through
+Theopompus.
+
+On the 29th: Initiatio Pisistrati & Lysandri [the initiation of Peisistratus
+and Lysander].
+
+On the 30th I provisionally placed Hermes in charge of overseeing all the
+Brothers.
+
+On the 4th of Abenmeh I reported to Diomedes on my assignment.
+
+On the 5th, dispatch of the protocol of the 19th of Meharmeh.
+
+On the 6th I answered the questions belonging to the third grade.
+
+On the 7th I composed letters to the lodges [▢▢] connected with us, and to
+Erzerum.
+
+On the 8th, higher Illuminati assembly.
+
+On the 9th, Minerval assembly for the Masons.
+
+--- page 165 ---
+
+On the 15th, by order of our most worthy Order, I conferred the second
+Masonic degree on Xenophon.
+
+On the 16th, lesser, then higher, Illuminati assembly, at which the
+changes were announced.
+
+On the 17th I drew up an instruction for the Brothers at Megara, which
+Diomedes also adopted for Ephesus.
+
+On the 18th I conferred the second and third degrees on Archilogus, and
+the third Masonic degree on Architas and then Telephus, by order of our
+most worthy superiors.
+
+On the 19th I dispatched two rescripts, one to Cortez and the other to the
+Brothers in Ephesus, by order of Illuminatus Diomedes.
+
+On the 20th I composed my own character sketch.
+
+On the 21st, higher Illuminati assembly, at which I received the higher
+Illuminati grade myself.
+
+On the 25th I received a letter from Philo, together with instructions on
+how to handle Numenius.
+
+On the 28th, Minerval assembly on account of Numenius.
+
+On the 29th, lesser Illuminati assembly, at which I read out my portrayal
+of Lysander.
+
+On the 30th, higher Illuminati assembly, then lodge [▢], at which Learcus
+was admitted.
+
+--- page 166 ---
+
+*Supplement.*
+
+Our most worthy Order will have already seen, from Remus's letter, the
+state of the Minerval church at Rome. I have been charged with answering
+it, but cannot do so properly until I have that letter back, which I
+therefore request be returned promptly.
+
+Illuminatus Brutus, mppr.
+
+**VIII.**
+
+On a quarto leaf, in Zwack's handwriting, stands:
+
+Minervals report to the Magistrate; this reports to the Illuminati
+majores. There sits the Superior Magistratus, also called the Scottish
+lodge [▢]. This reports to the Illuminati dirigentes, or Scottish chapter.
+The local Illuminatus dirigens heads this chapter, and is called Prefect of
+the Chapter. He reports to the Provincial, under the name Provincial lodge
+[▢]. This reports to the
+
+--- page 167 ---
+
+National, under the name National lodge [▢]. This, in turn, reports to the
+General.
+
+After Illuminatus dirigens, one becomes a Priest. Those who work below
+this level purely in scientific matters remain simple Priests. Those
+capable of direction go on to become Consultores Provincialis, then
+Provincial, and finally Regent. Whatever the Provincial receives in
+scientific matters, he passes down to his own class; whatever falls under
+direction, he manages himself.
+
+**IX.**
+
+*Provincial reports.*
+
+**I.**
+
+*Mahomet's provincial reports from Pannonia, 1152.*
+
+**I. Morea.**
+
+A.) Olympia. 1.) Last month I sent out R.Z. (Reprochen-Zettel) [reproach-
+slips? — term uncertain, kept as printed] to Crantor and Diagoras, calling
+on them to show more diligence or else step aside, and in their Q.L. for
+this month they promise everything good. The latter has also put forward a
+Baron von 17 (R===), so I now have
+
+--- page 168 ---
+
+hope that the Order will soon make progress in Damascus too.
+
+2.) Also in Olympia, Zenon, Crantor, and Speusippus now hold regular
+sessions, and again have five students in view, to be received next
+month.
+
+3.) They are still too timid, though, to engage people under the name of
+Freemasons, and will do it instead under the guise of a learned society —
+which I have also gladly allowed.
+
+4.) Zeno is again asking for clarification on whether the institute at
+Neuwied really exists, since he wished to join a widows' fund to provide
+for his wife after his death. I do not think much of this Neuwied project
+myself, but perhaps the Order could still help Zeno get enrolled in some
+already well-established widows' fund elsewhere. In the meantime, I know
+of nothing better than to refer him to W===, so I ask for that man's Order
+name and address.
+
+5.) This society's plan follows under No. 1, and Zeno's Q.L. under No. 2.
+
+--- page 169 ---
+
+**II. Latium.**
+
+A.) Damiata. 1.) Phirro remains the active, splendid man I cannot praise
+enough. His Q.L. is enclosed under No. 3.
+
+2.) Through his efforts, the Academy is becoming, in effect, an entire
+nursery [Pflanzschule] for us. Pythagoras is superior of an assembly of
+the finest young men — but an unknown superior, since even these young men
+are led and shaped without realizing it. They are given no undertaking
+[Revers] or anything else of the kind, but are sustained purely on the
+hope that, when they depart, if they have been obedient, they will be
+welcomed into a union of the best of men.
+
+3.) Epimenides has recruited the sub-governor of the youngest Prince v.——,
+Th.=== B.==. I have, meanwhile, given Mömpelgard the code name Surentum, a
+spare name from my own province, since I believe this place, belonging as
+it does to Württemberg, will end up attached to Latium — though I request
+further instructions on this point.
+
+B.) Tybur. I am not satisfied with Archelaus. Phirro is more lenient
+toward him, and believes he simply cannot do much for the Order in his
+
+--- page 170 ---
+
+present situation. But to me it seems he simply does not seriously want
+to. Phirro now corresponds directly with Bion in Sichem.
+
+**III. Istria.**
+
+A.) Nicomedia. 1.) Critolaus came to see me, and I have promoted him to
+Illuminatus major. His joy was indescribable, and if only the man's little
+wheel did not sometimes come loose, he would be the foremost in my
+province, ahead even of Phirro.
+
+2.) Sinerius, last month's novice, has already this month recruited a
+bookkeeper, B===, and done it quite well, as Critolaus reported to me.
+
+B.) Hispalis. Claudius remains the same inactive sluggard; but Cyrus has
+produced a very fine treatise, which may perhaps catch on here. May I
+remind you of the Syndic A--.
+
+P.S. Since I do not trust our postal secretary, I must ask that the
+enclosure be delivered to Zeno by the traveling post instead.
+
+Mahomet, mppr.
+
+--- page 171 ---
+
+Imendingen, 5 July.
+
+*[header formula "Sp. f. p. d. M." — not resolved; kept as printed]*
+
+As my provincial report for Chardad, I have to note:
+
+1.) In Damiata, Phirro has imparted the three Masonic degrees, along with
+the Illuminatus minor, to Pythagoras and Hus. Next month's report will
+show what they do with it. His Q.L. is enclosed under No. 1. Since he
+takes the matter so much to heart, I have not wanted anyone else admitted
+there except through him. I await further instructions, then, as to
+whether I should nonetheless have it done through Ptolemaeus Lagus — and if
+you agree, please give Philo the order at once.
+
+2.) In Olympia I have come to know Zeno. He is no thinker at all, still
+less a searching mind. He quarrels with Jesuits and rails against abuses
+in the church, yet remains a zealous adherent of Catholicism, an enemy of
+every ceremony, which he considers useless, and an enemy of any inquiry
+into matters he believes lie beyond human understanding. He wishes never
+to be promoted further than Minerval, and to promote
+
+--- page 172 ---
+
+others himself, and he always promises to deliver upright novices. Crantor
+is a man of more curiosity, more fire. I have personally initiated him as
+a Minerval, though how little at peace he is with his own learning and his
+own mind is shown by the fact that he wished his father had never taught
+him to write. Speusippus was ill, and the rest are purely young, needy
+people, so this little nursery still stands on weak legs. Do be cautious
+in your correspondence with Zeno — he has told me he would not want to
+live under the same roof as a man who doubts the immortality of the soul,
+and that if the Order ever raised such doubts in its members, he would
+work against it exactly as he would against the Jesuits. His Q.L. is
+enclosed under No. 2.
+
+3.) Tybur still drags Fabini along with it.
+
+4.) The Brothers in Nicomedia have not yet been assigned to me.
+
+5.) From Sangarium, Machiavel has now written, and has named me the most
+notable men he has come to know in Switzerland. If Philo lights a fire
+under him, it can still come to something.
+
+--- page 173 ---
+
+6.) Orpheus from Hispalis has already been assigned to Epictet; otherwise
+this place will be entirely lost to us. His Q.L. is enclosed under No. 3.
+
+7.) Of Assur I still know nothing further. May I ask that he and
+Pherecides be set to work together.
+
+8.) In my last report I forgot to mention Parmenides, my uncle's
+secretary.
+
+9.) I am sending the Illuminatus dirigens grade, though it must first be
+copied in an Areopagite's hand.
+
+10.) On the 22nd I arrive in Erzerum, and will stay there the whole week.
+I therefore hope to see you then without fail.
+
+Your
+Mahomet.
+
+--- page 174 ---
+
+**2.**
+
+*Minos's monthly provincial report for the month of Thirmeh.*
+
+Sebaste, 7 Merdedmeh 1152, Jezdedgerd.
+
+**Dacia.**
+
+My most illustrious superiors will, I hope, graciously forgive me for
+coming somewhat late with this report. I have only just returned, after
+some days, from the still-unfinished Masons' Convent at Wilhelmsbad, from
+which nothing good is to be hoped, and on which I will report in an
+appendix to this account, as best I can without the protocols and the
+enormous mass of enclosures. Trusting firmly in your forgiveness for this
+delay, I turn now to the report on our most excellent Order.
+
+**A.) Lydia.**
+
+Sebaste. A Minerval assembly has again been held here, though the report
+of it belongs to the month of Merdedmeh. I have not spoken with Hercules
+since my last report, and so do not know how things stand with his
+
+--- page 175 ---
+
+Bückeburg post — presumably not well, since he still shows no sign of
+leaving it. Brother Chabrias has already traveled to Bonn, where he is
+taking up a post in government service. Since this moves him into another
+province, he must be handed over here. I must ask you to tell me which
+Brother I should hand him to, and at the same time send along his
+undertaking [Revers], his tables, and his initiation protocol. I must also
+ask again that he not be advanced to the second and third Masonic degrees
+until he has paid our lodge [▢] its first due. Molay has already held
+several formal Minerval assemblies, admitting the Brothers Lainetz,
+Chabrias, and Wittekind as Minervals, as shown in the enclosure under No.
+1; from now on, no one present will be admitted except formally, in full
+assembly. As soon as I return from the country to the city, the Illuminati
+assembly will likewise be set up — nothing stands in our way but W---, who
+watches us very closely, and, in a discourse directed against Molay (who
+nonetheless committed himself to nothing, and did not admit to knowing
+anything about the Order), let it be known that he in fact knows a great
+deal about the Order, and mocked the very name Illuminatus. It is greatly
+to be feared that, should any expelled Illuminati
+
+--- page 176 ---
+
+come here, he will draw them to himself, simply to fish out still more.
+Having learned, from a letter of Brother Spartacus, that an expelled
+Illuminatus named K-- would be coming here, I warned the local Brothers
+against him, and once again bound them all not to enter into dealings with
+any Brother — however he might identify himself — who has not been made
+known to them by the Superior of the local assembly. The following have
+been admitted as novices: 1.) Johann Melchior H==, who has received the
+Order name Marini, etc.; 2.) v. W--, who has received the Order name
+Carolus audax; 3.) Tessin, etc.; 4.) Doctor G--, under the Order name
+Antigonus Conator, etc., etc. Hercules is once again unhappy with Molay,
+because the latter corrected his advertisement on his behalf, and had it
+printed under his own name — in which Molay may well have been in the
+wrong. A gentle word to both of them — to Hercules, that he be more
+forgiving of the man, and to Molay, that he refrain from such unauthorized
+corrections — should keep everything in order. Finally, Hercules praises
+Brother Bentharith of Beersheba quite extraordinarily, and I place no
+distrust whatsoever in his judgment; once he has brought him into the
+Illuminatus minor, and he has first become a Mason, I will hand him over,
+since he belongs to the Peloponnesus prefecture, to Brother
+
+--- page 177 ---
+
+Gratianus, and I have no doubt that, under his direction, he will in time
+establish a Minerval church in Beersheba, where there is a well-known
+gymnasium. Hercules's further proposal, included in this enclosure, to
+establish a Minerval school for girls, deserves every consideration. [\*] I
+have long had exactly the same thought myself, and have mentioned it to
+Philo more than once. Women have too much influence over men for anyone to
+hope to improve the world without improving them as well. The only
+difficulty lies in how to begin — how will older mothers, especially those
+most wedded to their prejudices, ever allow others to take a hand in their
+daughters' education? The beginning, then, must be made with grown girls,
+and with women. Hercules proposes Ptolemy Lagus's wife for this, and I have
+no objection; I propose
+
+> \* Zwack's own proposal for establishing a women's order already appears
+> in the first volume of the *Original Writings*, pages 5 and 6. Its real
+> intention was to extort money from women for the Illuminati Order, to
+> fish certain secrets out of them, and to satisfy the appetites of the
+> Order's more lecherous brothers — and so, under the pretext of improving
+> the world, to spread this corruption generally, and pass it down to
+> children and children's children.
+
+--- page 178 ---
+
+my own four stepdaughters for it as well. They are good girls, especially
+the eldest, a very good girl of twenty-four, who reads a great deal, is
+free of every prejudice, thinks about religion exactly as I do, understands
+every kind of woman's work — household management, cooking — speaks French
+and Italian, and, in order to read the Latin authors, is now, along with
+the second daughter (going on eighteen), applying herself diligently to
+learning Latin. She draws and paints very beautifully, has gone fairly far
+in music, and has, besides all this, the gentlest and most generous
+character in the world. If every woman were like her, a Minerval school for
+girls, should one still be needed, would be easy enough to establish. The
+second daughter can do almost everything the eldest can, though her
+character is not quite so tender and gentle; her face and figure, on the
+other hand, are far more beautiful. The two youngest, fourteen and thirteen,
+are still to be shaped — the youngest has not a great deal of
+understanding, but a great deal of diligence, order, and application, and
+keeps very much to her own way in everything. My stepdaughters already know
+a good many girls their own age, and a small society could soon be formed
+under the direction of Ptolemy Lagus's wife. But they would still need
+something of their own — an order, an initiation, secrets, and the like —
+to set them in motion. This would have to be arranged thoughtfully and
+
+--- page 179 ---
+
+elegantly, in perhaps four or five degrees, with no man admitted at all;
+only Ptolemy Lagus's wife would need to discuss the matter with her
+husband, without the others knowing of it, and my own eldest stepdaughter
+with me, as the first directress. We would have to watch quietly over who
+is admitted, so that no one unworthy gets in, and would whisper to them,
+unseen, which books to read and which themes to work on.
+
+Note: having a secret all their own, kept from the men, would fire them
+up, while at the same time preventing any wildness or disorder. It should
+be a fundamental rule that no man may look behind their locked doors — and,
+in the end, this could even prevent the wisest and most proven of our
+members from catching a glimpse of certain great designs for the human
+race [?]. —
+
+But who is to compose these degrees for the ladies' Masonry [Dames
+Maçonerie]? No Brother here has the time for it. Could our most
+illustrious superiors, if the proposal meets with approval, find some
+Brother capable of the task, and charge him with it? There already exists,
+after all, a printed ladies' Masonry, and the Mopses order — these could
+well serve as a foundation, with some kind of disclosure substituted for
+the Scottish degree, and the whole thing arranged to suit feminine taste,
+while remaining at the same time
+
+--- page 180 ---
+
+morally instructive. If such newly composed degrees were sent to me, I
+would stand surety that everything would soon be established, etc., etc.
+
+**3.**
