@@ -2869,3 +2869,285 @@ eternally faithful
 Philo.
 
 **3.**
+
+--- page 126 ---
+
+Kassel, 25 February 1783.
+*(continued) to 26 March — 31st —*
+
+An entirely unforeseen event moves me to send you this letter. Read it as
+calmly and impartially as you can. I confess that, as recently as
+yesterday — before I received Your Wellborn's letter — I did not believe we
+would ever write to one another again. I am also firmly resolved to do no
+more than await your answer to these lines; and if it comes back in the
+same tone you have taken with me of late, nothing on earth will hold me
+back from giving up all fellowship with you, and severing every bond
+between us. Do not take this for an idle threat! I know you can live
+without me — but I also know that it cannot possibly sit well with you (I
+still have that much faith in you) if your own conscience tells you that
+you have wantonly cast off a man who has been your most diligent
+co-worker. What, then, do you mean when you say you could start the whole
+matter over with entirely new people? Certainly you could — but if you
+actually wanted to, you would not be the clever man I would like to think
+you are.
+
+--- page 127 ---
+
+What I have to say to you today calls for a brief review of the position
+we both find ourselves in. Let us be honest with each other.
+
+**You**
+
+have wounded me — you feel it, but will not admit it, either to yourself
+or to me, since you believe it would hurt your standing to say: I have
+wronged this man too much. So you tell yourself, and others, that it makes
+no difference to you whether I leave the ☉ or not, that I was never the
+man for so great a work anyway. And yet you know perfectly well that we
+are all human, that we all have faults, that people must be taken as they
+are, and that a man who insists on starting over every six months never
+gets anywhere. In a word, you wanted me not to turn back and perhaps found
+a connection of my own, yet you did not want me to notice that you needed
+me.
+
+**I**
+
+am past the vanity of demanding that a man of greater understanding than
+my own humble himself before me, and beg my pardon. But I do ask, on the
+other hand, that you consider the following. I am conscious of having
+acted according to my
+
+--- page 128 ---
+
+best conscience, and according to a firm plan. I challenge anyone to show
+me a single piece of imprudence on my part that would have done us real,
+irreparable harm. I have brought the noblest men into the ☉, and if, out of
+several hundred, perhaps ten have turned out to be unsuitable, then I have
+your own example before me — you entrusted five whole provinces to a man
+you yourself had only ever known as an imprudent youth. Everyone errs in
+this world. And mine deserves all the more excuse, given how great and
+unwieldy my burden has been. In short, I know I have done what I ought to
+have done. It matters little to me whether you say so to my face — what
+matters is that you see it for yourself. Our whole partnership must rest
+on unrestricted trust. If that trust disappears (and I will not, as you
+know, let myself be used as a mere instrument), then I must step down — not
+out of foolish sensitivity, but because I would then be of no further use
+to you, and I know other people who would gladly rely on me completely,
+people to whom I would not be useless. Now, to business. Were I speaking
+to you in person, I could show you that it was only since yesterday
+evening that my larger plan has truly come together. Hear me out, then.
+Ever since I gave up my provinces, I have worked without
+
+--- page 129 ---
+
+interruption, through correspondence, conversation, and sheer labor, at
+great undertakings, and for the past eight days I have held secret
+conferences here with P== E= von H== and other men. All of this together
+puts me in a position:
+
+a) to possess the whole authentic history of the origin of Freemasonry and
+Rosicrucianism, and to place it within the higher Mysteries, if you treat
+me as I believe I deserve;
+
+b) to have imparted to the ☉ natural secrets that are astonishing and
+profitable (though no miracles);
+
+c) not to merge the whole Strict Observance with us, but to make it
+subservient to us instead;
+
+d) to secure the ☉ a firm foundation, power, and money, without disturbing
+its arrangement in the slightest;
+
+e) free trade and privileges in Denmark, Holstein, and elsewhere, along
+with advances toward it;
+
+f) a powerful party against the Jesuits;
+
+g)
+
+--- page 130 ---
+
+an equally firm position against the German Rosicrucians [R†], who grow
+more dangerous to us by the day.
+
+Braunschweig, 10 March.
+
+My letter has been lying unfinished until now. The H== F=== von B== has
+summoned me here, to speak with me about various matters — more of that
+another time. Now, back to the earlier business. I repeat what I have
+already said, and here are my conditions, stated plainly, without
+circumlocution. If you trust me, the whole affair stays for now between
+the two of us: you then withdraw the slanders with which you have blackened
+a man who has not deserved it from you, before others; and from that
+moment on, for the sake of the cause, I am not only firmly bound to the ☉,
+but I promise, and guarantee, it a power you do not even suspect exists.
+
+If you do not trust me, then from that moment every connection between us
+ends — I will found a stronger league of my own instead, and — but no
+threats! Think it all over carefully.
+
+--- page 131 ---
+
+Nentershausen, 26 March.
+
+I am back here again. — Once more: if you know where your own advantage
+lies, the world is ours; if not, bear the consequences of your own
+unworthy treatment of me. — But no — I trust in your good sense. Pride and
+misunderstanding may lead you astray, but I am counting on this: that you
+feel you have wronged me — and if I see even half that feeling in you,
+then the matter shall be forgotten forever. —
+
+Fate is guiding us in wonderful ways. I see great, truly immense prospects
+opening before me. — It is up to you whether you share in them. I have, as
+yet, taken no step against you. I hope you will show yourself to me from
+so noble a side that I find cause to write to Athens: I was wrong.
+
+May I soon ask you for the new password?
+
+Accacius will ask you to procure Italian addresses for Herr M====. This
+matter is of the greatest importance to the ☉. He is a diligent researcher,
+and remarkable reports lie waiting in the Italian monasteries — this I can
+solemnly assure you. K==.
+
+On the
+
+--- page 132 ---
+
+27th, just as I was about to send off this letter, I received your order,
+forwarded to me through F==. Oh, you should not have done that! You will
+drive a man as hot-blooded as I am to the very limit — and truly, it is you
+who stand to lose by it. Consider what standing the ☉ has reached, through
+me — I may say so boldly. If I chose to lay before certain men the true
+history of its origin, your principles — genuinely dangerous to the world,
+as I have toned them down in every single booklet — who would be left
+standing? What is the Priest grade next to your own methods for good ends,
+next to the unforgivable injustices done to Wolter, Leveling, and others?
+Out of too good a heart, I have let myself be used for everything by a man
+who now treats me so shamefully. — I do not even want to think of it. Oh,
+what men are capable of! What if you yourself were a Jesuit? — I tremble at
+the thought. — But even hell itself shall not tear you out of my grasp
+then.
+
+The 31st. Do not rush to answer me. Cato will send you something that may
+perhaps bring you round to other thoughts. — Cave, ne cadas! [Take care,
+lest you fall!] I am ready to do anything in good faith. But do not drive
+me to the utmost, or I am capable of anything. Do not trust
+
+--- page 133 ---
+
+my soft heart — revenge is something I resist only with the greatest
+difficulty. —
+
+**4.**
+
+Nentershausen, the 26th.
+
+Best Cato!
+
+A five-week, urgent journey to Braunschweig has kept me from answering your
+dear and valuable letter — only yesterday did I return. I have great
+prospects now for the ☉, and this has moved me to forget every past offense
+at once, and write to Spartacus by today's post. Far from any childish
+sensitivity, my heart stands ready, this instant, to meet him halfway
+again. He need not beg my pardon, need not confess his wrong — only
+recognize it. Our whole partnership rests on mutual, unrestricted trust. If
+we do not, from the outset, consider each other equally capable in the
+most important business, then we are worth nothing to one another; and I
+know a great many people who place their whole trust in me. A subordinate
+role, taking blind orders from some Jesuit General, is simply not for me.
+It comes down, then, to Spar-
+
+--- page 134 ---
+
+tacus telling me exactly what overhasty steps I am supposed to have taken.
+If it turns out — and you, best Cato, may be the judge of this — that he
+has accused me unjustly, then I demand nothing but renewed trust. I will
+forget everything, even the rude, arrogant letter I recently received from
+him. And once I have won his full trust again, I can then make a great
+discovery known to him. If not, I withdraw entirely, and work for myself
+alone — but the matter is urgent. I beg you most earnestly to press him for
+a speedy answer.
+
+One more word about Spartacus's complaints. Which superiors, exactly, have
+I appointed so imprudently? Campanella is the very model of an honest,
+careful, punctual man, of considerable age and standing, who lends us real
+weight. Averroes and his assistants are refined, zealous, active, and
+good-natured. Minos is too hotheaded, but of great use to us — he simply
+needs to be kept on a short leash. Cleanthes is widely liked and esteemed;
+no great genius, but careful, orderly, obedient. Roscius is only a comic
+figure, but if only we had many more like him — his good heart and fine
+mind earn him everyone's love besides. Epictet is the very model of a
+disinterested, active man. Epimenides clings to his enthusiasms, but for
+all that
+
+--- page 135 ---
+
+he works for us zealously and honestly — let time take care of the rest.
+Simonides is the picture of an excellent man. And so many others I could
+name. And if one among them could, in fact, be better, consider that I
+could no longer bear this whole burden alone, and that I know ways enough
+to render such men harmless again, should that ever prove necessary.
+
+Here is the letter to Alfred you asked for, along with the copy.
+
+I sent the essay to Schlözer today. I doubt, though — since it is full of
+personal remarks — that he will print it unaltered. Still, I will try it in
+more places.
+
+In Poland I know no one, but I do have contacts in Courland.
+
+I have sent Spartacus an important letter from Vienna.
+
+All of you, my best of brothers, embraced in thought by
+
+Your
+eternally faithful
+Philo.
+
+I still do not have the new password.
+
+--- page 136 ---
+
+I repeat my long-standing request for silhouettes of all the Areopagites. I
+already have Spartacus, A==, Mahomet, and Alcibiades — please help me get
+the rest soon. I will remain here now until the end of April.
+
+The 27th. Just as I am about to close this letter, I receive, through one
+of my own former subordinates, a most insulting order of conduct from
+Spartacus. Does the man truly want me for an enemy? Then he shall have one
+such as he has never had before. Minos's reckless zeal against the Strict
+Observance is to blame for all of this. — O God, let no one force me to act
+against my own principles, in an ☉ we built together, by letting my own
+people hand me such Jesuitical orders! My heart still struggles against it.
+Only out of friendship — out of tender, heartfelt love and friendship
+toward you, my most beloved brothers — will I still refrain from speaking
+out publicly against anyone. But if Spartacus does not set everything right
+between today and the 26th of April,
+
+--- page 137 ---
+
+then I answer for nothing further. I am capable of destroying everything —
+of making Areopagites by the dozen, of tearing down the whole system. —
+Oh, hold me back from doing what I am loath to do — I am beginning to
+suspect —
+
+Might Spartacus himself be a masked Jesuit? Then I am the man who can
+strike him down. — God, what a man! — Where do his unbridled passions lead
+him? Had I ever believed him capable of such base and ungrateful conduct! —
+And am I to work for humanity under his banner, bring it under the yoke of
+so stubborn a head? — Never! Better to have done nothing at all, and to see
+everything undone! — Once more: I will wait four weeks, and if by then
+everything has not been put on an entirely different footing, then I must
+do what any of you would do, in my place.
+
+**III.**
+
+Two Letters from Epictet.
+
+**1.**
+*Epictet to Spartacus. Greetings.* [Latin header: "Spartaco S. d. p.
+Epictetus."]
+
+I am most fraternally obliged for the news you sent on the 8th of March.
+Whatever people may say, Athens is truly where the brood sits that hatches
+every mischief — and even where it cannot reach as far as it would like, it
+still leaves nothing wanting in plan or intention.
