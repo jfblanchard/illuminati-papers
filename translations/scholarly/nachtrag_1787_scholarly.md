@@ -6704,3 +6704,331 @@ major. They must be made to believe that all the Order's grades end there,
 and should occupy themselves only with direction. It follows naturally
 that this instruction should never fall into any prince's hands. Where
 princes have unrestricted freedom in everything, they do not follow —
+
+--- page 297 ---
+
+they exploit even our best intentions to their own advantage instead.
+
+17. Printing presses and bookshops, too, are of no small interest to the
+Order.
+
+18. In general, the provincial may recruit anyone:
+
+1. who can be shaped;
+
+2. who brings the Order some use and strength;
+
+3. who does it no shame or humiliation;
+
+4. who exposes neither himself nor his people to danger;
+
+5. and, in general, every man who lives not for himself alone, but for the
+world and for the human race, and who sets himself above every narrower
+allegiance, is a born member and favorite of the Order.
+
+--- page 298 ---
+
+Now to II.
+
+*Instruction and formation of the members.*
+
+5. What use is a multitude of people to the Order, if they are all so
+unlike one another? All these people must be cleansed of their —, and
+reshaped into noble, worthy, great men. This is the hardest and heaviest
+work of all. The Order is concerned far less with numbers than with the
+quality of its workers. To this end:
+
+1. from the very first entry into the Order, every man's soul shall be
+widened, made receptive and responsive to great designs. He should be
+given lofty, worthy ideas right from the start. The whole thing should be
+presented to him as great, important, and astonishing, without yet
+entering into particulars — it being understood, of course, that the
+receiver's own conduct must never give the candidate reason to expect the
+opposite.
+
+--- page 299 ---
+
+2. The Instructio pro recipientibus [instruction for receivers], contained
+in the Minerval statutes, forms the basis for this, and the newly admitted
+member is led according to it:
+
+1. not all at once;
+
+2. gradually, so that through pauses for reflection, the image impresses
+itself more deeply on his soul;
+
+3. the candidate must ask questions, and not merely be asked them.
+
+3. The idea of greatness is conveyed to him:
+
+1. through the greatness of the purpose, as set out in the general
+statutes;
+
+2. through the effort devoted to shaping his heart;
+
+3. through the prudence and caution with which the whole matter proceeds;
+
+4. through the effort it costs simply to reach the lowest rank;
+
+--- page 300 ---
+
+5. through a description of the privileges that even the least faithful
+member enjoys above everyone outside the Order;
+
+6. through a description of the appeal of hidden power;
+
+7. through the strength a candidate gains this way;
+
+8. through the insights one promises to secure for him;
+
+9. through the acquaintances he will, in time, form with the noblest of
+men;
+
+10. through the security he will enjoy, should he submit in everything;
+
+11. through the opportunities for action he will find here, and nowhere
+else;
+
+12. through the order and punctuality he observes here;
+
+13. through the respect, reverence, and awe with which the receiver always
+speaks of the Order;
+
+--- page 301 ---
+
+14. through the standing and eloquence of the receiver himself.
+
+4. The provincial must therefore instruct his subordinates in these
+nineteen points through his own subalterns, and see that he himself is
+well practiced in them too.
+
+5. But it is not enough merely to kindle this fire — it must also be kept
+alive from time to time, namely:
+
+1. through reading books that awaken the desire to improve oneself, to
+distinguish oneself, to become great — books in which virtue appears
+lovable, and vice abominable. For Germany, these include, among others:
+
+1. Abbt, *On Merit.*
+
+2. Hirschfeld, *On the Great Man.*
+
+3. Seneca.
+
+4. Epictetus.
+
+5. Antoninus.
+
+6. The works of Wieland.
+
+7. The essays of Montaigne.
+
+--- page 302 ---
+
+8. The works of Basedow, and other moral, soul-elevating books besides.
+
+2. The provincial must, from time to time, have his middle superiors
+report how much use each candidate has drawn from this reading.
+
+3. Once young people reach the Minerval class, it would be well to have
+them instructed in morals — in the doctrine of pleasure and displeasure,
+of good and evil — by a special person with enough lively delivery and
+eloquence, using a reading-book designed specifically for this purpose.
+
+4. Better still is to provide practical exercises, giving people the
+opportunity to show the fruits of their instruction through actual deeds.
+
+5. Before promoting anyone to a further grade, test and examine him on
+these various books, and keep him in the lower classes
+
+--- page 303 ---
+
+until he has become what one wishes him to be.
+
+6. In nothing must the provincial be more careful than in having himself
+informed, month by month, through a special table submitted by the middle
+superiors, of each novice's and Minerval's diligence, morals, and
+progress — no class needs closer supervision than this first one, where
+the ground itself is being laid.
+
+7. The candidates and Minervals shall also complete monthly assignments —
+not theoretical or scientific ones, but tasks that bear on the will, on
+the improvement of character, and on social bonds, so that:
+
+1. the people have something to occupy them;
+
+2. one obtains proof of their capability and insight;
+
+3. they grow accustomed, through diligence, to order;
+
+--- page 304 ---
+
+4. they are compelled to think their way into various situations.
+
+8. Promotion follows, sooner or later, according to the quantity and
+quality of this work. No one, in the whole province, may be promoted
+without the provincial's permission.
+
+9. With men of rank and fortune, the provincial should look not so much to
+their money as to their pliability and skill. Likewise, in matters of
+promotion, neither money nor birth should carry any weight — nobility of
+spirit and heart are the only things that matter here.
+
+10. The provincial must attend to the heart as well as the understanding of
+every member, in every class, but especially of novices and Minervals. The
+heart, however, is the foundation of everything. The Order would rather
+tolerate a crowd of fools and simpletons than a single villain. For this
+reason:
+
+--- page 305 ---
+
+1. no envy, pride, or contempt shall be tolerated;
+
+2. general benevolence shall be fostered;
+
+3. people shall be urged toward good deeds; those who have performed them
+shall be publicly praised, rewarded, and honored in the assemblies;
+
+4. in the Minerval assembly, good actions — — — shall be praised, even
+when not performed by members of the Order; in short,
+
+5. everyone shall see that justice is done here to every merit, even merit
+the world fails to recognize. Every good man shall find here a kind of
+canonization, and on this point the provincial should stir up a healthy
+rivalry among his people.
+
+11. All who are, on the other hand, convicted of some bad action shall be
+suspended from the Order, prudently, or excluded entirely. If they are
+novices or Minervals,
+
+--- page 306 ---
+
+the provincial may exclude them privately, on his own authority. But if
+they hold a higher grade, a more thorough inquiry becomes necessary.
+
+12. People should especially be trained to picture every moral lesson in
+sensory terms, through one or more images; the Order therefore holds poets,
+fables, and even sensible novels in particular favor — and anyone charged
+with instructing others should make himself especially familiar with
+images and examples, so as to give his teaching the liveliness it needs.
+
+13. Those who instruct should always reassure their young charges, both
+thoroughly and vividly, of their genuine interest in them — and from this
+arises
+
+*III. Attachment.*
+
+6. This, too, is brought about in members especially:
+
+--- page 307 ---
+
+1. when people are convinced of the goodness of the Order, and the purity
+of its intentions;
+
+2. likewise when they are certain of its importance;
+
+3. through the integrity of its members;
+
+4. through the dignity and excellence of its institutions;
+
+5. through the benefit of its instruction, and the protection one
+experiences within it;
+
+6. through a greatness glimpsed from a distance;
+
+7. through the ever-increasing goodness of one's own moral character;
+
+8. above all, however, through the inseparability of one's own interest
+from the Order's interest — one's fortune bound up with it, one's
+misfortune lying outside it, and so forth.
+
+> This is as far as this document, as found among the papers, goes.
+
+--- page 308 ---
+
+**IV.**
+
+*Address to the newly admitted Illuminati dirigentes.*
+
+*In Spartacus's handwriting.*
+
+After this careful preparation and examination, the hour of their reward
+now draws near. They have learned to know themselves and others; they are
+what they are meant to be, what we expect of them. — Now their turn comes
+too, to lead others; what they have known until now, and what they shall
+still experience this very hour, gives them a superiority of insight over
+other, weaker men — and it is exactly this superiority that is the one
+true source of any man's power over other men. — The darkness lifts, the
+day of light breaks in, the first gate of the sanctuary opens before them.
+A part of our secrets will now unfold to them. — Shut
+
+--- page 309 ---
+
+the gates of the sanctuary to the uninitiated. I speak now to the
+illustrious, the holy, the chosen. I speak to those who have ears to
+hear, a tongue to keep silent, and an understanding purified and
+enlightened enough to comprehend. — —
+
+In this assembly of the illustrious, they enter today, in person, into the
+class of the Order's elite — into the class of those who hold no small
+share in governing the Order itself. But do they truly know what it
+means to rule — to rule within a secret society? Not over some lesser or
+even noble rabble, but to rule over the best of men, men of every class,
+nation, and religion, uniting them durably without any external
+compulsion; to breathe into them one and the same spirit and soul; to rule
+over men scattered across every part of the world, at the greatest
+possible distance, in the greatest possible silence, with the greatest
+possible speed and precision — this is a task that statecraft itself has
+never yet solved.
+
+--- page 310 ---
+
+To join distinction and equality, despotism and freedom, in the closest
+possible union; to create one's own realm and one's own subjects from
+nothing; to prevent every betrayal, and the inevitable persecutions that
+follow from it; to build something out of nothing; to stem the corruption
+that is everywhere encroaching; to spread blessing and delight along every
+path — this is the masterpiece of politics joined to morality. To
+accomplish it, civil constitutions offer us few usable rules that can be
+applied here as well. The motives used, in both cases, to set men in
+motion, are themselves quite different. There, men are moved to act out of
+fear and compulsion; here, among us, every man must move himself. Hope,
+foreseen and reasonable advantage, expectation, reason, and morality must
+give them their true direction. Here we meet obstacles peculiar to
+institutions of exactly this kind, obstacles never encountered at all in
+ordinary civil society. These are precisely the obstacles
+
+--- page 311 ---
+
+that make the most rational course infinitely harder, and force us into
+detours.
+
+Our members live scattered across various jealous and suspicious
+governments; they have grown up under them, draw their livelihood from
+them, their every hope and fear from them — and for the sake of that
+livelihood, give and dedicate to those very governments all their
+strength and energy. They are already, elsewhere, overburdened men, whom
+we cannot even instruct in one common place, under common supervision,
+with the usual means of enforcement; men who live in the midst of
+corruption, and are only too easily swept along by it, where bad example
+is so common, and seduction so easy, and can undo in an instant the work
+of years; men whom we cannot, unlike the religious orders, simply
+transfer at will from place to place — these are the men who make up the
+foundation of our co-workers, and who make the work infinitely harder. —
+How, then, are we to manage with men, most of whom
+
+--- page 312 ---
+
+have no means of their own, and in fact expect help from us, while the
+wiser remainder has been too often burned by deceit to dare spend its
+money again on a society whose ultimate purpose has not yet even been laid
+before it, and whose useful, rational, purposeful use of such generosity
+remains unproven? How, I ask, are we to draw from such members the funds
+essential to any body — to maintain a correspondence and a network
+stretching across the entire world, to help the deserving needy, to
+support those who have come to grief through their own honesty and zeal
+for our just cause, for the Order itself; to advance great institutions
+useful to mankind; to found endowments useful to the Order; to properly
+reward members who give up every civil office to devote themselves to the
+Order; to support the widows and children of members without means — and
+so place every member
