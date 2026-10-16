@@ -3151,3 +3151,534 @@ I am most fraternally obliged for the news you sent on the 8th of March.
 Whatever people may say, Athens is truly where the brood sits that hatches
 every mischief — and even where it cannot reach as far as it would like, it
 still leaves nothing wanting in plan or intention.
+
+--- page 138 ---
+
+The order for the Special Inquisition came from Athens, and reached the
+local government here; but since the matter is somewhat delicate and would
+cause a great deal of noise, the government is reluctant to take it up,
+and looks for every kind of pretext to delay. It asked the minister to
+review my own writing pro avertenda speciali Inquisitione [for averting a
+special inquisition], and received an answer, dated the 2nd of March, that
+he is setting the matter aside and will request the duplicate from me — and
+that is where things stand here for now. The better forewarned our most
+worthy brothers in Athens are, the better for me, and for the good cause.
+I am most deeply touched by this fraternal concern, and heartily grateful
+for every precaution taken on my behalf. Since I have already submitted my
+writing here, I am holding myself quiet and passive for the time being;
+but if I am formally summoned before a Special Inquisition, I am firmly
+resolved to appear, and to dictate into the record, freely, as a man and a
+patriot, a few truths of no small weight. I know this is exactly what they
+fear, and it is exactly with this that I shall honestly repay their
+baseless investigation. Rest assured, noble patron, that I will combine
+this frankness with the greatest possible prudence, and will do honor both
+to truth
+
+--- page 139 ---
+
+and freedom, and to the ☉. — Our Minerval work is all in order, yields
+visible benefit, gives me real joy, and draws the brothers' souls closer
+together. Farewell, excellent friend, and go on loving
+
+Your Wellborn's
+most devoted servant and brother of the ☉,
+Epictet.
+Utica, 13 Asphandar 1151.
+
+**2.**
+
+1 January 1783.
+
+Heartily beloved Philo!
+
+If your ears have not been burning these past several evenings, it is no
+fault of ours — even the Hessian air itself must have thrown up some
+barrier around your sensitive ears, which are otherwise so open to
+everything. Tacitus is with us, and will soon travel as tutor to Cologne;
+he has handed his vicarage over to Plinius's brother, and ever since,
+Raphael, Diodor, Plinius, and all the rest of us have remembered you a
+thousand times, in a thousand different situations. Yesterday was Mama's
+birthday,
+
+--- page 140 ---
+
+but whoever offered congratulations did not quite manage it for us — we
+were nowhere near as glad and cheerful about it as you have so often made
+us on my wife's name-day. Yesterday I told Tacitus how quietly the whole
+uproar about the "fourth part" and so on has finally settled down here. Six
+weeks ago, in front of others at his own house, I told Regierungsrath F=
+exactly how wretched, unseemly, and almost underhanded it had been to plot
+against an honest man in a public setting — how that day of disgrace
+insulted the whole society, how that assembly slighted me, their host, and
+how the manner of it dishonored the society itself — and that you, of all
+people, might one day hold the fortune or misfortune of the whole people in
+your hands. Men and knights sought him out at the house, and asked him,
+"Brother, how did you mean to be understood by this? We knew nothing of
+such a thoughtless way of going about things," and so on. The speech had
+its effect, and from that hour on, not another soul spoke another word
+about the whole corpus delicti. Yesterday Raphael told us how C== let it
+slip that you might one day become minister at the court of Zweibrücken.
+I know perfectly well where that notion came from, and it gave us no end of
+joy. We can easily hear this, and accept it, with one "but" attached: if
+you should ever want to accept office again — which is doubtful.
+
+Yesterday,
+
+--- page 141 ---
+
+Raphael spent a long while with young W==, holding up quite a mirror to
+him, and there too were fresh delights. So we closed out our old year with
+a modest brotherly supper, in constant remembrance of you, my best of
+friends — splendidly, with laughter and joy — and how heartily we will
+rejoice when we learn that you and your beloved, noble friends have
+entered the new year just as joyfully. May God keep you strong in health,
+and preserve you for the comfort and joy of many good men on this earth!
+Our wishes for you, your wife, and your dear little daughter are always
+the same — always sincere and warm, and always sharing in whatever brings
+you joy.
+
+The enclosure arrived today.
+
+Asmodaeus, Asmodaeus must be playing tricks on you — always and everywhere
+playing tricks — if you still have not received your trunk and your wine.
+However you look at it, this shipment's slowness has cost you dearly, and
+been a real vexation.
+
+I only heard back from Türkheim yesterday — a council seat is to be filled
+there, and I am told whom I must apply to. For that I must turn to a
+Türkheim government councillor, L==,
+
+who
+
+--- page 142 ---
+
+is currently staying in Vienna, and I will do so tomorrow.
+
+Councillor M== A== Diodor, Raphael, Plinius, and Tacitus all wish you so
+much pleasure for the new year that you would have to buckle under the
+weight of it. Lisetchen and Mama send you their most tender regards, as do
+we all, and I remain forever
+
+Your
+most devoted
+Epictet.
+
+**IV.**
+
+Two Letters from Hannibal.
+
+**1.**
+
+Dearest Areopagites!
+
+Now that our affairs have, thanks to dear Brother Philo, finally been set
+in order, I have taken up my apostolic office in earnest, and can already,
+after my very first steps, show you the most splendid prospects. Here in
+Samos there is in fact
+
+--- page 143 ---
+
+a lodge [▢] of about fifty brothers, M.x.x.x., among whom there are quite a
+few worthy men; and in the Tyrol and in the Trentino, one meets M.x.x. in
+every notable place. The 7th (F=), as well as the 19th (T==), is M.x.x.,
+and so are several other gentlemen from those parts. Here, Count the 3rd
+(K===) and others serve as Master of the Chair. I have also come to know
+every other officer, and many brothers besides, but it would take too long
+to describe the whole personnel here. They, too, have held the Constitution
+from Berlin for two years now, but no longer want to send anything to
+Berlin, on the pretext of the imperial prohibition against orders in the
+Austrian lands sending money abroad. Here they have only the first three
+grades, but the Master of the Chair mentioned above received the Scottish
+grades in Sweden, from Zinnendorf, and has spoken with me a great deal
+about Masonry, since he has been at it some thirty years now. He has also
+spoken about the Illuminati, and since I raised the subject and showed a
+strong desire to get to the bottom of the matter — assuming there must be
+something real behind it — he told me: their whole affair comes down to
+nothing but morals. — has not yet become M.x., but there is hope that, now
+that the R — G — in — has been admitted, he too will wish to join this
+society. This would now be the finest
+
+--- page 144 ---
+
+possible moment for Brother A== in Vienna to do something truly great —
+indeed, the greatest thing of all. There are said to be over four hundred
+M.x. there; the experienced Masons are presently drifting among every kind
+of system, searching for light — give the more worthy of them only the
+smallest hint, and they will come running after you with the most burning
+desire and glowing heart. I, too, have looked around here for a few more
+worthy men, deserving to see the true light, and well placed to help spread
+it wisely: there is the 6th (G=), the 17th (T=), an imperial chamberlain
+and government councillor, an upright man. The second is the 15th
+(Professor S==), Spartacus's future brother-in-law. The third is the 18th
+(Sch=), Captain P===. The first has today handed me his undertaking
+[Revers], and I will take care of the other two tomorrow. This is certainly
+an excellent acquisition, and I hope, within two years, to have
+established various temples of wisdom throughout this whole region. I
+would only wish that, in Rome, through A==, good planting be done, since
+the people here would all rather take their light from there than from
+Athens. The 18th (Pilati) has already gone to Rome, but will return next
+Pharavardin. If I win him as a fellow worker, you will see how Latium, in
+giant strides, approaches its former golden age. I need
+
+--- page 145 ---
+
+Diomedes too. Since we clearly have the most splendid prospects for a wide
+expansion, Spartacus really must think about a proper, unified geography,
+and a consistent system for assigning names, so that no confusion results.
+Cato will see that this letter reaches the hands of every Areopagite. From
+time to time I will send further reports of my progress to the Areopagites
+as a body — though it would be a very good thing if a special Areopagite
+cipher were introduced, one that could not be broken. I am also waiting for
+the new password and watchword for the coming year. If I receive it in
+time, please send it to me soon, since my letters reach me very late.
+Farewell, I embrace you all, and am
+
+Your
+Hannibal.
+Samos, 14 Dimeh 1182 Jezdedgerd. [date inconsistent with the 1151-1153
+years used elsewhere in the document; see the translation-context file]
+
+*In Cato's hand, added below:*
+
+Yes! A== would be exactly the man to reform the world with our system, and
+now that he has the opportunity, he will certainly try to carry it through
+with all his strength.
+
+Cato.
+
+**2.**
+
+Dearest Areopagites!
+
+After my last letter, and still before leaving Samos, I gained even more
+splendid prospects. My dearest brothers, you cannot imagine how the finest
+people came running after me — had I been able to stay longer, I would
+have opened a Minerval church on the spot, which every one of the lodge's
+[▢] best men would certainly have attended. Only last night I made a
+splendid acquisition: Herr von 6 (G==), K. K. 12, etc., an archivist, a
+man full of warmth for our good cause. I have further learned that — — is
+not yet M.x., but there had been some hope that he would follow suit, now
+that the G— of R— wished to be admitted at Rome. Until now he has promised
+the ☉ only tolerance, not protection. Now is the greatest possible moment
+for A== to venture boldly into the matter in Rome. The lodge [▢] at Samos
+holds its Constitution from Berlin, through Zinnendorf, but only the first
+three grades, with a standing promise to send the rest afterward — a
+promise that has always gone unfulfilled. The Master of the Chair received
+the Scottish grades in person, in Swe-
+
+--- page 147 ---
+
+den, but could never obtain a written copy of them. From there I traveled
+on to Milan. There I thought it best to approach the strongest and most
+eminent man straightaway, and indeed, I — we all — have good reason to
+expect the very best outcome from it. This is His Excellency the Count of
+21 (W==), certainly one of the foremost and most distinguished of the K—
+ministers. More on him another time. There is no lodge [▢] at Milan, and,
+as the Count himself has given me to understand, there is scarcely any
+prospect of one, given the particular habits of life among the Milanese.
+But there is one at Cremona, where, for lack of time, and so as not to run
+myself into still greater expense, I did not care to travel just now. At
+Pavia there are splendid professors, and the university is flourishing
+greatly — but such journeys and stays cost a great deal of time and money,
+and I have already sacrificed a very great deal. I will certainly let no
+opportunity pass without showing my active commitment at every turn. But
+above all, the geography needs to be settled, and a firm guideline laid
+down for how names are assigned — I wrote about this recently already, but
+have heard nothing back yet, and I am waiting for it most eagerly.
+
+NB.
+
+--- page 148 ---
+
+I have given Count T= at Samos the address of A==, and of Spartacus, in
+case of my death or other incapacity. I remain in correspondence with the
+state minister mentioned above.
+
+Traonna, 25 Benmeh.
+
+**V.**
+
+A Letter from Marius to Hannibal.
+
+*C. M. H. Greetings.* [Latin header: "C. M. H. S. p. d.," not fully
+resolved; see the translation-context file.]
+
+Your letter of the 16th of Thirmeh reached me on the 2nd of this month,
+just as I was about to send you the Gelehrte Zeitung and some other
+writings. I will hold on to all of it, then, until you arrive. Only come
+soon, and stay a good while, so we can talk at length. —
+
+Diomedes, now Provincial of the Priests, lives with me now. Quam bonum, et
+quam jucundum, habitare fratres in unum! [How good and how pleasant it is
+for brothers to dwell together!]
+
+I must only ask you to bring along the volume of collected witch-writings.
+Otherwise
+
+--- page 149 ---
+
+you would put both me and the Academy's house-steward in no small
+difficulty, since he brought it to me, and I would have to give the
+librarian a receipt for it. How could I procure the Academy another copy,
+when I do not even know which pieces the volume contains — and all of
+them, at least in this edition, would be hard to come by? I must close now,
+since we have to promote Ulrich von Hutten, stante pede [on the spot], to
+Greater Illuminatus. Farewell! I am entirely
+
+Yours,
+Athens, 13 Merded 1153.
+most truly yours.
+
+**VI.**
+
+DIARIUM
+
+for Meharmeh and Abenmeh, A.D. 1152 Jezded.
+
+In the hand and signature of R. Lullus.
+
+**MEHARMEH.**
+
+*The 10th of Meharmeh.* A general Minerval assembly, loco [in place of] an
+obligatory lodge [Oblig. ▢], was held for the Masons by Pericles.
+
+--- page 150 ---
+
+*The 14th, same month.* An extraordinary Minerval assembly was held again,
+several times, for the visiting Brothers of the Strict Observance and
+Zinnendorf system [St. u. K.; abbreviation unresolved, see the
+translation-context file] from Mainz.
+
+*The 15th, same month.* For the same reason, a small Illuminati assembly
+was also held, at which Canon K— — was present. Ferd. Pizaro received this
+grade at the same time. Likewise,
+
+*the 16th, same month.* An extraordinary lodge [▢] was held, at which
+Chamberlain St=== was admitted (the Canon, by his own account, can never
+become a Mason, having had to swear an oath to that effect in his
+cathedral chapter).
+
+**ABENMEH.**
+
+*The 8th of Abenmeh.* Magistrate of the Greater Illuminati at Brutus's,
+which I could not attend on account of illness.
+
+*The 9th, same month.* Again, loco the obligatory lodge [Oblig. ▢], a
+general Minerval assembly was held for the Masons by Pericles, which I
+likewise could not attend on account of illness.
+
+*The 16th, same month.* Magistrate meeting of the Greater Illuminati in my
+own room, among only myself, Diome-
+
+--- page 151 ---
+
+des, and Brutus, at which, by force of the new decree dated the 30th of
+Meharmeh, I kept the protocol for this Greater Illuminati assembly for the
+first time.
+
+*At the same time:* a small Illuminati assembly, and the admission of
+Brothers Pilades and Orestes into this grade.
+
+*The 21st, same month.* Again a Magistrate of the Greater Illuminati, at
+which, per the decree above, Pericles, Architas, and Dioscorides were
+introduced as Assessors.
+
+*That same evening:* a solemn Scottish lodge [Schotten ▢] was held by
+Celsus, at which Brutus received this Greater Illuminati grade.
+
+*The 28th, same month.* On account of a visiting Brother, K——— Numenius, an
+extraordinary general assembly was held for the Masons. This assembly was
+very well attended, and Illuminatus Alfred appeared publicly as a guest for
+the first time. Ulysses read a treatise on the qualities of an amiable
+person, and I read a short essay on the necessity of proper Masonic
+preparation, which I shall shortly carry out in better form.
+
+--- page 152 ---
+
+*The 29th, same month.* For the same reason a small Illuminati assembly
+was also held, at which part of this grade was presented. Several Brothers
+also read out character sketches — among others, I spoke on the elder
+Pliny. Likewise,
+
+*the 30th, same month.* Celsus held a lodge [▢] entirely according to the
+new ritual, at which Numenius was likewise present. Learcus was admitted
+as a Mason. Celsus improvised a very forceful address against the local
+Rosicrucians [R.x. Kreuzer], and Menelaus read a speech aloud. The
+brothers turned out in great numbers. Before the lodge, there was a
+Magistrate of the Greater Illuminati at Brutus's.
+
+*Note.* The severe catarrhal illness that struck me at the start of last
+month, lasting about ten days, kept me from sending in the Soli for
+Meharmeh, for which I most humbly beg pardon.
+
+*A renewed brief overview of Athens.*
+
+Given the great weeding-out — and, in part, the suspensions — that has
+taken place in Athens, which must surely have taught people that the ☉ has
+no need of them, rather than they of the ☉, and that here there is no
+rank or standing to [?]
+
+--- page 153 ---
+
+count on; given that our lodge [▢] has now openly broken with Berlin, and
+the brothers can see, under the wing of the most worthy Order, a quite
+different order of things and works under way; given that the local lodge
+[▢] of the Strict Observance has all but ceased to exist, and that some of
+its own members have been formally admitted among us; given that even some
+of the local enthusiastic Rosicrucians are beginning to regret their time
+and their money spent; given that, in all of this, our own cause gains new
+life and fresh energy — the brothers are beginning to grasp that those
+other systems are empty wind, and that truth and light are only to be
+found here: they have grown more attached, more attentive to the duties of
+their calling as men and as Masons, more active, and more obedient.
+
+Without question, one of the great driving forces behind this fresh
+vitality is Diomedes, a man who sets everything in motion, is everywhere
+equally busy, never tires of any difficulty or task, is present everywhere,
+sees through everything with his own eyes, encourages, admonishes, and
+leads everyone, and teaches mostly by his own good example. He would be
+beyond reproach, if his sudden flashes of temper, his occasionally too
+military manner, a certain stubbornness, and at times outright
+refractoriness were not, with some justice, held against him now and then
+by the brothers — Brutus especially —
+
+--- page 154 ---
+
+a criticism which, although my own high regard for this very worthy
+brother has made me nearly partial on his behalf, I still cannot bring
+myself entirely to contradict.
+
+The senior superiors in Athens whom I know, besides Diomedes, are men on
+whom the whole spirit of the Order truly rests. They are: Celsus (would
+only that he, whom I love so much, might be a little more moderate, and
+spare his own frail health), Marius, Cato, and — allow me to add — even
+Spartacus, whom I have only recently had the chance to properly come to
+know from so many likeable sides, not least his great moderation at table.
+Scipio, too, is showing himself somewhat more active again. But Marius and
+Cato, in most matters, truly hold to the wise middle course that the
+noise-loving, rather boisterous-pleasure-loving Celsus, and the overly
+metaphysical Spartacus — too quick, at times, in both his favor and his
+disfavor — do not always manage to find. What I once criticized most
+sharply in Cato, I now see in quite a different light, and I am somewhat
+ashamed of the exaggerated aversion I once held toward anything that
+smacked of politics. Diomedes's sometimes all-too-gloomy, deeply
+melancholic moods are the one thing I could wish softened in this
+otherwise splendid man.
+
+--- page 155 ---
+
+Among the finest superiors the Order has had, there belongs, beyond any
+dispute, last year's local visitor, Brother Philo — who, of course, no
+longer belongs among us here now, but from whom I draw, on every occasion,
+my ideal of a highly enlightened, deeply humane, morally accomplished
+brother of the Order.
+
+The harmony and concord I once complained about at some length — above
+all in the last general overview I handed to Philo — now reign completely
+again among our superiors. It may be, as I have heard, that Spartacus
+contributed something to the earlier discord; but his last meeting with
+Celsus cleared up whatever misunderstandings may have caused it. These
+brothers now love one another more than ever (though in truth that love
+was never really interrupted at all), and everything now moves forward
+with united strength, free of any party spirit, toward our common purpose.
+
+So much for the superiors. Now, to the subordinates.
+
+Although the whole body has, so to speak, taken on a fresh turn, and each
+member with it a renewed strength, as I noted at the outset, that is not
+yet so universally true that some traces of our former
+
+--- page 156 ---
+
+faulty conduct cannot still be found here and there. In my view, the
+defects that still show themselves from time to time are:
+
+a) Talkativeness.
+
+b) Coldness and lovelessness, here and there.
+
+c) Party spirit.
+
+d) A renewed, overly strong appetite for recruiting, and, with it, too
+much haste in judging candidates and giving them a foretaste of things.
+
+e) Quarrelsomeness and discord between certain brothers.
+
+f) A taste for slander, or simple credulousness.
+
+g) Excessive sharing of confidences.
+
+h) Suspicion of Jesuitism.
+
+NB. This last point concerns only four brothers, and even with them it is
+not yet well enough grounded.
+
+*An inquiry.*
+
+At the start of Meharmeh, in my last Soli, I humbly requested permission
+to publish, besides
+
+--- page 157 ---
+
+our lodge [▢] addresses, a few other essays on behalf of the Order, under
+the strictest censorship of our local superiors, and without any betrayal
+of secrets. Since I have received no decision on this yet, I ask again,
+most respectfully, for one.
+
+Athens, 3 Adarmeh 1152.
+
+R. Lullus, mppr. [manu propria, by his own hand]
+
+**VII.**
+
+A Quibus licet in the hand and signature of Brutus.
+
+Athens, 2 Adarmeh 1152.
+
+Q.L.
+
+1. May the most worthy Order receive my warmest thanks for the third grade
+conferred on me. Beautiful, glorious, exactly as I had wished it, and very
+much as I had imagined it upon reading the second. I will certainly try to
+show myself worthy of the Order's goodness and trust; and if I have shown
+attachment and trust up to now, I belong entirely to you from here on. You
+may build on me, and deem me worthy of your trust without any
+
+--- page 158 ---
+
+reservation whatsoever, for nothing in the world can turn me back now, and
+nothing will tear me away from your direction.
+
+2. You once wrote to me that I should seek nothing more at court, since I
+had nothing to expect there. I followed that advice until now, but since I
+was recommended by the provincial government, my own prospects seem to
+have changed somewhat. Recently, when the severe illness of the K== of the
+Imperial Vicariate raised the question of filling the post, the thought
+arose of employing both myself and Pericles as councillors there, and I
+now have the greatest hope of becoming a privy councillor. S== has taken a
+particular interest in my case, and I owe this to the friendship shown me
+by Brother Celsus and Alfred. Should I rise to this position one day, the
+most worthy Order will see what is truly in my heart, and how entirely I
+belong to it; until then I can only hope, and trust that the will to take
+up the work will come with it [?].
+
+3. Is there no mercy for the penitent? Pythagoras came to see me, admitted
+that he had erred, and his suspension weighs on him so heavily that tears
+stood in his eyes. I plead on his behalf — for whatever his faults, he is
+at bottom a good and capable man, and his pride has been deeply
+
+--- page 159 ---
+
+humbled. He could prove essentially useful to the most worthy Order, and I
+can see him trying so hard to improve himself that he is even shedding the
+rough edges of his way of life.
+
+4. Of the Brothers Pericles, Menelaus, and Demonax entrusted to my
+supervision, I can report no change in the first; Menelaus is growing more
+diligent, attends assemblies more often, reads out notations with his own
+remarks, and has, in the short span of four weeks, delivered two quite
+good speeches — one at the Minerval assembly, and the other at the lodge
+[▢] held on the occasion of Numenius's arrival. Demonax, who is tireless
+in his diligence, is also beginning to restrain his spending, which was
+badly needed — otherwise I do not know how he would have managed in the
+long run.
