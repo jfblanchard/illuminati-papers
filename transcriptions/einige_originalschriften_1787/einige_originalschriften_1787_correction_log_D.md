@@ -181,3 +181,49 @@ page 256 — `werd den die 9 aͤdti 2 ſchen Documenta nebſt Geld von hier abge
 page 256 — `FEleuſis den 10. Chardad 114 8.` → `Eleuſis den 10. Chardad 1148.` — misreads
 page 256 — footnote `Man ſehe u. ... bey No. I.` → `Man ſehe die ... bey No. II.` — misreads
 page 256 — `14.` (bottom) excluded as catchword for next heading
+page 257 — `Ben 7}` → `14.` — letter number garbled
+page 257 — `Ceriolanus` → `Coriolanus` — misread
+page 257 — `Unfre Calla` → `Unſre Caſſa` — misread
+page 257 — `au⸗liefern` → `zu liefern` — misread
+page 257 — `Aleibiades` → `Alcibiades` — misread
+page 257 — `Ta-melan` → `Ta⸗melan` — kept as printed (printer's spelling of Tamerlan)
+page 257 — `unter dem Namen Sella` → `unter dem Namen Sylla` — italic name faint in scan; reads Sylla (moderate confidence)
+page 257 — `Pfeft` → `Pfeſt` — ſ
+page 257 — `warum höre 1 denn` → `warum hoͤre ich denn` — word `ich` misread as `1`
+page 257 — `dieAbhand⸗lung des ene de Var-gas` → `die Abhand⸗lung des Alphonſus de Var⸗gas` — name `Alphonſus` lost
+page 257 — catchword `15.` excluded
+page 258 — `T. Erhalte` / `F. Haben` → `1. Erhalte` / `5. Haben` — item numbers misread
+page 258 — `Junhalt` → `Innhalt` — misread
+page 258 — `6.8.4. 18 8.17.` → `6.8.4.18. 8.17.` — punctuation
+page 258 — `Pr&parationen` / `Gar che` → `Præparationen` / `Sa⸗che` — ligature; misread
+page 258 — `Vielleichs hans` → `Vielleicht` (catchword `han⸗` excluded) — misread
+page 259 — `Hand langer` → `Handlanger` — spacing
+page 259 — `genießen dafe? Ich will 15 ſo meine` → `genießen daͤrfe? Ich will al⸗ſo meine` — garbled
+page 259 — `bey ſer hat es fein` → `bey die⸗ſer hat es ſein` — syllable dropped
+page 259 — `Wenn icche inskuͤnftige` → `Wenn ich nicht inskuͤnftige` — word `nicht` lost (meaning-critical)
+page 259 — `Jezededgerd` kept as printed (printer's variant of Jezdedgerd)
+page 260 — `wird et ch auch nach Muͤnchen` → `wird vermuthlich auch nach Muͤnchen` — word `vermuthlich` garbled
+page 260 — `daß 6.8.4. 18.8. 17. e einen geringen Cafla -Beytrag` → `daß 6.8.4.18.8.17. auch einen geringen Caſſa⸗Beytrag` — word `auch` lost; misread
+page 260 — `Ma e nicht d junge Lory und Effner |` → `Waͤre nicht der junge Lory und Effner auch anzuwerben?` — line badly garbled; second line `auch anzuwerben?` dropped entirely
+page 260 — `vorkommt, ſitzen laſſen ſolcher` → `vorkoͤmmt, ſitzen laſſen; ſolcher` — misread; semicolon dropped
+page 260 — `5 Numeri gezogen werden, fo wenn ſetze, nurz ich in Lo Letkos ſetze` → `ſetze, nur 5 Numeri gezogen werden, ſo wenn ich in 10 Lottos ſetze` — line order scrambled and `10 Lottos` garbled
+page 261 — `Multum fudavit & alüt` → `Multum ſudavit & alſit` — Latin misread
+page 261 — `Re- ul lativ` → `Re⸗gulativ` — syllable garbled
+page 262 — `einfuͤchren` / `babe fie` → `einfuͤhren` / `habe ſie` — misreads
+page 262 — `Eleuſis den 12. Chardad` → `Eleuſis den 17. Chardad` — date digit misread
+page 262 — `La chambre Caracteres des Pa fions: Zlphonfus de Vargas` → `La chambre Caracteres des Paſ⸗ſions: Alphonſus de Vargas` — misreads (italic titles)
+page 262 — `de immenfa curie roma potentia moderanqa. Wollenfi ſie auch` → `de immenſa curiæ romanæ potentia moderanda. Wollen ſie auch` — Latin title garbled (unverified against bibliography)
+page 262 — catchword `auf⸗` (OCR `> aufs`) excluded; `g` noise removed
+page 263 — `‚weite:n Correfpondenz werden Sie von mir icht finden` → `weitern Correſpondenz werden Sie von mir nicht finden` — garbled; letter dropped
+page 263 — `1778` → `1778.` — punctuation
+page 263 — heading `18. / Spartacus Catoni S. d.` → restored — letter number and salutation dropped entirely by OCR
+page 263 — `Tagen, ohne daß` → `ſagen, ohne daß` — ſ misread as T
+page 263 — `jund ich auf Sie` → `und ich auf Sie` — noise
+page 264 — `Urſachen ale, warum Sie fo gegen mich Ind.` → `Urſachen alle, warum Sie ſo gegen mich ſind.` — misreads
+page 264 — `weitere Feinde) ſchaft` → `weitere Feind⸗ſchaft` — garbled hyphen
+page 264 — `die Fühlen Stunden` → `die kuͤhlen Stunden` — misread (kühl, not fühlen)
+page 264 — `T aime votre retour.` → `J'aime votre retour.` — French misread
+page 265 — `Interefie` / `gemeinſchafftliche` → `Intereſſe` / `gemeinſchaftliche` — misreads
+page 265 — `Hund an andern Orten` → `und an andern Orten` — noise
+page 265 — left margin cropped in scan (gutter); line-initial letters lost in OCR restored from visible traces and context: `heyde`→`beyde`, `weiers`→`wei⸗ters`, `hen ſtehen`→`chen ſtehen`, `hen, daß`→`then, daß`, `eich`→`reich`, `chrieben`→`ſchrieben`, `zieſer`→`dieſer`, `Hr.r mich`→`er mich`
+page 265 — `Gegenwaͤtig` kept as printed (printer's spelling)
