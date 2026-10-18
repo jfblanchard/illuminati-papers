@@ -116,3 +116,68 @@ page 244 — `ReinigkeitderSitten` → `Reinigkeit der Sitten` — spacing
 page 244 — `Cendidaten` → `Candidaten` — misread
 page 244 — `zuruͤckzutrettenu` → `zuruͤckzutretten` — noise
 page 244 — `17. 20.0. 14. 17. 6. g. 17.` → `17.20.9.14.17.6.8.17.` — cipher digits misread
+page 245 — `c'eſt un Jetourdi.` → `c'eſt un étourdi.` — French accent misread as `J` (unverified French)
+page 245 — `Die mit 7 bezeichnet ſind` → `Die mit † bezeichnet ſind` — dagger symbol misread as `7`
+page 245 — `hochſt` / `wies der` / `Ans ſtalten` → `hoͤchſt` / `wie⸗der` / `An⸗ſtalten` — umlaut dropped; hyphens misread as `s`
+page 246 — `fiir die` → `fuͤr die` — misread
+page 246 — `Sphere` → `Sphære` — æ ligature as printed
+page 246 — `courlierem` → `courſieren` — misread
+page 246 — catchword `goras` (OCR `SOras`) excluded
+page 247 — `il,` / `N` / `5` / `8. U.` → `11.` / `S. d.` — letter number and salutation garbled
+page 247 — `reverie auſſi ſublime peut jamais fe realifer, c’eft en tamenant` → `rêverie auſſi ſublime peut jamais ſe realiſer, c'eſt en ramenant` — French misreads (accent on rêverie as printed `révérie`-like mark; unverified against critical edition)
+page 247 — `ut` / `eh` / `N` / `1` / `V .` noise lines → removed — margin noise
+page 247 — `czeteris paribus` → `cæteris paribus` — æ ligature
+page 247 — `ind Männer` → `und Maͤnner` — misread
+page 247 — `Grxatior eft` → `Gratior eſt` — misread (Latin; Virgil, Aen. V.344)
+page 248 — `der Geiſt na pas la profondeur des Phyliognomies fom-bres` → `der Geiſt n'a pas la profondeur des Phyſiognomies ſom⸗bres` — French misreads (unverified French)
+page 248 — `inftru- jert` → `inſtru⸗iert` — misread
+page 248 — `An Odin (St⸗ „ „zu Eychſtätt mit Namen G = =)` → `An Odin (St = = = zu Eychſtaͤtt mit Namen G = =)` — printed redaction marks restored (identity not guessed)
+page 248 — `erdieß` → `er dieß` — spacing
+page 249 — `5j` / `i` / `7` / `|` noise → removed — noise
+page 249 — `Univerlitaͤt` / `eleuliniſchen` → `Univerſitaͤt` / `eleuſiniſchen` — ſ misread as l
+page 249 — `vortreſtich` → `vortreflich` — misread
+page 249 — `thuen,  Lebt` → `thuen. Lebt` — punctuation
+page 250 — `Marius 2 geht` → `Marius? geht` — `?` misread as `2`
+page 250 — `bemerke ich 2 nau` → `bemerke ich ge⸗nau` — syllable garbled
+page 250 — `bellegardil ſche` → `bellegardi⸗ſche` — hyphen misread
+page 250 — `Montagne und Plutarch waren auch leicht,` → `waͤren auch leicht.` — umlaut/punctuation
+page 250 — bottom noise `5 124 1 I'` → removed; catchword `12.` excluded
+page 251 — `Wenn 11. 72. 9.8.17. 18.` → `Wenn 11.12.9.8.17.18.` — cipher digits misread (decodes "Baders")
+page 251 — `18, 12.20, 4. 14.2.4.` → `18,12.20.4.14.2.4.` — punctuation/spacing (decodes "Savioli")
+page 251 — `ſo verlieren * am Ende` → `ſo verlieren wir am Ende` — word `wir` replaced by `*`
+page 251 — `5. 14.5. 8.13.8.4. T0. 5. 7.` → `5.14.5.8.13.8.4.10.5. 8.17.` — cipher garbled (decodes "Hoheneicher")
+page 251 — `us folgenden` → `aus folgenden` — letter dropped
+page 251 — `Weil fie Stammoaͤter` → `1. Weil ſie Stammvaͤter` — item number `1.` dropped; v misread
+page 251 — `[yftema- IR.chen` → `ſyſtema⸗tiſchen` — garbled
+page 251 — `B. E =, ... follen,` → `B. E =, ... ſollen.` — punctuation
+page 251 — `23. Weil H= ==,` → `3. Weil H = = = =,` — item number and redaction marks as printed
+page 251 — signature mark `Q` and `4` excluded; noise removed
+page 252 — `nach nn zu ſammeln` → `nach Muͤnchen zu ſammeln` — word dropped
+page 252 — `Ans groſſee Dienſte` → `uns groſſe Dienſte` — misread
+page 252 — `aus⸗1 Brief ... zuruͤck⸗ eben kann` → `aus⸗geſtellten Brief ... zuruͤck⸗geben kann` — word `geſtellten` lost; letter dropped
+page 252 — `vortreftich „und` → `vortreflich, und` — misread
+page 253 — `ſich fei ner` → `ſich ſei⸗ner` — ſ misread
+page 253 — `Meſtenrieder` → `Weſtenrieder` — W misread as M
+page 253 — `18. 14. 10.5. 8.172 und N 18.72.20. 9.75` → `18.14.10.5.8.17? und 18.12.20.8.17?` — cipher digits and `?` garbled (decode "Socher" / "Sauer")
+page 253 — `Cenforen` → `Cenſoren` — ſ
+page 253 — `den =rundſatz` → `den Grundſatz` — letter garbled
+page 253 — `unſrer Berkiffing ſchriftlich inHanden` → `unſrer Verfaſſung ſchriftlich in Handen` — garbled word
+page 253 — `iſt wage lich` → `iſt wag⸗lich` — misread
+page 253 — signature mark `Q 2` excluded
+page 254 — `ſelöſt` → `ſelbſt` — misread
+page 254 — `nicht fo fehe exponierte` → `nicht ſo ſehr exponierte` — misread
+page 254 — `Uimis.` → `nimis.` — misread
+page 254 — `die fehlenden Theile 1 noch` → `die fehlenden Theile auch noch` — word `auch` lost
+page 254 — `Fledtricitaͤt` → `Electricitaͤt` — misread
+page 254 — `die ers) fie Depens` → `die er⸗ſte Depens` — garbled
+page 255 — `Vehauſung. Und daun` → `Behauſung. Und dann` — misreads
+page 255 — `die Os Mitglieder` → `die ☉s Mitglieder` — Order symbol
+page 255 — `6. 8. 4. 18.8. 17.` → `6.8.4.18.8.17.` — spacing (decodes "Geiſer"/"Geiser")
+page 255 — `Geſtalt efhaltet wird` → `Geſtalt erhalten wird` — misread
+page 255 — `gehein nden` → `geheimden` — garbled
+page 256 — `nur Tonne) te man das Wort: Herr (Is Bruder` → `nur koͤnn⸗te man das Wort: Herr ☉s Bruder` — misread; Order symbol
+page 256 — `ſortgeſetzt` → `fortgeſetzt` — misread
+page 256 — `werd den die 9 aͤdti 2 ſchen Documenta nebſt Geld von hier abge` → `werden die Eichſtaͤdtiſchen Documenta nebſt Geld von hier abgehen.` — word `Eichſtaͤdtiſchen` lost, `abgehen` truncated
+page 256 — `FEleuſis den 10. Chardad 114 8.` → `Eleuſis den 10. Chardad 1148.` — misreads
+page 256 — footnote `Man ſehe u. ... bey No. I.` → `Man ſehe die ... bey No. II.` — misreads
+page 256 — `14.` (bottom) excluded as catchword for next heading
