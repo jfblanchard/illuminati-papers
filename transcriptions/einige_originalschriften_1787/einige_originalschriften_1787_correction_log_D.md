@@ -97,3 +97,22 @@ page 241 — `af durch Umwege` → `erſt durch Umwege` — word garbled
 page 241 — `3 ſie erwartet` → `man ſie erwartet` — word `man` garbled to `3`
 page 241 — `I / N andere` → `andere` — margin noise
 page 241 — catchword `ange⸗` excluded
+page 242 — `fonds en die` → `ſondern die` — garbled; scan has a print flaw mid-word but `ſondern` is clear from the visible letters and syntax
+page 242 — `nan nicht` → `man nicht` — misread
+page 242 — `uutzba⸗rer` → `nutzba⸗rer` — n/u misread
+page 242 — `Gedeu⸗kungsart` → `Geden⸗kungsart` — n/u misread
+page 243 — `|P fragenfte ihn` → `ſo fragen ſie ihn` — garbled line start
+page 243 — `einzeln 5 viel` → `einzeln ſo viel` — `ſo` misread as `5`
+page 243 — `Viele nen es` → `Viele koͤnnen es` — word truncated
+page 243 — `ſo bos bleiben` → `ſo boͤs bleiben` — umlaut dropped
+page 243 — `|wenigfttens` → `wenigſtens` — misread
+page 243 — `ſes Schwermuth, fo müßte N urch Umgang` → `es Schwermuth, ſo muͤßte ſie durch Umgang` — garbled (`ſie` lost)
+page 243 — `ele ſey dieſer Umgang` → `Weiters ſey dieſer Umgang` — word garbled
+page 243 — `eingeladen wi: 1 ſehr` → `eingeladen wird, ſehr` — garbled
+page 243 — `Aufaͤnger` → `Anfaͤnger` — n/u misread
+page 243 — `auf2 Jahre hinausge-el zt.` → `auf 2 Jahre hinausge⸗ſetzt.` — garbled
+page 243 — `Stillſchweigen 1 Verträglichkeit` → `Stillſchweigen, Vertraͤglichkeit` — noise
+page 244 — `ReinigkeitderSitten` → `Reinigkeit der Sitten` — spacing
+page 244 — `Cendidaten` → `Candidaten` — misread
+page 244 — `zuruͤckzutrettenu` → `zuruͤckzutretten` — noise
+page 244 — `17. 20.0. 14. 17. 6. g. 17.` → `17.20.9.14.17.6.8.17.` — cipher digits misread

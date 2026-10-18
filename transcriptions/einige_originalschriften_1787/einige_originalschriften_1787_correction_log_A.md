@@ -109,3 +109,19 @@ page 42 — `von () Sachen` → `von ☉ Sachen` — Order symbol (☉) dropped
 page 42 — `müffen` → `muͤſſen` — ſſ misread as ff
 page 42 — `oder 99 Geſpraͤche` → `oder erbauliche Geſpraͤche` — dropped word "erbauliche"
 page 42 — `fo find` → `ſo ſind` — long-s
+page 43 — `3   83` / `f .` / `ya` → (removed) — page number "33" and noise
+page 43 — `jo wie auch` → `ſo wie auch` — ſ misread as j
+page 43 — `2) Tobias Knaut.` → `7) Tobias Knaut.` — item number misread
+page 43 — `Hirfchfeld` / `heroifchen` → `Hirſchfeld` / `heroiſchen` — ſ misread as f
+page 43 — `Bafedowö` → `Baſedows` — misread
+page 43 — `160 La Bruiere` → `16) La Bruiere` — ")" misread as "0"
+page 44 — `insbes ſondere` → `insbeſondere` — hyphen misread as "s"
+page 44 — `wenigſteus zum Bücher` → `wenigſtens zum Buͤcher` — n/u misread
+page 44 — `|` → (removed) — noise
+page 44 — `unfere` → `unſere` — long-s
+page 44 — `Biegfamskeit` → `Biegſamkeit` — hyphen misread as "s"
+page 44 — `der. für fein` → `der fuͤr ſein` — spurious period
+page 44 — `1` → (removed) — noise at foot
+page 45 — `Sol, in fol chen` → `Soli, in ſolchen` — "Soli" (italic) truncated
+page 45 — `Ber ſchwerden` → `Beſchwerden` — hyphen misread as "r"
+page 45 — `propertionierte` → `proportionierte` — o misread as e
