@@ -15,3 +15,14 @@ is created or run so we always know which prompt drove which agent/batch.
 
 - **2026-10-18 (rev A, superseded)** — 3-agent slices A=25–64, B=65–104, C=105–144.
   Replaced by rev B above for max burn; ranges folded into the full-book split.
+
+- **2026-10-18 (rev B result) — 6-agent max-rate burn RAN and 429'd.** All 6
+  launched 14:31, each hit `usage_limit_reached` (60-81 turns) by ~14:38 as 9
+  concurrent sessions (3 interactive + 6 burn) drained the 5h window. Committed
+  188 page-markers (pp. 25-66, 93-125, 161-186, 229-265, 297-326, 365-384);
+  orphaned mid-commit work saved as `6596568`. Remaining uncorrected: 67-92,
+  126-160, 187-228, 266-296, 327-364, 385-428 (0 pages each → 216 total).
+  RESOLUTION: left 3 interactive threads to auto-resume at 5:10 (verified they
+  self-continue); 6 headless agents stay dead (won't resurrect — `-p` one-shots).
+  Commit seq-block prompts `seq-block-*.md` + `_seq_template.md` for a clean
+  sequential re-arm if Jon wants to finish the 216 remaining pages later.
