@@ -1,0 +1,84 @@
+# Illuminati Main Volume — Maximum-Rate Parallel Phase 3 Correction
+
+**Agent:** [AGENT_LABEL] (PDF pages [PAGE_START]–[PAGE_END])
+**Document:** *Einige Originalschriften des Illuminatenordens* (1787) — the Zwack house-search seizure
+**Created:** 2026-10-18 (Claude Code burn, maximum rate)
+
+---
+
+## Mission — work at maximum rate until your session budget ends
+Correct your **assigned range of physical PDF pages** of the main volume: compare the
+high-res scan image against the raw OCR, produce corrected German, log the changes.
+You are one of several agents correcting **disjoint** page ranges of the same document
+in parallel. **Maximize the number of pages you correctly complete.** Do not stop early
+on page-count grounds — keep going page by page until you hit your hard [PAGE_END]
+boundary or your session is cut off. Commit frequently so no work is ever lost.
+
+## Non-negotiables — read before starting
+- Work page-by-page in **physical PDF page order** within your range. Do not skip pages.
+- **Correct against the scan image only** — never trust raw OCR as ground truth.
+- **Spelling preserved as printed** (combining-e umlauts uͤ/aͤ/oͤ, long ſ, etc.).
+- **Every content-level correction logged** (page / raw→corrected / reason).
+- **AI-assisted first pass** — flag genuinely uncertain readings (write `[illegible]`
+  rather than fabricate). Never invent words or identities.
+- **Only touch your assigned range** [PAGE_START]–[PAGE_END]. Never edit text outside it.
+
+## Key files (absolute paths)
+- **Source scan (authoritative image):**
+  `/mnt/data/projects/Research/illuminati_translation_project/scans/einige_originalschriften_1787/einigeoriginalsc01duke_0.pdf` (428 pages)
+- **Raw OCR (what you are fixing) — Phase 2 output:**
+  `/mnt/data/projects/Research/illuminati_translation_project/transcriptions/einige_originalschriften_1787/einige_originalschriften_1787_transcription.txt` (6509 lines)
+- **Pilot sample (method + already-corrected pp. 5, 7, 23–24):**
+  `/mnt/data/projects/Research/illuminati_translation_project/transcriptions/einige_originalschriften_1787/einige_originalschriften_1787_eval_sample.md`
+
+## Working files you CREATE (never overwrite the raw transcription or eval sample)
+- **Corrected German output (append only):**
+  `transcriptions/einige_originalschriften_1787/einige_originalschriften_1787_corrected.txt`
+  Create if absent; `cat >>` each corrected page under a `--- PDF page NNN ---` marker
+  (physical PDF page number).
+- **Per-agent correction log (the citable record):**
+  `transcriptions/einige_originalschriften_1787/einige_originalschriften_1787_correction_log_[AGENT_LABEL].md`
+  One line per content-level correction: `page N — raw OCR → corrected — reason`.
+  The very common f/ſ (long-s) fix is applied silently, not itemized. Content-level
+  fixes (misreads, dropped/garbled words, spurious noise, page-transition artifacts)
+  are itemized in full. Per-agent filename avoids parallel-agent clobbering; merged
+  into the single authoritative log at the end.
+
+## Established domain conventions (same OCR engine/source as the Nachtrag)
+- **☉** (circle-dot) = "der Orden" (the Order). OCR mangles as `(`, `Q`, `O`, or drops it. Restore where the scan shows it.
+- **▢ / ▢▢** (hollow square) = "Loge"/"Logen" (lodge/lodges). Keep as printed.
+- **"III."** is nearly always a misread of **"Ill."** (Illuminatus).
+- **f/ſ** confusion is the most common OCR error — fix silently.
+- **Redacted names via dashes/equals** (e.g. "V===", "S==") are a real printed convention — preserve, don't guess identities.
+- **"x."-dot notation** ("M.x.x.", "R.x.") = Masonic raised-dot abbreviation (∴). Keep as printed.
+- **Diagrams** (pyramids, hierarchy trees) → noise in OCR; describe them in prose rather than transcribing garbage.
+- **Foreign-language quotations** (e.g. French) — transcribe as legible, flag as unverified against a critical edition.
+- **Page-end catchwords & signature marks are NOT part of the text** — exclude them.
+- **Silent whole-word omission is a real OCR failure** — watch for it against the scan.
+
+## Working method (page-by-page, maximum rate)
+1. **Bound your range** = PDF pages [PAGE_START]–[PAGE_END]. The transcription has NO page
+   markers — its line order follows page order; locate a page's text via
+   `pdftotext -f N -l N <pdf> -` or by walking the transcription sequentially.
+2. **Render the scan:** `pdftoppm -f N -l N -r 300 -png <pdf> /tmp/mv_[AGENT_LABEL]_page_N`
+   (24 cores; renders are fast and parallel-safe).
+3. **Read the rendered image directly** (you have vision); compare to the raw OCR.
+4. **Append corrected text** to `..._corrected.txt` under a `--- PDF page NNN ---` marker;
+   log content-level changes in your per-agent log.
+5. **Commit every ~15–25 pages** (or a coherent slice), never accumulate uncommitted work:
+   `git add -A && git commit -m "correct main volume pp. N-M (Phase 3, prompt-2026-10-18-[AGENT_LABEL])"`
+   Work in repo root `/mnt/data/projects/Research/illuminati_translation_project`.
+6. **Keep going** until [PAGE_END] or your session budget ends.
+7. At the end update `todo.md` with pages covered, then report: pages corrected, total
+   corrections logged, illegible-page flags, final commit hash(es).
+
+## Stop conditions / gotchas
+- **ENOSPC / disk-full on /tmp:** accumulated PNGs — clear your `/tmp/mv_[AGENT_LABEL]_page_*.png`, not a real error.
+- **Low-res scan (~540 px wide):** degraded n/u/a/i readings — check the crop before "fixing."
+- Do NOT touch the Nachtrag/Anhang documents or the raw transcription file.
+- If your session is cut off mid-range, you have committed work — that is a SUCCESSFUL stop. Report where you got to.
+
+## Definition of done
+Work continuously to [PAGE_END] or until cut off; each corrected page under a correct
+`--- PDF page NNN ---` marker in `..._corrected.txt`; per-agent log written; commits pushed;
+`todo.md` updated. Prefer many committed, correct pages over a slower exhaustive pass.
