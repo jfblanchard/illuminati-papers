@@ -125,3 +125,90 @@ page 44 — `1` → (removed) — noise at foot
 page 45 — `Sol, in fol chen` → `Soli, in ſolchen` — "Soli" (italic) truncated
 page 45 — `Ber ſchwerden` → `Beſchwerden` — hyphen misread as "r"
 page 45 — `propertionierte` → `proportionierte` — o misread as e
+page 46 — `fo ift` / `fie` → `ſo iſt` / `ſie` — long-s
+page 46 — `praefentieren` → `præſentieren` — æ ligature as printed
+page 46 — `Gluͤcksumſtaͤuden` → `Gluͤcksumſtaͤnden` — n/u misread
+page 46 — `Ars men` → `Armen` — hyphen misread as "s"
+page 46 — `fi fidem` → `ſi fidem` — long-s (Latin)
+page 47 — `231. Zu dieſem Ende` → `31. Zu dieſem Ende` — spurious digit
+page 47 — `befiehlt der O allen` → `befiehlt der ☉ allen` — Order symbol (☉) misread as "O"
+page 47 — `Bewegur— ſachen` → `Bewegurſachen` — as printed
+page 47 — `die doch a ne allen reelen zeyſtand vom O hoffen` → `die doch ſeiner Zeit allen reelen Beyſtand vom ☉ hoffen` — dropped words "ſeiner Zeit"; B misread as z; ☉ restored
+page 47 — `erfunden 9 „als` → `erfunden werden, als` — dropped word "werden"
+page 47 — `Zoo und mehrere Gulden` → `100 und mehrere Gulden` — numeral misread
+page 47 — `dieſes Fer viele Jahre` → `dieſes Quantum viele Jahre` — dropped word "Quantum"
+page 47 — `wiederhollet wird` → `wiederhollet wird.` — dropped period
+page 47 — `impolito` → `impoſito` — long-s misread as "l" (Latin "imposito tamen silentio")
+page 47 — `jo noch keinen` → `ſo noch keinen` — ſ misread as j
+page 47 — `f` → (removed) — noise
+page 48 — `in Handen habende Tea fogleich` → `in Handen habende Exemplar ſogleich` — dropped word "Exemplar"
+page 48 — `a die Abſicht` → `Da die Abſicht` — decorative drop-cap "D" missed
+page 48 — `intereffant` → `intereſſant` — ſſ misread as ff
+page 49 — `|  39.` → (removed) — page number and noise
+page 49 — `dem O einigen Nutzen` → `dem ☉ einigen Nutzen` — Order symbol restored
+page 49 — `in- als außer` → `in⸗ als außer` — suspended-compound hyphen as printed
+page 49 — `des Os fen Im Gegentheile` → `des ☉s ſey. Im Gegentheile` — ☉ restored; "ſey." garbled
+page 49 — `auheiſchig` → `anheiſchig` — n/u misread
+page 49 — `Fünf tiger` → `kuͤnftiger` — k misread as F
+page 49 — `in den (O zu tretten` → `in den ☉ zu tretten` — Order symbol restored
+page 49 — `Vermdgen` → `Vermoͤgen` — misread
+page 49 — `I In` → (removed) — catchword "1. In"
+page 50 — `daß ſie ihrem © nutzbar` → `daß ſie ihrem ☉ nutzbar` — Order symbol restored
+page 50 — `Fordert der O eine` / `auf Os Angelegenheiten` → `Fordert der ☉ eine` / `auf ☉s Angelegenheiten` — Order symbol restored (2×)
+page 50 — `zum lieblichen Femöfgafligen Weſen` → `zum lieblichen freundſchaftlichen Weſen` — garbled word
+page 50 — `zuerlernen` → `zu erlernen` — words run together
+page 50 — `ſich zu verftch, len` → `ſich zu verſtellen` — garbled
+page 50 — `. Je⸗` → (removed) — catchword "9. Je⸗"
+page 51 — `47` → (removed) — page number "41" misread
+page 51 — `derO veranſtaltet` → `der ☉ veranſtaltet` — Order symbol restored
+page 51 — `dem (e) nüßen will` → `dem ☉ nuͤtzen will` — Order symbol restored; tz misread
+page 51 — `.` (after "uͤbriges.") → (removed) — noise
+page 51 — `1 T. Sollte` → `11. Sollte` — item number misread
+page 51 — `fo find ſolche dem O` → `ſo ſind ſolche dem ☉` — Order symbol restored
+page 51 — `hinterlafs fenen Kindern folte zufommen,` → `hinterlaſſenen Kindern ſollte zukommen.` — misreads
+page 52 — `„` / `|` / `4` / `5` → (removed) — noise
+page 52 — `Infinuanten` → `Inſinuanten` — long-s
+page 52 — `gegeben werden,` → `gegeben werden.` — period misread as comma
+page 52 — `das größte Gefäß` → `das groͤßte Geſaͤtz` — "Geſaͤtz" (law) misread as "Gefäß" (vessel): meaning-changing
+page 52 — `vermeynte Os Bruͤder von dem O,` → `vermeynte ☉s Bruͤder von dem ☉,` — Order symbol restored (2×)
+page 52 — `iſt er kein Os Bruder` → `iſt er kein ☉s Bruder` — Order symbol restored
+page 52 — `hoherer` → `hoͤherer` — missing umlaut mark
+page 52 — `auzeigen` → `anzeigen` — n/u misread
+page 52 — `138. Daß die Geſellſchaft` → `15. Daß die Geſellſchaft` — item number misread
+page 52 — `2) Damit fie` → `a) Damit ſie` — list letter misread as digit
+page 52 — `Unedelgefinnter` → `Unedelgeſinnter` — long-s
+page 52 — `c` → (removed) — catchword "c)"
+page 53 — `e) Weil der Reiz` → `c) Weil der Reiz` — list letter misread
+page 53 — `beobachtenmögen` → `beobachten moͤgen` — words run together
+page 53 — `impofito` → `impoſito` — long-s
+page 53 — `tft verbothen` → `iſt verbothen` — misread
+page 53 — `aufzunehmen F er aber kann man` → `aufzunehmen, wohl aber kann man` — dropped word "wohl"
+page 53 — `| Approbat Spartacus.` → `Approbat Spartacus. *` — footnote asterisk dropped
+page 53 — `Spartaeus / Fa / eigenhändig binzugeſchrieben` → `Spartacus / eigenhaͤndig hinzugeſchrieben` — c/e misread; noise; h misread as b
+page 53 — `U: Marius und Scipio find zu den höchsteen` → `Cato, Marius und Scipio ſind zu den hoͤchſten` — decorative initial "C" and "ato," dropped; misread
+page 53 — `kleinernDingen` → `kleinern Dingen` — words run together
+page 53 — `| re Si:` → (removed) — catchword "1. Koͤn⸗" garbled
+page 54 — `Köͤnnen fie` → `Koͤnnen ſie` — double umlaut mark
+page 54 — `ge: ringſte` → `geringſte` — hyphen misread
+page 54 — `Berfaſſung` → `Verfaſſung` — V misread as B
+page 54 — `Confeii greapagiien.;: de hoc alibi,` → `Conſcii Areopagiten: de hoc alibi.` — garbled (italic "Areopagiten")
+page 55 — `/` / `.  |` / `U` → (removed) — noise
+page 55 — `fp. arbeiten fie` → `ſo arbeiten ſie` — misread
+page 55 — `Berſammlung` → `Verſammlung` — V misread as B
+page 55 — `inftallieren` → `inſtallieren` — long-s
+page 55 — `in -dieſem Grad` → `in⸗dieſem Grad` — as printed (hyphen-joined)
+page 56 — `Fälle` / `Inftruction` → `Faͤlle` / `Inſtruction` — normalized; long-s
+page 56 — `6) Die Literas gravatoriales` → `c) Die Literas gravatoriales` — list letter misread as digit
+page 56 — `prefidiert` → `præſidiert` — æ ligature misread as "e"
+page 57 — `42` → (removed) — page number "47" misread
+page 57 — `Seifen fie ihm eine diftinguierte` → `weiſen ſie ihm eine diſtinquierte` — misread; print has "diſtinquierte" (sic)
+page 57 — `Seflionen` / `Äreopagiten` / `inftruiert` → `Seſſionen` / `Areopagiten` / `inſtruiert` — misreads
+page 57 — `Wenn Cato „Marius` → `Wenn Cato, Marius` — comma misread as quote
+page 57 — `Corislanus verſammelt find` → `Coriolanus verſammelt ſind` — o misread as s
+page 57 — `ie Übrigen Areopagiten ſchicken es wieder rt, wenn fe ihre Excerpten daraus gemacht` → `Die uͤbrigen Areopagiten ſchicken es wiederfort, wenn ſie ihre Excerpten daraus gemacht haben.` — line starts clipped by OCR; dropped final word "haben."
+page 57 — `Auch ſoll ufe ſich in ihren Correfpon-. denzen` → `Auch ſollen ſie ſich in ihren Correſpondenzen` — garbled
+page 57 — `Cato0 hat @mich) Eleufis` → `Cato hat (mich) Eleuſis` — noise
+page 57 — `Scipio Sar rta` → `Scipio Sparta` — split/garbled place name
+page 57 — `machen ſie fig; ſolche` → `machen ſie ſich ſolche` — misread
+page 57 — `unndthigen` → `unnoͤthigen` — misread
+page 57 — `feiner Zeit` → `ſeiner Zeit` — long-s
