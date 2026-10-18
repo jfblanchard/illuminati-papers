@@ -212,3 +212,76 @@ page 57 — `Scipio Sar rta` → `Scipio Sparta` — split/garbled place name
 page 57 — `machen ſie fig; ſolche` → `machen ſie ſich ſolche` — misread
 page 57 — `unndthigen` → `unnoͤthigen` — misread
 page 57 — `feiner Zeit` → `ſeiner Zeit` — long-s
+page 58 — `vers faſſen` → `verfaſſen` — hyphen misread as "s"
+page 58 — `verbeſſern.“)` → `verbeſſern. *)` — footnote asterisk misread as quote
+page 58 — `Ur: ſache` → `Urſache` — hyphen misread as colon
+page 58 — `drey = und vierfache` → `drey⸗ und vierfache` — suspended-compound hyphen
+page 58 — `X, / INSTRUCTIY / PRO / tf!` → `X. / INSTRUCTIO / PRO / RECIPIENTIBUS.` — heading garbled; word "RECIPIENTIBUS" (letter-spaced) entirely dropped
+page 58 — `. Qat ſich jemand ... 9 ausgeſehen` → `1. Hat ſich jemand ... ausgeſehen` — decorative initial "H" and item number "1." misread
+page 58 — `Subjekt` → `Subject` — print has "Subject" (Antiqua, ct ligature)
+page 58 — `vorges ſchlagen` → `vorgeſchlagen` — hyphen misread as "s"
+page 58 — `De In` → (removed) — catchword "2. In"
+page 58 — `*) Sieh Seite 26,` → `*) Sieh Seite 26.` — punctuation
+page 59 — `In feinem ... fich fo` → `In ſeinem ... ſich ſo` — long-s
+page 59 — `auf figee Art` → `auf folgende Art` — garbled word
+page 59 — `|` → (removed) — noise
+page 59 — `D wo⸗` → (removed) — signature mark "D" and catchword
+page 60 — `auf N ſchaftliche Verbindung` → `auf geſellſchaftliche Verbindung` — dropped word-start "geſell⸗"
+page 60 — `3. B. bey dem Geſchrey` → `Z. B. bey dem Geſchrey` — Z misread as 3
+page 60 — `Unvermöoͤgenheit` → `Unvermoͤgenheit` — doubled vowel
+page 60 — `wie ſtark und mächtiger durch andere ſey.` → `wie ſtark und maͤchtig er durch andere ſey.` — words run together ("maͤchtig er")
+page 60 — `2) Zeigt man` → `7) Zeigt man` — item number misread
+page 60 — `wenn man ſeine Vortheile ent:` → `wenn man ſeine Vortheile kennt.` — misread
+page 60 — `3) Man zeigt ſolches` → `8) Man zeigt ſolches` — item number misread
+page 60 — `| | / 90` → (removed) — noise and catchword "9)"
+page 61 — `der Ge e uͤberhaupt` → `der Geſellſchaft uͤberhaupt` — word truncated at right margin
+page 61 — `der buͤrge lichen` → `der buͤrgerlichen` — truncated
+page 61 — `ſeiner Sun. de` → `ſeiner Freunde` — garbled
+page 61 — `könne` → `koͤnne` — normalized
+page 61 — `daß ſich einer aun deu andern` → `daß ſich einer an den andern` — n/u misreads
+page 61 — `konnten` → `koͤnnten` — missing umlaut mark (subjunctive)
+page 61 — `XI) Man erweitert` → `11) Man erweitert` — item number misread
+page 61 — `folang fie` → `ſolang ſie` — long-s
+page 61 — `42) Man verfaͤllt` → `12) Man verfaͤllt` — item number misread
+page 61 — `23) Man erlautert dieſes durch den Tefuiter - Orden` → `13) Man erlaͤutert dieſes durch den Jeſuiter⸗Orden` — item number; missing umlaut; J misread as T
+page 61 — `gehoren` → `gehoͤren` — missing umlaut mark
+page 61 — `D a  1 40` → (removed) — signature "D 2" and catchword "14)"
+page 62 — `hätte, in fols che` → `haͤtte, in ſolche` — hyphen misread as "s"
+page 62 — `worden ıc.` → `worden ꝛc.` — abbreviation sign misread
+page 62 — `juft ſolche` → `juſt ſolche` — long-s
+page 62 — `gendthigt` → `genoͤthigt` — misread
+page 62 — `vertraus ten` → `vertrauten` — hyphen misread as "s"
+page 63 — `gefchrieben` → `geſchrieben` — long-s
+page 63 — `der andes re die Chillres` → `der andere die Chiffres` — hyphen misread; ff misread as "ll"
+page 63 — `gedfnet auf feinem Tiſch` → `geoͤfnet auf ſeinem Tiſch` — misread
+page 63 — `als wes gen` → `als wegen` — hyphen misread as "s"
+page 63 — `5` → (removed) — catchword "5."
+page 64 — `Man ſoll ſich aber ohne befogdere` → `5. Man ſoll ſich aber ohne beſondere` — item number "5." dropped; ink blot over "ſon" in print, reading clear from context
+page 64 — `) er ſey` → `1) er ſey` — item number dropped
+page 64 — `Vers ſtand` → `Verſtand` — hyphen misread as "s"
+page 64 — `Künften` → `Kuͤnſten` — long-s
+page 64 — `Uugeſellſchaftliche` / `Unbeftändige` → `Ungeſellſchaftliche` / `Unbeſtaͤndige` — misreads
+page 64 — `Ager Eigennuͤtzige` → `Luͤgner, Eigennuͤtzige` — dropped word "Luͤgner" garbled as "Ager"
+page 64 — `einge ſchloſſen` → `eingeſchloſſen` — spurious space
+page 64 — `Weib perbit Moͤnche` → `Weibsperſonen, Moͤnche` — garbled
+page 64 — `wenn der Regin ent ſelbſt` → `wenn der Recipient ſelbſt` — garbled
+page 65 — `35` → (removed) — page number "55" misread
+page 65 — `ges lehrig` → `gelehrig` — hyphen misread as "s"
+page 65 — `folgfame , ſtaudhafte` → `folgſame, ſtandhafte` — long-s; n/u
+page 65 — `6. Weun man merkt` → `6. Wenn man merkt` — n/u misread
+page 65 — `daß es Muͤhe kaßße, dazu zu elhngen` → `daß es Muͤhe koſte, dazu zu gelangen.` — garbled
+page 65 — `7: Mit Mittheilung der Einſicht 5 der Recipient` → `7. Mit Mittheilung der Einſicht muß der Recipient` — dropped word "muß"
+page 65 — `noch. etzwas` → `noch etwas` — noise
+page 65 — `fein Candidat anſieng` → `ſein Candidat anfieng` — long-s/f swap
+page 65 — `Handſchriß“` / `geleu worden` → `Handſchrift` / `geleſen worden` — print damaged at both spots; reconstructed from context (high confidence)
+page 65 — `ſerengſte` → `ſtrengſte` — misread
+page 65 — `| / 0,` → (removed) — noise; catchword "10."
+page 66 — `feinen` / `öfters` → `ſeinen` / `oͤfters` — long-s; normalized
+page 66 — `17. Er hat auch oͤftere` → `11. Er hat auch oͤftere` — item number misread
+page 66 — `Eruſt` → `Ernſt` — n/u misread
+page 66 — `verſchaſſen` → `verſchaffen` — ff misread as ſſ
+page 66 — `aufuntern` → `aufmuntern` — dropped m
+page 66 — `konnten` → `koͤnnten` — missing umlaut mark
+page 66 — `gute Vuͤcher` → `gute Buͤcher` — B misread as V
+page 66 — `18. Alle in der Tabelle` → `15. Alle in der Tabelle` — item number misread
+page 66 — `zu laſſen 30, 17.` → `zu laſſen ꝛc.` — abbreviation misread; catchword "17." removed

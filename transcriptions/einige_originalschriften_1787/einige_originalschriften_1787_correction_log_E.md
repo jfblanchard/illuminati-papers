@@ -105,3 +105,123 @@ page 308 — `Inquilition` → `Inquiſition`; `Magonerie - Graden` → `Maçone
 page 308 — `ıten Pharavardin` → `1ten Pharavardin`
 page 308 — `die ich ilie aber` → `die ich ihm aber`; `bedaͤrfe` → `beduͤrfe` — misreads
 page 308 — catchword `meine` and stray `1` excluded
+page 309 — `in (Os Angelegenheiten` → `in ☉s Angelegenheiten`; `Osglieder` → `☉sglieder`; `bey dem O beſtellen` → `bey dem ☉ beſtellen` — Order symbol
+page 309 — `Sefion.` → `— Seſſion.` — misread; diary dash dropped
+page 309 — `Bis cher, Prenumerationen` → `Buͤcher, Prænumerationen` — misread; æ as printed
+page 309 — `Dieſes an Spartacus geſandet` → `11. Dieſes an Spartacus geſandet` — **diary date "11." dropped by OCR** (gutter)
+page 309 — `nebſt der e cation` → `nebſt der Explication` — garbled
+page 309 — `Dem Ludovico das Reſolvierte vom oten erdfnet` → `12. Dem Ludovico das Reſolvierte vom 9ten eroͤfnet` — **diary date "12." dropped**; numeral misread
+page 309 — `Ludovieus` → `Ludovicus`; `Prüfung` restored
+page 309 — catchword `klaͤret` and `7` excluded
+page 310 — `12. Dem Attila` — scan also reads "12." (same as p. 309's last entry); possibly a printer's duplicate or a misprint for "13.", kept as printed, FLAGGED
+page 310 — `x. Daß man` → `1. Daß man` — list numeral misread
+page 310 — `eine eigene Mx [I] follten` → `eine eigene M x ▢ ſollten`; `in der M. [O,` → `in der M. ▢,` — lodge symbol
+page 310 — `Reverfierung` → `Reverſierung`; `ze, ꝛc.` → `ꝛc. ꝛc.`
+page 310 — `Minoriten, Capuciner „ aber alle Franziſkaner; im Grunde ſeyen fo ſeye es auch 4` → `Minoriten, Capuciner, im Grunde ſeyen aber alle Franziſkaner; ſo ſeye es auch` — OCR line scramble and noise
+page 310 — `nur ein M. 0` → `nur ein M. ☉` — Order symbol
+page 310 — catchword `die` excluded
+page 311 — `Gbfervanz` → `Obſervanz`; `[O` / `[_]` / `[I` / `[]` → `▢` — lodge symbols
+page 311 — `Confoederation` → `Confœderation` — œ as printed
+page 311 — `ſtrengen Obſervanz waͤrtigen Unioniſten daͤrfe keinem aus⸗ oder Reformirten` → `ſtrengen Obſervanz daͤrfe keinem auswaͤrtigen Unioniſten oder Reformirten` — OCR line scramble
+page 311 — `niee 1 Mals 7` → `nie⸗` (catchword `mals:` excluded) — noise
+page 312 — `aus ihren 17 sichern. feyen auch ſie ausgez ſchloſſen` → `aus ihren ▢ ausſchließen, ſeyen auch ſie ausgeſchloſſen` — lodge symbol and word garbled
+page 312 — `briz | — derlich` → `bruͤderlich`
+page 312 — `Reerutierung` → `Recrutierung`
+page 312 — `den Bedacht 7 Fe ı|` → `den Bedacht auf Dicaſterien.` — italic words garbled to noise
+page 312 — `Seſſion in Athen.` → `13. Seſſion in Athen.`; `Erhielt Cato` → `14. Erhielt Cato` — **diary dates dropped by OCR**
+page 312 — `in emafel zieſ het` → `in Zweifel ziehet` — garbled
+page 312 — `23. ö Seſſlonen … Celfus Behaufung … der Os Gras den` → `23. Seſſionen … Celſus Behauſung … der ☉s Graden`
+page 312 — `b |` noise removed
+page 312 — `Dem A ſteren` → `Dem erſteren`
+page 312 — `11.17. * 12. 20. 13. gegen die 11. 12. 17. 19. 14.2.* 14.I.8.5. 8.17.` → `11.17.12.20.13., gegen die 11.12.17.19.14.2.14.1.8.5.8.17.` — numeric cipher normalized to scan; spurious asterisks
+page 312 — catchword `28.` excluded
+page 313 — `28. Beſuch von Attila, als die Reform der ſich unſern einbildet.` → `28. Beſuch von Attila, der ſich unſern ☉ als die Reform einbildet.` — **Order symbol dropped and line order scrambled**
+page 313 — `Initiation des Attila.` / `Brief von Ajax` → prefixed `—` diary dashes as printed; stray `1` removed
+page 313 — `Ueberlieferung …` → `30. Ueberlieferung …` — date misplaced by OCR
+page 313 — `iMelken ſie wohl` → `Merken ſie wohl` — drop-cap misread
+page 313 — `der Mx X K` → `der M x x x`
+page 313 — catchword `3.` excluded
+page 314 — `[UI ſey` → `▢ ſey`; `Addrefle` → `Addreſſe`
+page 314 — `ſich in Italien zur gagieren zu laſſen. MX x X en-` → `ſich in Italien zur M x x x engagieren zu laſſen.` — OCR line scramble
+page 314 — `konnten` → `koͤnnten`; `eine neue [O]` → `eine neue ▢`; `einer eigenen OJ` → `einer eigenen ▢`
+page 314 — `aufden` → `auf den`; `bald1` → `bald`; pipe noise removed
+page 314 — catchword `8.` excluded
+page 315 — `9. Dem Tamerlan` → `8. Dem Tamerlan` — **numbering error**: OCR read "8." as "9.", duplicating the next item's number
+page 315 — `Lo‚eale` → `Locale`; `Ceifus` → `Celſus`
+page 315 — `eine ordentliche U conſtituiert` → `eine ordentliche ▢ conſtituiert` — lodge symbol
+page 315 — `Jae ehender` → `Je ehender`
+page 315 — `Antworten ſie mir bald, dieſes alles geſchehen kann. ob, und wann` → `Antworten ſie mir bald, ob, und wann dieſes alles geſchehen kann.` — OCR line scramble
+page 315 — `| Eleufis … a ” j Sa` → `Eleuſis`; noise removed
+page 315 — `Sa` → `36.` — **letter number dropped/garbled**
+page 315 — `S..d,` → `S. d.`; signature `U` and catchword `gu⸗` excluded
+page 316 — `den 4.8.18. 20.4. 19. 8.13.` → `den 4.8.18.20.4.19.8.13.` — cipher normalized
+page 316 — `heidel bergiſche` → `heidelbergiſche`; `ſich5 vorſtellen` → `ſich vorſtellen`; `den Je3 fasten` → `den Jeſuiten`; `gedfnet` → `geoͤfnet`; `aufdas` → `auf das`
+page 316 — `dann wire alſo die Univerfität` → `dann waͤre alſo die Univerſitaͤt`; `Low` → `Loͤw`
+page 316 — `Mio find noch gaͤhling` → `Alſo ſind noch gaͤhling` — misread
+page 316 — `Jeluitismus` → `Jeſuitismus`; `N` noise removed; catchword `ohne` excluded
+page 317 — `Prevention anzuhbren` → `Prævention anzuhoͤren`
+page 317 — Tacitus quotation (Agricola 2) — OCR line-scrambled (`timum` displaced, `ulim`, `inguilitiones`, `fi`); transcribed from scan as printed (ſ in Latin as printed). Not checked against a critical edition, FLAGGED as unverified
+page 317 — `Der Miniſterv.—-— ſoll ſich nur bey a Obriſt St.` → `Der Miniſter v. —— ſoll ſich nur bey Herrn Obriſt St.` — **"Herrn" dropped**, garbled to "a"
+page 317 — `Gabler ift,` → `Gabler iſt.`
+page 317 — `empfiehlt ſich ihnen und gnaͤdigen Frau` → `… ihnen und der gnaͤdigen Frau` — **dropped word "der"**
+page 317 — `Hleuſis` → `Eleuſis`; signature `U 2` (OCR `42`) and catchword `37.` / `der` excluded
+page 318 — `DE | | |` noise removed
+page 318 — `intereſſlerter` → `intereſſierter`
+page 318 — `ungleich 190 ſind` → `ungleich mehr ſind` — **word misread as numeral**
+page 318 — `Beloh-⸗nung`, `Abe ſichten`, `Bes I lohnung` → joined
+page 318 — `erſten Eindruck regiert wird, Handlungen verkannt werden. und die beſten` → `… regiert wird, und die beſten Handlungen verkannt werden.` — OCR line scramble
+page 318 — Italian verse: `é Theatro a fe ſteſſa … e ficura … del volgo ſpettata laura non cura` → `é Theatro á ſe ſteſſa / e placida e ſicura / del volgo ſpettata l'aura non cura.` — transcribed as printed; FLAGGED unverified against a critical edition (likely Metastasio; "ſpettata" may be a misprint for "spettator")
+page 318 — `Wenn ſte` → `Wenn ſie`; catchword `dieſe` excluded
+page 319 — `abgendthigte` → `abgenoͤthigte`
+page 319 — `Victrix cauſſa Diis placuit, fe victa Catoni.` → `… ſe victa Catoni.` — Lucan, Pharsalia I.128; print has "ſe" (standard text "sed"), kept as printed, FLAGGED
+page 319 — `konnen` → `koͤnnen`; `Die [I ſollte` → `Die ▢ ſollte`
+page 319 — `todt ‚gejagt >` → `todt geſagt:` — misread
+page 319 — catchword `ſichert` excluded
+page 320 — `todtlich` → `toͤdtlich`; `Hleuſis` → `Eleuſis`
+page 320 — `Atlienienſibus` → `Athenienſibus`; `frey babe!` → `frey habe,`; `Uluminaten` → `Illuminaten`; `gebſt` → `nebſt`
+page 320 — `Die Rede des Nah | Lulſus` → `Die Rede des Raymundus Lullus` — **name garbled**
+page 320 — `der Eifer unſerer Leute u angefacht werde` → `… Leute dadurch angefacht werde` — **dropped word**
+page 320 — `Sprache ; n ei⸗ = nem ene Iten. | er i ne` → `Sprache, trotz einem Hierophanten.` — **phrase garbled to noise**
+page 320 — `am u. Adarpahafcht konnten … werben … erkern … Te` → `am 1. Adarpahaſcht koͤnnten … werden … erſtern … lei⸗` (catchword `det.` excluded)
+page 321 — `gır det.` → `det.` — page-number noise
+page 321 — `konnte` → `koͤnnte`; `Aleibiades:` → `Alcibiades`; `wenisftens` → `wenigſtens`; `frxMx` → `fr x M x`
+page 321 — `etwas zu Stande kommen. könnte v. g. bis 1 nieren, einM Solcher den B. Strommer dispo- zu werden.` → `etwas zu Stande kommen. Solcher koͤnnte v. g. bis dahin den B. Strommer diſponieren, ein M x zu werden.` — **OCR line scramble; "dahin" dropped, abbreviation "M x" truncated**
+page 321 — `es wicht` → `es nicht`; `The:ren` → `Thoren`
+page 321 — `Athenienfibus`; `addrefert find` → `addreſſiert ſind`; catchword `die` excluded
+page 322 — `wili` → `will`; `Befchleunigung` → `Beſchleunigung`; `#`, `|`, `I`, `!`, `ji`, `N)`, `?`, `T`, `12`, `1` margin noise removed
+page 322 — `An dieſenTag d` → `An dieſen Tag`; `wo die Dit an⸗1langt` → `wo die Poſt anlangt` — misread
+page 322 — `Der e vird allzeit an Ne addreſſiert` → `Der Brief wird allzeit an denjenigen addreſſiert` — **two words garbled**
+page 322 — `A alternieren ſte in dem Briefe geld` → `ſo alternieren ſie in dem Briefgeld`; `V. g.` → `v. g.`; `05 drittemal` → `das drittemal`; `Calla` → `Caſſa`
+page 322 — `ſo habe ich auch einige . 3 ı außerordentliche „ keinen Verzug lei been zaͤllen` → `ſo habe ich auch einige Erleichterung. 6. In außerordentlichen, keinen Verzug leidenden Faͤllen` — **word "Erleichterung" and item number "6." dropped; line garbled**
+page 322 — `waͤre es 15 wenn ſich die um Poſtzeit verſammeln Areopagiten alle Tag wollten` → `waͤre es gut, wenn ſich die Areopagiten alle Tag um Poſtzeit verſammeln wollten` — garbled/scrambled
+page 322 — `' Dnidurch würde2 aner Ge ſchaͤft` → `Dadurch wuͤrde unſer Geſchaͤft`; `iſtdie` → `iſt die`; catchword `Das` excluded
+page 323 — printed page number reads "213" (misprint for 313); page numbers excluded from text anyway
+page 323 — `Das lrſte „` → `Das erſte,`; `Récrutierung` → `Recrutierung`; `konnen`/`founten`/`konnten` → `koͤnnen`/`koͤnnten`
+page 323 — `ver ſchwinden` → `verſchwinden`; `Mühe nicht verdruͤßen; Laſſen ſie ſich dieſe` → `Laſſen ſie ſich dieſe Muͤhe nicht verdruͤßen;` — line scramble
+page 323 — `das 5‚Item` → `das Syſtem`; `v. g, Augsburg, Regenſpurg, Salzburg, . ꝛc. ꝛc.` → `v. g. Augsburg, Regenſpurg, Salzburg, Landshut ꝛc. ꝛc.` — **dropped place-name "Landshut"**
+page 323 — `d ieſem` → `dieſem`; `kreguentieren` → `frequentieren`; `Ju Erzerum` → `In Erzerum`
+page 323 — `wollte ich aufern: deutliche Progreſſen` → `wollte ich außerordentliche Progreſſen` — misread
+page 323 — `wenn ich wesen mir … einflchtsvollen … 5geſchaͤtzten 5 „„ „und N 3 2 die ganze` → `wenn ich zweyen mir … einſichtsvollen … geſchaͤtzten Cavalieren, G = = = und N = = die ganze` — **"Cavalieren" and redacted initials G/N garbled**; redaction preserved
+page 323 — `eröfnen wir de. Ich wii,aber` → `eroͤfnen wuͤrde. Ich will aber`; catchword `ein⸗` is also line-end text here (kept as hyphenated page-end)
+page 324 — `einhollen,` → `hollen,` (`ein⸗` ends p. 323); `8`, `\`, `|`, `1`, `0`, `i`, `h`, `*` margin noise removed
+page 324 — `ob fie nichts dagegen einzuwenden haben.` — OCR split `haben.` out of order; restored
+page 324 — `x. Bekommen wir Edelleuke` → `1. Bekommen wir Edelleute`
+page 324 — `neue Peiſo nen` → `neue Perſonen`
+page 324 — `3. Würde Tamerlatı` → `5. Wuͤrde Tamerlan` — **numbering error** (OCR "3." for printed "5.")
+page 324 — `Erzer:um` → `Erzerum`; `fehr eftimnierte` → `ſehr æſtimierte`; `autreffen wurde` → `antreffen wuͤrde`
+page 324 — `hödjtens benöthigt, und 10auch:> 5 | gon den Iuminaten.` → `hoͤchſtens benoͤthigt, und ich auch: ich brauche aber noch mehr ihren Aufſatz und Einrichtung von den Illuminaten.` — **a full printed line ("ich brauche aber noch mehr ihren Aufſatz und Einrichtung") dropped by OCR**
+page 324 — `1 5 … LA 0' en a „ ,` → `1149.` — **date year dropped**, noise; catchword `40.` excluded
+page 325 — `‘`, `i`, `|`, `—`, `e` noise removed
+page 325 — `fie, daß Loroaſter gehörig beſchaͤf⸗|tiget,Machen` → `Machen ſie, daß Zoroaſter gehoͤrig beſchaͤftiget,` — drop word displaced; name misread
+page 325 — `Euelides` → `Euclides`; `Sed eaute.` → `Sed caute.`
+page 325 — `wird wiſſen warum. in einem andern Sed eaute. Marius Er hat einen Bruder, der Nexu ſteht.` → `Sed caute. Marius wird wiſſen warum. Er hat einen Bruder, der in einem andern Nexu ſteht.` — line scramble
+page 325 — `bheurathet. Nathen fie auch dieſes alen` → `heurathet. Rathen ſie auch dieſes allen`
+page 325 — `18.14.10. f. 8.17.` → `18.14.10.5.8.17.,` — cipher digit misread as "f."
+page 325 — `moͤglich ;` → `moͤglich,`; `Univerfität`; `konnen` → `koͤnnen`; catchword `er` excluded
+page 326 — `eigend` → `eigends` — as printed
+page 326 — `3.12. 17. 2.`; `hie ruber eſt, hune tu Romane caveto` → `hic ruber eſt, hunc tu Romane caveto` — Horace (Sat. I.4.85, standard text "niger"); print reads "ruber", kept, FLAGGED
+page 326 — `ergeben wills` → `ergeben will`; `ſteigenfie` → `ſteigen ſie`; `Fodecungen` → `Foderungen`
+page 326 — `Hie ſtudium` → `Hic ſtudium`
+page 326 — `2 1. 12. 6. 8. 13. 8.3.8. 17.` → `21.12.6.8.13.8.3.8.17.`; `vom M. (O iſt` → `vom M. ☉ iſt`
+page 326 — `nehmgt` → `nehmt`; `konnt` → `koͤnnt`; `Unternehmun gen` → `Unternehmungen`
+page 326 — `koͤnnnen` — triple "n" appears to be in the print; kept, FLAGGED; catchword `von` excluded

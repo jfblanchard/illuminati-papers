@@ -125,3 +125,97 @@ page 112 — `Gelegenheit gegeben = beit,` → `Gelegenheit gegeben haben.` — 
 page 112 — `menſcheufreundliche` → `menſchenfreundliche` — n/u misread
 page 112 — `um mn Endzweck` → `um ſeinen Endzweck` — word garbled
 page 112 — `23.` (foot of page) → (removed) — catchword
+page 113 — `| 28: \ Ob er alles das ges naueſt` → `23. Ob er alles das genaueſt` — question number misread; noise
+page 113 — `feiner, Zeit` → `ſeiner Zeit` — misread; spurious comma
+page 113 — `285 Ob er demſelben` → `25. Ob er demſelben` — misread
+page 113 — `bendthigten` → `benoͤthigten` — misread
+page 113 — `fogleich` → `ſogleich` — misread
+page 113 — `Zum Beſten des Dig dens ganz gerne:` → `Zum Beſten des Ordens ganz gerne.` — garbled
+page 113 — (missing) → `Ad 25. Ja!` — answer 25 silently omitted by OCR
+page 113 — `Ad 26. … anſehe, |» nehme` → `Ad 26. … anſehe, ſo` — "ſo" lost; "nehme" is the catchword
+page 114 — `| 27. | Da er bis auf ges ſetzten Grad, wie im nicht` → `27. Da er bis auf geſetzten Grad, wie ihm` — "ihm" misread; "nicht" belongs to the answer column
+page 114 — `ob zuweilen aus Mangel` → `ob nicht zuweilen aus Mangel` — "nicht" displaced (see above)
+page 114 — `konnte bes fohlen` → `koͤnnte befohlen` — umlaut dropped (subjunctive); spurious "s"
+page 114 — `wiſſen. |` / `wohl` → `wiſſen.` / (removed) — noise; "wohl" is the catchword
+page 115 — `08 unter der Zeit` → `ob er unter der Zeit` — garbled; "er" dropped
+page 115 — `28:` → `28.` / `| | ZUR 209,` → `29.` — misread and noise
+page 115 — `Di.ieſes` → `Dieſes` — noise
+page 115 — `(L. S.) Franeiſcus Xaverius B = > ? J U.` → `(L.S.) Franciſcus Xaverius B = = / J. U. C.` — misreads; redaction kept as printed; "J. U. C." (Juris Utriusque Candidatus) truncated
+page 116 — `xo6 XVIII.` → `XVIII.` — page number fused
+page 116 — `I ſtes … Handfchrift` → `1ſtes … Handſchrift` — misread
+page 116 — `Men ſuche … in den ( zu bringen` → `Man ſuche … in den ☉ zu bringen` — ☉ (Order) mangled to "("; decorative initial M-a misread
+page 116 — `Paaren` → `Waaren` — W/P misread
+page 116 — `andern Os Bruder` / `der Os Calle` → `andern ☉s Bruder` / `der ☉s Caſſæ` — ☉ mangled to "O"; "Caſſæ" garbled
+page 116 — `per Protectionem fui Patroni` → `per Protectionem ſui Patroni` — ſ/f in Latin
+page 116 — `zur Bereicherung. der dritte` → `zur Bereicherung, der dritte` — punctuation
+page 116 — `Ztes 5` → `3tes` — misread; noise
+page 116 — `wit Monatheiligen. Ates` → `mit Monatheiligen.` — misread; "4tes" is the catchword
+page 117 — `io? Ates` → `4tes` — garbled page number "107" and ordinal
+page 117 — `ſchreiben konnen` → `ſchreiben koͤnnen` — umlaut dropped
+page 117 — `Caflier` → `Caſſier` — ſſ misread
+page 117 — `Beſchreibnng` → `Beſchreibung` — the scan itself appears to print "Beſchreibnng" (turned u); normalized here — flag: possibly a printer's error to restore as printed
+page 117 — `By" ſogenannte … a bung` → `Dieſe ſogenannte … Beſchreibung` — decorative initial "D" + "ieſe" garbled; noise "a"
+page 117 — `Auffaͤtze` → `Aufſaͤtze` — f/ſ (content-changing: "Aufſaͤtze" = essays)
+page 117 — `damit, wenn` → `damit,` — "wenn" at foot is the catchword
+page 118 — `Entwurf 10 einem geheimen Schloß` → `Entwurf zu einem geheimen Schloß` — "zu" misread
+page 118 — `kanu` / `Hanbſchrift` → `kann` / `Handſchrift` — misreads
+page 118 — `OrdensChiffre` → `Ordens⸗Chiffre` — hyphen dropped
+page 118 — `a9 eingegeben; das sy Mittel zur Abe de` → `a) - - - - - - - - - - eingegeben, das beſte Mittel zur Abortierung.` — badly garbled; the dash run (standing in for cipher text) restored as printed
+page 118 — `b)--- = - ----` → `b) - - - - - - - - - -` — dash run normalized
+page 118 — `e) Recept zum Aqua doffana.` → `c) Recept zum Aqua doffana.` — e/c misread; "doffana" kept as printed (checked at 400 DPI; ff ligature, i.e. Aqua Tofana)
+page 118 — `4.` (foot) → (removed) — catchword
+page 119 — `. ae | Drey Recepte … | 2) zu einer` → `4. Drey Recepte … a) zu einer` — noise; item letter misread
+page 119 — `b) und >` / `o ad procurandum` → `b) und` / `c) ad procurandum` — noise; item letter lost
+page 119 — `geſchrieben, |` → `geſchrieben.` — punctuation/noise
+page 119 — `. Thee Species ad precurandum abortum` → `5. Thee Species ad procurandum abortum` — number lost; e/o misread
+page 119 — `ingredlentien` → `ingredientien` — misread
+page 119 — `Gelcher` → `welcher` — misread
+page 119 — `worauf das erste . heißt` → `worauf das erſte Recept heißt` — word "Recept" dropped
+page 119 — `Herbæ, qua habent` → `Herbæ, quæ habent` — æ dropped
+page 119 — `* 24 9` → `7.` — garbled section number
+page 119 — `Auomodo … alıquod` → `Quomodo … aliquod` — misreads
+page 119 — `Mafbine,` → `Maſchine.` — misread
+page 119 — `8.` (foot) → (removed) — catchword
+page 120 — `Das erſte fur` → `Das erſte fuͤr` — umlaut dropped
+page 120 — `Pethſchaften abzudrucken 4 welches` → `Pethſchaften abzudrucken, welches` — comma misread as "4"
+page 120 — `furorem uterinum,` → `furorem uterinum.` — punctuation
+page 120 — `von Hut dert und etlich dreyßige, theils fürftfich ,` → `von Hundert und etlich dreyßig, theils fuͤrſtlich,` — garbled
+page 120 — `XX.` (foot of p.120) → (removed) — catchword
+page 121 — `X11` / `Gedanken | über` → (removed) / `Gedanken uͤber` — page number "111" garbled; noise
+page 121 — `De Vorhang aufzuheben, und dahinterzu© tretten, das ift all` → `Den Vorhang aufzuheben, und dahinterzutretten, das iſt all` — decorative initial; noise
+page 121 — `War` → (removed) — garbled catchword "war⸗"
+page 122 — `ſo eilfertig mit euren Urthei⸗ len ſeyn. e Der Einwurf` → `… Urtheilen ſeyn. Der Einwurf` — noise "e"
+page 122 — `iſt ſo wichtig 1 ;` → `iſt ſo wichtig nicht;` — "nicht" garbled to "1" (meaning-reversing)
+page 122 — `ſagt mir eins mal` / `die feinigen` → `ſagt mir einmal` / `die ſeinigen` — hyphen-s; ſ/f
+page 122 — `gegen den Ehemänn . der` → `gegen den Ehemann auf, der` — "auf" dropped
+page 122 — `Welb` → `Weib` — misread
+page 122 — `Verfuͤhrer e ? Gegen` → `Verfuͤhrer aufopfert? Gegen` — word "aufopfert" dropped
+page 122 — `8 haltſamen Freuden der Liede verliert? — Une ſere` → `haltſamen Freuden der Liebe verliert? — Unſere` — noise; b/d misread
+page 122 — `Halten ihre Strafen` → `halten ihre Strafen` — capitalization
+page 122 — `Selbſtmdͤrder` / `quagalvolles` → `Selbſtmoͤrder` / `quaalvolles` — misreads
+page 122 — `über ben Schrecken` → `uͤber den Schrecken` — b/d misread
+page 122 — `zu⸗` / `*` → (removed) — catchword and noise
+page 123 — `Auſtrengung` → `Anſtrengung` — n/u misread
+page 123 — `gewiſ— ſen` / `ru— higen` → `gewiſſen` / `ruhigen` — hyphenation artifacts
+page 123 — `eben fo wunderbar zu fas gen: der Meuſch` → `eben ſo wunderbar zu ſagen: der Menſch` — misreads
+page 123 — `ungehdrig` → `ungehoͤrig` — misread
+page 123 — `nicht wies der aufzuhelfen` → `nicht wieder aufzuhelfen` — spurious "s" from hyphen
+page 123 — `zu Grunde richtet, Vergebens` → `zu Grunde richtet. Vergebens` — punctuation
+page 123 — `H Menſch` → (removed) — signature mark "H" and catchword
+page 124 — `von feinen Kräften nicht das geringſte eine flogen kann` → `von ſeinen Kraͤften nicht das geringſte einfloͤßen kann` — garbled
+page 124 — `ſich zu entdeiben ſey` → `ſich zu entleiben ſey` — misread ("entleiben" = to take one's own life)
+page 124 — `umgeht.)` → `umgeht. *)` — footnote marker misread
+page 124 — `Aum.` → `Anm.` — misread
+page 124 — `5) Konnte nicht etwa auch feine Schwägerinn` → `*) Konnte nicht etwa auch ſeine Schwaͤgerinn` — footnote asterisk misread as "5"
+page 124 — `2. Ein` → (removed) — catchword
+page 125 — `145 2. Ein Brief an ( 5` → `2. Ein Brief an (          )` — page number "115" fused; the printed blank parentheses (recipient's name omitted) restored
+page 125 — `Bon zwackiſcher Hand = und Unterſchrift` → `Von zwackiſcher Hand⸗ und Unterſchrift` — misread
+page 125 — `den 30, Octob. 1727.` → `den 30. Octob. 1777.` — year misread (1727 → 1777); a meaningful date error
+page 125 — `Mi iſts beſſer` → `Mir iſts beſſer` — decorative initial M; "r" dropped
+page 125 — `übers zeug'` → `uͤberzeug'` — spurious "s"
+page 125 — `daß ich dein wahrer Freund |` → `daß ich dein wahrer Freund` — noise
+page 125 — `Zwackh M-ppra,` → `Zwackh m. ppra.` — "manu propria" abbreviation (superscript m)
+page 125 — `HBeſtelle alles übrige noch Beygeſchloſſenes Der Ring` → `Beſtelle alles uͤbrige noch Beygeſchloſſene. Der Ring` — noise; ending/period misread
+page 125 — `Von zwackiſcher Handſchriftimo. Iſt` → `Von zwackiſcher Handſchrift. / 1mo. Iſt` — fused heading and "1mo."
+page 125 — `mein letz ter Befehl` → `mein letzter Befehl` — split word
+page 125 — `mein KorH 2 pez` → `mein Koͤr⸗` — signature mark "H 2" and catchword "per" fused into the text
