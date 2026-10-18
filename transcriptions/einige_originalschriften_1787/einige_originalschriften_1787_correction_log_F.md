@@ -1,0 +1,112 @@
+# Einige Originalschriften (1787) — Phase 3 Correction Log, Agent F (PDF pp. 365–428)
+
+AI-assisted first pass (Claude Opus 5.5, 2026-10-18), by direct visual comparison of 200-DPI
+renders of the scan against the raw OCR text layer. Provisional until human review.
+f/ſ (long-s) fixes are applied silently. Printed page numbers are recorded as
+`[printed p. N]`; catchwords and signature marks are dropped. Paragraphs are reflowed
+and page-internal line-end hyphens joined; a word split across a page break is kept
+with `⸗` at the page end.
+
+- page 365 — "(Os." → "☉s." — ☉ symbol (der Orden) misread
+- page 365 — "[" → "▢" — Loge symbol misread
+- page 365 — "unſer O" → "unſer ☉" — ☉ symbol misread
+- page 365 — "Füße ich" → "kuͤße ich" — k misread as F
+- page 365 — "Erxzerum den 30," → "Erzerum den 30." — spurious x; comma for period
+- page 365 — "1130." → "1150." — digit misread
+- page 365 — "Vfriefe" → "Briefe" — heading misread
+- page 365 — (omitted) → "Sp. A. A. S. d." — salutation line dropped by OCR
+- page 365 — "bat an mich" → "hat an mich" — h misread
+- page 365 — "32" (signature mark) and "ten" (catchword) dropped — not text
+- page 366 — "3 neue Candidaten" → "5 neue Candidaten" — digit misread
+- page 366 — "ſtricken" → "ſtricten" — c/k misread
+- page 366 — "then ſeyn" → "Athen ſeyn" — initial A dropped
+- page 366 — "Iuminaten⸗Grad" → "Illuminaten⸗Grad" — ll dropped
+- page 366 — "über Z Tag" → "uͤber 8 Tag" — digit misread
+- page 366 — "mehr au" → "mehr an" — n misread
+- page 366 — "Geis te" → "Seite" — S misread; hyphen join
+- page 367 — "IT. Abenmeh" → "11. Abenmeh" — digits misread
+- page 367 — "2% ſchaͤtze" → "Ich ſchaͤtze" — decorated initial I misread
+- page 367 — "ichin" → "ich in" — word spacing
+- page 367 — "keine [" → "keine ▢" — Loge symbol misread
+- page 367 — catchword "nie⸗" dropped
+- page 368 — "andre U]" / "National [7" / "conſtituierten [[]" / "National [U]" → "▢" — Loge symbol misread (4×)
+- page 368 — (stray ▢ printed above line "um gaͤnzlich frey…" at right margin) — omitted as a misplaced type/printing artifact; unverified
+- page 368 — "Vork" → "York" — Y misread
+- page 368 — "alle 34 Jahre" → "alle 3-4 Jahre" — dropped hyphen between numerals
+- page 368 — "Charite" → "Charité" — accent dropped
+- page 368 — "nicht unter )" → "nicht immer)" — misread word
+- page 368 — "franzdfifcher" → "franzoͤſiſcher" — oͤ misread as d
+- page 368 — "Diſtrick" → "Diſtrict" — c/k misread
+- page 368 — catchword "allen⸗" dropped; spurious margin noise "U", "|1" removed
+- page 369 — "Brief au den" → "Brief an den" — n misread
+- page 369 — "ichdenn" → "ich denn" — word spacing
+- page 369 — "handverſchenQuartals-Courier, der Rauch meine" → "handverſchen Quartals-Courier, der auch meine" — spacing; spurious R
+- page 369 — "dex Briefe" → "der Briefe" — misread
+- page 369 — (omitted) → "XL." — section numeral dropped by OCR
+- page 369 — "Sp. AReS: u" → "Sp. A. A. S. d" — garbled salutation
+- page 369 — "1 Her folgt" → "Hier folgt" — decorated initial misread
+- page 369 — "gauz" → "ganz" — n/u misread; margin noise "]", "Di", "11", "|" removed
+- page 370 — "von Cells," → "von Celſus," — name partly damaged in print (letters "el" faint), confirmed by "Celſus" later on same page
+- page 370 — "unſerm O" / "derley Os" / "dem(O" → "☉" — ☉ symbol misread (3×)
+- page 370 — "darinn hee ſeyn" → "darinn enthalten ſeyn" — word garbled
+- page 370 — "die [ St. Theodor Torben auch das geheime Kapitel 7 ſich" → "die ▢ St. Theodor, ſondern auch das geheime Kapitel ſelbſt ſich" — ▢ misread; "ſondern" and "ſelbſt" garbled
+- page 370 — "Ich erwarte dar aer ſobald" → "Ich erwarte daruͤber, ſobald" — garbled word
+- page 370 — "ernennen woll⸗ Anbey" → "ernennen wollten. Anbey" — "ten." dropped
+- page 370 — "die e der Pro⸗" → "die Verwaltung der Pro⸗" — word dropped
+- page 371 — whole page of OCR noise (bleed-through of the fold-out table read as a garbled table) → marked as blank verso
+- page 372 — fold-out table (OCR almost entirely scrambled across columns; most name cells garbled or lost, e.g. "gew. Mar. Baader" → "Ferd. Mar. Baader", "Ch. d'r." → "Ch. d'Or.", "Meiste 0 Rebner" → "Meiſter. 2. Redner.", "Kurſurſann" → "Kurfuͤrſtinn", "Staot⸗kammerer" → "Stadtkammerer") → re-transcribed in full from the 400-DPI scan as a markdown table
+- page 372 — Raym. Lullus row: "Meiſter." / "2. Redner." are smudged in print; read from context (cf. "1. Redner." above) — uncertain
+- page 372 — Mœnelaus remark: first word largely lost in print; "[Mit]" supplied by analogy with the Theſeus remark — uncertain
+- page 372 — Livius / Fr. W rows, Grad: printed abbreviation faint ("Ge." / "Gef."), read as "Geſ." (Geſelle?) — uncertain
+- page 372 — Theſeus: name partly blotted in print ("Th..eus"); reading agrees with OCR
+- page 372 — "Gonner" (column head) printed with damaged first letter; kept as legible ("Goͤnner" intended)
+- page 373 — "367" → printed p. "361" — page number misread
+- page 373 — "in Os Sachen" → "in ☉s Sachen" — ☉ misread
+- page 373 — "Pͤzpilo ſchreibt" → "Philo ſchreibt" — garbled name
+- page 373 — "Meiſter er Stuhl" → "Meiſter „vom Stuhl" — "vom" dropped
+- page 373 — "Royal Vork" → "Royal York"; "[J." / "ganze [in" → "▢." / "ganze ▢ in" — misreads
+- page 373 — "Grade." → "Grade.“" — closing quote dropped
+- page 373 — catchword "XLII." dropped
+- page 374 — "XL:" → "XLII." — section numeral misread
+- page 374 — "53»" → "55." — number misread
+- page 374 — "a ich" → "Da ich" — decorated initial dropped
+- page 374 — "bendthiget" → "benoͤthiget"; "Protocolien" → "Protocollen" — misreads
+- page 374 — "die Vfiefe" → "die Briefe" — misread
+- page 374 — "des cells an alle Aleop-agiten" → "des Celſus an alle Areopagiten" — name and word garbled
+- page 374 — catchword "Ich" dropped
+- page 375 — OCR noise (upside-down text read as gibberish, e.g. "uayluaıg", "Aayındfg") → marked blank verso
+- page 376 — upside-down table fragment "I. Tab. ad pag. 163." — OCR garbage; re-transcribed after rotating the 400-DPI render 180°
+- page 376 — "Deugen" as printed (place name; possibly Teugn near Kelheim — not verified); "Braͤuſtatt", "Baͤckentochter" as printed
+- page 377 — OCR noise from bleed-through → marked blank verso
+- page 378 — "Tab. II. ad eg. 885" → "Tab. II. ad pag. 163." — misread; fragmentary column heads re-transcribed ("Feinde „Patro⸗ nen, ſolche Goͤnner" scrambled across columns); "[Gr]af" and "[… ſein ge]woͤhnlicher" are partly cut off in the scan — bracketed letters are conjectural
+- page 379 — "Scutenieren" → "Soutenieren" — o misread as c
+- page 379 — "Phi- 10 thut" → "Philo thut" — "lo" misread as "10"
+- page 379 — "des Os auf" / "der O da⸗durch" → "des ☉s auf" / "der ☉ dadurch" — ☉ misread
+- page 379 — "groſſe Thaten ſtaͤtt" → "groſſe Thaten ſtatt" — spurious umlaut
+- page 379 — catchword "bey" dropped
+- page 380 — "den Cellus" → "den Celſus" — misread
+- page 380 — "der (O ſich" → "der ☉ ſich" — ☉ misread
+- page 380 — "Unordnungen. Meine" → "Unordnungen. — Meine" — dash dropped
+- page 380 — "von der [I]" → "von der ▢" — Loge symbol misread
+- page 380 — "unterflüßen" → "unterſtuͤtzen"; "plychologiſchen" → "pſychologiſchen" — misreads
+- page 380 — catchword "all" dropped
+- page 381 — "4 i zu fpeeulativ" → "all zu ſpeculativ" — first letters lost at bound edge; read as "all" from catchword on p. 380
+- page 381 — "von dem O" / "des Os" (2×) → "☉" / "☉s" — ☉ misread
+- page 381 — "ſt nur" / "neiſten" / "ige" → "iſt nur" / "meiſten" / "vernuͤnftige" — initial letters cut at gutter
+- page 381 — "Benmeh 150" → "Benmeh 1150." — digit dropped
+- page 381 — "Ng." → "NB." — misread
+- page 381 — "7" → "57." — number misread
+- page 381 — "daß Cellus," → "daß Celſus," — misread; catchword "theils" dropped
+- page 382 — right margin cut off in scan (gutter); line-end letters supplied from context (e.g. "um", "daß", "Anfang", "und", "wollen", "Philo", "kann", "dermalen", "Maurer-", "Maurerey", "was", "eine", "machen", "man", "naͤhere", "mache.", "vom ☉", "im", "entſchloſſen", "anzunehmen,", "London") — reliable from context, not visible
+- page 382 — "Capitw, laren" → "Capitularen"; "Syftem iſt Phile" → "Syſtem iſt Philo" — misreads
+- page 382 — "vielleicht der O" / "dem O" (3×) / "vom El]" / "des (Os" → "☉" — ☉ misread
+- page 382 — "Ich Wulle alſo" → "Ich wollte alſo" — garbled word
+- page 382 — "eingeflochten" → "eingeflochten" kept; "alleAufſchluͤſſe" → "alle Aufſchluͤſſe" — spacing
+- page 382 — catchword "ſen" dropped
+- page 383 — "en und angeloben" → "ſen und angeloben" — first letter lost in gutter; continues "entſchlie⸗" from p. 382 (catchword "ſen")
+- page 383 — "den O als" / "all übrigen Os" / "dem (Q auch" → "☉" — ☉ misread (3×)
+- page 383 — gutter-clipped initials restored: "Fuͤhrer", "Angelegenheiten", "Vorhinein", "Haben", "vorbereitet", "darauszumachen", "bin", "erhalten", "Quo", "Perſonal" — first letters lost at bound edge
+- page 383 — "Juo effectu 2" → "Quo effectu?" — misread
+- page 383 — "gehoͤrt nur ehuns" → "gehoͤrt nur fuͤr uns" — garbled
+- page 383 — catchword "der" dropped
+- page 384 — "habeichnoch" → "habe ich noch" — spacing; catchword "meine" dropped
