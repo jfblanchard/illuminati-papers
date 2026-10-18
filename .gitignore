@@ -28,3 +28,7 @@ Thumbs.db
 
 # generated: hermes activity stamp (central-planning post-commit)
 .hermes/activity.log
+
+# Claude premium-burn watchdog churn (429 relaunch-loop artifacts — not project work)
+.guardian_*.out.json
+.watchdog_last_launch_*.mark
