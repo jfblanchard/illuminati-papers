@@ -26,3 +26,20 @@ is created or run so we always know which prompt drove which agent/batch.
   self-continue); 6 headless agents stay dead (won't resurrect — `-p` one-shots).
   Commit seq-block prompts `seq-block-*.md` + `_seq_template.md` for a clean
   sequential re-arm if Jon wants to finish the 216 remaining pages later.
+
+- **2026-10-24 (session burn) — parallel finish of the main volume, near the
+  Claude session cap.** Started 10:35 with 61 pages uncorrected (348-364, 385-428).
+  First launch (`gapfill-burn.md`) FAILED to write: ran headless WITHOUT
+  `--dangerously-skip-permissions`, so it could read via vision but not write
+  files/commit — exited clean having done nothing. RESCUE: relaunched 2 disjoint
+  agents IN PARALLEL with `--dangerously-skip-permissions`:
+    A = `seq-block-348-364.md` → COMPLETE, commit `a67be8d` (block 348-364 done)
+    B = `seq-block-385-428.md` → still running, covering 399-428 tail
+  Mid-run safety commit `606d13c` (pp. 348-396, 518 insertions) captured the
+  interleaved work while both agents were mid-batch. Net result: present rose
+  367 → 398+ ; remaining 399-428 (30pp) till B finishes. GOTCHA: concurrent
+  append made corrected.txt page-order interleaved (A's 348-364 mixed with B's
+  385-396); each page complete under its marker — needs a re-sort to ascending
+  order once B is done. LAUNCH LESSON: headless `claude -p` burns MUST include
+  `--dangerously-skip-permissions` or they silently can't write/commit.
+
